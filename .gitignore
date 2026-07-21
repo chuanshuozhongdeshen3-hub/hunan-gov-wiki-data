@@ -5,3 +5,8 @@ __pycache__/
 .env
 .env.*
 secrets.json
+
+# Local RAG build products and resumable DeepSeek response cache
+gov-wiki/rag/
+gov-wiki/wiki/_meta/*.cache.jsonl
+gov-wiki/wiki/_meta/*.report.json
