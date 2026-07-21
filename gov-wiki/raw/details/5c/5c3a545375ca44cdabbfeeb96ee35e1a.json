@@ -1,0 +1,143 @@
+{
+  "code": 0,
+  "data": {
+    "acceptanceCondition": "1.地方安全播出责任单位将临时停播（传／机）请示逐级报送至省级广播电视行政部门审批。\n2.操作单位一般应提前至少 5 个工作日将申请材料报送至广播电视行政部门。\n3.申请材料中应包括：具体操作单位、申请事项原因、时间、涉及的节目（频率、频道、功率等）、可能造成的影响、影响范围、操作方案、应急措施、与上下游各相关播出单位协调情况、负责人、联系方式以及其他应当说明的情况等内容。\n4.无线发射转播台临时停机管理应符合以下规定：\n（1）地方转播中央广播电视节目，发射台发射功率在 50 瓦以上（不含）的发射机，需临时停机30天（不含）以上的，应提前7个以上工作日报至总局科技司批准；需临时停机30天（含）以内的，应提前2个以上工作日报至总局监管中心备案。\n（2）地方发射台转播地方广播电视节目或转播中央节目发射功率在 50 瓦（含）以下的发射机，需临时停机的，应提前5个以上工作日报至省局安播中心备案。\n（3）申请临时停机前，操作单位已做好与相关单位和部门的沟通协调。（4）临时停机申报材料应说明临时停机原因、起止日期和时间、涉及的节目及频率、影响范围、操作方案、应急措施等内容。\n5.《临时停播备案表》填写完整、按要求加盖公章。",
+    "according": "《广播电视安全播出管理规定》（总局令第62号）第二十一条  对技术系统定期进行例行检修，例行检修需要停播（传）广播电视节目的，应当将停播（传）时间报省、自治区、直辖市以上人民政府广播影视行政部门备案。",
+    "applicantDuty": "应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。",
+    "applicantPower": "依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。",
+    "approveLimit": "20",
+    "approveLimitExplain": "无",
+    "blbm": "湖南省广播电视局",
+    "commitmentLimit": "10",
+    "commitmentLimitExplain": "无",
+    "deptName": "广电部门",
+    "doScope": "全省",
+    "faqList": [
+      {
+        "createDate": 1625043557000,
+        "faqContent": "需要提交备案表的单位具体是哪些？",
+        "faqId": "1531158667cb4e07a278d2eade313ea8",
+        "isDelete": "N",
+        "isSzyy": "N",
+        "orderNum": 1.0,
+        "replyContent": "根据国家广播电视总局（原国家新闻出版广电总局）印发的《广播电视安全播出管理规定》，各类广播电视机构，在涉及到电视中心、广播中心、无线发射转播台、卫星广播电视地球站、光缆传输干线网、有线广播电视网、微波传输电路、IPTV集成播控平台、网络广播电视台的临时停播（传）时，都需要提交备案表。",
+        "unifyId": "5c3a545375ca44cdabbfeeb96ee35e1a",
+        "updateDate": 1668659564000
+      }
+    ],
+    "isCharge": "否",
+    "isIntermediaryServices": "无",
+    "isSpecialProcedure": "否",
+    "isonline": "是",
+    "lctList": [
+      {
+        "approveCode": "5c3a545375ca44cdabbfeeb96ee35e1a",
+        "approveId": "5c3a545375ca44cdabbfeeb96ee35e1a",
+        "createTime": 1558342127000,
+        "flowc": "approve/2019-05-20/1558342127153$$001.png",
+        "id": "dc0292fb4627460682b676e991caac51",
+        "isDelete": "0",
+        "isExchange": "Y",
+        "operateFlag": "N",
+        "updateTime": 1569830342000
+      }
+    ],
+    "materialList": [
+      {
+        "acceptStandard": "填写必须真实、齐全，法人签字，单位的盖公章",
+        "attachList": [
+          {
+            "attachCode": "000002",
+            "attachId": "626f9947dd87408ebc1fff383903a021",
+            "attachName": "省局备案表.doc",
+            "attachPath": "approve/2018-08-29/1535534672937$$省局备案表.doc",
+            "attachSize": 32768.0,
+            "attachType": ".doc",
+            "businessId": "91c5d2990de149d9a2a7cab503f01e4c",
+            "createTime": 1535534719000,
+            "isDel": "N",
+            "isDelete": "0",
+            "isExchange": "Y",
+            "isValid": "Y",
+            "modFlag": "N",
+            "operateFlag": "N",
+            "pdfPath": "N"
+          },
+          {
+            "attachCode": "000003",
+            "attachId": "50d6366e4d3442869ba1f819b222df97",
+            "attachName": "省局备案表.doc",
+            "attachPath": "approve/2018-08-29/1535534674017$$省局备案表.doc",
+            "attachSize": 32768.0,
+            "attachType": ".doc",
+            "businessId": "91c5d2990de149d9a2a7cab503f01e4c",
+            "createTime": 1535534720000,
+            "isDel": "N",
+            "isDelete": "0",
+            "isExchange": "Y",
+            "isValid": "Y",
+            "modFlag": "N",
+            "operateFlag": "N",
+            "pdfPath": "N"
+          }
+        ],
+        "bylaw": "《广播电视安全播出管理规定》\n第二十一条\n广播电视技术系统的检修、施工管理，应当符合下列规定：（一）对技术系统定期进行例行检修，例行检修需要停播（传）广播电视节目的，应当将停播（传）时间报省、自治区、直辖市以上人民政府广播影视行政部门备案。",
+        "commitWay": "网上现场都可提交",
+        "copiesNum": 1.0,
+        "createDate": 1625043557000,
+        "freeSubmission": "无",
+        "isDelete": "N",
+        "isMust": "必要",
+        "materialApproveType": "申请表",
+        "materialCode": "M431032046W000101",
+        "materialExplain": "内容包括：操作单位、操作类型、技术负责人、发生时间、发生时间、操作概述、报告单位",
+        "materialId": "91c5d2990de149d9a2a7cab503f01e4c",
+        "materialStandard": "纸质或电子",
+        "materialTitle": "临时停播（传/机）备案表",
+        "materialType": "复印件",
+        "pageformat": "A4",
+        "sourceChannel": "申请人自备",
+        "sourceexplain": "申请人自备",
+        "unifyId": "5c3a545375ca44cdabbfeeb96ee35e1a",
+        "updateDate": 1757668203000
+      }
+    ],
+    "minExplain": "四级标准说明：该事项已经实现全程网办，申请人可以通过网络提交和补正相关申请信息和材料，提交的材料全部为已验证信息，受理通过后直接进入办理程序，申请人可网上查询办理状态、咨询问题，作出审批决定后，申请人可以通过网上缴费后物流递送证书结果。整个办事过程无需到现场办理。",
+    "minSeq": "0",
+    "orgId": "768daa07316f4dcbb3b6cfc8b147015b",
+    "orgName": "湖南省广播电视局",
+    "processDescript": "依照流程图办理",
+    "quantitativeRestriction": "无行使数量",
+    "resultList": [
+      {
+        "approveCode": "5c3a545375ca44cdabbfeeb96ee35e1a",
+        "approveId": "5c3a545375ca44cdabbfeeb96ee35e1a",
+        "createTime": 1535534883000,
+        "extend": "png",
+        "fileName": "省局向总局报送的备案表.png",
+        "id": "b38c8cacc3a149e79eb50520e04e473e",
+        "isDelete": "0",
+        "isExchange": "Y",
+        "isNeed": "N",
+        "operateFlag": "N",
+        "resultChart": "approve/2018-08-29/1535534837363$$省局向总局报送的备案表.png",
+        "resultSampleName": "省局向总局报送的备案表",
+        "updateTime": 1569830342000
+      }
+    ],
+    "resultSampleName": "省局向总局报送的备案表",
+    "rightsCode": "431032046W00",
+    "rightsId": "e1fb21afaf864cedb2c6b8efe5d61544",
+    "schemeLevels": "省",
+    "serveObject": "法人",
+    "transactLevel": "四级标准",
+    "transactionFrom": "窗口办理^网上办理^快递申请",
+    "typeName": "其他行政权力",
+    "unifyId": "5c3a545375ca44cdabbfeeb96ee35e1a",
+    "unifyName": "例行检修需要停播（传）广播电视节目时间备案",
+    "ywCode": "01"
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

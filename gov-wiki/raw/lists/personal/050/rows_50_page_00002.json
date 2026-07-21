@@ -1,0 +1,514 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125047002",
+        "rightsId": "321b644f9f1e4b34ba8b37a30597e12f",
+        "transactLevel": "0",
+        "unifyId": "5064ebcf0aa244fd828f14babdccf9fb",
+        "unifyName": "一级注册消防工程师延续注册审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125047002",
+        "rightsId": "321b644f9f1e4b34ba8b37a30597e12f",
+        "transactLevel": "0",
+        "unifyId": "f57ffe11f329451cb3151d822220bc3c",
+        "unifyName": "一级注册消防工程师证章补办/更换",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131039000",
+        "rightsId": "fd2a6ca7f1704739b8f4651ff2b7294c",
+        "transactLevel": "0",
+        "unifyId": "vFK7EeeLRTehJ_I4iBzA8Q",
+        "unifyName": "注册计量师初始注册",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131039000",
+        "rightsId": "fd2a6ca7f1704739b8f4651ff2b7294c",
+        "transactLevel": "0",
+        "unifyId": "hRKQDObQRwKM5x6p3o57Nw",
+        "unifyName": "注册计量师延续注册",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131039000",
+        "rightsId": "fd2a6ca7f1704739b8f4651ff2b7294c",
+        "transactLevel": "0",
+        "unifyId": "RP8powCsTXSCQmrLUGdCIQ",
+        "unifyName": "注册计量师变更注册",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131039000",
+        "rightsId": "fd2a6ca7f1704739b8f4651ff2b7294c",
+        "transactLevel": "0",
+        "unifyId": "jsXburMPR9q5iJhIAHadjQ",
+        "unifyName": "注册计量师注销",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131039000",
+        "rightsId": "fd2a6ca7f1704739b8f4651ff2b7294c",
+        "transactLevel": "0",
+        "unifyId": "NKxE2tw_TK6n7JWHMcBw6A",
+        "unifyName": "注册计量师补证",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132037000",
+        "rightsId": "8794B3AA8A319492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "nDC5QhsqTViI0A4-liuWoA",
+        "unifyName": "广播电视播音员、主持人职业资格注册",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132037000",
+        "rightsId": "8794B3AA8A319492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "EPbjsX35Qgah9-ne0kaJ3g",
+        "unifyName": "广播电视播音员、主持人职业资格续展",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172029001",
+        "rightsId": "c34878166bdb43f9a93a075c4fed1d3e",
+        "transactLevel": "0",
+        "unifyId": "65e4abe786934325b1b0a12f19f5054b",
+        "unifyName": "执业药师首次注册",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172029002",
+        "rightsId": "ccd5f66284814f5b890736d082e86a6f",
+        "transactLevel": "0",
+        "unifyId": "d3d2f7f8ebd54be19272a1d14aa12688",
+        "unifyName": "执业药师延续注册",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172029003",
+        "rightsId": "24652fc09ff1455ea83cbec2dab2cba6",
+        "transactLevel": "0",
+        "unifyId": "7cafa22cccd3411883b2a655b8d62802",
+        "unifyName": "执业药师变更注册",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172029004",
+        "rightsId": "c093548440cf4b5ebaf30c80db1720ab",
+        "transactLevel": "0",
+        "unifyId": "c770ede39fed4300b37cc22cd4880fea",
+        "unifyName": "执业药师注销注册（依申请注销）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718016000",
+        "rightsId": "8794B3AA903C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6abed7b7733742c4ad2c8e4b940392b3",
+        "unifyName": "公路水运工程单位主要负责人、项目负责人、专职安全生产管理人员ABC证书申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718016000",
+        "rightsId": "8794B3AA903C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "imnUvXmVQfGfep2BBFrvQQ",
+        "unifyName": "公路水运工程单位主要负责人、项目负责人、专职安全生产管理人员ABC证书变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718016000",
+        "rightsId": "8794B3AA903C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "27f5685f39f34648a0e676d3fad5ad11",
+        "unifyName": "公路水运工程单位主要负责人、项目负责人、专职安全生产管理人员ABC证书复审延期",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718016000",
+        "rightsId": "8794B3AA903C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3c8ccb5f2c9945f5a07882bd9d3c8dc7",
+        "unifyName": "公路水运工程单位主要负责人、项目负责人、专职安全生产管理人员ABC证书注销",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718025000",
+        "rightsId": "f3233f56e3814ed298192e0c1c89cbc0",
+        "transactLevel": "0",
+        "unifyId": "HVTfaF0dQVmm1uCnIS21fQ",
+        "unifyName": "游艇操作人员适任证书发放",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000723013000",
+        "rightsId": "8794B3AA907E9492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "7229cd1bacbf423d86e1dccc9952758e",
+        "unifyName": "传统医学师承出师证书核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000723015000",
+        "rightsId": "8794B3AA90809492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "zjc2ocUTSGSDDLOGg1yW1A",
+        "unifyName": "对传统医学师承和确有专长人员申请参加医师资格考试的资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000725006003",
+        "rightsId": "8794B3AA90939492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "BtmOCnMCQomhsIokI2rpGg",
+        "unifyName": "其他非煤矿山、危险化学品、烟花爆竹、金属冶炼等生产经营单位主要负责人和安全生产管理人员的安全生产合格证初领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000725006003",
+        "rightsId": "8794B3AA90939492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "JZ3w7HbrSni5D_f_pJHm0Q",
+        "unifyName": "其他非煤矿山、危险化学品、烟花爆竹、金属冶炼等生产经营单位主要负责人和安全生产管理人员的安全生产合格证换证",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000725006004",
+        "rightsId": "8794B3AA90949492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "sTbDYes6RKOQI9it-pkVhQ",
+        "unifyName": "其他煤矿企业主要负责人、安全生产管理人员安全生产知识和管理能力考核合格证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208001",
+        "rightsId": "8794B3AA93459492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b5e8136938d5418d89f9abac027a9ba3",
+        "unifyName": "工程咨询（投资）专业技术人员职业资格考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208002",
+        "rightsId": "8794B3AA93469492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f9ae569cea7a42868cbf4caead76e0ed",
+        "unifyName": "注册建筑师考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208003",
+        "rightsId": "8794B3AA93479492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "678cfd85bcc54ae899ff5bbfc5c0de45",
+        "unifyName": "监理工程师考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208004",
+        "rightsId": "8794B3AA93489492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f067a1c973ee490aa33c26b84859e9ed",
+        "unifyName": "环境影响评价工程师考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208005",
+        "rightsId": "8794B3AA93499492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2fe9ab1d791a4cebbfdbf94d6a5c8655",
+        "unifyName": "翻译专业资格（笔译、口译）考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208006",
+        "rightsId": "8794B3AA934A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6944a3ee2c394f8daf3a3fdeac60d398",
+        "unifyName": "助理社会工作师、社会工作师、高级社会工作师考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208007",
+        "rightsId": "8794B3AA934B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d231e594bffe4c0b90f334256a0bf57f",
+        "unifyName": "一级注册计量师、二级注册计量师考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208009",
+        "rightsId": "8794B3AA934D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "83ede39a5c3d445084bd149f77eda7ef",
+        "unifyName": "注册设备监理师考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208010",
+        "rightsId": "8794B3AA934F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e603abc5f53f49fd96e9f97b1fa45f88",
+        "unifyName": "注册测绘师考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208011",
+        "rightsId": "8794B3AA93509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0765db8d806a45bca393fc7c8a34f51a",
+        "unifyName": "建造师考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208012",
+        "rightsId": "8794B3AA93519492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b01ec00f86194178bd703312d60ea8a4",
+        "unifyName": "出版专业技术人员职业资格（初级、中级）考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208013",
+        "rightsId": "8794B3AA93529492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e57ecf17467b43498469b7f8855d875a",
+        "unifyName": "执业药师（药学、中药学）考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208014",
+        "rightsId": "8794B3AA93539492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5f11c2c225db4238b7d5b4cb4852cece",
+        "unifyName": "注册城乡规划师考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208015",
+        "rightsId": "8794B3AA93549492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b4841125cd104af19199c893089aabc0",
+        "unifyName": "勘察设计注册工程师考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208016",
+        "rightsId": "8794B3AA93559492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "469b18f663024063a64254f52b2347f9",
+        "unifyName": "一级造价工程师考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208017",
+        "rightsId": "8794B3AA93569492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "00ec7f7f52f244c09674c2fb8701a548",
+        "unifyName": "注册安全工程师考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208018",
+        "rightsId": "8794B3AA93579492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a5ab5909b2ef4a89ba6208761660f0d0",
+        "unifyName": "经济专业技术资格（初级、中级）考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208019",
+        "rightsId": "8794B3AA93589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e3b4f9946859454a8666f301016e33b4",
+        "unifyName": "一级注册消防工程师考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014209001",
+        "rightsId": "8794B3AA935A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9c31af313f3049d3abc4751a029c50d5",
+        "unifyName": "专业技术人员职业资格证书查询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "430820001W00",
+        "rightsId": "70F599A55D90ABCFE053681515ACCFDC",
+        "transactLevel": "3",
+        "unifyId": "konss-LWTtSIdgcITad3rQ",
+        "unifyName": "农业丰收奖表彰",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012003W02",
+        "rightsId": "uwqmNmlARoCPF9aYBTUVFA",
+        "transactLevel": "0",
+        "unifyId": "f7a670185b4c4c9fba130c7eac804420",
+        "unifyName": "律师年度考核结果备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012044W00",
+        "rightsId": "70F599A5574CABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "Tk9iuHBNRayF60NrdDCOLw",
+        "unifyName": "司法鉴定机构资质管理评估",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012044W00",
+        "rightsId": "70F599A5574CABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "qer52Bb-Rnu9fBi0O2jmlQ",
+        "unifyName": "司法鉴定质量管理评估",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432009305W00",
+        "rightsId": "968059BD17E9634EE053671515AC8FFE",
+        "transactLevel": "0",
+        "unifyId": "f7d9cf8268f94d0e8a36c0be982f8840",
+        "unifyName": "无犯罪记录证明",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432019101W01",
+        "rightsId": "97D338F503BBFC3BE053681515ACCA9B",
+        "transactLevel": "0",
+        "unifyId": "7da6329b459442bbbe79bb281f53951c",
+        "unifyName": "水利水电工程施工企业主要负责人、项目负责人和专职安全生产管理人员考核管理（首次申请）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432019101W02",
+        "rightsId": "97D338F503BCFC3BE053681515ACCA9B",
+        "transactLevel": "0",
+        "unifyId": "3e851610a7154a238b700999cf7c4459",
+        "unifyName": "水利水电工程施工企业主要负责人、项目负责人和专职安全生产管理人员考核管理（单位名称变更申请）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432019101W02",
+        "rightsId": "97D338F503BCFC3BE053681515ACCA9B",
+        "transactLevel": "0",
+        "unifyId": "yipZKLnERwqrP6bqFWuPDQ",
+        "unifyName": "水利水电工程施工企业主要负责人、项目负责人和专职安全生产管理人员考核管理（人员信息变更申请）",
+        "ywCode": "02"
+      }
+    ],
+    "pageIndex": 2,
+    "pageSize": 50,
+    "total": 105,
+    "totalPage": 3
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

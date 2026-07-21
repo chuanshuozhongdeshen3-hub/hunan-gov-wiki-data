@@ -1,0 +1,50 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432072004W00",
+        "rightsId": "kt-U9Y7ORvOyByK8LYHI7Q",
+        "transactLevel": "0",
+        "unifyId": "jeQZ-b0HSZKfglG8VN5Y5w",
+        "unifyName": "互联网药品医疗器械信息服务变更备案",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432072004W00",
+        "rightsId": "kt-U9Y7ORvOyByK8LYHI7Q",
+        "transactLevel": "0",
+        "unifyId": "0aui1DUQTMqxQBwpC80sTw",
+        "unifyName": "互联网药品医疗器械信息服务取消备案",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432072017W00",
+        "rightsId": "972172B56A5A8461E053681515ACEDAA",
+        "transactLevel": "0",
+        "unifyId": "43240c8052e64cb7a324840abd2811a6",
+        "unifyName": "药品生产企业出口欧盟原料药证明文件",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 11,
+    "pageSize": 50,
+    "total": 503,
+    "totalPage": 11
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

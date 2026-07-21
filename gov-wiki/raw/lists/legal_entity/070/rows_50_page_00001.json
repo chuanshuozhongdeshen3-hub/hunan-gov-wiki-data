@@ -1,0 +1,114 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000122023000",
+        "rightsId": "8794B3AA89109492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "0391d9e8ab6c4dec9bd4407ae2f09dfa",
+        "unifyName": "举办外国的文艺表演团体、个人参加的营业性演出审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122023000",
+        "rightsId": "8794B3AA89109492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e06d724414084a2dae38d51764262dac",
+        "unifyName": "举办外国的文艺表演团体、个人参加的营业性演出变更审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122023000",
+        "rightsId": "8794B3AA89109492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6b0d2f1eef3d4969a75ddbc85ea57c59",
+        "unifyName": "举办外国的文艺表演团体、个人参加的营业性演出取消审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122023000",
+        "rightsId": "8794B3AA89109492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "97-1w2_NS-Cuxsc_YBvUjA",
+        "unifyName": "举办外国的文艺表演团体、个人参加的营业性演出增加演出地备案审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000134001000",
+        "rightsId": "8794B3AA8A4C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "w-jtHBT2TgmAbvUxFS3P9w",
+        "unifyName": "涉外统计调查机构资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000134002000",
+        "rightsId": "8794B3AA8A4D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "70e3df7f104d4a5ca84fa6e756c6e902",
+        "unifyName": "涉外社会调查项目审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139010000",
+        "rightsId": "8794B3AA8A599492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "46e9d63ae73c42cd8e2d0aa67bba961f",
+        "unifyName": "地方单位订户订购限定发行范围的境外出版物审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164123000",
+        "rightsId": "8794B3AA8D459492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d3c0b6988dcb434da663a10afb59df2c",
+        "unifyName": "从国外引进林木种子、苗木检疫审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000722008000",
+        "rightsId": "8794B3AA906E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "L4uy-XcWT9KX-G0Uos9eaA",
+        "unifyName": "中国公民出国旅游团队名单备案、中国居民赴台湾地区旅游团队名单备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432002001W00",
+        "rightsId": "qQm4bdIsRo2FNF_GR1CMtQ",
+        "transactLevel": "1",
+        "unifyId": "ncD5UAb4S0-pxGtKtMjQAg",
+        "unifyName": "领事认证服务（附加证明书、海牙认证）",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 10,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

@@ -1,0 +1,527 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "hAc0ujo0SWexmnNKYqfWZQ",
+        "unifyName": "从事测绘航空摄影的单位甲级测绘资质审批",
+        "ywCode": "05"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f4q3rxzyTmyMFsmkhlX4JA",
+        "unifyName": "从事测绘航空摄影的单位乙级测绘资质审批",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "JH6wuRmNQoKPtcYaVBZrYg",
+        "unifyName": "从事摄影测量与遥感的单位甲级测绘资质审批",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "n71ORMv8QWiUoVV6xqs1qA",
+        "unifyName": "从事摄影测量与遥感的单位乙级测绘资质审批",
+        "ywCode": "08"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6wC5ECe8RmG1C4uK6q7HBA",
+        "unifyName": "从事工程测量的单位甲级测绘资质审批",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "A1gNAbLoTASYMGJTo4e0Cg",
+        "unifyName": "从事工程测量的单位乙级测绘资质审批",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115032001",
+        "rightsId": "e17f9ba284db41e79d3f336f3fcf6f22",
+        "transactLevel": "0",
+        "unifyId": "xMOb2xIuRNukY7N0-c7q2w",
+        "unifyName": "除国家重大工程项目和国务院确定的大城市外建立相对独立的平面坐标系统审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115034000",
+        "rightsId": "8794B3AA86949492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "4fd687e8c09d45ae9615abd3437fa46e",
+        "unifyName": "拆迁永久性测量标志或者使永久性测量标志失去效能审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115035000",
+        "rightsId": "8794B3AA86959492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ce0a2bda173c417c8a13b034fca16df4",
+        "unifyName": "主要表现地在本省级行政区域范围内的地图审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115035000",
+        "rightsId": "8794B3AA86959492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "lXnzbf4jTTG6Xh0PsCaydg",
+        "unifyName": "主要表现地在本设区的市级行政区域范围内不涉及国界线的地图审核",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115036000",
+        "rightsId": "8794B3AA86969492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "465607b320384cbc8e7d651fcb145c2f",
+        "unifyName": "对外提供属于国家秘密的除跨省级行政区域外测绘成果审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115037000",
+        "rightsId": "8794B3AA86979492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "b5c10420f1244bfc9fe70b62d8011032",
+        "unifyName": "法人或者其他组织需要利用属于国家秘密的基础测绘成果审批（省级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115037000",
+        "rightsId": "8794B3AA86979492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "QDJ8XkDJTcyzib8gd8CNTg",
+        "unifyName": "法人或者其他组织需要利用属于国家秘密的基础测绘成果审批（设区的市级权限）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115037000",
+        "rightsId": "8794B3AA86979492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "pJNBVq-cToCEFVhv8XMfBA",
+        "unifyName": "法人或者其他组织需要利用属于国家秘密的基础测绘成果审批（县级权限）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116005000",
+        "rightsId": "8794B3AA86BF9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "847261c0af38430981f99a32ed19faff",
+        "unifyName": "排污许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116006000",
+        "rightsId": "8794B3AA86C09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "11e7bebd749d4affac095419346a0dcb",
+        "unifyName": "废弃电器电子产品处理企业资格审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116007000",
+        "rightsId": "8794B3AA86C19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b674af640e3f4f098d9234a60f50631e",
+        "unifyName": "危险废物经营许可（核发）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116007000",
+        "rightsId": "8794B3AA86C19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "386a3f53ed434076b2213e9caeb75d31",
+        "unifyName": "危险废物经营许可（临时生产证）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116007000",
+        "rightsId": "8794B3AA86C19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8a120fc97bb8469eb26a7fd65f6aeafe",
+        "unifyName": "危险废物经营许可（重新申请）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116007000",
+        "rightsId": "8794B3AA86C19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d5cd18ded21e41ba9aae0f56ae6a6050",
+        "unifyName": "危险废物经营许可（变更）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116007000",
+        "rightsId": "8794B3AA86C19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2b3054fd1a4145eca1797eaa8f8e1b7d",
+        "unifyName": "危险废物经营许可（换证）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116011000",
+        "rightsId": "8794B3AA86C59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0c5b6d17b874419c810a042a81af938a",
+        "unifyName": "固体废物跨省转移贮存、处置",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116011000",
+        "rightsId": "8794B3AA86C59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2658a8864f664912962ab78b4ec01bfe",
+        "unifyName": "危险废物跨省转移贮存、处置",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116012000",
+        "rightsId": "8794B3AA86C69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0d1996790d5145d6985ff1ef26aeebe1",
+        "unifyName": "必需经水路运输医疗废物审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116013000",
+        "rightsId": "8794B3AA86C79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d200ef901b4449a884f0cabd5729af09",
+        "unifyName": "放射源转让审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116013000",
+        "rightsId": "8794B3AA86C79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "597d69a0b01d4d15b999953f1ea5346c",
+        "unifyName": "放射性药品及其原料转让审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116015000",
+        "rightsId": "8794B3AA86C99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7476b1df3ee34fd6943b2f37445fe812",
+        "unifyName": "辐射安全许可（新发）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116015000",
+        "rightsId": "8794B3AA86C99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6b66277d965648e690954f3ad786cc01",
+        "unifyName": "辐射安全许可（变更）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116015000",
+        "rightsId": "8794B3AA86C99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "40f4977eff2a47cc8cc5472c7833798e",
+        "unifyName": "辐射安全许可（延续）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116015000",
+        "rightsId": "8794B3AA86C99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "758aa7040d4b42d390f567b05132e156",
+        "unifyName": "辐射安全许可（重办）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116015000",
+        "rightsId": "8794B3AA86C99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "984f397defc248d2989e5baddd3d0c33",
+        "unifyName": "辐射安全许可（注销）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116016000",
+        "rightsId": "8794B3AA86CA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a0c6bc51814a4ffcb236e64791be1059",
+        "unifyName": "在野外进行放射性同位素示踪试验审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116051000",
+        "rightsId": "262e9a97ac6b4233ac5429f135d3eb6e",
+        "transactLevel": "0",
+        "unifyId": "5bda79245150476e96aedf824f655c7b",
+        "unifyName": "危险废物跨省转移利用",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116055000",
+        "rightsId": "547a5ea370ba4f7d837deb277c71377a",
+        "transactLevel": "0",
+        "unifyId": "8428a096e4d04e9086e6c9a1df2e159b",
+        "unifyName": "建设项目环境影响评价审批报告书（辐射类）-核技术利用",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116055000",
+        "rightsId": "547a5ea370ba4f7d837deb277c71377a",
+        "transactLevel": "0",
+        "unifyId": "58dd442ab2a84737b8598aea36fc5383",
+        "unifyName": "建设项目环境影响评价审批报告书（辐射类）-输变电工程",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116055000",
+        "rightsId": "547a5ea370ba4f7d837deb277c71377a",
+        "transactLevel": "0",
+        "unifyId": "79ebd5c25cc944fdb06d10b140d304b3",
+        "unifyName": "建设项目环境影响评价审批报告书（辐射类）-其他",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116055000",
+        "rightsId": "547a5ea370ba4f7d837deb277c71377a",
+        "transactLevel": "0",
+        "unifyId": "fa092a705cf24b94b5c80c64e90e9636",
+        "unifyName": "建设项目环境影响评价审批报告表（辐射类）-输变电工程",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116055000",
+        "rightsId": "547a5ea370ba4f7d837deb277c71377a",
+        "transactLevel": "0",
+        "unifyId": "5802d463bb484c6588c30785df8b9abc",
+        "unifyName": "建设项目环境影响评价审批报告表（辐射类）-核技术利用",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116055000",
+        "rightsId": "547a5ea370ba4f7d837deb277c71377a",
+        "transactLevel": "0",
+        "unifyId": "04dc38463dd946d9b2deb0515dcb4604",
+        "unifyName": "建设项目环境影响评价审批报告表（辐射类）-其他",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116055000",
+        "rightsId": "547a5ea370ba4f7d837deb277c71377a",
+        "transactLevel": "0",
+        "unifyId": "c8fa5a5e669f4861acd28b42f3a06751",
+        "unifyName": "建设项目环境影响评价审批报告书（普通类）",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116055000",
+        "rightsId": "547a5ea370ba4f7d837deb277c71377a",
+        "transactLevel": "0",
+        "unifyId": "afc1738783724a33b28b822d36f2850f",
+        "unifyName": "建设项目环境影响评价审批报告表（普通类）",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116055000",
+        "rightsId": "547a5ea370ba4f7d837deb277c71377a",
+        "transactLevel": "0",
+        "unifyId": "FixnaBNoSQGPqbWT8Kx4Sw",
+        "unifyName": "建设项目环境影响评价审批（工改项目）",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116057000",
+        "rightsId": "88a0b30d514a4fa6a4601706d81dd4dc",
+        "transactLevel": "0",
+        "unifyId": "941d6ce1f9364479aaa4dd02ffa17da9",
+        "unifyName": "贮存危险废物超过一年的批准",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117002000",
+        "rightsId": "8794B3AA86F19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ff6abf904f484052b47dc08176b06807",
+        "unifyName": "二级房地产开发企业资质核定-（新设立、延续）",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117002000",
+        "rightsId": "8794B3AA86F19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4d1769d224ef4231a805c1afd4dd0ff8",
+        "unifyName": "二级房地产开发企业资质证书-企业名称、注册地址、注册资本金变更",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117002000",
+        "rightsId": "8794B3AA86F19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "504eceb9dd0141a7a0c2a024847d50ba",
+        "unifyName": "二级房地产开发企业资质证书-法定代表人变更",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117002000",
+        "rightsId": "8794B3AA86F19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "UCvZvl0sTIu7t2-pJjt9bw",
+        "unifyName": "二级房地产开发企业资质证书-遗失补办",
+        "ywCode": "05"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117002000",
+        "rightsId": "8794B3AA86F19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "vaBYHUgJRQmbGn72rjCJiw",
+        "unifyName": "二级房地产开发企业资质证书-注销",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117006000",
+        "rightsId": "8794B3AA86F59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0a9b120d76e84e8790504a9e84ee0c22",
+        "unifyName": "建设工程质量安全监督手续办理并核发建筑工程施工许可证",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117007000",
+        "rightsId": "8794B3AA86F69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1e7a9e7eb41b4367a7a0f584c2b849d8",
+        "unifyName": "建筑施工企业安全生产许可证-新（重新）申报",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 8,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

@@ -1,0 +1,520 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155007W00",
+        "rightsId": "LaaSJ0QCTmuSWiaMC4lf2Q",
+        "transactLevel": "0",
+        "unifyId": "1b566b58c38d4fd0b1c1469a865d3d84",
+        "unifyName": "融资租赁公司合并、分立",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155007W00",
+        "rightsId": "LaaSJ0QCTmuSWiaMC4lf2Q",
+        "transactLevel": "0",
+        "unifyId": "705f5273b4aa46459e0306eef6fa8a1c",
+        "unifyName": "融资租赁公司减少注册资本",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155007W00",
+        "rightsId": "LaaSJ0QCTmuSWiaMC4lf2Q",
+        "transactLevel": "0",
+        "unifyId": "49bd5a20606a4502b66016866c958805",
+        "unifyName": "融资租赁公司变更业务范围和经营区域",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155007W00",
+        "rightsId": "LaaSJ0QCTmuSWiaMC4lf2Q",
+        "transactLevel": "0",
+        "unifyId": "0bb0defb2e3f48e2a4510840579c543f",
+        "unifyName": "融资租赁公司变更控股股东、实际控制人",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155008W00",
+        "rightsId": "uxYDZBkASfiezuaF3yidhw",
+        "transactLevel": "0",
+        "unifyId": "08c9bdd9d7dd4839ad820da4424d0a62",
+        "unifyName": "商业保理公司设立",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155008W00",
+        "rightsId": "uxYDZBkASfiezuaF3yidhw",
+        "transactLevel": "0",
+        "unifyId": "466c3a29b0f64408992c0543825edc29",
+        "unifyName": "商业保理公司合并、分立",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155008W00",
+        "rightsId": "uxYDZBkASfiezuaF3yidhw",
+        "transactLevel": "0",
+        "unifyId": "b4f7f9c185e04f93b62cdd63c708936c",
+        "unifyName": "商业保理公司减少注册资本",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155008W00",
+        "rightsId": "uxYDZBkASfiezuaF3yidhw",
+        "transactLevel": "0",
+        "unifyId": "736c7e21924a4cdbad171453a9369a57",
+        "unifyName": "商业保理公司变更业务范围和经营区域",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155008W00",
+        "rightsId": "uxYDZBkASfiezuaF3yidhw",
+        "transactLevel": "0",
+        "unifyId": "13f09e93928a424bb2732618dac14139",
+        "unifyName": "商业保理公司变更控股股东、实际控制人",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155009W00",
+        "rightsId": "hIUmcpBZSMWEEEo_pGbKXw",
+        "transactLevel": "0",
+        "unifyId": "GmQ6kPiwS1uKIr_U8kxpSw",
+        "unifyName": "地方资产管理公司减少注册资本",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155009W00",
+        "rightsId": "hIUmcpBZSMWEEEo_pGbKXw",
+        "transactLevel": "0",
+        "unifyId": "e4e347921fd54319b07d8f2474117907",
+        "unifyName": "地方资产管理公司变更业务范围和经营区域",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155009W00",
+        "rightsId": "hIUmcpBZSMWEEEo_pGbKXw",
+        "transactLevel": "0",
+        "unifyId": "02cce374de964fd2b57d7f78f339b337",
+        "unifyName": "地方资产管理公司变更控股股东、实际控制人",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155009W00",
+        "rightsId": "hIUmcpBZSMWEEEo_pGbKXw",
+        "transactLevel": "0",
+        "unifyId": "9da1038e4765453e8f8a2c8dba3a49df",
+        "unifyName": "地方资产管理公司合并或分立",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164003W00",
+        "rightsId": "aP-McVfmRBqOocJmejnFqg",
+        "transactLevel": "0",
+        "unifyId": "441779f9ca6e45a69eec7e21ed66e2a4",
+        "unifyName": "风景名胜区内修建重大建设工程项目选址方案（新办）核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164003W00",
+        "rightsId": "aP-McVfmRBqOocJmejnFqg",
+        "transactLevel": "0",
+        "unifyId": "049d2bceaec3435494f2bae061b8571e",
+        "unifyName": "风景名胜区内修建重大建设工程项目选址方案（变更）核准",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164003W00",
+        "rightsId": "aP-McVfmRBqOocJmejnFqg",
+        "transactLevel": "0",
+        "unifyId": "d1356d77927148909439827479730fd8",
+        "unifyName": "风景名胜区内修建重大建设工程项目选址方案（延期）核准",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164016W00",
+        "rightsId": "S3DPHewNQiuO1n43MUWw5Q",
+        "transactLevel": "0",
+        "unifyId": "vmDIgOLmRhqLV5jwf1MTxw",
+        "unifyName": "崀山风景名胜区非重大建设项目选址方案核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164016W00",
+        "rightsId": "S3DPHewNQiuO1n43MUWw5Q",
+        "transactLevel": "0",
+        "unifyId": "UUoPOS8IS8CIW3EtVkKc_Q",
+        "unifyName": "南岳衡山风景名胜区非重大建设项目选址方案核准",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164016W00",
+        "rightsId": "S3DPHewNQiuO1n43MUWw5Q",
+        "transactLevel": "0",
+        "unifyId": "0d54TS8xSz-4T0QNPS4FVA",
+        "unifyName": "韶山风景名胜区非重大建设项目选址方案核准",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164017W00",
+        "rightsId": "7b1a8JmIQYWTU9Ey7aSitA",
+        "transactLevel": "0",
+        "unifyId": "n5oDAMLbTNawjysrY-p3dA",
+        "unifyName": "猎捕省重点保护的野生动物审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164017W00",
+        "rightsId": "7b1a8JmIQYWTU9Ey7aSitA",
+        "transactLevel": "0",
+        "unifyId": "8dduNnX_R_SimunIEZuNFg",
+        "unifyName": "省重点保护野生植物猎采许可",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164018W00",
+        "rightsId": "Ptr1eUI8SP-_ikMCappVvA",
+        "transactLevel": "0",
+        "unifyId": "8olgdDcyR1mwR7-e1AwAww",
+        "unifyName": "移植古树名木（城市除外）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164019W00",
+        "rightsId": "cZQjQ5EnQga5KoclBuf92w",
+        "transactLevel": "0",
+        "unifyId": "NWGD4TMVRvezrTH0PvkbeA",
+        "unifyName": "出售、收购省重点保护野生植物审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164043W00",
+        "rightsId": "5RU50IYwR3CZZvjb2dwYaQ",
+        "transactLevel": "0",
+        "unifyId": "6cb32323be7c44dabe3038944391c5e8",
+        "unifyName": "植物园设立许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430168002W00",
+        "rightsId": "WjQ8K_BQRACIzxFmUT-0Nw",
+        "transactLevel": "0",
+        "unifyId": "58fa8e9a0d7d469bb68860e7703de5fb",
+        "unifyName": "文物保护工程资质年检",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430168003W00",
+        "rightsId": "uIwbceyDQvSmaNwDOOJPUw",
+        "transactLevel": "0",
+        "unifyId": "71e3ce40162a444689b5abb3a9102f40",
+        "unifyName": "建设工程文物保护和考古许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430172051W00",
+        "rightsId": "8083d537cef94e80b6f635f94487f28a",
+        "transactLevel": "0",
+        "unifyId": "fed523461dea408eb98a743d2e0e7b22",
+        "unifyName": "药品类易制毒化学品购用证明",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430182001W00",
+        "rightsId": "5B0WBefyROWOYSVNNLueIw",
+        "transactLevel": "0",
+        "unifyId": "7UFbl16YTi6t3zA7WQcvkg",
+        "unifyName": "电影片审查（省级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430182002W00",
+        "rightsId": "anGTEjXbRXOOjH0VF2xEAA",
+        "transactLevel": "0",
+        "unifyId": "GlL-A7JOQZ-CbgFJMo4Uew",
+        "unifyName": "属地管理单位中外合作摄制电影片审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430182003W00",
+        "rightsId": "Jn6fhEDPQ86WhE5y_1vutA",
+        "transactLevel": "0",
+        "unifyId": "_sq6swjdT4SKcqvCDt2cdQ",
+        "unifyName": "属地管理单位国产影片聘用境外演职人员审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "430199001W02",
+        "rightsId": "7lsfLBPKSt-PXurBWsY8lA",
+        "transactLevel": "3",
+        "unifyId": "X_ZEbFQ5T1idT-fdnMVhMw",
+        "unifyName": "权限内单独修建人防工程的初步设计审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "430199001W02",
+        "rightsId": "7lsfLBPKSt-PXurBWsY8lA",
+        "transactLevel": "3",
+        "unifyId": "ClGecio3QvWHn1TqEy2hdg",
+        "unifyName": "权限内单独修建人防工程的报建审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "430199001W02",
+        "rightsId": "7lsfLBPKSt-PXurBWsY8lA",
+        "transactLevel": "3",
+        "unifyId": "7RYbiLtrQf2IDgx4f2XQyw",
+        "unifyName": "权限内单独修建人防工程的施工图审查备案",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "430199001W02",
+        "rightsId": "7lsfLBPKSt-PXurBWsY8lA",
+        "transactLevel": "3",
+        "unifyId": "7EVryKSCRCOa43FPyDi5sw",
+        "unifyName": "权限内单独修建人防工程的施工图设计重大变更备案",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "430199001W03",
+        "rightsId": "vOnFntl-QMyPrtlMFlWeOQ",
+        "transactLevel": "3",
+        "unifyId": "PZ01U__bRZqsd4bwuW235A",
+        "unifyName": "权限内单独修建人防工程的竣工验收备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "430199001W0A",
+        "rightsId": "GmOSfXu4QUSb2TgSuas9Kw",
+        "transactLevel": "3",
+        "unifyId": "H89RRylpR5W1uMVJyC0onA",
+        "unifyName": "办理权限内单独修建人防工程的质量和安全监督手续",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "430199001W0A",
+        "rightsId": "GmOSfXu4QUSb2TgSuas9Kw",
+        "transactLevel": "3",
+        "unifyId": "2_6xEVYoR7WO_2WrAKYVJg",
+        "unifyName": "权限内单独修建人防工程的开工报告批准",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199003W01",
+        "rightsId": "cVuRx8mFQE2yZ0dzo_nMmA",
+        "transactLevel": "0",
+        "unifyId": "LATtz5D4QVq16jbLYMEqeA",
+        "unifyName": "拆除人防通信设施审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199003W01",
+        "rightsId": "cVuRx8mFQE2yZ0dzo_nMmA",
+        "transactLevel": "0",
+        "unifyId": "zScrqEE0RYyTmz90mWq30w",
+        "unifyName": "改造人防通信设施审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199003W01",
+        "rightsId": "cVuRx8mFQE2yZ0dzo_nMmA",
+        "transactLevel": "0",
+        "unifyId": "lg-XN8QkSqemCsgYIHbVUg",
+        "unifyName": "报废人防通信设施审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199003W02",
+        "rightsId": "wdiKJWvyTcO1etXBGukjDA",
+        "transactLevel": "0",
+        "unifyId": "XQTGLFdLTVWKiApmpC0lOw",
+        "unifyName": "拆除人防工程审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199003W02",
+        "rightsId": "wdiKJWvyTcO1etXBGukjDA",
+        "transactLevel": "0",
+        "unifyId": "rggaziWISBKp61sBG3O8Lw",
+        "unifyName": "改造人防工程审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199003W02",
+        "rightsId": "wdiKJWvyTcO1etXBGukjDA",
+        "transactLevel": "0",
+        "unifyId": "z34Jdx_1RB6HVhtfr3-wZQ",
+        "unifyName": "报废人防工程审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199005W00",
+        "rightsId": "rTDPc7kxSkKRLipfQhtS7w",
+        "transactLevel": "0",
+        "unifyId": "4941f5e019324ac482ec6dbdc0479ac6",
+        "unifyName": "拆除防空警报通信设施审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199005W00",
+        "rightsId": "rTDPc7kxSkKRLipfQhtS7w",
+        "transactLevel": "0",
+        "unifyId": "426a04fb40c14de09758aad08042734e",
+        "unifyName": "迁移防空警报通信设施审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199009W07",
+        "rightsId": "g1kvUhRLRreIc5yingAL4g",
+        "transactLevel": "0",
+        "unifyId": "C96fSBxkSbKzi4N69jquig",
+        "unifyName": "城市地下空间开发利用中人防工程竣工验收认可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "430199009W07",
+        "rightsId": "g1kvUhRLRreIc5yingAL4g",
+        "transactLevel": "3",
+        "unifyId": "5UB30uevRcqNYx-DQbH76Q",
+        "unifyName": "城市地下空间开发利用中人防工程的档案备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199009W08",
+        "rightsId": "tZHJGFOISwKW5i0lp3YasQ",
+        "transactLevel": "0",
+        "unifyId": "c-ZZYc-qRJOfldIdQmDI9A",
+        "unifyName": "城市地下空间开发利用中人防工程报建审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199009W08",
+        "rightsId": "tZHJGFOISwKW5i0lp3YasQ",
+        "transactLevel": "0",
+        "unifyId": "oC9WN13ERbme0O6Zbq9qyQ",
+        "unifyName": "城市地下空间开发利用中人防工程防护事项的施工图设计重大变更备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199009W08",
+        "rightsId": "tZHJGFOISwKW5i0lp3YasQ",
+        "transactLevel": "0",
+        "unifyId": "5is2HKJoRAWPXNgeAzeA7w",
+        "unifyName": "办理城市地下空间开发利用中人防工程的质量监督手续",
+        "ywCode": "03"
+      }
+    ],
+    "pageIndex": 42,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

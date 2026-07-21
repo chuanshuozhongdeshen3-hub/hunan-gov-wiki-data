@@ -1,0 +1,134 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117008000",
+        "rightsId": "8794B3AA86F79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4ea655adbdbb4e4dab431af5fdd03e26",
+        "unifyName": "安管人员-初始申报",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117008000",
+        "rightsId": "8794B3AA86F79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b70771f1ef694a98bb935929306e6903",
+        "unifyName": "安管人员-延期申报",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117008000",
+        "rightsId": "8794B3AA86F79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "434bad52938d43b3afc4cc75a92fc35f",
+        "unifyName": "安管人员-变更申报",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117008000",
+        "rightsId": "8794B3AA86F79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "aeed11baf8e847539f2ce3eb6b3a059d",
+        "unifyName": "安管人员-注销申报",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117008000",
+        "rightsId": "8794B3AA86F79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "712f1146e0ce498aa530fa2e71709a5e",
+        "unifyName": "安管人员-换证申报",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117008000",
+        "rightsId": "8794B3AA86F79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6rhR9wPgR-mXJUz_e1eJew",
+        "unifyName": "安管人员-人员简单变更",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117008000",
+        "rightsId": "8794B3AA86F79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "KJSkOuGBSD2qGIuGuKqNrg",
+        "unifyName": "安管人员-调出外省",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117008000",
+        "rightsId": "8794B3AA86F79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "xRuFzDU9Qz2eAM5s_EGonw",
+        "unifyName": "安管人员-外省调入",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "430820001W00",
+        "rightsId": "70F599A55D90ABCFE053681515ACCFDC",
+        "transactLevel": "3",
+        "unifyId": "konss-LWTtSIdgcITad3rQ",
+        "unifyName": "农业丰收奖表彰",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "431031103W00",
+        "rightsId": "7fa09be9f17e42bab1ec223846d40628",
+        "transactLevel": "3",
+        "unifyId": "Q7Apo1JLQj-FodfybcHULw",
+        "unifyName": "专利纠纷行政调解",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039037W00",
+        "rightsId": "70F599A5532AABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "04d8a616ae6047548bfd14a856dcecd3",
+        "unifyName": "著作权纠纷调解　",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432031901W00",
+        "rightsId": "972172B56AF58461E053681515ACEDAA",
+        "transactLevel": "0",
+        "unifyId": "9d2ad235bb5340f28939dd1bbf6d11de",
+        "unifyName": "知识产权维权援助咨询",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 12,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

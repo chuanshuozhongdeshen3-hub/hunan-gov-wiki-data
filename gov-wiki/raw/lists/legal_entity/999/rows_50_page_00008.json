@@ -1,0 +1,524 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001031004000",
+        "rightsId": "a0af2d8923df47e89d6d5663a9bb4a4f",
+        "transactLevel": "0",
+        "unifyId": "kWi7t7scT_OXV2P-5X0Xmg",
+        "unifyName": "凭法院裁判文书申请撤销备案",
+        "ywCode": "19"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001031004000",
+        "rightsId": "a0af2d8923df47e89d6d5663a9bb4a4f",
+        "transactLevel": "0",
+        "unifyId": "TceuxcAIQBSHVlKNFKbtIQ",
+        "unifyName": "非公司企业法人备案",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001031004000",
+        "rightsId": "a0af2d8923df47e89d6d5663a9bb4a4f",
+        "transactLevel": "0",
+        "unifyId": "vh32SEPqQjq3o6Q3p-3Z5Q",
+        "unifyName": "非公司企业法人分支机构备案",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001031004000",
+        "rightsId": "a0af2d8923df47e89d6d5663a9bb4a4f",
+        "transactLevel": "0",
+        "unifyId": "FGAbMGhwTQuN_00bvZUWAw",
+        "unifyName": "分公司备案",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001031004000",
+        "rightsId": "a0af2d8923df47e89d6d5663a9bb4a4f",
+        "transactLevel": "0",
+        "unifyId": "qvIKmvJPTPmSkrQiTqqYSA",
+        "unifyName": "个人独资企业备案",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001031004000",
+        "rightsId": "a0af2d8923df47e89d6d5663a9bb4a4f",
+        "transactLevel": "0",
+        "unifyId": "M6LlfKYZQvi3iUe3L_gAjA",
+        "unifyName": "个人独资企业分支机构备案",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001031006000",
+        "rightsId": "a3f1647e2a6f4639b04bd374e9442513",
+        "transactLevel": "0",
+        "unifyId": "manYHOJmQPyGJ5IPcUzJFg",
+        "unifyName": "从事对温度、湿度等有特殊要求的食品贮存业务的非食品生产经营者首次备案",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001072003000",
+        "rightsId": "8794B3AA929D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9e4be3d362a44e07acc9985390bd3ac1",
+        "unifyName": "药品生产企业使用第二类精神药品原料备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014007005",
+        "rightsId": "8794B3AA92CD9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "8a231285d1cd457f93adca1245e93d94",
+        "unifyName": "工伤职工劳动能力鉴定申请（ 初次）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014105001",
+        "rightsId": "8794B3AA93119492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6ecca338ee33402284e521cca8dfb603",
+        "unifyName": "创业补贴申领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014106002",
+        "rightsId": "8794B3AA93159492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "FQcdE1wAS4i4KiKtbGg5Vg",
+        "unifyName": "就业困难人员社会保险补贴（用人单位申报）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "002014106003",
+        "rightsId": "8794B3AA93169492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "2f0a9f78b9c74029b8dfffffece5314e",
+        "unifyName": "公益性岗位补贴申领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014107002",
+        "rightsId": "8794B3AA931B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1a1932a77b4340039b7a58c7af3bc3fb",
+        "unifyName": "就业见习补贴申领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014107004",
+        "rightsId": "8794B3AA931D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "938c47403d8a4898863c2512a2fcfb4c",
+        "unifyName": "高校毕业生社会保险补贴（用人单位申报）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "002014201001",
+        "rightsId": "8794B3AA93239492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "5bafc0a768e14f0381cf4294af58cc88",
+        "unifyName": "职业培训补贴申领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014204001",
+        "rightsId": "8794B3AA932D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "YULNH0WmQJOt4JSiPNpY7Q",
+        "unifyName": "档案的接收（单位集体委托存档）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014301001",
+        "rightsId": "8794B3AA935C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9154bccd8ee449598d1ad7d836581438",
+        "unifyName": "劳动用工备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014301002",
+        "rightsId": "8794B3AA935D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6f9ae65e35444b98ba28879597ced5ef",
+        "unifyName": "集体合同审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014301003",
+        "rightsId": "8794B3AA935E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d52e8fe01a804c65b018e1c24ce75c40",
+        "unifyName": "企业经济性裁员报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014302001",
+        "rightsId": "8794B3AA93619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ebd5ed9cc74247e882ff928da552f81e",
+        "unifyName": "劳动人事争议调解申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014302002",
+        "rightsId": "8794B3AA93629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "aYcZ8ELbR56Me61a8eSG0A",
+        "unifyName": "劳动人事争议仲裁申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002015001000",
+        "rightsId": "8f2e72cdcd3c406b85faf31dee24c141",
+        "transactLevel": "0",
+        "unifyId": "rFxWBGJGSL-ueGpWW46HOw",
+        "unifyName": "测绘成果目录汇交",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002015002000",
+        "rightsId": "222625ebc6f241d49a6d882c4d220c87",
+        "transactLevel": "0",
+        "unifyId": "JOKLLoRMTcSgQdVR6YZdQQ",
+        "unifyName": "属地办理的不动产登记资料查询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002072041001",
+        "rightsId": "5347848752cf459197a2eab74bb80406",
+        "transactLevel": "0",
+        "unifyId": "pEmfytH_QcWe8CkLcKC95A",
+        "unifyName": "不涉及技术内容的国产药品变更备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "430117080W00",
+        "rightsId": "rvzIoGJ2TF262AIjof1Jug",
+        "transactLevel": "1",
+        "unifyId": "a7eb5655d1f24e50bc0897516fd1fd31",
+        "unifyName": "政府投资项目初步设计审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430118001W00",
+        "rightsId": "Ccd8G3aCS-CysyMxybjXFw",
+        "transactLevel": "0",
+        "unifyId": "J90VKhg3Ql-27sPFXiUBYg",
+        "unifyName": "专用铁路、铁路专用线建设工程施工许可",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430139008W00",
+        "rightsId": "fYQu7wLaT8KgfBClFjNm7Q",
+        "transactLevel": "0",
+        "unifyId": "7WdCG9yRToCqXXmZeODbKA",
+        "unifyName": "电影剧本梗概审查（省级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430139017W00",
+        "rightsId": "74807547237a4ddb92ad6929ef9b5800",
+        "transactLevel": "0",
+        "unifyId": "9a50bb17c26d4fcdb6ce7d6923126cc2",
+        "unifyName": "地方对等交流互办单一国家电影展映活动审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164003W00",
+        "rightsId": "aP-McVfmRBqOocJmejnFqg",
+        "transactLevel": "0",
+        "unifyId": "441779f9ca6e45a69eec7e21ed66e2a4",
+        "unifyName": "风景名胜区内修建重大建设工程项目选址方案（新办）核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164003W00",
+        "rightsId": "aP-McVfmRBqOocJmejnFqg",
+        "transactLevel": "0",
+        "unifyId": "049d2bceaec3435494f2bae061b8571e",
+        "unifyName": "风景名胜区内修建重大建设工程项目选址方案（变更）核准",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164003W00",
+        "rightsId": "aP-McVfmRBqOocJmejnFqg",
+        "transactLevel": "0",
+        "unifyId": "d1356d77927148909439827479730fd8",
+        "unifyName": "风景名胜区内修建重大建设工程项目选址方案（延期）核准",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164016W00",
+        "rightsId": "S3DPHewNQiuO1n43MUWw5Q",
+        "transactLevel": "0",
+        "unifyId": "vmDIgOLmRhqLV5jwf1MTxw",
+        "unifyName": "崀山风景名胜区非重大建设项目选址方案核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164016W00",
+        "rightsId": "S3DPHewNQiuO1n43MUWw5Q",
+        "transactLevel": "0",
+        "unifyId": "UUoPOS8IS8CIW3EtVkKc_Q",
+        "unifyName": "南岳衡山风景名胜区非重大建设项目选址方案核准",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164016W00",
+        "rightsId": "S3DPHewNQiuO1n43MUWw5Q",
+        "transactLevel": "0",
+        "unifyId": "0d54TS8xSz-4T0QNPS4FVA",
+        "unifyName": "韶山风景名胜区非重大建设项目选址方案核准",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164017W00",
+        "rightsId": "7b1a8JmIQYWTU9Ey7aSitA",
+        "transactLevel": "0",
+        "unifyId": "n5oDAMLbTNawjysrY-p3dA",
+        "unifyName": "猎捕省重点保护的野生动物审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164017W00",
+        "rightsId": "7b1a8JmIQYWTU9Ey7aSitA",
+        "transactLevel": "0",
+        "unifyId": "8dduNnX_R_SimunIEZuNFg",
+        "unifyName": "省重点保护野生植物猎采许可",
+        "ywCode": "05"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430182001W00",
+        "rightsId": "5B0WBefyROWOYSVNNLueIw",
+        "transactLevel": "0",
+        "unifyId": "7UFbl16YTi6t3zA7WQcvkg",
+        "unifyName": "电影片审查（省级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430182002W00",
+        "rightsId": "anGTEjXbRXOOjH0VF2xEAA",
+        "transactLevel": "0",
+        "unifyId": "GlL-A7JOQZ-CbgFJMo4Uew",
+        "unifyName": "属地管理单位中外合作摄制电影片审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430182003W00",
+        "rightsId": "Jn6fhEDPQ86WhE5y_1vutA",
+        "transactLevel": "0",
+        "unifyId": "_sq6swjdT4SKcqvCDt2cdQ",
+        "unifyName": "属地管理单位国产影片聘用境外演职人员审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "430199001W02",
+        "rightsId": "7lsfLBPKSt-PXurBWsY8lA",
+        "transactLevel": "3",
+        "unifyId": "X_ZEbFQ5T1idT-fdnMVhMw",
+        "unifyName": "权限内单独修建人防工程的初步设计审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "430199001W02",
+        "rightsId": "7lsfLBPKSt-PXurBWsY8lA",
+        "transactLevel": "3",
+        "unifyId": "ClGecio3QvWHn1TqEy2hdg",
+        "unifyName": "权限内单独修建人防工程的报建审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "430199001W02",
+        "rightsId": "7lsfLBPKSt-PXurBWsY8lA",
+        "transactLevel": "3",
+        "unifyId": "7RYbiLtrQf2IDgx4f2XQyw",
+        "unifyName": "权限内单独修建人防工程的施工图审查备案",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "430199001W02",
+        "rightsId": "7lsfLBPKSt-PXurBWsY8lA",
+        "transactLevel": "3",
+        "unifyId": "7EVryKSCRCOa43FPyDi5sw",
+        "unifyName": "权限内单独修建人防工程的施工图设计重大变更备案",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "430199001W03",
+        "rightsId": "vOnFntl-QMyPrtlMFlWeOQ",
+        "transactLevel": "3",
+        "unifyId": "PZ01U__bRZqsd4bwuW235A",
+        "unifyName": "权限内单独修建人防工程的竣工验收备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "430199001W0A",
+        "rightsId": "GmOSfXu4QUSb2TgSuas9Kw",
+        "transactLevel": "3",
+        "unifyId": "H89RRylpR5W1uMVJyC0onA",
+        "unifyName": "办理权限内单独修建人防工程的质量和安全监督手续",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "430199001W0A",
+        "rightsId": "GmOSfXu4QUSb2TgSuas9Kw",
+        "transactLevel": "3",
+        "unifyId": "2_6xEVYoR7WO_2WrAKYVJg",
+        "unifyName": "权限内单独修建人防工程的开工报告批准",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199003W01",
+        "rightsId": "cVuRx8mFQE2yZ0dzo_nMmA",
+        "transactLevel": "0",
+        "unifyId": "LATtz5D4QVq16jbLYMEqeA",
+        "unifyName": "拆除人防通信设施审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199003W01",
+        "rightsId": "cVuRx8mFQE2yZ0dzo_nMmA",
+        "transactLevel": "0",
+        "unifyId": "zScrqEE0RYyTmz90mWq30w",
+        "unifyName": "改造人防通信设施审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199003W01",
+        "rightsId": "cVuRx8mFQE2yZ0dzo_nMmA",
+        "transactLevel": "0",
+        "unifyId": "lg-XN8QkSqemCsgYIHbVUg",
+        "unifyName": "报废人防通信设施审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199003W02",
+        "rightsId": "wdiKJWvyTcO1etXBGukjDA",
+        "transactLevel": "0",
+        "unifyId": "XQTGLFdLTVWKiApmpC0lOw",
+        "unifyName": "拆除人防工程审批",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 8,
+    "pageSize": 50,
+    "total": 616,
+    "totalPage": 13
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

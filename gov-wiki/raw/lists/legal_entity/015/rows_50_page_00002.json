@@ -1,0 +1,532 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Qc393PQmRUSxJqcwtNuGeg",
+        "unifyName": "从事导航电子地图制作的单位乙级测绘资质审批",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "CzEisbwrTJ2VFdxn2j0itQ",
+        "unifyName": "从事海洋测绘的单位甲级测绘资质审批",
+        "ywCode": "11"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5Ew3bqZRTHCtzHSOHB-IKA",
+        "unifyName": "从事海洋测绘的单位乙级测绘资质审批",
+        "ywCode": "12"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0b1W04dESUGC9UQBdF8lhA",
+        "unifyName": "从事界线与不动产测绘的单位甲级测绘资质审批",
+        "ywCode": "13"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "siqV6qG2TZmWH1xHq3jJ4Q",
+        "unifyName": "从事界线与不动产测绘的单位乙级测绘资质审批",
+        "ywCode": "14"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "LyDv2nh-Tz-chvZiyn9esw",
+        "unifyName": "从事地理信息系统工程的单位甲级测绘资质审批",
+        "ywCode": "15"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ydpVL0o9QreU5i-tYpAGrw",
+        "unifyName": "从事地理信息系统工程的单位乙级测绘资质审批",
+        "ywCode": "16"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2Rm6ONWiS5aD4E4ajSkvmw",
+        "unifyName": "从事地图编制的单位甲级测绘资质审批",
+        "ywCode": "17"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "GBO2tpgiSUy-iIwT--Gdkw",
+        "unifyName": "从事地图编制的单位乙级测绘资质审批",
+        "ywCode": "18"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "_emMsyR4QAiC_FinIs9qiA",
+        "unifyName": "从事互联网地图服务的单位甲级测绘资质审批",
+        "ywCode": "19"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "x04yBTKrQa2JFGxyBAqmLw",
+        "unifyName": "从事互联网地图服务的单位乙级测绘资质审批",
+        "ywCode": "20"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3gcvsBaeQiClDxVSSf-b_A",
+        "unifyName": "从事大地测量的单位甲级测绘资质审批",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "OPaa-rvaTnKq-eYnkPSEbw",
+        "unifyName": "从事大地测量的单位乙级测绘资质审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "hAc0ujo0SWexmnNKYqfWZQ",
+        "unifyName": "从事测绘航空摄影的单位甲级测绘资质审批",
+        "ywCode": "05"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f4q3rxzyTmyMFsmkhlX4JA",
+        "unifyName": "从事测绘航空摄影的单位乙级测绘资质审批",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "JH6wuRmNQoKPtcYaVBZrYg",
+        "unifyName": "从事摄影测量与遥感的单位甲级测绘资质审批",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "n71ORMv8QWiUoVV6xqs1qA",
+        "unifyName": "从事摄影测量与遥感的单位乙级测绘资质审批",
+        "ywCode": "08"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6wC5ECe8RmG1C4uK6q7HBA",
+        "unifyName": "从事工程测量的单位甲级测绘资质审批",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "A1gNAbLoTASYMGJTo4e0Cg",
+        "unifyName": "从事工程测量的单位乙级测绘资质审批",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116005000",
+        "rightsId": "8794B3AA86BF9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "847261c0af38430981f99a32ed19faff",
+        "unifyName": "排污许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116006000",
+        "rightsId": "8794B3AA86C09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "11e7bebd749d4affac095419346a0dcb",
+        "unifyName": "废弃电器电子产品处理企业资格审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117002000",
+        "rightsId": "8794B3AA86F19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ff6abf904f484052b47dc08176b06807",
+        "unifyName": "二级房地产开发企业资质核定-（新设立、延续）",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117002000",
+        "rightsId": "8794B3AA86F19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4d1769d224ef4231a805c1afd4dd0ff8",
+        "unifyName": "二级房地产开发企业资质证书-企业名称、注册地址、注册资本金变更",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117002000",
+        "rightsId": "8794B3AA86F19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "504eceb9dd0141a7a0c2a024847d50ba",
+        "unifyName": "二级房地产开发企业资质证书-法定代表人变更",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117002000",
+        "rightsId": "8794B3AA86F19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "UCvZvl0sTIu7t2-pJjt9bw",
+        "unifyName": "二级房地产开发企业资质证书-遗失补办",
+        "ywCode": "05"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117002000",
+        "rightsId": "8794B3AA86F19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "vaBYHUgJRQmbGn72rjCJiw",
+        "unifyName": "二级房地产开发企业资质证书-注销",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117007000",
+        "rightsId": "8794B3AA86F69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1e7a9e7eb41b4367a7a0f584c2b849d8",
+        "unifyName": "建筑施工企业安全生产许可证-新（重新）申报",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117007000",
+        "rightsId": "8794B3AA86F69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "87e6c151ee4d429ab077fde221ba107b",
+        "unifyName": "建筑施工企业安全生产许可证-延期",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117007000",
+        "rightsId": "8794B3AA86F69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "w2jUaoXGSou8c2USvOY1QA",
+        "unifyName": "建筑施工企业安全生产许可证-企业名称、地址、经济类型变更",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117007000",
+        "rightsId": "8794B3AA86F69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "-MiFr4pwSRqHro-ifgDRIg",
+        "unifyName": "建筑施工企业安全生产许可证-主要负责人变更",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117008000",
+        "rightsId": "8794B3AA86F79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4ea655adbdbb4e4dab431af5fdd03e26",
+        "unifyName": "安管人员-初始申报",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117008000",
+        "rightsId": "8794B3AA86F79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b70771f1ef694a98bb935929306e6903",
+        "unifyName": "安管人员-延期申报",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117008000",
+        "rightsId": "8794B3AA86F79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "434bad52938d43b3afc4cc75a92fc35f",
+        "unifyName": "安管人员-变更申报",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117008000",
+        "rightsId": "8794B3AA86F79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "aeed11baf8e847539f2ce3eb6b3a059d",
+        "unifyName": "安管人员-注销申报",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117008000",
+        "rightsId": "8794B3AA86F79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "712f1146e0ce498aa530fa2e71709a5e",
+        "unifyName": "安管人员-换证申报",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117008000",
+        "rightsId": "8794B3AA86F79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6rhR9wPgR-mXJUz_e1eJew",
+        "unifyName": "安管人员-人员简单变更",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117008000",
+        "rightsId": "8794B3AA86F79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "KJSkOuGBSD2qGIuGuKqNrg",
+        "unifyName": "安管人员-调出外省",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117008000",
+        "rightsId": "8794B3AA86F79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "xRuFzDU9Qz2eAM5s_EGonw",
+        "unifyName": "安管人员-外省调入",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000117014000",
+        "rightsId": "8794B3AA86FD9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "5a5e8ab688e44a6486f685bdadf2f57b",
+        "unifyName": "城市建筑垃圾运输核准首次申请",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117014000",
+        "rightsId": "8794B3AA86FD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "023d6f9ad45340c58ceddbabbc36d51a",
+        "unifyName": "城市建筑垃圾运输核准有效期届满申请延续",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117014000",
+        "rightsId": "8794B3AA86FD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c303933d9ae74159a7ae7a174c99773c",
+        "unifyName": "城市建筑垃圾运输核准申请变更企业名称、法定代表人、注册地址、经营范围",
+        "ywCode": "12"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117014000",
+        "rightsId": "8794B3AA86FD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cf9662802e1e41b3a4963ca1ee9c3d55",
+        "unifyName": "城市建筑垃圾运输核准申请变更运输工具数量及标识号",
+        "ywCode": "13"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000117014000",
+        "rightsId": "8794B3AA86FD9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "0b0c262a3fb1446983aac550abbadbb5",
+        "unifyName": "城市建筑垃圾处置核准首次申请",
+        "ywCode": "14"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117014000",
+        "rightsId": "8794B3AA86FD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "74477cef12704e79a3920dde4dd6ed5e",
+        "unifyName": "城市建筑垃圾处置核准有效期届满申请延续",
+        "ywCode": "15"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117014000",
+        "rightsId": "8794B3AA86FD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fe6809de1fa84ed0a0232fc0cabd9f4e",
+        "unifyName": "城市建筑垃圾处置核准申请变更经营主体、法定代表人、注册地址",
+        "ywCode": "16"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117014000",
+        "rightsId": "8794B3AA86FD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3f6182fff0aa484b8f31879bf26b69bb",
+        "unifyName": "城市建筑垃圾处置核准申请变更处理内容",
+        "ywCode": "17"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000117014000",
+        "rightsId": "8794B3AA86FD9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "26268c2dd1584025afc0fa4807df75f1",
+        "unifyName": "城市建筑垃圾产生核准首次申请",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117014000",
+        "rightsId": "8794B3AA86FD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f0a9b918f5ee4193b82c1a3ee342c8ae",
+        "unifyName": "城市建筑垃圾产生核准有效期届满申请延续",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117014000",
+        "rightsId": "8794B3AA86FD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ecee47a3ab7640e4a45703d6983418c2",
+        "unifyName": "城市建筑垃圾产生核准申请变更产生种类及数量",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117014000",
+        "rightsId": "8794B3AA86FD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "322540b8f739422ab59cde18d7bab1bb",
+        "unifyName": "城市建筑垃圾产生核准申请变更产生周期",
+        "ywCode": "07"
+      }
+    ],
+    "pageIndex": 2,
+    "pageSize": 50,
+    "total": 352,
+    "totalPage": 8
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

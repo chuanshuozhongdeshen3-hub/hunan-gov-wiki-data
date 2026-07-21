@@ -1,0 +1,518 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105014000",
+        "rightsId": "8794B3AA85849492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9a3bc3df117547c5b92b65aac36f0b27",
+        "unifyName": "校车使用许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000106001000",
+        "rightsId": "8794B3AA85929492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "858b7ec2991e4470a9aa0cee0ba5888b",
+        "unifyName": "实验动物使用许可证核发",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000106001000",
+        "rightsId": "8794B3AA85929492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bce01216a76f4c969c42f5140fa0b66f",
+        "unifyName": "实验动物许可证变更",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000106001000",
+        "rightsId": "8794B3AA85929492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "UlGpQJ67RySzXXf50q5Z0g",
+        "unifyName": "实验动物许可证注销",
+        "ywCode": "04"
+      },
+      {
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107007000",
+        "rightsId": "8794B3AA859D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2af9d11868e84581b8f12912a606ec96",
+        "unifyName": "民用爆炸物品安全生产许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107009000",
+        "rightsId": "8794B3AA859F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "44e643be945145498a5983800f80c70c",
+        "unifyName": "民用爆炸物品销售许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107010000",
+        "rightsId": "8794B3AA85A09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "be6737496b9e4369b449b392c3e68025",
+        "unifyName": "食盐定点生产企业证书核发换发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107010000",
+        "rightsId": "8794B3AA85A09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8b94f035e5614892af0f0968f7460e36",
+        "unifyName": "食盐定点生产企业证书补发",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107010000",
+        "rightsId": "8794B3AA85A09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ed42a139bf244799863efb0c8c2c4866",
+        "unifyName": "食盐定点生产企业证书注销",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107011000",
+        "rightsId": "8794B3AA85A19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "30fa36b1bd4640cd911795cb87773007",
+        "unifyName": "食盐定点批发企业证书核发换发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107011000",
+        "rightsId": "8794B3AA85A19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "170009ccfdd842a592cf5dbf2f742aea",
+        "unifyName": "食盐定点批发企业证书变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107011000",
+        "rightsId": "8794B3AA85A19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4368f2baf09443bfaf23c157c868446d",
+        "unifyName": "食盐定点批发企业证书补发",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107011000",
+        "rightsId": "8794B3AA85A19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1b08dc19d6684626a9409d91a873fa08",
+        "unifyName": "食盐定点批发企业证书注销",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109115001",
+        "rightsId": "38b153b5c5c9446e9ff2bcf965780eda",
+        "transactLevel": "0",
+        "unifyId": "d4T53t19ReeqiqvW2CMmmA",
+        "unifyName": "首次申请（营业性爆破作业单位许可）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109115001",
+        "rightsId": "38b153b5c5c9446e9ff2bcf965780eda",
+        "transactLevel": "0",
+        "unifyId": "9cZ778SeS6WG8MRcQDPG_A",
+        "unifyName": "有效期届满换发申请、资质升级 （营业性爆破作业单位）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109115001",
+        "rightsId": "38b153b5c5c9446e9ff2bcf965780eda",
+        "transactLevel": "0",
+        "unifyId": "wDaLIPljQuOuFOVmKkW1GQ",
+        "unifyName": "变更法定代表人、技术负责人、单位名称、单位地址换发申请 (营业性爆破作业单位)",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109115001",
+        "rightsId": "38b153b5c5c9446e9ff2bcf965780eda",
+        "transactLevel": "0",
+        "unifyId": "Ve6BQMO8QE-2jM8b4evOUA",
+        "unifyName": "营业性爆破作业单位变更法定代表人",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109115001",
+        "rightsId": "38b153b5c5c9446e9ff2bcf965780eda",
+        "transactLevel": "0",
+        "unifyId": "ba99MbywRTCfrUiVBMfgKA",
+        "unifyName": "营业性爆破作业单位变更技术负责人",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109115001",
+        "rightsId": "38b153b5c5c9446e9ff2bcf965780eda",
+        "transactLevel": "0",
+        "unifyId": "Hr3EAJPUSKina9LqWmnoPg",
+        "unifyName": "营业性爆破作业单位变更单位地址",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109115002",
+        "rightsId": "7a802c4a726d478794329f3cdd4984d0",
+        "transactLevel": "0",
+        "unifyId": "gpki4JIpQYqEae-0jgHiBQ",
+        "unifyName": "首次申请 （非营业性爆破作业单位许可）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109115002",
+        "rightsId": "7a802c4a726d478794329f3cdd4984d0",
+        "transactLevel": "0",
+        "unifyId": "kAwtR5nHSlaWbNIsV_mjAQ",
+        "unifyName": "有效期届满换发申请（非营业性爆破作业单位）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109115002",
+        "rightsId": "7a802c4a726d478794329f3cdd4984d0",
+        "transactLevel": "0",
+        "unifyId": "Rk-3UE7hRzqc9OHQawARLg",
+        "unifyName": "变更法定代表人、技术负责人、单位名称、单位地址换发申请（非营业性爆破作业单位）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109119000",
+        "rightsId": "3515eccee48947b8802cfafdbdfa65c9",
+        "transactLevel": "0",
+        "unifyId": "37b3a7b8881e411abea14471391c92cb",
+        "unifyName": "民用爆炸物品运输许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109122001",
+        "rightsId": "d7f37f7dd0f14d5dbfad5fb477864c2b",
+        "transactLevel": "0",
+        "unifyId": "Y1NrdIcJSaGekIRJBflWsA",
+        "unifyName": "举办Ⅱ级（含）以上大型焰火燃放活动许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109122002",
+        "rightsId": "59fd80af7ac4487ca454cc694ebe5b60",
+        "transactLevel": "0",
+        "unifyId": "fHnRk0kASQGoYXhBC1LUTQ",
+        "unifyName": "举办Ⅲ级（含）以下大型焰火燃放活动许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109123005",
+        "rightsId": "ebbc6be1ae2643178f13376d02a91af8",
+        "transactLevel": "1",
+        "unifyId": "xOKzpoR1QBWBEQZFpQLhUg",
+        "unifyName": "通过道路运输其他放射性物品许可（县级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109125000",
+        "rightsId": "9c56bcd52cbc42e8926bb2d8e4a909e5",
+        "transactLevel": "0",
+        "unifyId": "NU2QpStMRHiRbxUjl44Bzw",
+        "unifyName": "剧毒化学品购买许可",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109127000",
+        "rightsId": "ff5db2c96d1d4bda863404a280977e41",
+        "transactLevel": "0",
+        "unifyId": "9fe34c53eaca43d8a4ef537188213785",
+        "unifyName": "旅馆业特种行业许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000109128001",
+        "rightsId": "4bf3ed966e6c412a959651aae58b3848",
+        "transactLevel": "3",
+        "unifyId": "wpreS985TgCzZBTkG8hpxw",
+        "unifyName": "弩制造许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000109128003",
+        "rightsId": "4197c21ff50c4ea092c4068c5cfc1c53",
+        "transactLevel": "3",
+        "unifyId": "Vb1rGbuXQ3KWAFsLwl8lNA",
+        "unifyName": "弩购置许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000109128004",
+        "rightsId": "e6420080a1ff49268bd84843f824d0ac",
+        "transactLevel": "3",
+        "unifyId": "eXAruhSLTQalWUQZJubAEA",
+        "unifyName": "弩进口许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000109128005",
+        "rightsId": "fa821e2f7bf24e0497d1f29afcf58606",
+        "transactLevel": "3",
+        "unifyId": "o1A-cU8-Q-OjqmBV3VB_5A",
+        "unifyName": "弩运输许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109134001",
+        "rightsId": "7575dc8e5cc54290beafeb2afc0873fd",
+        "transactLevel": "0",
+        "unifyId": "CFoGuD6_QEWxz-SipNsMAg",
+        "unifyName": "购买第一类中的非药品类易制毒化学品许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109134002",
+        "rightsId": "313f3e504a5f433a925ccd0b7c648bdf",
+        "transactLevel": "0",
+        "unifyId": "DiWch47tTHCAqlrHw1vbAA",
+        "unifyName": "购买第二类易制毒化学品许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109134003",
+        "rightsId": "c05d02a8ed2f4e81b6633ccc8a2443ab",
+        "transactLevel": "0",
+        "unifyId": "A0N2oq2PQZSIYA2RomwoSw",
+        "unifyName": "购买第三类易制毒化学品许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109136001",
+        "rightsId": "af960594538340f4afae49f1102731fd",
+        "transactLevel": "0",
+        "unifyId": "rkzSrfl-QBGUY-p7xwGFEg",
+        "unifyName": "运输第一类易制毒化学品许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109136002",
+        "rightsId": "c1d9b49e1dea4a5480e07dc470e571cc",
+        "transactLevel": "0",
+        "unifyId": "u19LknFdS4WrYb8h0f0EOw",
+        "unifyName": "运输第二类易制毒化学品许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109136003",
+        "rightsId": "956e1f4733de4cbc8c10f812a46a6659",
+        "transactLevel": "0",
+        "unifyId": "-ndDyU-eT66XeMHPqP83og",
+        "unifyName": "运输第三类易制毒化学品许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109141004",
+        "rightsId": "fb10faf253b6439387c5a4347677fda9",
+        "transactLevel": "0",
+        "unifyId": "BNky_VsAQaSttWX6X0Fy4Q",
+        "unifyName": "申请特型车临时号牌",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109143005",
+        "rightsId": "4ee641b34a4f42b99da9b128f0007443",
+        "transactLevel": "0",
+        "unifyId": "o4aBbF3xTpipvtJbZanJPw",
+        "unifyName": "免检车申领检验合格标志",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111008000",
+        "rightsId": "8794B3AA86159492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2c51ca4b75154193b920885195992f18",
+        "unifyName": "建设殡仪馆审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111008000",
+        "rightsId": "8794B3AA86159492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b4a84277ea974458a3340984ce36fb02",
+        "unifyName": "建设火葬场审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000111013000",
+        "rightsId": "8794B3AA861E9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "4d701a387f354699becf1fc0ca65ca5f",
+        "unifyName": "公开募捐资格审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111016000",
+        "rightsId": "e250cdf010454a3292fc8d810f8e473c",
+        "transactLevel": "0",
+        "unifyId": "74c324caef004d77a3330626e67cbe62",
+        "unifyName": "建设殡仪服务站审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111016000",
+        "rightsId": "e250cdf010454a3292fc8d810f8e473c",
+        "transactLevel": "0",
+        "unifyId": "18dfd916c43b4faa8e1f23f10d9d5332",
+        "unifyName": "建设骨灰堂审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111017000",
+        "rightsId": "180321487b624b63a1c0a64226578280",
+        "transactLevel": "0",
+        "unifyId": "2459e5510c02410881524d8c87660054",
+        "unifyName": "建设经营性公墓审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111018000",
+        "rightsId": "6b139c85e8fe4c14bca266dfd7190bf8",
+        "transactLevel": "0",
+        "unifyId": "7202e4f2a3ca451883eecfbce0f46988",
+        "unifyName": "建设农村公益性墓地审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000113001000",
+        "rightsId": "4118401d0c2444eb9c0af8be61a6ba4f",
+        "transactLevel": "0",
+        "unifyId": "7717ca43cd42457a8f29d269d8d838c6",
+        "unifyName": "境外会计师事务所来内地临时办理审计业务审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000114002001",
+        "rightsId": "8794B3AA86389492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "05243946a3734177aba8e0c28386d2a9",
+        "unifyName": "技工学校筹设",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000114005001",
+        "rightsId": "8794B3AA863E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d7460ff6c1f34017baa4ca0eb065387f",
+        "unifyName": "中外合作职业技能培训项目设立审批",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 503,
+    "totalPage": 11
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

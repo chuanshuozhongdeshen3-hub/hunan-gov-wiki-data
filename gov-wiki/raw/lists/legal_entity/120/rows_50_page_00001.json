@@ -1,0 +1,197 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105005000",
+        "rightsId": "8794B3AA857B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "def5d1fcfeea46d88fa4c54ede6723fa",
+        "unifyName": "地方政府主管的高等学校及其他高等教育机构章程核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105006000",
+        "rightsId": "8794B3AA857C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "218297a644764d059e601ff91f07c1ec",
+        "unifyName": "开办外籍人员子女学校审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105010000",
+        "rightsId": "8794B3AA85809492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "251bf314b6044e038dd10af6e07bda6c",
+        "unifyName": "中小学地方课程教材审定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105012000",
+        "rightsId": "8794B3AA85829492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a0664d2bcd084fa98f232a53ab885fe0",
+        "unifyName": "地方性中小学教学地图审定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105024000",
+        "rightsId": "8794B3AA858E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1312cb60ec024d8db2a0b9b920dba15a",
+        "unifyName": "学士学位授予单位审核",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000114004001",
+        "rightsId": "8794B3AA863C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "936275e1960a4971ba130401c522da34",
+        "unifyName": "中外合作职业技能培训机构设立、分立、合并、变更及终止审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122009000",
+        "rightsId": "8794B3AA89009492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "XYSbiUg3QxO67GIOK1VJjQ",
+        "unifyName": "设立社会艺术水平考级机构审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132041000",
+        "rightsId": "8794B3AA8A389492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "acb9f8fe4865493080b7894fd7f7130f",
+        "unifyName": "县级广播电台、电视台变更台名、节目设置范围或节目套数审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132043000",
+        "rightsId": "8794B3AA8A3A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Be-lDIScQterSXTsJ1S7Lg",
+        "unifyName": "信息网络传播视听节目许可证到期续证",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132043000",
+        "rightsId": "8794B3AA8A3A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ASk5EF4GTZyr85Fu8xze7w",
+        "unifyName": "其他单位信息网络传播视听节目许可证的审核转报",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133001000",
+        "rightsId": "8794B3AA8A439492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cf9b91b699214e9ba015f6943f628084",
+        "unifyName": "从事射击竞技体育运动单位审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000722006000",
+        "rightsId": "8794B3AA906C9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "VEqvz98kTmKm-XW-dsuuGA",
+        "unifyName": "对非物质文化遗产项目保护单位的组织推荐评审认定",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430133001W00",
+        "rightsId": "faJ8v1BfRZqfSwhq0qGPEA",
+        "transactLevel": "0",
+        "unifyId": "z4cw4VxUTKqDa1J7XGiUGA",
+        "unifyName": "举办高危险性体育赛事活动许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039053W00",
+        "rightsId": "70F599A565ECABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "2053e3a84aab44848cc40fca1872c188",
+        "unifyName": "音像制品版号发放",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039064W00",
+        "rightsId": "70F599A5589EABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "df84e2ac82f84822b894e94d1a918cfc",
+        "unifyName": "报刊休刊备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068012W00",
+        "rightsId": "cwCZ-LovTs63lI223p7wmw",
+        "transactLevel": "0",
+        "unifyId": "3de77d2f7bee4f1e8822b4978949eba6",
+        "unifyName": "博物馆设立备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068012W00",
+        "rightsId": "cwCZ-LovTs63lI223p7wmw",
+        "transactLevel": "0",
+        "unifyId": "42e4ac760bb4447cbb347abdb798aea0",
+        "unifyName": "博物馆终止备案",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432022303W00",
+        "rightsId": "9829CA1E6AF611E2E053681515AC9879",
+        "transactLevel": "0",
+        "unifyId": "cf83b912f1f24f4bb1094c5d51bc8e58",
+        "unifyName": "艺术创作，对外交流辅导、培训",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 18,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

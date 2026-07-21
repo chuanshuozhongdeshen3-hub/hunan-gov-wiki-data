@@ -1,0 +1,459 @@
+{
+  "datas": [
+    {
+      "id": "73258da9f3a14f4a81ae4b53aca746ba",
+      "_title": "医疗器械网络交易服务第三方平台备案注销",
+      "name": "医疗器械网络交易服务第三方平台备案注销",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431031104W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "332ba44c9ba04c38bf2a3cdb77ec7001",
+      "_title": "进口蛋白同化制剂、肽类激素审批",
+      "name": "进口蛋白同化制剂、肽类激素审批",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000172024000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "S0nl2T6zSbufYrspIkaONw",
+      "_title": "航行通（警）告办理",
+      "name": "航行通（警）告办理",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "001018001000",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "3c4f91ee0c8e4dde90f3f83d09705193",
+      "_title": "单位（项目）工伤保险基本信息变更",
+      "name": "单位（项目）工伤保险基本信息变更",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "002014007003",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "c8969fee5cf5468180237425cbc70c3e",
+      "_title": "社会团体成立预登记",
+      "name": "社会团体成立预登记",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000111001000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "d31c11d19864419887306c47cc0eba6f",
+      "_title": "中等职业学校教师资格认定",
+      "name": "中等职业学校教师资格认定",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000105013003",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "zScrqEE0RYyTmz90mWq30w",
+      "_title": "改造人防通信设施审批",
+      "name": "改造人防通信设施审批",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "430199003W01",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "a4efe3e6b3f94335a2711b4428661da3",
+      "_title": "期刊出版单位在同一登记地内变更地址备案",
+      "name": "期刊出版单位在同一登记地内变更地址备案",
+      "type": "approve",
+      "yw_code": "09",
+      "rights_code": "431039077W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "FixnaBNoSQGPqbWT8Kx4Sw",
+      "_title": "建设项目环境影响评价审批（工改项目）",
+      "name": "建设项目环境影响评价审批（工改项目）",
+      "type": "approve",
+      "yw_code": "09",
+      "rights_code": "000116055000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "FsaI_JgkS-Cb0pq6bHolGQ",
+      "_title": "乡村建设规划许可注销（县级权限）",
+      "name": "乡村建设规划许可注销（县级权限）",
+      "type": "approve",
+      "yw_code": "09",
+      "rights_code": "000115010000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "5f1b9b40a0c1419c88fd71fb19874f46",
+      "_title": "绿心融合发展区建设项目准入审核",
+      "name": "绿心融合发展区建设项目准入审核",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431004127W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "J7UDFhN9StevN5ZlO366QQ",
+      "_title": "麻醉药品和第一类精神药品购用许可（变更）",
+      "name": "麻醉药品和第一类精神药品购用许可（变更）",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000123015000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "Bbv5_EQ_QzqmTIusUi1srw",
+      "_title": "孤儿救助资格认定",
+      "name": "孤儿救助资格认定",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000711019000",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "CtcqptyWRCKrO4mOYKurBQ",
+      "_title": "林木采伐许可证核发",
+      "name": "林木采伐许可证核发",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000164120000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "9LZIuz8qTl2DkKVy5cG6Cg",
+      "_title": "除利用新材料、新工艺和新化学物质生产的进口涉及饮用水卫生安全产品的卫生行政许可（注销）",
+      "name": "除利用新材料、新工艺和新化学物质生产的进口涉及饮用水卫生安全产品的卫生行政许可（注销）",
+      "type": "approve",
+      "yw_code": "09",
+      "rights_code": "000123017001",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "dweY4B8ZSOK-uoK9ppAxGw",
+      "_title": "民办非企业单位印章备案",
+      "name": "民办非企业单位印章备案",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "431011075W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "8YtHLHEORfuSwN-VAebCOw",
+      "_title": "民办非企业单位账户备案",
+      "name": "民办非企业单位账户备案",
+      "type": "approve",
+      "yw_code": "06",
+      "rights_code": "431011075W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "209038410dce47cbaac5ee96111d043c",
+      "_title": "举办台湾地区的文艺表演团体、个人参加的营业性演出审批",
+      "name": "举办台湾地区的文艺表演团体、个人参加的营业性演出审批",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000122024000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "ff953c58febc422dbd93eedf9feed31c",
+      "_title": "医师执业备案（注册备案）",
+      "name": "医师执业备案（注册备案）",
+      "type": "approve",
+      "yw_code": "05",
+      "rights_code": "000123012000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "6a3e451f73e84ec989e08e16cef4de15",
+      "_title": "医师执业变更注册（变更主执业机构）",
+      "name": "医师执业变更注册（变更主执业机构）",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "000123012000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "7abe46649e724276bcbd60a7da853e86",
+      "_title": "演出经纪机构从事营业性演出经营活动延续的审批",
+      "name": "演出经纪机构从事营业性演出经营活动延续的审批",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "000122020000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "SpD9f2OYRDqaV7Vom5Xswg",
+      "_title": "社会团体机构备案",
+      "name": "社会团体机构备案",
+      "type": "approve",
+      "yw_code": "07",
+      "rights_code": "431011062W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "75d7647f4f6640b4a4564fee92207732",
+      "_title": "企业纳税缴税情况信息核查",
+      "name": "企业纳税缴税情况信息核查",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431030001W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "92ba6a8297bb481d911359f60c51522f",
+      "_title": "孤儿、事实无人抚养儿童相关福利政策咨询",
+      "name": "孤儿、事实无人抚养儿童相关福利政策咨询",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "432011703W00",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "5dcc14e3949144b69ff5ca7617b15a90",
+      "_title": "电子出版物制作单位变更审批",
+      "name": "电子出版物制作单位变更审批",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000139015000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "211af703a5444b7481117f3695391c24",
+      "_title": "出版物出版单位年度核验",
+      "name": "出版物出版单位年度核验",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431039074W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "bb89c4b8cd9f4d68a801d153e8c928e3",
+      "_title": "音像出版单位变更地址备案",
+      "name": "音像出版单位变更地址备案",
+      "type": "approve",
+      "yw_code": "10",
+      "rights_code": "431039077W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "NfOxAM2oShGKcoE-fe7xzw",
+      "_title": "森林防火期内进入森林防火区进行实弹演习、爆破等活动审批",
+      "name": "森林防火期内进入森林防火区进行实弹演习、爆破等活动审批",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000164150000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "ef22b64d11d441fba52cdeae37e55607",
+      "_title": "音像出版单位变更法定代表人或主要负责人备案",
+      "name": "音像出版单位变更法定代表人或主要负责人备案",
+      "type": "approve",
+      "yw_code": "05",
+      "rights_code": "431039077W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "05d1d92ace8b4643912a291a3d207e2e",
+      "_title": "所有人名下机动车基本信息查询",
+      "name": "所有人名下机动车基本信息查询",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "432009207W00",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "EEd2vtqVR6OxE-aydt9NVA",
+      "_title": "《爆破作业人员许可证》变更工作单位申请换发",
+      "name": "《爆破作业人员许可证》变更工作单位申请换发",
+      "type": "approve",
+      "yw_code": "04",
+      "rights_code": "000109117000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "w-jtHBT2TgmAbvUxFS3P9w",
+      "_title": "涉外统计调查机构资格认定",
+      "name": "涉外统计调查机构资格认定",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000134001000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "6dwa8PUrRBunRHR4cRQNPg",
+      "_title": "边境管理区通行证核发",
+      "name": "边境管理区通行证核发",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "00016301300Y",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "3d4c2dcb5fb7472f9aa35f6817cf0469",
+      "_title": "外国人口岸签证办理权",
+      "name": "外国人口岸签证办理权",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431009124W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "NU2QpStMRHiRbxUjl44Bzw",
+      "_title": "剧毒化学品购买许可",
+      "name": "剧毒化学品购买许可",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000109125000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "4Vdx03XMTlqLoePQ6zRRNw",
+      "_title": "住房公积金单位缴存登记信息变更",
+      "name": "住房公积金单位缴存登记信息变更",
+      "type": "approve",
+      "yw_code": "09",
+      "rights_code": "432017003W00",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "Irq_oGV3SZy3OZ0SkL-24A",
+      "_title": "住房公积金个人住房贷款提前还款",
+      "name": "住房公积金个人住房贷款提前还款",
+      "type": "approve",
+      "yw_code": "08",
+      "rights_code": "432017002W00",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "ac2a3ddd439b4c03ab2830498b404c0f",
+      "_title": "静脉输注核准申请",
+      "name": "静脉输注核准申请",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431023130W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "7ba7366822cb4b079a368e2e11905a7b",
+      "_title": "地役权首次登记",
+      "name": "地役权首次登记",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000715001013",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "EAcSM607SOGtWgk045y9-w",
+      "_title": "乡（镇）村企业使用集体建设用地审批（设区的市级权限）",
+      "name": "乡（镇）村企业使用集体建设用地审批（设区的市级权限）",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "000115006000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "137d9730c56e4fd68845a5bda1747e82",
+      "_title": "建设项目压覆战略性矿产资源审批",
+      "name": "建设项目压覆战略性矿产资源审批",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000115018000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "Zl6asJ14SzCcXbAwYTHUXg",
+      "_title": "建设工程规划许可延期（县级权限）",
+      "name": "建设工程规划许可延期（县级权限）",
+      "type": "approve",
+      "yw_code": "15",
+      "rights_code": "000117011000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "9e4524481ec1464ebf81fe9660d54d48",
+      "_title": "企业工伤保险信息补录",
+      "name": "企业工伤保险信息补录",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "002014007002",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "ee91dbb7f01740df8eb09ed093fd9b71",
+      "_title": "社会保障卡挂失",
+      "name": "社会保障卡挂失",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "002014010007",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "28ad49e761b4486f92e420d2fb48ed25",
+      "_title": "对在档案工作中做出显著成绩的单位和个人的表彰或者奖励",
+      "name": "对在档案工作中做出显著成绩的单位和个人的表彰或者奖励",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000875001000",
+      "type_name": "行政奖励"
+    },
+    {
+      "id": "f0984f53e4f14833b6553c2821d2b6b5",
+      "_title": "医疗事故争议调解申请",
+      "name": "医疗事故争议调解申请",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431023114W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "fuh4gd_URIW_ddkjSdx6Xw",
+      "_title": "农村村民住宅建设规划许可变更",
+      "name": "农村村民住宅建设规划许可变更",
+      "type": "approve",
+      "yw_code": "10",
+      "rights_code": "000115010000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "43TC1700200Y",
+      "_title": "经营性项目验收开业“一件事”",
+      "name": "经营性项目验收开业“一件事”",
+      "type": "theme",
+      "yw_code": "",
+      "rights_code": "",
+      "type_name": "高效办成一件事"
+    },
+    {
+      "id": "Wa33oaYgRW24hFxdXruQjg",
+      "_title": "城市道路照明设施拆除、迁移（临时迁移、永久迁移）",
+      "name": "城市道路照明设施拆除、迁移（临时迁移、永久迁移）",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "431017194W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "a188ade6f65b4e8cb01d9f7049a1bc87",
+      "_title": "劳动能力再次鉴定申请",
+      "name": "劳动能力再次鉴定申请",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "002014007006",
+      "type_name": "公共服务"
+    }
+  ],
+  "total": 3184,
+  "pageTotal": 177,
+  "pageIndex": 18,
+  "pageSize": 50,
+  "highlight_words": []
+}

@@ -1,0 +1,523 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000123004000",
+        "rightsId": "8794B3AA891B9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "589c110f716f4422a19fb0f35b14e9dd",
+        "unifyName": "医疗机构执业登记（新发)",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000123004000",
+        "rightsId": "8794B3AA891B9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "01e17f2cef9f462189eda8024abf23cd",
+        "unifyName": "医疗机构执业登记（变更）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123005000",
+        "rightsId": "8794B3AA891C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3yIDlJs2RS-h_JI9BDddoA",
+        "unifyName": "血站设立及执业审批（脐带血造血干细胞库设置除外）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123006000",
+        "rightsId": "8794B3AA891D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "VCF4MnDwR0S0FyhfQyHbNA",
+        "unifyName": "单采血浆站设置审批及许可证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123006000",
+        "rightsId": "8794B3AA891D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "czq_j3hFTGanoYd473bqQw",
+        "unifyName": "单采血浆站许可（变更）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123008000",
+        "rightsId": "8794B3AA891F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "add1ba0df71b479ea60182d7895eb836",
+        "unifyName": "医疗机构开展人类辅助生殖技术许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123009000",
+        "rightsId": "8794B3AA89209492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7a381920614047da8518c684d369e5a6",
+        "unifyName": "医疗机构设置人类精子库审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000123015000",
+        "rightsId": "8794B3AA89269492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "uxiGiWu0TE2PnXbWHPZauQ",
+        "unifyName": "麻醉药品和第一类精神药品购用许可-告知承诺制",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000123016000",
+        "rightsId": "8794B3AA89279492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "0f7338626efe40acaf1b697982ef6ba2",
+        "unifyName": "医疗广告审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123017001",
+        "rightsId": "8794B3AA89299492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3996eae521584624a91d9fe6400ee400",
+        "unifyName": "除利用新材料、新工艺和新化学物质生产的国产涉及饮用水卫生安全产品的卫生行政许可（延续）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123017001",
+        "rightsId": "8794B3AA89299492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d0a18cc28dd04648b956b8b653417f74",
+        "unifyName": "除利用新材料、新工艺和新化学物质生产的国产涉及饮用水卫生安全产品的卫生行政许可（变更）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123017001",
+        "rightsId": "8794B3AA89299492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7d6cf1fe9f4a41ee962bbd33221820ff",
+        "unifyName": "除利用新材料、新工艺和新化学物质生产的国产涉及饮用水卫生安全产品的卫生行政许可（补发）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123017001",
+        "rightsId": "8794B3AA89299492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a63adcd9426040c99a64657df09f30c6",
+        "unifyName": "除利用新材料、新工艺和新化学物质生产的国产涉及饮用水卫生安全产品的卫生行政许可（注销）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123018000",
+        "rightsId": "8794B3AA892C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0ece84e0358741b9ae571b8b12c7ef0b",
+        "unifyName": "饮用水供水单位卫生许可（新发）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123019000",
+        "rightsId": "8794B3AA892D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "y2pBRP5hRmCtaxG-Mv5JIQ",
+        "unifyName": "生产用于传染病防治的消毒产品的单位审批（新发）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123019000",
+        "rightsId": "8794B3AA892D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "onhObQ5yR3yONsvzIVYKSw",
+        "unifyName": "生产用于传染病防治的消毒产品的单位审批（延续）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123019000",
+        "rightsId": "8794B3AA892D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ELXfs9GjTU6r_ofhFgzd0w",
+        "unifyName": "生产用于传染病防治的消毒产品的单位审批（变更）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123019000",
+        "rightsId": "8794B3AA892D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "monQQLfjTmOhYFYvOw0EUg",
+        "unifyName": "生产用于传染病防治的消毒产品的单位审批（注销）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123019000",
+        "rightsId": "8794B3AA892D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5a9ouD5JTKyIvrkbE6nfPA",
+        "unifyName": "生产用于传染病防治的消毒产品的单位审批（补发）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123019000",
+        "rightsId": "8794B3AA892D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "_-1rl--WT_CshoDe116WMw",
+        "unifyName": "生产用于传染病防治的消毒产品的单位审批（增项）",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fh6qvPH6TweRllbLeiVP9w",
+        "unifyName": "公共场所卫生许可（新发）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "aA9m9AQ9ScKB9oyZosd_JQ",
+        "unifyName": "公共场所卫生许可（换证）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "-OrQ6yHDQgWJVrukcWG2lg",
+        "unifyName": "公共场所卫生许可（变更）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6A3Nqn3SSp2hevBBEJFSOg",
+        "unifyName": "公共场所卫生许可（补办）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0035618e34d44e49b3aa1e550c4cc34b",
+        "unifyName": "公共场所卫生许可（注销）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4478a42c6ed548e684772636c05e394e",
+        "unifyName": "公共场所卫生许可-告知承诺",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123022000",
+        "rightsId": "8794B3AA89309492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5e8ad198c9b046f9bf33e1f3ac95d856",
+        "unifyName": "放射源诊疗技术和医用辐射机构许可（增项）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123022000",
+        "rightsId": "8794B3AA89309492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "14cbcd66b9e44d1f860fc36e3abf0692",
+        "unifyName": "放射源诊疗技术和医用辐射机构许可（补办）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123028000",
+        "rightsId": "8794B3AA89369492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b3a9UrYjSUC2WBQkS0jxTg",
+        "unifyName": "高致病性或疑似高致病性病原微生物实验活动审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123035000",
+        "rightsId": "8794B3AA893D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6ec9935e3a5442398e593c18aa442dff",
+        "unifyName": "乙类大型医用设备配置许可证（核发）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123035000",
+        "rightsId": "8794B3AA893D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "yuaPUkMIR1Kje0BdEMu22w",
+        "unifyName": "乙类大型医用设备配置许可证（变更）",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123035000",
+        "rightsId": "8794B3AA893D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "wAoaL2F5RZu2gQWm9S7ULA",
+        "unifyName": "乙类大型医用设备配置许可证（社会办医疗机构）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123035000",
+        "rightsId": "8794B3AA893D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "jcwz9DPxRJWGgowsw6D6eA",
+        "unifyName": "乙类大型医用设备配置许可证（许可）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123043000",
+        "rightsId": "d0b54eae73b14ba0b1da931ded41f886",
+        "transactLevel": "0",
+        "unifyId": "w5eHY3oASFOAThPBB97TUQ",
+        "unifyName": "中医医疗广告发布审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000123044000",
+        "rightsId": "502747b7254042cd983ab72b41716580",
+        "transactLevel": "1",
+        "unifyId": "879c34bbf4c74f5ba7cdd12fb59875f3",
+        "unifyName": "义诊活动备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172002000",
+        "rightsId": "8794B3AA8E499492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "095f704a6bc94bc68dd73079928e8583",
+        "unifyName": "医疗机构配制制剂品种注册",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172024000",
+        "rightsId": "8794B3AA8E5F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "332ba44c9ba04c38bf2a3cdb77ec7001",
+        "unifyName": "进口蛋白同化制剂、肽类激素审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172024000",
+        "rightsId": "8794B3AA8E5F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "tV8kIyAPRweh9HE4Ym6zyg",
+        "unifyName": "出口蛋白同化制剂、肽类激素审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172052005",
+        "rightsId": "1845657c37b2443e8795f45f0c4a0326",
+        "transactLevel": "0",
+        "unifyId": "JqrmituSSTOvXvhDCTqNqg",
+        "unifyName": "从国外进口实施审批管理的药材",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172052005",
+        "rightsId": "1845657c37b2443e8795f45f0c4a0326",
+        "transactLevel": "0",
+        "unifyId": "d2b66UqwSz-u1ijDHEdlaw",
+        "unifyName": "一次性进口药品",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172052006",
+        "rightsId": "b93f57e2dbc0421ab9ba341dacdbd90f",
+        "transactLevel": "0",
+        "unifyId": "mVFFQExrS2m9iRBxUqv9bw",
+        "unifyName": "从港澳台进口实施审批管理的药材",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172052006",
+        "rightsId": "b93f57e2dbc0421ab9ba341dacdbd90f",
+        "transactLevel": "0",
+        "unifyId": "NwDfTWG4TsuGoprX6IcbAQ",
+        "unifyName": "港澳台医药产品一次性进口",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000723001000",
+        "rightsId": "8794B3AA90729492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "L0GxnZW_QUidon6UQu_W4A",
+        "unifyName": "医疗机构评审",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000723002000",
+        "rightsId": "8794B3AA90739492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "dpLnvFTIS9-6RlYXCxMG0A",
+        "unifyName": "对传染病病人尸体或者疑似传染病病人的尸体进行解剖查验的批准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000723003000",
+        "rightsId": "8794B3AA90749492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "454298fa0c6640198951a4b23005e087",
+        "unifyName": "尸检机构认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000923001000",
+        "rightsId": "8794B3AA91F19492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "51dd88baf533433b8407c0a360924764",
+        "unifyName": "医疗机构名称裁定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "001031001000",
+        "rightsId": "f5f3b44898954289a541206ef7e4cff8",
+        "transactLevel": "2",
+        "unifyId": "b482475454644e7b9255f6a233b2234e",
+        "unifyName": "国产保健食品备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431023005W00",
+        "rightsId": "qQue94W4QImTBAM8DLvsJg",
+        "transactLevel": "0",
+        "unifyId": "RU_XBh3hT2qWVto2MVnyEg",
+        "unifyName": "消毒产品卫生安全评价报告备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431023015W00",
+        "rightsId": "j6gZg1w8QcyLG7u078jn9Q",
+        "transactLevel": "0",
+        "unifyId": "37c1b5f0197543b1af5507770df2ea8b",
+        "unifyName": "购置、使用具有鉴定胎儿性别功能的超声诊断仪和染色体检测等设备的机构备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431023085W00",
+        "rightsId": "Nr-5Lrn6QOyuXTnTr2US9A",
+        "transactLevel": "1",
+        "unifyId": "eccc15464da648fd9747defafcd7cfa7",
+        "unifyName": "中医诊所备案",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 65,
+    "totalPage": 2
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

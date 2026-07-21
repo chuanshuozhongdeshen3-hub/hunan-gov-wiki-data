@@ -1,0 +1,459 @@
+{
+  "datas": [
+    {
+      "id": "0d04b0f3b6ab4459af85587b64155d4f",
+      "_title": "司法鉴定人执业登记",
+      "name": "司法鉴定人执业登记",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000112014000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "oty-jtpbTbCvqgr2N8Ggbw",
+      "_title": "移动式压力容器、气瓶充装许可新办",
+      "name": "移动式压力容器、气瓶充装许可新办",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000131035000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "3ee3660ecac14252ac8f4d302195ca42",
+      "_title": "水利工程质量监督申报手续办理",
+      "name": "水利工程质量监督申报手续办理",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431019063W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "a0d4581ffed34797ba73119ba80bc241",
+      "_title": "文艺表演团体从事营业性演出活动设立的审批",
+      "name": "文艺表演团体从事营业性演出活动设立的审批",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000122015000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "2bc2e8af61784aaaa8567d41eb23f058",
+      "_title": "生猪定点屠宰厂（场）设置审查",
+      "name": "生猪定点屠宰厂（场）设置审查",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000120071000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "4022d3f59c394b43bb70142684cdf05f",
+      "_title": "水运工程监理企业甲级资质许可及资质延续",
+      "name": "水运工程监理企业甲级资质许可及资质延续",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000118014000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "375c48e93a384698a4bf80563017ce65",
+      "_title": "作品自愿登记",
+      "name": "作品自愿登记",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000739001000",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "dce5471eedce4d289aac2aabc5e96289",
+      "_title": "会计师事务所变更备案和执业许可的注销",
+      "name": "会计师事务所变更备案和执业许可的注销",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431013034W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "RfvtLVhTTgudzTw6aUJfaA",
+      "_title": "中外合资经营、中外合作经营、外商独资经营企业互联网上网服务营业场所经营单位从事互联网上网服务经营活动设立的审批",
+      "name": "中外合资经营、中外合作经营、外商独资经营企业互联网上网服务营业场所经营单位从事互联网上网服务经营活动设立的审批",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000122031000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "9872ae39b99f4baa908d93a2481e9164",
+      "_title": "公派出国留学咨询服务",
+      "name": "公派出国留学咨询服务",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "432005601W00",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "fb2e3bebe65c400e845f758be4a0e4de",
+      "_title": "娱乐场所经营单位备案",
+      "name": "娱乐场所经营单位备案",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431009031W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "8b4854ff59ee4c06bcb032279e04cc61",
+      "_title": "软件和集成电路产业企业所得税优惠事项资料报告",
+      "name": "软件和集成电路产业企业所得税优惠事项资料报告",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "002030010000",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "ed4e86e366f04556b0d70defcae0fa69",
+      "_title": "停业登记",
+      "name": "停业登记",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "001030042000",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "0c5dee29a7fc4d4d8b85fae9a14eca02",
+      "_title": "跨区域涉税事项报告",
+      "name": "跨区域涉税事项报告",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "001030036000",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "TPNwKNaKRFK7vrgm7Xrm9w",
+      "_title": "持证收购出售利用水生野生动物及产品的备案",
+      "name": "持证收购出售利用水生野生动物及产品的备案",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431020062W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "6DrSAa-TS6e5aAB0D_QPjg",
+      "_title": "船舶变更登记",
+      "name": "船舶变更登记",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000718013000",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "2122888881bd401db052a2a9559239f1",
+      "_title": "外国、香港、澳门律师事务所驻内地或大陆代表机构年度检验",
+      "name": "外国、香港、澳门律师事务所驻内地或大陆代表机构年度检验",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431012047W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "Uc70RZg3Stuk6T_jlK5IQw",
+      "_title": "船舶进出港报告",
+      "name": "船舶进出港报告",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000718008000",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "e8wAkVoFRAupOQwaEGBrow",
+      "_title": "船舶最低安全配员证书核发",
+      "name": "船舶最低安全配员证书核发",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000718006000",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "fn6cLCErTtC_bEM60xoX_A",
+      "_title": "企业投资项目备案（汽车整车（含专用汽车）投资项目除外）",
+      "name": "企业投资项目备案（汽车整车（含专用汽车）投资项目除外）",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431004004W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "R9bKdA1OQqiJI5reP3QGFw",
+      "_title": "城乡居民参保信息变更登记",
+      "name": "城乡居民参保信息变更登记",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "432036006W06",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "458ca46df5af4041a4e1523c63204355",
+      "_title": "专用铁路兼办公共旅客、货物运输营业审批",
+      "name": "专用铁路兼办公共旅客、货物运输营业审批",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431018130W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "5e3b82c44f054c5692d163c2806163be",
+      "_title": "地质灾害评估和治理工程勘查设计乙级资质新立申请审批",
+      "name": "地质灾害评估和治理工程勘查设计乙级资质新立申请审批",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000115015004",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "9155862a062440a38df2fa28198ae1b4",
+      "_title": "广播电视视频点播业务许可证（乙种）审批",
+      "name": "广播电视视频点播业务许可证（乙种）审批",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000132013000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "e1e94673c0cf436191b2e45a40478058",
+      "_title": "有线广播电视传输覆盖网工程建设及验收审核",
+      "name": "有线广播电视传输覆盖网工程建设及验收审核",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000132014000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "146141cc480a486a828b103748b21f54",
+      "_title": "广播电台、电视台以卫星等传输方式进口、转播境外广播电视节目审核",
+      "name": "广播电台、电视台以卫星等传输方式进口、转播境外广播电视节目审核",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000132026000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "dd7a899d4ff047208ac1c2026807588e",
+      "_title": "改变第二类监控化学品使用目的许可",
+      "name": "改变第二类监控化学品使用目的许可",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000107005000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "fh6qvPH6TweRllbLeiVP9w",
+      "_title": "公共场所卫生许可（新发）",
+      "name": "公共场所卫生许可（新发）",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000123020000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "njaLeoXRRvmUEAOE_XS1dQ",
+      "_title": "船舶国籍证书核发",
+      "name": "船舶国籍证书核发",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000118050000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "XEmCjeZhReqe_GsOKMeC4w",
+      "_title": "外商投资的歌舞娱乐场所从事娱乐场所经营活动设立的审批",
+      "name": "外商投资的歌舞娱乐场所从事娱乐场所经营活动设立的审批",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000122014000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "1a8ce1f03a0c4751a6db96382bc12872",
+      "_title": "宗教活动场所异地重建审批",
+      "name": "宗教活动场所异地重建审批",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000141001003",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "b2ac6f53ce044442b2a70eeaf2346690",
+      "_title": "母婴保健技术服务机构执业许可（新发）",
+      "name": "母婴保健技术服务机构执业许可（新发）",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000123001000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "e4bd1af38b1f499c9b62df5117d559db",
+      "_title": "出版物印刷企业经营许可证核发",
+      "name": "出版物印刷企业经营许可证核发",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000139005000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "nB3gAe8-R2iPlHquwTvdoA",
+      "_title": "游艇俱乐部备案",
+      "name": "游艇俱乐部备案",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431018134W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "28cd7ce160a346809fe2c9566ccc9997",
+      "_title": "外国企业常驻代表机构设立登记",
+      "name": "外国企业常驻代表机构设立登记",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000131007000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "bfc51eb43a9e4391862b2fac82f03e84",
+      "_title": "射线装置、放射源或者非密封放射性物质豁免备案证明",
+      "name": "射线装置、放射源或者非密封放射性物质豁免备案证明",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000716010000",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "9247a46b770d468aa9a174cdffdb154e",
+      "_title": "企业职工养老保险单位参保证明查询打印",
+      "name": "企业职工养老保险单位参保证明查询打印",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "002014005001",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "99f103485468485ba9b62f9b04de95bf",
+      "_title": "公众聚集场所投入使用、营业前消防安全检查（一般流程）",
+      "name": "公众聚集场所投入使用、营业前消防安全检查（一般流程）",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000125049000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "l34xlZwdTTmi8jw36o_Miw",
+      "_title": "非煤矿山企业安全生产许可初领",
+      "name": "非煤矿山企业安全生产许可初领",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000125036004",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "315d23da7eb94c3b84919c0754eb8365",
+      "_title": "失业保险职业培训补贴申领",
+      "name": "失业保险职业培训补贴申领",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "002014008003",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "ecdf59418efb4f7caaff3381c7b6f005",
+      "_title": "二级注册建筑师-初始注册",
+      "name": "二级注册建筑师-初始注册",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "001017002002",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "f5a33ed7c87441e8a08aa01fe4b86961",
+      "_title": "一级社会体育指导员技术等级称号授予",
+      "name": "一级社会体育指导员技术等级称号授予",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000733003000",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "40ccaacf0d354a04bb2ff2c2d1b3a2dd",
+      "_title": "年满3周岁从未登记户口公民户口补登",
+      "name": "年满3周岁从未登记户口公民户口补登",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "430709061W00",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "rPTrDAmVT_SgOPaJK64LJA",
+      "_title": "道路危险货物运输及相关业务经营者变更法定代表人、名称、地址等事项备案",
+      "name": "道路危险货物运输及相关业务经营者变更法定代表人、名称、地址等事项备案",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431018191W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "AsqUMPMNR36acTDoLnL-kA",
+      "_title": "公路建设项目施工许可",
+      "name": "公路建设项目施工许可",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000118012000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "E1rrjE8VRGOefejAmG-Hpg",
+      "_title": "设置、前移、撤销 渡口审批",
+      "name": "设置、前移、撤销 渡口审批",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "430118109W00",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "zvxuMpNdTLuCpd20y2HRtA",
+      "_title": "客运车辆道路运输营运车辆年度定期审验",
+      "name": "客运车辆道路运输营运车辆年度定期审验",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "430718050W00",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "gp2z_Y0lQbmvsipiI-5LiA",
+      "_title": "农业机械购置补贴",
+      "name": "农业机械购置补贴",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "430520001W00",
+      "type_name": "行政给付"
+    },
+    {
+      "id": "tPVJzzwHRKqTMdjnrS7n-g",
+      "_title": "植保事故鉴定",
+      "name": "植保事故鉴定",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "430720008W00",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "1m3DWVbLTA-Xu-W8TSzAtA",
+      "_title": "道路运输车辆过户变更登记",
+      "name": "道路运输车辆过户变更登记",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "430718002W00",
+      "type_name": "行政确认"
+    }
+  ],
+  "total": 3184,
+  "pageTotal": 3184,
+  "pageIndex": 1,
+  "pageSize": 50,
+  "highlight_words": []
+}

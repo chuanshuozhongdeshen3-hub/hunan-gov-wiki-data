@@ -1,0 +1,315 @@
+{
+  "datas": [
+    {
+      "id": "FGAbMGhwTQuN_00bvZUWAw",
+      "_title": "分公司备案",
+      "name": "分公司备案",
+      "type": "approve",
+      "yw_code": "06",
+      "rights_code": "001031004000",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "M6LlfKYZQvi3iUe3L_gAjA",
+      "_title": "个人独资企业分支机构备案",
+      "name": "个人独资企业分支机构备案",
+      "type": "approve",
+      "yw_code": "08",
+      "rights_code": "001031004000",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "5e03e0bd0b8044c59ae1f54dd8ce1e2c",
+      "_title": "企业（包括个体工商户、农民专业合作社）自主申报名称",
+      "name": "企业（包括个体工商户、农民专业合作社）自主申报名称",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431031082W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "1e7a9e7eb41b4367a7a0f584c2b849d8",
+      "_title": "建筑施工企业安全生产许可证-新（重新）申报",
+      "name": "建筑施工企业安全生产许可证-新（重新）申报",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000117007000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "gpcOUQECRDWMGW9zM-mVwg",
+      "_title": "残疾人证挂失补办",
+      "name": "残疾人证挂失补办",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000788001004",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "EfICQR-mQSqytlRW59KheA",
+      "_title": "残疾类别/等级变更",
+      "name": "残疾类别/等级变更",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000788001006",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "ybaf3SFORq-8wUsLJTz97Q",
+      "_title": "公司通过简易程序注销登记",
+      "name": "公司通过简易程序注销登记",
+      "type": "approve",
+      "yw_code": "67",
+      "rights_code": "000131003000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "43PCN0009",
+      "_title": "新生儿出生一件事",
+      "name": "新生儿出生一件事",
+      "type": "theme",
+      "yw_code": "",
+      "rights_code": "",
+      "type_name": "高效办成一件事"
+    },
+    {
+      "id": "3d6cf727fe354a2c93bb791dabd9b2e8",
+      "_title": "探矿许可注销申请",
+      "name": "探矿许可注销申请",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000115017004",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "0101d0891355470aaee7d7db3fe41dd4",
+      "_title": "探矿许可延续申请",
+      "name": "探矿许可延续申请",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000115017002",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "f96ebb181c43408fbcf716846f2ba7b5",
+      "_title": "床土调酸剂产品变更登记核准",
+      "name": "床土调酸剂产品变更登记核准",
+      "type": "approve",
+      "yw_code": "09",
+      "rights_code": "000120192000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "F7cwg6yBQte8scDKszOaBg",
+      "_title": "农业转基因生物加工审批（变更）",
+      "name": "农业转基因生物加工审批（变更）",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000120218000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "d27e7373904241ca8874e91939e5c44c",
+      "_title": "床土调酸剂产品续展登记核准",
+      "name": "床土调酸剂产品续展登记核准",
+      "type": "approve",
+      "yw_code": "08",
+      "rights_code": "000120192000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "43TCP0010",
+      "_title": "固定资产投资项目审批“一件事”",
+      "name": "固定资产投资项目审批“一件事”",
+      "type": "theme",
+      "yw_code": "",
+      "rights_code": "",
+      "type_name": "高效办成一件事"
+    },
+    {
+      "id": "43TCP0021",
+      "_title": "企业购置不动产转移登记“一件事”",
+      "name": "企业购置不动产转移登记“一件事”",
+      "type": "theme",
+      "yw_code": "",
+      "rights_code": "",
+      "type_name": "高效办成一件事"
+    },
+    {
+      "id": "43PCP0007",
+      "_title": "结婚落户“一件事”",
+      "name": "结婚落户“一件事”",
+      "type": "theme",
+      "yw_code": "",
+      "rights_code": "",
+      "type_name": "高效办成一件事"
+    },
+    {
+      "id": "0f0d3b4aa73b4779b2be60e48ab05904",
+      "_title": "企业单位社会保险费断缴补缴申报",
+      "name": "企业单位社会保险费断缴补缴申报",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "002014003004",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "963369ef49df466b9f838c3f92f90927",
+      "_title": "暂停社会保险定期待遇申请（企保）",
+      "name": "暂停社会保险定期待遇申请（企保）",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "002014006005",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "CNitJZDoSSyh9Di3aiB_0Q",
+      "_title": "企业职工基本养老保险退休人员关系终止及相关待遇申领（丧失国籍）",
+      "name": "企业职工基本养老保险退休人员关系终止及相关待遇申领（丧失国籍）",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "432014001W01",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "71a4ff8bcc274fd1b2778ffa45dd85c4",
+      "_title": "养老保险个人参保登记（新增、续保）",
+      "name": "养老保险个人参保登记（新增、续保）",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "002014001006",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "43TCP0018",
+      "_title": "开办超市、便利店“一件事”",
+      "name": "开办超市、便利店“一件事”",
+      "type": "theme",
+      "yw_code": "",
+      "rights_code": "",
+      "type_name": "高效办成一件事"
+    },
+    {
+      "id": "43PCP0025",
+      "_title": "新房购置“一件事”",
+      "name": "新房购置“一件事”",
+      "type": "theme",
+      "yw_code": "",
+      "rights_code": "",
+      "type_name": "高效办成一件事"
+    },
+    {
+      "id": "CxE79alpSfChGADAVRo8Kw",
+      "_title": "采矿权变更登记（采矿权人名称变更）",
+      "name": "采矿权变更登记（采矿权人名称变更）",
+      "type": "approve",
+      "yw_code": "13",
+      "rights_code": "000715001000",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "723c5246d5af425f94e75415c8f76e0a",
+      "_title": "暂停社会保险定期待遇申请（机事保）",
+      "name": "暂停社会保险定期待遇申请（机事保）",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "002014006005",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "7Pfyx9lhRaW9L9R9EohaoA",
+      "_title": "社会保险定期待遇享受资格机构协助认证（个人申请）",
+      "name": "社会保险定期待遇享受资格机构协助认证（个人申请）",
+      "type": "approve",
+      "yw_code": "06",
+      "rights_code": "432014001W01",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "b1adc28768af437d90bbe8c437b228fa",
+      "_title": "水利工程质量检测单位资质（乙级）延续",
+      "name": "水利工程质量检测单位资质（乙级）延续",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000119020000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "8a231285d1cd457f93adca1245e93d94",
+      "_title": "工伤职工劳动能力鉴定申请（ 初次）",
+      "name": "工伤职工劳动能力鉴定申请（ 初次）",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "002014007005",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "FfrBrHRMRFeds-3BxC-tLw",
+      "_title": "工程建设项目职工参保登记（新增、续保）",
+      "name": "工程建设项目职工参保登记（新增、续保）",
+      "type": "approve",
+      "yw_code": "09",
+      "rights_code": "002014001005",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "34fe9a4f34d6485989d2dab3767c0650",
+      "_title": "城乡居民养老保险费补缴申报",
+      "name": "城乡居民养老保险费补缴申报",
+      "type": "approve",
+      "yw_code": "04",
+      "rights_code": "002014003004",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "tD0ziiS6SFOdAewM_pMUqA",
+      "_title": "职业年金转出至企业年金申请",
+      "name": "职业年金转出至企业年金申请",
+      "type": "approve",
+      "yw_code": "05",
+      "rights_code": "002014006013",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "11449977b41a46d7b76f5cb5e2e1e441",
+      "_title": "社会保险人员登记信息修正（关键信息）",
+      "name": "社会保险人员登记信息修正（关键信息）",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "002014002002",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "RjN4SI6QSzeWk2hg4-q8Dg",
+      "_title": "职业年金记实申请（税务征收）",
+      "name": "职业年金记实申请（税务征收）",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "43201400EW00",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "cRDEPfpzTHeWRKGhjSRBKQ",
+      "_title": "工伤保险护理费申领",
+      "name": "工伤保险护理费申领",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "002014007026",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "02abc3b421d5468e9052a34025ff7dd3",
+      "_title": "司法鉴定机构延续登记",
+      "name": "司法鉴定机构延续登记",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "431012063W00",
+      "type_name": "其他行政权力"
+    }
+  ],
+  "total": 3184,
+  "pageTotal": 50,
+  "pageIndex": 64,
+  "pageSize": 50,
+  "highlight_words": []
+}

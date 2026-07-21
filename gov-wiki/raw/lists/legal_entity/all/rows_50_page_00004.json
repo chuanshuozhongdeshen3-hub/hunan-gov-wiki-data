@@ -1,0 +1,538 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000109128005",
+        "rightsId": "fa821e2f7bf24e0497d1f29afcf58606",
+        "transactLevel": "3",
+        "unifyId": "o1A-cU8-Q-OjqmBV3VB_5A",
+        "unifyName": "弩运输许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109134001",
+        "rightsId": "7575dc8e5cc54290beafeb2afc0873fd",
+        "transactLevel": "0",
+        "unifyId": "CFoGuD6_QEWxz-SipNsMAg",
+        "unifyName": "购买第一类中的非药品类易制毒化学品许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109134002",
+        "rightsId": "313f3e504a5f433a925ccd0b7c648bdf",
+        "transactLevel": "0",
+        "unifyId": "DiWch47tTHCAqlrHw1vbAA",
+        "unifyName": "购买第二类易制毒化学品许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109134003",
+        "rightsId": "c05d02a8ed2f4e81b6633ccc8a2443ab",
+        "transactLevel": "0",
+        "unifyId": "A0N2oq2PQZSIYA2RomwoSw",
+        "unifyName": "购买第三类易制毒化学品许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109136001",
+        "rightsId": "af960594538340f4afae49f1102731fd",
+        "transactLevel": "0",
+        "unifyId": "rkzSrfl-QBGUY-p7xwGFEg",
+        "unifyName": "运输第一类易制毒化学品许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109136002",
+        "rightsId": "c1d9b49e1dea4a5480e07dc470e571cc",
+        "transactLevel": "0",
+        "unifyId": "u19LknFdS4WrYb8h0f0EOw",
+        "unifyName": "运输第二类易制毒化学品许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109136003",
+        "rightsId": "956e1f4733de4cbc8c10f812a46a6659",
+        "transactLevel": "0",
+        "unifyId": "-ndDyU-eT66XeMHPqP83og",
+        "unifyName": "运输第三类易制毒化学品许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000109138000",
+        "rightsId": "78b9183b764a4cb180ec9f8eb4d3c8a7",
+        "transactLevel": "2",
+        "unifyId": "NOrFXfBpR_GmwJv0surAbQ",
+        "unifyName": "剧毒化学品道路运输通行许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109139003",
+        "rightsId": "b157265b9a5c407099fbbc52a9c6017a",
+        "transactLevel": "0",
+        "unifyId": "Q1Jg-Q_5SaucmGszaRxC1g",
+        "unifyName": "运输危险化学品的车辆进入危险化学品运输车辆限制通行区域审批预约",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109141004",
+        "rightsId": "fb10faf253b6439387c5a4347677fda9",
+        "transactLevel": "0",
+        "unifyId": "w6PRz-73SxOY-vHg0lwwtw",
+        "unifyName": "申请新车临时号牌",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109141004",
+        "rightsId": "fb10faf253b6439387c5a4347677fda9",
+        "transactLevel": "0",
+        "unifyId": "BNky_VsAQaSttWX6X0Fy4Q",
+        "unifyName": "申请特型车临时号牌",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109142008",
+        "rightsId": "5b515f8b777c4d188ceeb50240663d54",
+        "transactLevel": "0",
+        "unifyId": "ztRIJ5nCRFyrisdtlXbjCg",
+        "unifyName": "解除机动车抵押登记",
+        "ywCode": "04"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109142008",
+        "rightsId": "5b515f8b777c4d188ceeb50240663d54",
+        "transactLevel": "0",
+        "unifyId": "Twe7KdwiTOqhmQedEuAWUg",
+        "unifyName": "机动车转籍申请",
+        "ywCode": "06"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000109142008",
+        "rightsId": "5b515f8b777c4d188ceeb50240663d54",
+        "transactLevel": "1",
+        "unifyId": "fPyRqx54QNKavrilv726eg",
+        "unifyName": "机动车登记",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109143005",
+        "rightsId": "4ee641b34a4f42b99da9b128f0007443",
+        "transactLevel": "0",
+        "unifyId": "o4aBbF3xTpipvtJbZanJPw",
+        "unifyName": "免检车申领检验合格标志",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109143005",
+        "rightsId": "4ee641b34a4f42b99da9b128f0007443",
+        "transactLevel": "0",
+        "unifyId": "C7c_r_IYRl6S3pAwOXtlcw",
+        "unifyName": "补领机动车检验合格标志",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109144002",
+        "rightsId": "f18a499974e4437d8afa3aa39d74ced5",
+        "transactLevel": "0",
+        "unifyId": "oiZIQf_dSsqsrXBnDtRhig",
+        "unifyName": "非机动车登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109146002",
+        "rightsId": "cf05407ca7de4daaa9713d4d8a4cf19b",
+        "transactLevel": "0",
+        "unifyId": "wVUU-hzgTfq50eOn3a_1Rw",
+        "unifyName": "涉路施工交通安全审查预约",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000110001000",
+        "rightsId": "8794B3AA86019492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "56d3511dddb140c78b32d7091e18a6bb",
+        "unifyName": "涉及国家安全事项的建设项目许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111001000",
+        "rightsId": "8794B3AA86029492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c8969fee5cf5468180237425cbc70c3e",
+        "unifyName": "社会团体成立预登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111001000",
+        "rightsId": "8794B3AA86029492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "67ed7057f2fa4bf1a753ecaed4d23ccf",
+        "unifyName": "社会团体注销登记",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000111001000",
+        "rightsId": "8794B3AA86029492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "935ca05fe8c74456b14148ea495ba5f6",
+        "unifyName": "社会团体变更名称登记",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111001000",
+        "rightsId": "8794B3AA86029492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ZMhkOaYUQJmBChfn_u81ug",
+        "unifyName": "社会团体变更住所登记",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000111001000",
+        "rightsId": "8794B3AA86029492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "3KGfa06GQvaL45trWNiXmA",
+        "unifyName": "社会团体变更法定代表人登记",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111001000",
+        "rightsId": "8794B3AA86029492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "BHWuM37XRt-Zn_t2hL-9vw",
+        "unifyName": "社会团体变更注册资金登记",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111001000",
+        "rightsId": "8794B3AA86029492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "M98mSOzASvCPdRWaVprdkA",
+        "unifyName": "社会团体变更业务主管单位登记",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111001000",
+        "rightsId": "8794B3AA86029492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "qIE1IL5MSXq2O52w8d2nJA",
+        "unifyName": "社会团体变更业务范围登记",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111002000",
+        "rightsId": "8794B3AA86079492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fc3894b171744a419c7ebce079f01918",
+        "unifyName": "社会团体修改章程核准",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111003000",
+        "rightsId": "8794B3AA86089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9106a8d7a72f4fbfae68063f59c047fe",
+        "unifyName": "民办非企业单位成立预登记",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000111003000",
+        "rightsId": "8794B3AA86089492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "f638461fb72a4697b60be6c771a55ab2",
+        "unifyName": "民办非企业单位注销登记",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111003000",
+        "rightsId": "8794B3AA86089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "26e458cafcb94c06b87ca8129ce5d22b",
+        "unifyName": "民办非企业单位变更名称登记",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111003000",
+        "rightsId": "8794B3AA86089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "YYsMw6GJSnOe7f-6nDi-8Q",
+        "unifyName": "民办非企业单位变更住所登记",
+        "ywCode": "04"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000111003000",
+        "rightsId": "8794B3AA86089492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "D7CdjWT3Q0GIEtTLlI8JaQ",
+        "unifyName": "民办非企业单位变更法定代表人登记",
+        "ywCode": "05"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111003000",
+        "rightsId": "8794B3AA86089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Th-Yr2UnTei2pshdrPmuCQ",
+        "unifyName": "民办非企业单位变更注册资金登记",
+        "ywCode": "06"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111003000",
+        "rightsId": "8794B3AA86089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "MU5Yeb5GQeaFV77rTMiq5A",
+        "unifyName": "民办非企业单位变更业务主管单位登记",
+        "ywCode": "07"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111003000",
+        "rightsId": "8794B3AA86089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "p67Xyz32T4yziVZl9NwrqA",
+        "unifyName": "民办非企业单位变更业务范围登记",
+        "ywCode": "08"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111004000",
+        "rightsId": "8794B3AA860D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2a1ede489bb54969af93b9e8a809a41b",
+        "unifyName": "民办非企业单位修改章程核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111005000",
+        "rightsId": "8794B3AA860E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "99001203ec954275828db144cb98f6c7",
+        "unifyName": "基金会成立预登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000111005000",
+        "rightsId": "8794B3AA860E9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "315a393d13fb40ceab30480af37ab5a7",
+        "unifyName": "基金会注销登记",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000111005000",
+        "rightsId": "8794B3AA860E9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "6a184519b8e64ae187b8e4e22c1be0fc",
+        "unifyName": "基金会变更名称登记",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111005000",
+        "rightsId": "8794B3AA860E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2ZBDPT7WRuCETzJcxDtyVQ",
+        "unifyName": "基金会变更住所登记",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111005000",
+        "rightsId": "8794B3AA860E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "lzx6iirzQ-G_zWMWtcsWvg",
+        "unifyName": "基金会变更法定代表人登记",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111005000",
+        "rightsId": "8794B3AA860E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "LV18g4utSfO_2dlFbT9HRw",
+        "unifyName": "基金会变更注册资金登记",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111005000",
+        "rightsId": "8794B3AA860E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "GRA-_2-LRymPmt5_6oUBdg",
+        "unifyName": "基金会变更业务主管单位登记",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111005000",
+        "rightsId": "8794B3AA860E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6d8h7PPkSpqGsTx2i-E4uw",
+        "unifyName": "基金会变更业务范围登记",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111006000",
+        "rightsId": "8794B3AA86139492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9f38f5ac9c7d47cb983cb28f1a642c48",
+        "unifyName": "基金会修改章程核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111008000",
+        "rightsId": "8794B3AA86159492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2c51ca4b75154193b920885195992f18",
+        "unifyName": "建设殡仪馆审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111008000",
+        "rightsId": "8794B3AA86159492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b4a84277ea974458a3340984ce36fb02",
+        "unifyName": "建设火葬场审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000111013000",
+        "rightsId": "8794B3AA861E9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "4d701a387f354699becf1fc0ca65ca5f",
+        "unifyName": "公开募捐资格审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111016000",
+        "rightsId": "e250cdf010454a3292fc8d810f8e473c",
+        "transactLevel": "0",
+        "unifyId": "74c324caef004d77a3330626e67cbe62",
+        "unifyName": "建设殡仪服务站审批",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 4,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

@@ -1,0 +1,516 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105001000",
+        "rightsId": "8794B3AA85779492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fd53871f4d9545ada8d47eef9078b0f1",
+        "unifyName": "实施高等专科教育、中等学历教育、非学历高等教育、自学考试助学、文化补习、学前教育等的中外（含内地与港澳台）合作办学机构设立审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105001000",
+        "rightsId": "8794B3AA85779492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c2e32332e2974b409b901d427d58246d",
+        "unifyName": "实施高等专科教育、中等学历教育、非学历高等教育、自学考试助学、文化补习、学前教育等的中外（含内地与港澳台）合作办学机构终止审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105001000",
+        "rightsId": "8794B3AA85779492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "db4c8fbdbc9a400588c0c74803773ebd",
+        "unifyName": "实施高等专科教育、中等学历教育、非学历高等教育、自学考试助学、文化补习、学前教育等的中外（含内地与港澳台）合作办学机构变更审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105002000",
+        "rightsId": "8794B3AA85789492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5aa1995108674b6683e5a4cb0b9c284e",
+        "unifyName": "实施高等专科教育、非学历高等教育和高级中等教育、自学考试助学、文化补习、学前教育的中外（含内地与港澳台）合作办学项目审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105003000",
+        "rightsId": "8794B3AA85799492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0f143fa176b849e4a705866f163a714a",
+        "unifyName": "实施中等及中等以下学历教育、学前教育及其他文化教育的民办学校的变更举办者的审批",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105003000",
+        "rightsId": "8794B3AA85799492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "aa9b25d244934e6db8c00de5d8222c12",
+        "unifyName": "实施中等及中等以下学历教育、学前教育及其他文化教育的民办学校变更办学地址的审批",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105003000",
+        "rightsId": "8794B3AA85799492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "XyD7nGDkTQ29TX38PHcvuQ",
+        "unifyName": "实施中等及中等以下学历教育、学前教育及其他文化教育的民办学校变更名称审批",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105003000",
+        "rightsId": "8794B3AA85799492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "w5NWMZkFRPm_o4a3HIz5tQ",
+        "unifyName": "实施中等及中等以下学历教育、学前教育及其他文化教育的民办学校变更层次类别审批",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105003000",
+        "rightsId": "8794B3AA85799492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "LfEXxAxnRxGtyjnjZr9YSQ",
+        "unifyName": "实施中等及中等以下学历教育、学前教育及其他文化教育的民办学校直接设立审批",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105003000",
+        "rightsId": "8794B3AA85799492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "wKWNwq2fTcG2S2fVPuyZtA",
+        "unifyName": "实施中等及中等以下学历教育、学前教育、自学考试助学及其他文化教育的民办学校设立审批事项--非学科类校外培训机构设立审批事项",
+        "ywCode": "12"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105003000",
+        "rightsId": "8794B3AA85799492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c1c72098a0c5404785b2acddba7ae70e",
+        "unifyName": "实施中等及中等以下学历教育、学前教育及其他文化教育民办学校的筹设审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105003000",
+        "rightsId": "8794B3AA85799492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9a698da8408b4270a48e9d5c0d861237",
+        "unifyName": "实施中等及中等以下学历教育、学前教育及其他文化教育的民办学校分立审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105003000",
+        "rightsId": "8794B3AA85799492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f27abca3c0804fdebec35187718400cb",
+        "unifyName": "实施中等及中等以下学历教育、学前教育及其他文化教育的民办学校设立审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105003000",
+        "rightsId": "8794B3AA85799492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b690a29801384abaa382da43caef3356",
+        "unifyName": "实施中等及中等以下学历教育、学前教育及其他文化教育的民办学校终止审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105003000",
+        "rightsId": "8794B3AA85799492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "214abac85e174f9599d64a15ab847c56",
+        "unifyName": "实施中等及中等以下学历教育、学前教育及其他文化教育的民办学校合并审批",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105004000",
+        "rightsId": "8794B3AA857A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cf5333b391d3462490620e5c1ded142e",
+        "unifyName": "实施专科教育的高等学校和其他高等教育机构的设立审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105004000",
+        "rightsId": "8794B3AA857A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7787b1f7ce7d4809922abc34e94045b4",
+        "unifyName": "实施专科教育的高等学校和其他高等教育机构的变更审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105004000",
+        "rightsId": "8794B3AA857A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "54919d40fc504fbd94829505ff22e9a0",
+        "unifyName": "实施专科教育的高等学校和其他高等教育机构的终止审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105006000",
+        "rightsId": "8794B3AA857C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "218297a644764d059e601ff91f07c1ec",
+        "unifyName": "开办外籍人员子女学校审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105008000",
+        "rightsId": "8794B3AA857E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1541761701134e3da295c22422cfd132",
+        "unifyName": "文艺、体育等专业训练的社会组织自行实施义务教育审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105013001",
+        "rightsId": "84b5de43291d4f7ead39862e7e4a21d7",
+        "transactLevel": "0",
+        "unifyId": "52608d1e597c4767a9912bce0fdd5426",
+        "unifyName": "高等学校教师资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105013002",
+        "rightsId": "362d8bed9d8145beaf8d4c14264df921",
+        "transactLevel": "0",
+        "unifyId": "c504db7416e441b096db8ade42463f25",
+        "unifyName": "中等职业学校实习指导教师资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105013003",
+        "rightsId": "7261ef5f47714a1ab01044d1884d15bd",
+        "transactLevel": "0",
+        "unifyId": "d31c11d19864419887306c47cc0eba6f",
+        "unifyName": "中等职业学校教师资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105013004",
+        "rightsId": "cded3243f06847e4aa1f329175aef1b6",
+        "transactLevel": "0",
+        "unifyId": "86a4606c617d4b9b8087ef728d5ddf11",
+        "unifyName": "高级中学教师资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105013005",
+        "rightsId": "5937d5d2f39a4e638e506adb36612247",
+        "transactLevel": "0",
+        "unifyId": "4bff808ab4f24b4381b213d5c19a9d17",
+        "unifyName": "初级中学教师资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105013006",
+        "rightsId": "c2bee61d3c8642979de466ec86cfd448",
+        "transactLevel": "0",
+        "unifyId": "6454815041064151b050e4d5674af288",
+        "unifyName": "小学教师资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105013007",
+        "rightsId": "22d918cb56954931a632254227039ddb",
+        "transactLevel": "0",
+        "unifyId": "fc3f9156977e4159acd5d683af6254d0",
+        "unifyName": "幼儿园教师资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000106001000",
+        "rightsId": "8794B3AA85929492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "610803c15043438fbb06ad5555147199",
+        "unifyName": "实验动物生产许可证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000106001000",
+        "rightsId": "8794B3AA85929492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "858b7ec2991e4470a9aa0cee0ba5888b",
+        "unifyName": "实验动物使用许可证核发",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000106001000",
+        "rightsId": "8794B3AA85929492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bce01216a76f4c969c42f5140fa0b66f",
+        "unifyName": "实验动物许可证变更",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000106001000",
+        "rightsId": "8794B3AA85929492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "UlGpQJ67RySzXXf50q5Z0g",
+        "unifyName": "实验动物许可证注销",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107012000",
+        "rightsId": "8794B3AA85A29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "XBYMvl2hSaaNtoLR-hZgEQ",
+        "unifyName": "新申请无线电台（站）设置、使用许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107012000",
+        "rightsId": "8794B3AA85A29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "spf111uBQ_uT6h1br7IkfA",
+        "unifyName": "延续无线电台（站）设置、使用许可",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107012000",
+        "rightsId": "8794B3AA85A29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "BsFMrhvdRC6BB_hnrqxceA",
+        "unifyName": "变更无线电台（站）设置、使用许可",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107012000",
+        "rightsId": "8794B3AA85A29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "B-OWORaGSL2oPz6yoTai5A",
+        "unifyName": "注销无线电台（站）设置、使用许可",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107013000",
+        "rightsId": "8794B3AA85A39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "42740dad1ec54a59ab5626551045799f",
+        "unifyName": "无线电发射设备进关核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107038000",
+        "rightsId": "8794B3AA85C99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "nWax39gRRdijSf47R4ws-A",
+        "unifyName": "煤矿特种作业人员（含煤矿矿井使用的特种设备作业人员）操作资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107045001",
+        "rightsId": "58b3669ad16e44f793a1320a6d0e6a86",
+        "transactLevel": "0",
+        "unifyId": "pPsshWmBTCShHTCVzgFwkw",
+        "unifyName": "新申请设置、使用卫星地球站审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107045001",
+        "rightsId": "58b3669ad16e44f793a1320a6d0e6a86",
+        "transactLevel": "0",
+        "unifyId": "u3R8JvDGT3OrMGW5Sl4T8Q",
+        "unifyName": "延续设置、使用卫星地球站审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107045001",
+        "rightsId": "58b3669ad16e44f793a1320a6d0e6a86",
+        "transactLevel": "0",
+        "unifyId": "5NN3ZPk8SZ25et54hO2JPQ",
+        "unifyName": "变更设置、使用卫星地球站审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107045001",
+        "rightsId": "58b3669ad16e44f793a1320a6d0e6a86",
+        "transactLevel": "0",
+        "unifyId": "lVyvZCIyR1qKyva9uHHkwA",
+        "unifyName": "注销设置、使用卫星地球站审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107046000",
+        "rightsId": "b276a4b0957c4fc8904f855e7f5ab337",
+        "transactLevel": "0",
+        "unifyId": "mvFDchDuQnS9RVHWVSNjYg",
+        "unifyName": "新申请无线电频率指配审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107046000",
+        "rightsId": "b276a4b0957c4fc8904f855e7f5ab337",
+        "transactLevel": "0",
+        "unifyId": "OlkCMWXPQFys-MKwWvao3Q",
+        "unifyName": "延续无线电频率指配审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107046000",
+        "rightsId": "b276a4b0957c4fc8904f855e7f5ab337",
+        "transactLevel": "0",
+        "unifyId": "5cuaGjDUSp-pDsknluckxA",
+        "unifyName": "变更无线电频率指配审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107046000",
+        "rightsId": "b276a4b0957c4fc8904f855e7f5ab337",
+        "transactLevel": "0",
+        "unifyId": "xsLtnDqIQiqxMle463-hFg",
+        "unifyName": "注销无线电频率指配审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107048000",
+        "rightsId": "46e275e793b2463a8b8afcf6790cef3d",
+        "transactLevel": "0",
+        "unifyId": "sz_et7VhRvyjz9UFdfMigQ",
+        "unifyName": "电台呼号指配审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107048000",
+        "rightsId": "46e275e793b2463a8b8afcf6790cef3d",
+        "transactLevel": "0",
+        "unifyId": "SHS78Wo5RTatqAB5CQ1CaA",
+        "unifyName": "注销电台呼号指配审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109102001",
+        "rightsId": "8b64c7c4868340f2b4266162be9e25ed",
+        "transactLevel": "0",
+        "unifyId": "OCvypcvWQZGAtbz4XPSUvQ",
+        "unifyName": "保安服务公司设立许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109103000",
+        "rightsId": "829f992cda8a455f96be4d17cde59e6e",
+        "transactLevel": "1",
+        "unifyId": "M7n6fUnTTMm97z1VsoUY-w",
+        "unifyName": "保安员证核发（资格考试网上报名）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109117000",
+        "rightsId": "c899f0dc41564e74aa9b0c1c0bd60c36",
+        "transactLevel": "1",
+        "unifyId": "uXnFLQi9QxGnqsoGAuUr-Q",
+        "unifyName": "初次申请爆破员、安全员和保管员",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 1343,
+    "totalPage": 27
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

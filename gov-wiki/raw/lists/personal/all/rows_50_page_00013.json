@@ -1,0 +1,518 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172029003",
+        "rightsId": "24652fc09ff1455ea83cbec2dab2cba6",
+        "transactLevel": "0",
+        "unifyId": "7cafa22cccd3411883b2a655b8d62802",
+        "unifyName": "执业药师变更注册",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172029004",
+        "rightsId": "c093548440cf4b5ebaf30c80db1720ab",
+        "transactLevel": "0",
+        "unifyId": "c770ede39fed4300b37cc22cd4880fea",
+        "unifyName": "执业药师注销注册（依申请注销）",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000511001000",
+        "rightsId": "8794B3AA8F4E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c2a5276d0e964c2f9b65b000e798f1fc",
+        "unifyName": "最低生活保障对象认定、保障金给付",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000511002000",
+        "rightsId": "8794B3AA8F4F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8afc29a78e074fa79e22bcecaee3ec6f",
+        "unifyName": "临时救助对象认定、救助金给付",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000511004000",
+        "rightsId": "8794B3AA8F519492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "94fd451ac36a427c9e012b5e110f2150",
+        "unifyName": "对孤儿基本生活保障金的给付",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000511006000",
+        "rightsId": "8794B3AA8F539492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cf96641f10854901a42401eecb82a6ff",
+        "unifyName": "特困人员认定、救助供养金给付",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000511011000",
+        "rightsId": "8794B3AA8F589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "762f3e2c325e434886ea6e85414b0857",
+        "unifyName": "老年人福利补贴",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000511012000",
+        "rightsId": "d62f65510d8e45eaa7fdc9e6011120a9",
+        "transactLevel": "0",
+        "unifyId": "8ksvESpNT128_Peg-GglHg",
+        "unifyName": "事实无人抚养儿童基本生活补贴的给付",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000511014000",
+        "rightsId": "779711be791b4f1a8d88fc1b96b387e2",
+        "transactLevel": "0",
+        "unifyId": "wOJow6TTTYaru9RhKCbVkg",
+        "unifyName": "困难残疾人生活补贴和重度残疾人护理补贴资格认定申请、审核、发放",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000512001000",
+        "rightsId": "8794B3AA8F599492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3b04976afe4c4625b009b2c784b8d84d",
+        "unifyName": "对公民法律援助申请的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000512002000",
+        "rightsId": "8794B3AA8F5A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9Y5HW6csRHeIiBz-qjW3UQ",
+        "unifyName": "法律援助补贴发放",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000524001000",
+        "rightsId": "8794B3AA8F679492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8471d1a5301e4dcc9613e835638937fd",
+        "unifyName": "退役士兵自主就业一次性经济补助金的给付",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000525003000",
+        "rightsId": "8794B3AA8F809492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2kYXpH7gTR6yrN1Ddb7oUA",
+        "unifyName": "自然灾害救助资金给付",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000705001000",
+        "rightsId": "8794B3AA8F9E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8c7e3b5ab2d3427388bc875ddf3e8e57",
+        "unifyName": "高校学生跨省转学确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000705002000",
+        "rightsId": "8794B3AA8F9F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "24264aa82cae4fc389b42c728f51180c",
+        "unifyName": "普通话水平测试等级证书核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000705003000",
+        "rightsId": "8794B3AA8FA09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e2ac89ad270e4107a2ad10069c029d3e",
+        "unifyName": "对自考考生免考课程的确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000705004000",
+        "rightsId": "8794B3AA8FA19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "90f7021842f046cfb53f72cb40b9a541",
+        "unifyName": "对自考合格课程跨省转移的确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000706001000",
+        "rightsId": "8794B3AA8FA99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "gh3XHjMZSD6N4Ndl8cneUg",
+        "unifyName": "技术合同认定登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000706003000",
+        "rightsId": "8794B3AA8FAB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "869236b8bc0c4eabb8b27020357a88fa",
+        "unifyName": "省级科技企业孵化器认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000708001000",
+        "rightsId": "8794B3AA8FBC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "26b5fca51a9943e58ffb66ac2f9e0986",
+        "unifyName": "民族成份变更",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709105001",
+        "rightsId": "7b304351fa244f07b849df4009a2aea7",
+        "transactLevel": "0",
+        "unifyId": "Ii9wynW_QLqzlqr9OgrLWw",
+        "unifyName": "3周岁内国内出生新生儿上户",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000709105003",
+        "rightsId": "2725edb37d2f4cd091ba26b81acb4089",
+        "transactLevel": "1",
+        "unifyId": "610xq9dNTMeD2TOgLxu8yg",
+        "unifyName": "国外、港澳台回来定居（恢复户口）及加入中国国籍落户",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00070910500Y",
+        "rightsId": "be0156152344436283e3d1074afd0ed8",
+        "transactLevel": "0",
+        "unifyId": "2fo0pKbpTZ6hP15tCwh3RA",
+        "unifyName": "户口登记（退役军人恢复户口）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709106001",
+        "rightsId": "9bfa4a5f340642919473ecb405473e66",
+        "transactLevel": "0",
+        "unifyId": "nVkHM2bwToKid3jPgTZzVw",
+        "unifyName": "死亡人员户口注销",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709106002",
+        "rightsId": "8311d244417446c4b1df7e486d30fc93",
+        "transactLevel": "0",
+        "unifyId": "Nh18Lb_AR3WLOQUk3EkrmA",
+        "unifyName": "出国境定居注销户口",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709106003",
+        "rightsId": "191cf68eebf94f43a717e826db4c90e7",
+        "transactLevel": "0",
+        "unifyId": "0jqF7y5PS6ijB6Sd3yZTRA",
+        "unifyName": "加入外国国籍并自动丧失中国国籍注销户口",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709107002",
+        "rightsId": "bbfcdac76c1d4fbab63321f79ceb0286",
+        "transactLevel": "0",
+        "unifyId": "HpbmMhFRTm-AUPCReDFFiQ",
+        "unifyName": "变更更正姓名",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000709107003",
+        "rightsId": "41f4020f0d5a4e27b4d0574cc1285f79",
+        "transactLevel": "1",
+        "unifyId": "-4Uiy9VOQda9vxVOu7LhbQ",
+        "unifyName": "变更更正性别",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000709107004",
+        "rightsId": "388a61443f8744b580bbad91b5532e8c",
+        "transactLevel": "1",
+        "unifyId": "BFiSaDomTXyYuLFqnn44hg",
+        "unifyName": "更正出生日期",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709107005",
+        "rightsId": "ef973a19e93046bfa67d8bf2cb3a1ff9",
+        "transactLevel": "0",
+        "unifyId": "SSEvStIITgao0SkIIC-WFw",
+        "unifyName": "变更更正民族",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709108003",
+        "rightsId": "da336c99720e4374b79a27f5a1896497",
+        "transactLevel": "0",
+        "unifyId": "XgbWVIvhS8uRzx_IVNI2Hg",
+        "unifyName": "变更更正其他项目",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709108004",
+        "rightsId": "9a86060153114ce4acd31a0a373eac1c",
+        "transactLevel": "0",
+        "unifyId": "3rEXq_RTTvGR1QMZl1ulCA",
+        "unifyName": "户成员关系调整",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709109001",
+        "rightsId": "a0fbbe413f084467a7dc9ebe1f5acf73",
+        "transactLevel": "0",
+        "unifyId": "sFOWCVxYQta3v4UQND5iUw",
+        "unifyName": "开具户籍类证明",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709109002",
+        "rightsId": "367239025bb2425283201a377bfda015",
+        "transactLevel": "0",
+        "unifyId": "g9-SAIyyRfusxhWKeyQZnQ",
+        "unifyName": "户口簿换补领",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000709110001",
+        "rightsId": "1012c6a255c34f7f972ee4aa6f10e392",
+        "transactLevel": "3",
+        "unifyId": "g8JGu5pBT82g3IFrkddkeQ",
+        "unifyName": "居民身份证申领",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709110002",
+        "rightsId": "07c484e26f5d4c2780222e5d3ea8d29c",
+        "transactLevel": "0",
+        "unifyId": "H0AH-poRQmmLMzdsfYjBaw",
+        "unifyName": "居民身份证换领",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709110003",
+        "rightsId": "38f586283733438c9f3582384d42c830",
+        "transactLevel": "0",
+        "unifyId": "4aW4IvUbSjSF3Q08DdLTcQ",
+        "unifyName": "居民身份证补领",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709110004",
+        "rightsId": "36dce088024d44a0930e8cfa0c5a13a2",
+        "transactLevel": "0",
+        "unifyId": "oUUBOoQ0TuWra0N4Dhbihg",
+        "unifyName": "临时居民身份证申领",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709110005",
+        "rightsId": "ee8b64af85204766b852709803f6f876",
+        "transactLevel": "0",
+        "unifyId": "YZ3xkagtQbq9caDj3rLoaw",
+        "unifyName": "居民身份证挂失申报",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709111001",
+        "rightsId": "3683ffb2ae8843978be4da47b2ea56b2",
+        "transactLevel": "0",
+        "unifyId": "F8fWAnNERv6fcPfSwGdRVQ",
+        "unifyName": "居住证申领",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709111003",
+        "rightsId": "f1afdaf66a3a412f89c0545c6f92e599",
+        "transactLevel": "0",
+        "unifyId": "IjiNR5OmTgysp220sFGn4Q",
+        "unifyName": "居住证换领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709111004",
+        "rightsId": "00b3398b866549149db627d9e822fe9b",
+        "transactLevel": "0",
+        "unifyId": "kr2jtnTgSkuvofzPCudKYg",
+        "unifyName": "居住证补领",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00070911400Y",
+        "rightsId": "4b2e17a413404ddb9b9d88395bba0005",
+        "transactLevel": "0",
+        "unifyId": "qybd_d3JRgaC8wAh-JV0dg",
+        "unifyName": "国际联网备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000711001000",
+        "rightsId": "8794B3AA8FD49492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "90faf2749d1348c0bb7493dc6c0d5b45",
+        "unifyName": "涉外婚姻登记预约",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000711001000",
+        "rightsId": "8794B3AA8FD49492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "56d40baac0104922870bee555161610f",
+        "unifyName": "涉台婚姻登记预约",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000711001000",
+        "rightsId": "8794B3AA8FD49492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4b6821b016554f67a9ae4ce6790fa624",
+        "unifyName": "涉港澳婚姻登记预约",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000711001000",
+        "rightsId": "8794B3AA8FD49492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "71c22d24c08e41ea9b87ea4c69171ead",
+        "unifyName": "华侨婚姻登记预约",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "000711002000",
+        "rightsId": "8794B3AA8FD59492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "d5892cf3482f4cdf8edb16d571c9f1ae",
+        "unifyName": "涉外收养登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000711003000",
+        "rightsId": "8794B3AA8FD69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "LE3LBXy2Th2UWhtObMG0sQ",
+        "unifyName": "内地居民离婚登记预约",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "000711005000",
+        "rightsId": "8794B3AA8FD89492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "81f24fe457324e4590279e039f4b212b",
+        "unifyName": "华侨及居住在香港、澳门、台湾地区的中国公民在内地收养登记",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 13,
+    "pageSize": 50,
+    "total": 1343,
+    "totalPage": 27
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

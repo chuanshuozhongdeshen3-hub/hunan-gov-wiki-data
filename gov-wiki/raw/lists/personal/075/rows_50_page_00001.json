@@ -1,0 +1,214 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000717007000",
+        "rightsId": "8794B3AA90299492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "W3ww4zqeSYOaVJQK-F64iw",
+        "unifyName": "公共租赁住房租赁补贴资格确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000717009000",
+        "rightsId": "8794B3AA902B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "btjiIks2SA6GIqX2m2vvRg",
+        "unifyName": "公共租赁住房实物配租资格确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017001000",
+        "rightsId": "8794B3AA92089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "69f6d914ae314672bd6a9db2bf3fe970",
+        "unifyName": "房地产估价机构备案登记-备案标注等级",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "001017001000",
+        "rightsId": "8794B3AA92089492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "9add2e4ea45c4539bff53b90371cab4f",
+        "unifyName": "房地产估价机构备案证书-注销",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017001000",
+        "rightsId": "8794B3AA92089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "NOIF-EwkRJ2bATk_12j5XA",
+        "unifyName": "房地产估价机构备案证书-注册地址、注册资金、企业名称变更",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017001000",
+        "rightsId": "8794B3AA92089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "QzQHO8ScRE6pFLZPPyIydg",
+        "unifyName": "房地产估价机构备案证书-法定代表人变更",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430517007W00",
+        "rightsId": "1BDs01hETyyi7fOHRrX63w",
+        "transactLevel": "0",
+        "unifyId": "qrat2JBJRvakLZZohacDbg",
+        "unifyName": "农村危房改造",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017155W00",
+        "rightsId": "DaG0W_oER0y-sVCzv9NM8w",
+        "transactLevel": "0",
+        "unifyId": "L_5X3TcqRnyHVhLOmfyBmw",
+        "unifyName": "公共租赁住房退出审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "ceK9ADFkRbGGh2TCV-Phgg",
+        "unifyName": "购买自住住房提取住房公积金",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "vHVg9eb-TievoGFTMMgQ6A",
+        "unifyName": "完全丧失劳动能力，并与单位终止劳动关系提取住房公积金",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "6c_WxH6QTiO0L0oIYRfzMw",
+        "unifyName": "出境定居提取住房公积金",
+        "ywCode": "13"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "3",
+        "unifyId": "k3c8F-QOSdin11zhK4JX4g",
+        "unifyName": "死亡或被宣告死亡提取住房公积金",
+        "ywCode": "14"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "Va7O1TUoSzKfsBhxM1X4Yg",
+        "unifyName": "家庭生活困难提取住房公积金（含低保、疾病、灾害）",
+        "ywCode": "16"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "m7DGLmKCQW-mfiF2WitvLA",
+        "unifyName": "灵活就业人员销户提取住房公积金",
+        "ywCode": "17"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "kD3LtDsXRbiV7Rtf4914hg",
+        "unifyName": "封存满半年未再缴存提取住房公积金",
+        "ywCode": "18"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "U70hdXCyStqDoAue_pMhQg",
+        "unifyName": "建造、翻建、大修自住住房提取公积金",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "540hlk4pRLmrsA0yKQ6I_w",
+        "unifyName": "偿还购房贷款本息提取住房公积金",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "xH5LREaGS4ySAHgb7Xl0UQ",
+        "unifyName": "租赁自住房住房提取公积金",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "BqAFOmutQaGFR6WXua6b9w",
+        "unifyName": "既有住宅加装电梯提取住房公积金",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017003W00",
+        "rightsId": "mBadMbwtS6y0KGNmgXemjg",
+        "transactLevel": "0",
+        "unifyId": "cCmwEcplRdSAC0rH_zNuZA",
+        "unifyName": "住房公积金个人账户信息变更",
+        "ywCode": "20"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 20,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

@@ -1,0 +1,173 @@
+{
+  "code": 0,
+  "data": {
+    "acceptanceCondition": "测绘项目已完成验收或测绘成果质检合格",
+    "according": "《中华人民共和国测绘法》（2017年4月27日第十二届全国人民代表大会常务委员会第二十七次会议第二次修订）第三十三条“国家实行测绘成果汇交制度。国家依法保护测绘成果的知识产权”\n      测绘项目完成后，测绘项目出资人或者承担国家投资的测绘项目的单位，应当向国务院测绘地理信息主管部门或者省、自治区、直辖市人民政府测绘地理信息主管部门汇交测绘成果资料。属于基础测绘项目的，应当汇交测绘成果副本；属于非基础测绘项目的，应当汇交测绘成果目录。负责接收测绘成果副本和目录的测绘地理信息主管部门应当出具测绘成果汇交凭证，并及时将测绘成果副本和目录移交给保管单位。测绘成果汇交的具体办法由国务院规定。\n《中华人民共和国测绘成果管理条例》（2006年5月国务院令第469号）第六条“中央财政投资完成的测绘项目，由承担测绘项目的单位向国务院测绘行政主管部门汇交测绘成果资料；地方财政投资完成的测绘项目，由承担测绘项目的单位向测绘项目所在地的省、自治区、直辖市人民政府测绘行政主管部门汇交测绘成果资料；使用其他资金完成的测绘项目，由测绘项目出资人向测绘项目所在地的省、自治区、直辖市人民政府测绘行政主管部门汇交测绘成果资料”。第七条“测绘成果属于基础测绘成果的，应当汇交副本；属于非基础测绘成果的，应当汇交目录。测绘成果的副本和目录实行无偿汇交”。",
+    "applicantDuty": "应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。",
+    "applicantPower": "依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。",
+    "approveLimit": "20",
+    "approveLimitExplain": "无",
+    "blbm": "湖南省自然资源厅",
+    "commitmentLimit": "10",
+    "commitmentLimitExplain": "无",
+    "deptName": "自然资源部门",
+    "doScope": "全国",
+    "faqList": [
+      {
+        "createDate": 1629769774000,
+        "faqContent": "哪些测绘成果应要汇交目录？由谁汇交？向谁汇交？",
+        "faqId": "tvWN7ZduRr2KVeQM3uP9eA",
+        "isDelete": "N",
+        "isSzyy": "N",
+        "orderNum": 1.0,
+        "replyContent": "按照《中华人民共和国测绘法》《测绘成果管理条例》规定，非基础测绘成果应汇交目录；测绘项目出资人或者承担测绘项目的单位负责测绘成果目录汇交；中央财政投资完成的测绘项目应向自然资源部汇交，地方财政投资或者使用其他资金完成的测绘项目应向项目所在地的省、自治区、直辖市人民政府自然资源主管部门汇交。",
+        "unifyId": "rFxWBGJGSL-ueGpWW46HOw",
+        "updateDate": 1706150985000
+      },
+      {
+        "createDate": 1629769784000,
+        "faqContent": "在哪里可以找到测绘成果目录汇交事项入口？",
+        "faqId": "9dpuu4QDSYaNaa98OOhR3A",
+        "isDelete": "N",
+        "isSzyy": "N",
+        "orderNum": 2.0,
+        "replyContent": "用户可以在国家政务服务平台跨省通办专区或自然资源部政务服务平台找到测绘成果目录汇交事项入口。",
+        "unifyId": "rFxWBGJGSL-ueGpWW46HOw",
+        "updateDate": 1668659564000
+      },
+      {
+        "createDate": 1629769794000,
+        "faqContent": "如何注册用户？",
+        "faqId": "8yAJEtPkSH2pTCvEe0H32A",
+        "isDelete": "N",
+        "isSzyy": "N",
+        "orderNum": 3.0,
+        "replyContent": "可以通过国家政务服务平台、自然资源部政务服务平台任一平台注册，用户信息可通用。",
+        "unifyId": "rFxWBGJGSL-ueGpWW46HOw",
+        "updateDate": 1668659564000
+      },
+      {
+        "createDate": 1629769805000,
+        "faqContent": "如何填写和汇交测绘成果目录数据？",
+        "faqId": "zatnCNeUT7uLB2-dYzon9g",
+        "isDelete": "N",
+        "isSzyy": "N",
+        "orderNum": 4.0,
+        "replyContent": "可登陆国家政务服务平台、自然资源部政务服务平台，进入测绘成果目录汇交办理。具作详见操作指南。",
+        "unifyId": "rFxWBGJGSL-ueGpWW46HOw",
+        "updateDate": 1668659564000
+      },
+      {
+        "createDate": 1629769816000,
+        "faqContent": "汇交的测绘成果目录数据谁审核？如何获取汇交凭证？",
+        "faqId": "nCvUgFHcTZKDvQ9DlRJYDQ",
+        "isDelete": "N",
+        "isSzyy": "N",
+        "orderNum": 5.0,
+        "replyContent": "按照“谁接收谁审核谁发证”的原则，谁负责接收测绘成果目录数据就由谁负责审核，审核通过后，向汇交人发放“汇交凭证”；汇交凭证为电子版，汇交人可通过政务服务平台自行下载。",
+        "unifyId": "rFxWBGJGSL-ueGpWW46HOw",
+        "updateDate": 1668659564000
+      },
+      {
+        "createDate": 1629769826000,
+        "faqContent": "汇交的测绘成果目录数据用途？在哪里可以查询？",
+        "faqId": "_aNpN3f2RauqBebepsBVQQ",
+        "isDelete": "N",
+        "isSzyy": "N",
+        "orderNum": 6.0,
+        "replyContent": "测绘成果目录汇交的目的是为了避免重复测绘造成资金浪费；测绘成果目录将会通过全国地理信息资源目录服务系统公布，如需要可通过该系统查询测绘成果信息。",
+        "unifyId": "rFxWBGJGSL-ueGpWW46HOw",
+        "updateDate": 1668659564000
+      },
+      {
+        "createDate": 1629769835000,
+        "faqContent": "测绘成果目录元数据规范怎么获得？",
+        "faqId": "VYn9LQrdSbOiInzLntfqYw",
+        "isDelete": "N",
+        "isSzyy": "N",
+        "orderNum": 7.0,
+        "replyContent": "用户可通过测绘成果目录汇交系统下载，网址：http://zwfw.ch.mnr.gov.cn/app/cgmlhj。",
+        "unifyId": "rFxWBGJGSL-ueGpWW46HOw",
+        "updateDate": 1668659564000
+      }
+    ],
+    "isCharge": "否",
+    "isIntermediaryServices": "无",
+    "isSpecialProcedure": "否",
+    "isonline": "是",
+    "lctList": [
+      {
+        "approveCode": "rFxWBGJGSL-ueGpWW46HOw",
+        "approveId": "rFxWBGJGSL-ueGpWW46HOw",
+        "bucketName": "zwfw202108",
+        "createTime": 1629769584000,
+        "flowc": "approve/2021-08-24-09/1629769584434$$1231.jpg",
+        "id": "CA45471833CDE011E053681515AC6D97",
+        "isDelete": "0",
+        "isExchange": "N",
+        "operateFlag": "N"
+      }
+    ],
+    "materialList": [
+      {
+        "acceptStandard": "完成测绘项目验收或者测绘成果质量检验合格",
+        "bylaw": "无",
+        "commitWay": "网上提交",
+        "copiesNum": 1.0,
+        "createDate": 1629769874000,
+        "freeSubmission": "无",
+        "isDelete": "N",
+        "isMust": "必要",
+        "materialApproveType": "其他",
+        "materialCode": "M0020150010000102",
+        "materialExplain": "暂无填报须知",
+        "materialId": "LXTYTEEjSuibm9odzGbpEA",
+        "materialStandard": "电子",
+        "materialTitle": "测绘项目验收报告或测绘成果质量检验报告",
+        "materialType": "复印件",
+        "pageformat": "暂无纸质材料规格",
+        "sourceChannel": "申请人自备",
+        "sourceexplain": "暂无来源渠道说明",
+        "unifyId": "rFxWBGJGSL-ueGpWW46HOw",
+        "updateDate": 1668659565000
+      }
+    ],
+    "minExplain": "四级标准说明：该事项已经实现全程网办，申请人可以通过网络提交和补正相关申请信息和材料，提交的材料全部为已验证信息，受理通过后直接进入办理程序，申请人可网上查询办理状态、咨询问题，作出审批决定后，申请人可以通过网上缴费后物流递送证书结果。整个办事过程无需到现场办理。",
+    "minSeq": "0",
+    "orgId": "94e8fa1020264f13adaba4900ab6a808",
+    "orgName": "湖南省自然资源厅",
+    "processDescript": "提交材料-受理-审核-发放汇交凭证",
+    "quantitativeRestriction": "无数量限制",
+    "resultList": [
+      {
+        "approveCode": "rFxWBGJGSL-ueGpWW46HOw",
+        "approveId": "rFxWBGJGSL-ueGpWW46HOw",
+        "bucketName": "zwfw202108",
+        "createTime": 1629859718000,
+        "extend": "png",
+        "fileName": "微信截图_20210824091416.png",
+        "id": "132f060a3bfc4499bb883ceda38b5725",
+        "isDelete": "0",
+        "isExchange": "Y",
+        "isNeed": "N",
+        "operateFlag": "N",
+        "resultChart": "approve/2021-08-25-10/1629859718259$$微信截图_20210824091416.png",
+        "resultSampleName": "测绘成果目录汇交凭证"
+      }
+    ],
+    "resultSampleName": "测绘成果目录汇交凭证",
+    "rightsCode": "002015001000",
+    "rightsId": "8f2e72cdcd3c406b85faf31dee24c141",
+    "schemeLevels": "省",
+    "serveObject": "法人",
+    "transactLevel": "四级标准",
+    "transactionFrom": "网上办理",
+    "typeName": "公共服务",
+    "unifyId": "rFxWBGJGSL-ueGpWW46HOw",
+    "unifyName": "测绘成果目录汇交",
+    "ywCode": "01"
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

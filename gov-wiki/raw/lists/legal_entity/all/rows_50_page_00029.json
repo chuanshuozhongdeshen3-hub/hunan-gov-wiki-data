@@ -1,0 +1,515 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164155001",
+        "rightsId": "a0a513ce670a4babb5ec4df753dcb7ca",
+        "transactLevel": "0",
+        "unifyId": "fFZNXT9nQVivt79kxG_Zlg",
+        "unifyName": "矿藏开采、工程建设等征收、征用或者使用七十公顷以上草原审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164155002",
+        "rightsId": "a9f4f77cdcf848178441b3c76f3c4b48",
+        "transactLevel": "0",
+        "unifyId": "5003e4b3839f4e6fb3679232fb118f34",
+        "unifyName": "矿藏开采、工程建设等征收、征用或者使用七十公顷及其以下草原审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164155003",
+        "rightsId": "5336b43e338142e9a2d04d8dc96cc620",
+        "transactLevel": "0",
+        "unifyId": "LzF4kY8aRLul-L5jd_-q_g",
+        "unifyName": "临时占用草原审批（省级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164155004",
+        "rightsId": "e3c2b270124d46a794fb50256a140d4e",
+        "transactLevel": "0",
+        "unifyId": "z-N6qrSrQCKzWjmhQatopQ",
+        "unifyName": "在草原上修建直接为草原保护和畜牧业生产服务的工程设施审批（省级权限）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164155005",
+        "rightsId": "6d44bf9c815744dd85188b06f32b2367",
+        "transactLevel": "0",
+        "unifyId": "mRvjLBhvQ9CUC2x3ZEAYoQ",
+        "unifyName": "临时占用草原审批（设区的市级权限）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164155007",
+        "rightsId": "fda5122a54a8474480fdab49256b6aa1",
+        "transactLevel": "0",
+        "unifyId": "a5siPMIaQluELaMe1xeIFw",
+        "unifyName": "临时占用草原审批（县级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164155008",
+        "rightsId": "27ee4f412b774c8380c37c8e527ffd7c",
+        "transactLevel": "0",
+        "unifyId": "hbqsmDhqTEC5xaFpXt3haA",
+        "unifyName": "在草原上修建直接为草原保护和畜牧业生产服务的工程设施审批（县级权限）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164156001",
+        "rightsId": "b3fdd5c772494fdda0495045e434a7aa",
+        "transactLevel": "0",
+        "unifyId": "59047a5f7daa4cf58b44508f171dfb01",
+        "unifyName": "省际间调运林草植物检疫证书核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164156002",
+        "rightsId": "f6ef9136e99946f98be824d6f121b419",
+        "transactLevel": "0",
+        "unifyId": "a17f493723c74030ad9eadcb3f5a553b",
+        "unifyName": "省内调运林草植物检疫证书核发（ 设区的市级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164156003",
+        "rightsId": "224a12dca3a649528e4a3c067d5792d4",
+        "transactLevel": "0",
+        "unifyId": "a4079a92d9114f9ab4c1b119b78b1154",
+        "unifyName": "林草植物产地检疫证书核发（ 设区的市级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000167001000",
+        "rightsId": "8794B3AA8DB09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "UGpV0T2KQoqxMBbCriGAqg",
+        "unifyName": "申请撤销提供邮政普遍服务的邮政营业场所",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000167002000",
+        "rightsId": "8794B3AA8DB19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "u3HfHlO2QRGZUOU4OQsw4Q",
+        "unifyName": "邮政企业申请停止办理或者限制办理邮政普遍服务和邮政特殊服务业务审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000167003000",
+        "rightsId": "8794B3AA8DB29492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "SbC-uWJ6SDu1B9h7pz6j1w",
+        "unifyName": "快递业务经营许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000167004000",
+        "rightsId": "8794B3AA8DB39492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "wB4DzpBKQSG7BStQSiOuCQ",
+        "unifyName": "经营邮政通信业务审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000167008000",
+        "rightsId": "8794B3AA8DB79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8aVfH_emQga-QX-Gk5FrHA",
+        "unifyName": "仿印邮票图案及其制品审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168001000",
+        "rightsId": "8794B3AA8DB89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "64c3839e9568492896109b593804fe48",
+        "unifyName": "文物拍卖标的审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168002002",
+        "rightsId": "8794B3AA8DBB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f40d76fb59dd4e8ea060b9753ef53514",
+        "unifyName": "馆藏二、三级文物的修复、复制、拓印许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00016800300Y",
+        "rightsId": "8794B3AA8DC09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "_zyZObHWRLK63zzDtGDMWg",
+        "unifyName": "非国有文物收藏单位和其他单位借用国有文物收藏单位馆藏文物审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168004000",
+        "rightsId": "8794B3AA8DC19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d9b22aa9a18a44c391a45c04b6f99395",
+        "unifyName": "设立文物商店审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168005000",
+        "rightsId": "8794B3AA8DC29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "683383866c644f9e8ae9dc33b84b9f88",
+        "unifyName": "考古发掘单位保留少量出土文物作为科研标本许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168006002",
+        "rightsId": "8794B3AA8DC59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1f5974355ed4425f9ee3b4bda71282dc",
+        "unifyName": "县级文物保护单位和其他不可移动文物修缮审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168006002",
+        "rightsId": "8794B3AA8DC59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5df66e16bcd244f586c9ea0074ea5b15",
+        "unifyName": "县级文物保护单位和其他不可移动文物安防工程审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168006002",
+        "rightsId": "8794B3AA8DC59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b312255429e24462a0e583922709fa61",
+        "unifyName": "县级文物保护单位和其他不可移动文物消防工程审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168006002",
+        "rightsId": "8794B3AA8DC59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "39e3ff5e4686431282a609da9aeed9e0",
+        "unifyName": "县级文物保护单位和其他不可移动文物防雷工程审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168006003",
+        "rightsId": "8794B3AA8DC69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e03a35236cb84141822c9a9530a6e2c5",
+        "unifyName": "市级文物保护单位修缮审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168006003",
+        "rightsId": "8794B3AA8DC69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3d3bc87eb26b4152b62aeb09182216dc",
+        "unifyName": "市级文物保护单位安防工程审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168006003",
+        "rightsId": "8794B3AA8DC69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e0f36deb827f4ef499647b60b6d11099",
+        "unifyName": "市级文物保护单位消防工程审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168006003",
+        "rightsId": "8794B3AA8DC69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "05f6a30cca784e0d8fefca1a53cba4e3",
+        "unifyName": "市级文物保护单位防雷工程审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168006004",
+        "rightsId": "8794B3AA8DC79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5716f5610f2b4d37b65374521b38aca5",
+        "unifyName": "省级文物保护单位修缮审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168006004",
+        "rightsId": "8794B3AA8DC79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "dc1964a65b7142fd9b1002f298a5d105",
+        "unifyName": "省级文物保护单位安防工程审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168006004",
+        "rightsId": "8794B3AA8DC79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6c6403f4ed47489db0f5b805ec869b32",
+        "unifyName": "省级文物保护单位消防工程审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168006004",
+        "rightsId": "8794B3AA8DC79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ea26c09c48624e61b8a778fc701557a6",
+        "unifyName": "省级文物保护单位防雷工程审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168006004",
+        "rightsId": "8794B3AA8DC79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "eb7e23d1230749f1b014c4830432d6ab",
+        "unifyName": "博物馆、纪念馆和文物库房安防工程审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168006004",
+        "rightsId": "8794B3AA8DC79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e5d0903aece94eecbd0404abb8f3f12c",
+        "unifyName": "博物馆、纪念馆和文物库房消防工程审批",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168006004",
+        "rightsId": "8794B3AA8DC79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ae8340ef9ce9448d876a6c6c255d0aaf",
+        "unifyName": "博物馆、纪念馆和文物库房防雷工程审批",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168007000",
+        "rightsId": "8794B3AA8DC99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fbcc2fe0792b4e5faeff4a8086255acf",
+        "unifyName": "省级文物保护单位改变用途审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168007000",
+        "rightsId": "8794B3AA8DC99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f741a96f47bb4af2b6fd9b2606c28747",
+        "unifyName": "国有未核定为文物保护单位的不可移动文物改变用途审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168008000",
+        "rightsId": "8794B3AA8DCA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "da49a614600149e2ba918c7bbdd704d9",
+        "unifyName": "大型基本建设工程文物考古调查、勘探审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168009002",
+        "rightsId": "8794B3AA8DCD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b07b88aba46841e8bef51cce6e8b656a",
+        "unifyName": "市县级以下文物保护单位的迁移或拆除审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168009002",
+        "rightsId": "8794B3AA8DCD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "df673ce7524240a8897aa5428b2ab823",
+        "unifyName": "省级文物保护单位的迁移、拆除或者不可移动文物的原址重建审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168009002",
+        "rightsId": "8794B3AA8DCD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7f89fde41210476f83da00391692eb84",
+        "unifyName": "市、县级文物保护单位的迁移、拆除或者不可移动文物的原址重建审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168010002",
+        "rightsId": "8794B3AA8DD19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f3e57af7462546d7ac152549127460e3",
+        "unifyName": "市级文物保护单位保护范围内其他建设工程或者爆破、钻探、挖掘等作业审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168010003",
+        "rightsId": "8794B3AA8DD29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bbd880ba5a3c4253bddb568363950be5",
+        "unifyName": "县级文物保护单位保护范围内其他建设工程或者爆破、钻探、挖掘等作业审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168011002",
+        "rightsId": "8794B3AA8DD59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "df09972c42924329ad66ed53c8bcd2b5",
+        "unifyName": "在县级文物保护单位建设控制地带内的建设工程设计方案审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168011003",
+        "rightsId": "8794B3AA8DD69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a8e93c92369b4c98844271dac1d81c7c",
+        "unifyName": "市级文物保护单位建设控制地带内建设工程设计方案审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168011004",
+        "rightsId": "8794B3AA8DD79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2eff4a200fb842e1802dc44983cf5aa8",
+        "unifyName": "省级文物保护单位建设控制地带内建设工程设计方案审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168012002",
+        "rightsId": "8794B3AA8DDB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "01aaf434f22b405db6c01aed3eebc06d",
+        "unifyName": "县级文物保护单位实施原址保护措施审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168012003",
+        "rightsId": "8794B3AA8DDC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "eae0316440404ebbb56d0d2fc61a4710",
+        "unifyName": "市级文物保护单位原址保护措施审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168012004",
+        "rightsId": "8794B3AA8DDD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "dc39e84245964065b398813eef031584",
+        "unifyName": "省级文物保护单位原址保护措施审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168013000",
+        "rightsId": "8794B3AA8DDF9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cb5f47758e1f42dd835279d746213680",
+        "unifyName": "已经建立馆藏文物档案的国有文物收藏单位交换馆藏文物审批",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 29,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

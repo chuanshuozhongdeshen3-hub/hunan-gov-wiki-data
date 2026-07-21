@@ -1,0 +1,514 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018179W00",
+        "rightsId": "Au00XN4BSzGlrPOXormMrQ",
+        "transactLevel": "1",
+        "unifyId": "t0ZdN0M4RNCareTO5p-pjQ",
+        "unifyName": "船舶司法协助执行",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018181W00",
+        "rightsId": "RnhJ32vTSBO-HFDO-aVX1w",
+        "transactLevel": "1",
+        "unifyId": "PCkoJDYvRc-zUpcJ9886Pg",
+        "unifyName": "船舶登记资料查询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018182W00",
+        "rightsId": "Hcjf3khPS92GjvzRwimFOA",
+        "transactLevel": "0",
+        "unifyId": "CiGeeuU6QT--zNMiRJUmVg",
+        "unifyName": "船舶报废",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431020033W00",
+        "rightsId": "Sktnt2N9Tte2UKH_iXLTEA",
+        "transactLevel": "0",
+        "unifyId": "jgdSQFAZRH2JsEyedgcCWg",
+        "unifyName": "畜禽养殖场、养殖小区备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431020051W00",
+        "rightsId": "K_JkeEuaR4ir4muz6mGzPw",
+        "transactLevel": "2",
+        "unifyId": "9KG42-m-Rr2GGQp8M-a-cw",
+        "unifyName": "农机事故损害赔偿调解",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431020074W00",
+        "rightsId": "70F599A55D5BABCFE053681515ACCFDC",
+        "transactLevel": "2",
+        "unifyId": "ORGXR3mjTSuozJ9PLIhOQQ",
+        "unifyName": "渔业船舶水上安全事故调查认定和纠纷调解",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431020075W00",
+        "rightsId": "70F599A552B8ABCFE053681515ACCFDC",
+        "transactLevel": "2",
+        "unifyId": "ZtVnbxFLSnCBMEnTJpBF7Q",
+        "unifyName": "动物染疫或者疑似染疫的调查核实",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431020080W00",
+        "rightsId": "70F599A55D5AABCFE053681515ACCFDC",
+        "transactLevel": "2",
+        "unifyId": "iLI6WL0bQuSzXq8CFHY1dA",
+        "unifyName": "渔业水域污染事故的调查处理和纠纷调解",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431020084W00",
+        "rightsId": "73D929B050E1D82DE053681515AC07F5",
+        "transactLevel": "2",
+        "unifyId": "uFyJXQCASoW9SSA-qqYb4w",
+        "unifyName": "拖拉机和联合收割机核发检验合格标志",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431020102W00",
+        "rightsId": "P3o9oj_cTpKGra3gB3F9aw",
+        "transactLevel": "0",
+        "unifyId": "RRCB0jPBQKORjGathNV_gQ",
+        "unifyName": "《联合收割机跨区收获作业证》发放",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431020106W00",
+        "rightsId": "HiTWpO3XS9KD_kgxzJ6paw",
+        "transactLevel": "0",
+        "unifyId": "i8evcggLRjKkoWXnAxX50g",
+        "unifyName": "对耕地质量监测点基础设施、永久性标志移位审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431021034W00",
+        "rightsId": "70F599A55F66ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "91bab3415ff24810a91452a9b86c7b65",
+        "unifyName": "零售商促销活动备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431021044W00",
+        "rightsId": "OB9dDMptQseiXUXtr4kMnQ",
+        "transactLevel": "0",
+        "unifyId": "f716ef23071245c694d009521e020910",
+        "unifyName": "洗染业经营者备案登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431022026W00",
+        "rightsId": "SCMaKyKpQ1y5IGyk4_s3AA",
+        "transactLevel": "0",
+        "unifyId": "xZxguSucRjKFbVMe4ALgKg",
+        "unifyName": "营业性演出个体演员、个体演出经纪人的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431022081W00",
+        "rightsId": "70F599A553FBABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "e0NykwpTTBSH9LBietBvSA",
+        "unifyName": "旅游纠纷处理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431023085W00",
+        "rightsId": "Nr-5Lrn6QOyuXTnTr2US9A",
+        "transactLevel": "1",
+        "unifyId": "eccc15464da648fd9747defafcd7cfa7",
+        "unifyName": "中医诊所备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431023114W00",
+        "rightsId": "70F599A5662FABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "f0984f53e4f14833b6553c2821d2b6b5",
+        "unifyName": "医疗事故争议调解申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431025001W00",
+        "rightsId": "5L3pUi4UStGTS-8DmwbiNg",
+        "transactLevel": "0",
+        "unifyId": "LIF6tqAsQnic4s9VLbjTUw",
+        "unifyName": "为参与抢险救灾的车辆设置统一的标识或者标志，抢险救灾车辆按照国家和省有关规定免交车辆通行费",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431029001W00",
+        "rightsId": "1Iic32yrTcCHyBnsqOj6HQ",
+        "transactLevel": "1",
+        "unifyId": "d6cee7c71d024a6288f96da227ee424a",
+        "unifyName": "企业海关税款缴纳、货物通关信息核查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431031082W00",
+        "rightsId": "Yb9ggdkhRjuQfbHj57QE9A",
+        "transactLevel": "0",
+        "unifyId": "5e03e0bd0b8044c59ae1f54dd8ce1e2c",
+        "unifyName": "企业（包括个体工商户、农民专业合作社）自主申报名称",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "431031103W00",
+        "rightsId": "7fa09be9f17e42bab1ec223846d40628",
+        "transactLevel": "3",
+        "unifyId": "Q7Apo1JLQj-FodfybcHULw",
+        "unifyName": "专利纠纷行政调解",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039037W00",
+        "rightsId": "70F599A5532AABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "04d8a616ae6047548bfd14a856dcecd3",
+        "unifyName": "著作权纠纷调解　",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039068W00",
+        "rightsId": "4nzDUHp0Sb2wtch3HhN9oQ",
+        "transactLevel": "0",
+        "unifyId": "c0597b0bc6b2485c97039ac1feab56ad",
+        "unifyName": "设立临时零售点开展其业务范围内的出版物销售活动备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039069W00",
+        "rightsId": "oW7krvOsS5KoA2jgeyQowg",
+        "transactLevel": "0",
+        "unifyId": "c745e8aa10b94f4ea4761cc832dd01b7",
+        "unifyName": "广播电视、报社等编辑记者执业资格管理（含培训）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431064052W00",
+        "rightsId": "8esiX3-yTru32eE82-vqFw",
+        "transactLevel": "0",
+        "unifyId": "7a6c26736a714572a10cb09c4e0a6eb3",
+        "unifyName": "生产、经营应实施检疫的森林植物及其产品的单位和个人备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431064063W00",
+        "rightsId": "70F599A56029ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "2f2a8e3a1fff4a1d822bf752e2c7420b",
+        "unifyName": "林木良种补偿",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068007W00",
+        "rightsId": "228f97dd483649feb21bfaeaae49acc9",
+        "transactLevel": "0",
+        "unifyId": "89e01bda7ace429cab443c82b06789ab",
+        "unifyName": "世界文化遗产日常监测",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068012W00",
+        "rightsId": "cwCZ-LovTs63lI223p7wmw",
+        "transactLevel": "0",
+        "unifyId": "3de77d2f7bee4f1e8822b4978949eba6",
+        "unifyName": "博物馆设立备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068012W00",
+        "rightsId": "cwCZ-LovTs63lI223p7wmw",
+        "transactLevel": "0",
+        "unifyId": "42e4ac760bb4447cbb347abdb798aea0",
+        "unifyName": "博物馆终止备案",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099014W00",
+        "rightsId": "hQv3rC4OSP6vaoViSmMUgQ",
+        "transactLevel": "0",
+        "unifyId": "9de8634e8b3a41a4997e34b1c64211fc",
+        "unifyName": "防空警报设施安装竣工验收",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099015W00",
+        "rightsId": "_bFdWRt3Q8GnolcXATNydQ",
+        "transactLevel": "0",
+        "unifyId": "99eXr2_1SNWMSYVf2Z8qtA",
+        "unifyName": "人防工程隶属关系变动备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099047W01",
+        "rightsId": "cutVvctPRkS3RIuwqL1TSA",
+        "transactLevel": "0",
+        "unifyId": "cea409ac71604464bfcf5f7aa2954d69",
+        "unifyName": "小额贷款公司设立",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099047W02",
+        "rightsId": "tYmdZIgLT5-0h4AVfWCX0Q",
+        "transactLevel": "0",
+        "unifyId": "7dd7d5253f80438493378cb5ecb3d5bc",
+        "unifyName": "小额贷款公司主要股东或实际控制人变更（含股权变更）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099047W02",
+        "rightsId": "tYmdZIgLT5-0h4AVfWCX0Q",
+        "transactLevel": "0",
+        "unifyId": "26ad474457c9490aa14604cafedafa28",
+        "unifyName": "小额贷款公司减少注册资本金",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099047W02",
+        "rightsId": "tYmdZIgLT5-0h4AVfWCX0Q",
+        "transactLevel": "0",
+        "unifyId": "16271e5747bf4fca94cf77764d9f27a1",
+        "unifyName": "小额贷款公司合并或者分立",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099047W02",
+        "rightsId": "tYmdZIgLT5-0h4AVfWCX0Q",
+        "transactLevel": "0",
+        "unifyId": "81ce4f3108a149f4a54adfa3dc61b31b",
+        "unifyName": "小额贷款公司变更业务范围和经营区域",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432002001W00",
+        "rightsId": "qQm4bdIsRo2FNF_GR1CMtQ",
+        "transactLevel": "1",
+        "unifyId": "ncD5UAb4S0-pxGtKtMjQAg",
+        "unifyName": "领事认证服务（附加证明书、海牙认证）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005001W00",
+        "rightsId": "WaCEKiUvSausjyuRrfgusQ",
+        "transactLevel": "0",
+        "unifyId": "Wh4es6t8Ti6l0aC2iCbZiA",
+        "unifyName": "开具普通话水平等级测试成绩证明服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005002W00",
+        "rightsId": "32JmkJ1BRoKKta-er4ppiQ",
+        "transactLevel": "0",
+        "unifyId": "XQBq2JOeQzu-jgVvVIbxug",
+        "unifyName": "全国高校毕业生就业市场湖南分市场普通高校毕业生就业政策的咨询服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005102W01",
+        "rightsId": "961D8B9AEAA6EDC0E053681515AC9D19",
+        "transactLevel": "0",
+        "unifyId": "00bc0e231504409aa420876fc0cf5ad8",
+        "unifyName": "开具普通高校招生考试成绩证明服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005102W03",
+        "rightsId": "961D8B9AEAA8EDC0E053681515AC9D19",
+        "transactLevel": "0",
+        "unifyId": "6b8a85c0ae374643916b2ae70ddeb599",
+        "unifyName": "开具普通高中学业水平合格性考试成绩证明服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005102W04",
+        "rightsId": "961D8B9AEAA9EDC0E053681515AC9D19",
+        "transactLevel": "0",
+        "unifyId": "b94797a5fd8b446399415c7b934a2fd8",
+        "unifyName": "开具初中学业水平考试成绩证明服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005103W00",
+        "rightsId": "961D8B9AEAABEDC0E053681515AC9D19",
+        "transactLevel": "0",
+        "unifyId": "d685d4a99d0e4c6a91a8d1773252d0d1",
+        "unifyName": "少数民族高层次骨干人才计划招生就业咨询服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005205W00",
+        "rightsId": "Pl7d3C8yQOKPwEKwt73faw",
+        "transactLevel": "0",
+        "unifyId": "1c80b8d3f1b5450caeab05937e28760f",
+        "unifyName": "开具普通高中学历证明书服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005206W00",
+        "rightsId": "Glg18gHERreezCZ06tSriA",
+        "transactLevel": "0",
+        "unifyId": "e92534eab8c740a4afe7403107afa933",
+        "unifyName": "开具湖南省高等教育自学考试毕业证明书和毕业生登记表服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005206W00",
+        "rightsId": "Glg18gHERreezCZ06tSriA",
+        "transactLevel": "0",
+        "unifyId": "2343da5014d0424ba6a59f7c974178b5",
+        "unifyName": "开具湖南省高等教育自学考试毕业证明书服务",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005206W00",
+        "rightsId": "Glg18gHERreezCZ06tSriA",
+        "transactLevel": "0",
+        "unifyId": "5740b109c4d04ae4bd53c8ac61465134",
+        "unifyName": "开具湖南省高等教育自学考试毕业生登记表服务",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005207W00",
+        "rightsId": "995738A2A310D4BCE053681515AC4828",
+        "transactLevel": "0",
+        "unifyId": "0926eb4c1daa442ab5bd84d8274379e2",
+        "unifyName": "开具初中及以下毕业证明材料",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005303W00",
+        "rightsId": "961D8B9AEABCEDC0E053681515AC9D19",
+        "transactLevel": "0",
+        "unifyId": "40d6be799234480fbc492bd87d62cf51",
+        "unifyName": "教育援藏援疆政策咨询服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005304W00",
+        "rightsId": "961D8B9AEABDEDC0E053681515AC9D19",
+        "transactLevel": "0",
+        "unifyId": "726ee2d4ecb84282a4b2d9040e86ec1f",
+        "unifyName": "汉语教师志愿者咨询服务",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 24,
+    "pageSize": 50,
+    "total": 1343,
+    "totalPage": 27
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

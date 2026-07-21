@@ -1,0 +1,273 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131027000",
+        "rightsId": "8794B3AA89FE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "87c74aeb9e1341b5a5d0701dadfe8535",
+        "unifyName": "特殊医学用途配方食品广告审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131034000",
+        "rightsId": "5f1a16ee59d74bac9652cac2d57d6417",
+        "transactLevel": "0",
+        "unifyId": "eXL1fiCcQRiSYKHJPS6ujQ",
+        "unifyName": "药品广告审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131036000",
+        "rightsId": "2aa67820741444658459ebb3cb39f6e9",
+        "transactLevel": "0",
+        "unifyId": "bChcd_jkRx-9x3fffB86Xg",
+        "unifyName": "医疗器械广告审查",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133002000",
+        "rightsId": "8794B3AA8A449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6cc05cf6d0b44c48b0ed580e3b194f26",
+        "unifyName": "经营高危险性体育项目许可",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133002000",
+        "rightsId": "8794B3AA8A449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "koZkWsK6TnWk8Qh7dyhwlQ",
+        "unifyName": "经营高危险性体育项目许可（延续）",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133002000",
+        "rightsId": "8794B3AA8A449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ltbNin-8Qouu6reQ-Am6qQ",
+        "unifyName": "经营高危险性体育项目许可（变更）",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133002000",
+        "rightsId": "8794B3AA8A449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5W2CdO7tQ8y2LF8cJ2i15Q",
+        "unifyName": "经营高危险性体育项目许可（注销）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133003000",
+        "rightsId": "8794B3AA8A459492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "42ee08f615144d48b13b32d37898639c",
+        "unifyName": "举办健身气功活动的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133003000",
+        "rightsId": "8794B3AA8A459492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "19c6d2fbe9074f958019d8ae84413956",
+        "unifyName": "设立健身气功站点的审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162004000",
+        "rightsId": "8794B3AA8C989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b1202da61d684a70bf1038948b27ce88",
+        "unifyName": "烟草专卖零售许可证新办办理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162004000",
+        "rightsId": "8794B3AA8C989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "59eb28aaa76b457f9e5d463cf2a3bd64",
+        "unifyName": "烟草专卖零售许可证变更办理",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162004000",
+        "rightsId": "8794B3AA8C989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f48787ef53f344fc8550bd7134f19ff0",
+        "unifyName": "烟草专卖零售许可证延续办理",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162004000",
+        "rightsId": "8794B3AA8C989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "68510d31c4a84de59947824129c1acb5",
+        "unifyName": "烟草专卖零售许可证补办办理",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162004000",
+        "rightsId": "8794B3AA8C989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b4f82728ec29404bbdeb501c64a72f53",
+        "unifyName": "烟草专卖零售许可证停业办理",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162004000",
+        "rightsId": "8794B3AA8C989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5a28163de08b41d8ab6cc776e19cc96f",
+        "unifyName": "烟草专卖零售许可证恢复营业办理",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162004000",
+        "rightsId": "8794B3AA8C989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "dbc02953cbc34f75b4a027ebd81a8b08",
+        "unifyName": "烟草专卖零售许可证歇业办理",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172005000",
+        "rightsId": "8794B3AA8E4C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "af1282985ad74eaa9a56d57cf8f3019e",
+        "unifyName": "药品零售经营许可证补发",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718001000",
+        "rightsId": "8794B3AA902D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "294b358713d54e73beed74811dcdf2ab",
+        "unifyName": "公路施工作业验收",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001019009000",
+        "rightsId": "accbb6dbef4d447d93fa28e2f5322942",
+        "transactLevel": "0",
+        "unifyId": "4f542bdd9fb34010b2e55df98bd0ad32",
+        "unifyName": "取水许可证变更",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001019009000",
+        "rightsId": "accbb6dbef4d447d93fa28e2f5322942",
+        "transactLevel": "0",
+        "unifyId": "62f5fb80a52841db870027a409d8a884",
+        "unifyName": "取水许可证注销",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001064027000",
+        "rightsId": "d46b197eb20643c3907a702559fefe03",
+        "transactLevel": "0",
+        "unifyId": "03fa967af2404d2b96aa02dc100d348b",
+        "unifyName": "国有林场森林经营方案审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430120024W00",
+        "rightsId": "TTSJW7zFQoqKKMFn4Pw3uQ163",
+        "transactLevel": "0",
+        "unifyId": "rJTojlDpRA-GbqW2V_HgDw",
+        "unifyName": "从省外引入外来物种许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430720060W00",
+        "rightsId": "70F599A56594ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "q8ses3ExRgCfI9kwj4jjPg",
+        "unifyName": "农村土地承包合同调整审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018134W00",
+        "rightsId": "70F599A55CEDABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "nB3gAe8-R2iPlHquwTvdoA",
+        "unifyName": "游艇俱乐部备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431020084W00",
+        "rightsId": "73D929B050E1D82DE053681515AC07F5",
+        "transactLevel": "2",
+        "unifyId": "uFyJXQCASoW9SSA-qqYb4w",
+        "unifyName": "拖拉机和联合收割机核发检验合格标志",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 2,
+    "pageSize": 50,
+    "total": 75,
+    "totalPage": 2
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

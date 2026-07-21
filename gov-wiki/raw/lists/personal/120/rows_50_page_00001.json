@@ -1,0 +1,125 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112011000",
+        "rightsId": "8794B3AA86299492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "89efa680c5a54fa5b03af159b6b7f3f0",
+        "unifyName": "公证员免职（初审）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112013000",
+        "rightsId": "8794B3AA862B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "08ae1d585b2945bab0572f566cc371df",
+        "unifyName": "司法鉴定机构延续登记",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112013000",
+        "rightsId": "8794B3AA862B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cde3f0b871334d4daa449d9f47330bf8",
+        "unifyName": "司法鉴定机构变更负责人",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112014000",
+        "rightsId": "8794B3AA862C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0d04b0f3b6ab4459af85587b64155d4f",
+        "unifyName": "司法鉴定人执业登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112014000",
+        "rightsId": "8794B3AA862C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9219755158144d3596d42e23213dfe04",
+        "unifyName": "司法鉴定人跨省、市异动",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112014000",
+        "rightsId": "8794B3AA862C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a65942cfba3f4c1c80dfb44d6cd06e8b",
+        "unifyName": "司法鉴定人变更执业类别",
+        "ywCode": "03"
+      },
+      {
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112014000",
+        "rightsId": "8794B3AA862C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bf87a26a5de64324a67bdefe6115f8ee",
+        "unifyName": "司法鉴定人注销执业登记",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012003W01",
+        "rightsId": "7piNgLdVSMiThHofbt_cww",
+        "transactLevel": "0",
+        "unifyId": "6a7614b32cb749578b1cec95e9434b3b",
+        "unifyName": "公证员年度考核及结果备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012063W00",
+        "rightsId": "OgvQHGJFSE2ATiFIEcPI7g",
+        "transactLevel": "0",
+        "unifyId": "54fcb6d3eea5429ca7caa20ece58d7e5",
+        "unifyName": "司法鉴定机构及其分支机构设立初审",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012063W00",
+        "rightsId": "OgvQHGJFSE2ATiFIEcPI7g",
+        "transactLevel": "0",
+        "unifyId": "1a3d7db75d4f4fab9a8a04a0eedcabd5",
+        "unifyName": "司法鉴定机构变更住所",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012063W00",
+        "rightsId": "OgvQHGJFSE2ATiFIEcPI7g",
+        "transactLevel": "0",
+        "unifyId": "e49bcfa0ba444424b6598196f99e25a6",
+        "unifyName": "司法鉴定机构变更负责人",
+        "ywCode": "05"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 11,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

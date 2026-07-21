@@ -1,0 +1,523 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123019000",
+        "rightsId": "8794B3AA892D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "onhObQ5yR3yONsvzIVYKSw",
+        "unifyName": "生产用于传染病防治的消毒产品的单位审批（延续）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123019000",
+        "rightsId": "8794B3AA892D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ELXfs9GjTU6r_ofhFgzd0w",
+        "unifyName": "生产用于传染病防治的消毒产品的单位审批（变更）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123019000",
+        "rightsId": "8794B3AA892D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "monQQLfjTmOhYFYvOw0EUg",
+        "unifyName": "生产用于传染病防治的消毒产品的单位审批（注销）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123019000",
+        "rightsId": "8794B3AA892D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5a9ouD5JTKyIvrkbE6nfPA",
+        "unifyName": "生产用于传染病防治的消毒产品的单位审批（补发）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123019000",
+        "rightsId": "8794B3AA892D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "_-1rl--WT_CshoDe116WMw",
+        "unifyName": "生产用于传染病防治的消毒产品的单位审批（增项）",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fh6qvPH6TweRllbLeiVP9w",
+        "unifyName": "公共场所卫生许可（新发）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "aA9m9AQ9ScKB9oyZosd_JQ",
+        "unifyName": "公共场所卫生许可（换证）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "-OrQ6yHDQgWJVrukcWG2lg",
+        "unifyName": "公共场所卫生许可（变更）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6A3Nqn3SSp2hevBBEJFSOg",
+        "unifyName": "公共场所卫生许可（补办）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0035618e34d44e49b3aa1e550c4cc34b",
+        "unifyName": "公共场所卫生许可（注销）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4478a42c6ed548e684772636c05e394e",
+        "unifyName": "公共场所卫生许可-告知承诺",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123028000",
+        "rightsId": "8794B3AA89369492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b3a9UrYjSUC2WBQkS0jxTg",
+        "unifyName": "高致病性或疑似高致病性病原微生物实验活动审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131016000",
+        "rightsId": "8794B3AA89F39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cb0f9e8ebfd1482abb1e87b4bc4dfa66",
+        "unifyName": "重要工业产品生产许可证核发",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131016000",
+        "rightsId": "8794B3AA89F39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "iG30JQoETAmNW6pgUwRhuw",
+        "unifyName": "重要工业产品生产许可证核发（食品相关产品）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131023000",
+        "rightsId": "8794B3AA89FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b573fb9420d44337a30968f2e0017bc6",
+        "unifyName": "食品生产许可（保健食品、婴幼儿配方乳粉、特殊医学用途配方食品、食盐）核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131023000",
+        "rightsId": "8794B3AA89FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2212706b425447b2976cbb9fc9253980",
+        "unifyName": "食品（不含特殊食品）生产许可注销",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131023000",
+        "rightsId": "8794B3AA89FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d6017054d83241b2bb93ca4d6868eba3",
+        "unifyName": "食品生产许可（保健食品、婴幼儿配方乳粉、特殊医学用途配方食品、食盐）变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131023000",
+        "rightsId": "8794B3AA89FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b631688472c04b65823b32a7d3ab80df",
+        "unifyName": "食品生产许可（保健食品、婴幼儿配方乳粉、特殊医学用途配方食品、食盐）补发",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131023000",
+        "rightsId": "8794B3AA89FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "44c8595dd7ea48d681555fe56aab82eb",
+        "unifyName": "食品生产许可（保健食品、婴幼儿配方乳粉、特殊医学用途配方食品、食盐）注销",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131023000",
+        "rightsId": "8794B3AA89FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "de53e5139c11436d8b865ba6bb7e6061",
+        "unifyName": "食品生产许可（保健食品、婴幼儿配方乳粉、特殊医学用途配方食品、食盐）延续",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000131023000",
+        "rightsId": "8794B3AA89FA9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "eb8f58f67ad941f18eb44c13ed2538c3",
+        "unifyName": "食品（不含特殊食品）生产许可核发",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000131023000",
+        "rightsId": "8794B3AA89FA9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "aa85956f50984123bf091eeb5fa640ec",
+        "unifyName": "食品（不含特殊食品）生产许可变更",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000131023000",
+        "rightsId": "8794B3AA89FA9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "ec36ccadf8774c5aad95baeeb4525920",
+        "unifyName": "食品（不含特殊食品）生产许可延续",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131023000",
+        "rightsId": "8794B3AA89FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8f171e7e332449ec87d037df59f12c20",
+        "unifyName": "食品（不含特殊食品）生产许可补证",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131024000",
+        "rightsId": "8794B3AA89FB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ec1f1f52c4d643e193c7ae0eea3a5934",
+        "unifyName": "《食品经营许可证》新办",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131024000",
+        "rightsId": "8794B3AA89FB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e64db333cafd4ef2bb9100888a99c911",
+        "unifyName": "《食品经营许可证》变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131024000",
+        "rightsId": "8794B3AA89FB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "88aa98c796a645eea9804bfe146ea52b",
+        "unifyName": "《食品经营许可证》补办",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131024000",
+        "rightsId": "8794B3AA89FB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8dd651e08fb1413e8dc075c7708d9d4e",
+        "unifyName": "《食品经营许可证》注销",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131025000",
+        "rightsId": "8794B3AA89FC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5390a2f6b41642bca9e52cce76ac69b8",
+        "unifyName": "食品添加剂生产许可核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131025000",
+        "rightsId": "8794B3AA89FC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "db1de4cce1044717b42ce4ebd45985f8",
+        "unifyName": "食品添加剂生产许可变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131025000",
+        "rightsId": "8794B3AA89FC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0845381850df45ada25b346e0707f739",
+        "unifyName": "食品添加剂生产许可注销",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131025000",
+        "rightsId": "8794B3AA89FC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b982814b7f774343870bf40c0e9d876d",
+        "unifyName": "食品添加剂生产许可补证",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131025000",
+        "rightsId": "8794B3AA89FC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ed4c704706cc44d6ad9623968293636b",
+        "unifyName": "食品添加剂生产许可延续",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131026000",
+        "rightsId": "8794B3AA89FD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1039420480d04100944ad22bd8912127",
+        "unifyName": "保健食品广告审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131027000",
+        "rightsId": "8794B3AA89FE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "87c74aeb9e1341b5a5d0701dadfe8535",
+        "unifyName": "特殊医学用途配方食品广告审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131034000",
+        "rightsId": "5f1a16ee59d74bac9652cac2d57d6417",
+        "transactLevel": "0",
+        "unifyId": "eXL1fiCcQRiSYKHJPS6ujQ",
+        "unifyName": "药品广告审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131036000",
+        "rightsId": "2aa67820741444658459ebb3cb39f6e9",
+        "transactLevel": "0",
+        "unifyId": "bChcd_jkRx-9x3fffB86Xg",
+        "unifyName": "医疗器械广告审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132012000",
+        "rightsId": "8794B3AA8A159492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "01eb16591d0242ce8dfa4cf4f6298018",
+        "unifyName": "乡镇设立广播电视站",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132012000",
+        "rightsId": "8794B3AA8A159492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f35f3e404b8142b6a9984405596efc42",
+        "unifyName": "机关、部队、团体、企业事业单位设立有线广播电视站的审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132019000",
+        "rightsId": "8794B3AA8A1C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7ec6c1ae74ce4d48aae0624dbf075b89",
+        "unifyName": "举办区域性广播电视节目交流、交易活动审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132041000",
+        "rightsId": "8794B3AA8A389492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "acb9f8fe4865493080b7894fd7f7130f",
+        "unifyName": "县级广播电台、电视台变更台名、节目设置范围或节目套数审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132043000",
+        "rightsId": "8794B3AA8A3A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "r8zF4vxCQOalFAo8PkWCsA",
+        "unifyName": "设区的市、县级新闻机构信息网络传播视听节目许可证的审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133002000",
+        "rightsId": "8794B3AA8A449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6cc05cf6d0b44c48b0ed580e3b194f26",
+        "unifyName": "经营高危险性体育项目许可",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133002000",
+        "rightsId": "8794B3AA8A449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "koZkWsK6TnWk8Qh7dyhwlQ",
+        "unifyName": "经营高危险性体育项目许可（延续）",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133002000",
+        "rightsId": "8794B3AA8A449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ltbNin-8Qouu6reQ-Am6qQ",
+        "unifyName": "经营高危险性体育项目许可（变更）",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133002000",
+        "rightsId": "8794B3AA8A449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5W2CdO7tQ8y2LF8cJ2i15Q",
+        "unifyName": "经营高危险性体育项目许可（注销）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133003000",
+        "rightsId": "8794B3AA8A459492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "42ee08f615144d48b13b32d37898639c",
+        "unifyName": "举办健身气功活动的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133003000",
+        "rightsId": "8794B3AA8A459492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "19c6d2fbe9074f958019d8ae84413956",
+        "unifyName": "设立健身气功站点的审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bce1c76f230e4de1b888652e4a92ee1d",
+        "unifyName": "设立图书出版单位审批的初审",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cc7bf6ed0b0a44009d314627bbe0d46a",
+        "unifyName": "创办报纸审批的初审",
+        "ywCode": "11"
+      }
+    ],
+    "pageIndex": 6,
+    "pageSize": 50,
+    "total": 503,
+    "totalPage": 11
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

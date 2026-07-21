@@ -1,0 +1,76 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004132W00",
+        "rightsId": "f37uaB3xSLGKaaPVoCn4TA",
+        "transactLevel": "0",
+        "unifyId": "57d78ce2305c4d1fa2c00a3518431c97",
+        "unifyName": "借用国际金融组织和外国政府贷款项目可行性研究报告的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017001W00",
+        "rightsId": "cdpB1HpNRbC2Kl9Ub2WnbQ",
+        "transactLevel": "0",
+        "unifyId": "IPCoI9G4SoGnRvWWgBTKmg",
+        "unifyName": "园林绿化工程（含工程建设项目附属绿化工程）设计方案审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017154W00",
+        "rightsId": "9vc3xOMRQwSR2jmLwfNlYA",
+        "transactLevel": "0",
+        "unifyId": "q2AElXzjTle8KNmWmcKbeA",
+        "unifyName": "城市照明设施移交",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018189W00",
+        "rightsId": "LlfIJMmtR0GK5R7Rf5w0RA",
+        "transactLevel": "0",
+        "unifyId": "ffOYuqtfQJSxoytHc2wlEQ",
+        "unifyName": "水路旅客班轮运输业务经营者停止营业备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099001W00",
+        "rightsId": "9rZt7lNqS3yzqmNOtk_X0w",
+        "transactLevel": "0",
+        "unifyId": "LSEdvgLNQV2jRUrkCrmybg",
+        "unifyName": "省本级政务信息化项目可行性研究报告审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099001W00",
+        "rightsId": "9rZt7lNqS3yzqmNOtk_X0w",
+        "transactLevel": "0",
+        "unifyId": "L31zZuqURQiBYvF_WUfINg",
+        "unifyName": "省本级政务信息化项目初步设计和投资概算审批",
+        "ywCode": "02"
+      }
+    ],
+    "pageIndex": 3,
+    "pageSize": 50,
+    "total": 106,
+    "totalPage": 3
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

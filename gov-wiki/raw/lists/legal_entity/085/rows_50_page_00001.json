@@ -1,0 +1,534 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115005000",
+        "rightsId": "8794B3AA86519492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0WSeR35xTImeCWKLTijbeA",
+        "unifyName": "乡（镇）村公共设施、公益事业使用集体建设用地审批（设区的市级权限）",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115005000",
+        "rightsId": "8794B3AA86519492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "QIfHgHIxSJeH9vJsId_rLQ",
+        "unifyName": "乡（镇）村公共设施、公益事业使用集体建设用地审批（县级权限）",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115006000",
+        "rightsId": "8794B3AA86529492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "EAcSM607SOGtWgk045y9-w",
+        "unifyName": "乡（镇）村企业使用集体建设用地审批（设区的市级权限）",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115006000",
+        "rightsId": "8794B3AA86529492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "LeKwLKJeSJGfg1e51DW5Iw",
+        "unifyName": "乡（镇）村企业使用集体建设用地审批（县级权限）",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000115010000",
+        "rightsId": "8794B3AA86599492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "fuh4gd_URIW_ddkjSdx6Xw",
+        "unifyName": "农村村民住宅建设规划许可变更",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000115010000",
+        "rightsId": "8794B3AA86599492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "p4NmRAfWQsCOzEdwyzhnNg",
+        "unifyName": "农村村民住宅建设规划许可延期",
+        "ywCode": "11"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000115010000",
+        "rightsId": "8794B3AA86599492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "X7XieCsgQuOxlmtzzuFUBA",
+        "unifyName": "农村村民住宅建设规划许可注销",
+        "ywCode": "12"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000115010000",
+        "rightsId": "8794B3AA86599492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "VHUkVhbFROWzEg785DVDGw",
+        "unifyName": "乡村建设规划许可办理（设区的市级权限）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115010000",
+        "rightsId": "8794B3AA86599492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "_trvKtleQ3m1PCWfnBVoTA",
+        "unifyName": "乡村建设规划许可变更（设区的市级权限）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115010000",
+        "rightsId": "8794B3AA86599492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "dwjx6B_UTm-UGf6DW4U_ug",
+        "unifyName": "乡村建设规划许可延期（设区的市级权限）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115010000",
+        "rightsId": "8794B3AA86599492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Psh-BjLiQ3O_GqMxxIr7Qg",
+        "unifyName": "乡村建设规划许可注销（设区的市级权限）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000115010000",
+        "rightsId": "8794B3AA86599492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "aUZRLro5Tf6AetP2_4LNAg",
+        "unifyName": "乡村建设规划许可办理（县级权限）",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115010000",
+        "rightsId": "8794B3AA86599492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "t2XFf8fQR9aFhdHxI9-EPQ",
+        "unifyName": "乡村建设规划许可变更（县级权限）",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115010000",
+        "rightsId": "8794B3AA86599492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "jv641-gfT5CAP3E5D5C51g",
+        "unifyName": "乡村建设规划许可延期（县级权限）",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115010000",
+        "rightsId": "8794B3AA86599492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "FsaI_JgkS-Cb0pq6bHolGQ",
+        "unifyName": "乡村建设规划许可注销（县级权限）",
+        "ywCode": "09"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115012000",
+        "rightsId": "8794B3AA865B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Ol502tPsS4WYautfIr8fOg",
+        "unifyName": "建设项目用地预审与选址意见书注销（县级权限）",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115012000",
+        "rightsId": "8794B3AA865B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "YdjlnuKYQ2C1lglN429THA",
+        "unifyName": "建设项目用地预审与选址意见书注销（省级权限）",
+        "ywCode": "04"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115012000",
+        "rightsId": "8794B3AA865B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4f8g7WR2QPqP2T83AOgloA",
+        "unifyName": "建设项目用地预审与选址意见书注销（设区的市级权限）",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115013000",
+        "rightsId": "8794B3AA865C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "lG9gpTlUSM23aIsmtYQeeg",
+        "unifyName": "建设用地规划许可注销（县级权限）",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000115013000",
+        "rightsId": "8794B3AA865C9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "MMPppdH7Q7uSuCH2gGxrzw",
+        "unifyName": "建设用地规划许可办理（设区的市级权限）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115013000",
+        "rightsId": "8794B3AA865C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Wn1yEnjnQO65WEdjxPiD7A",
+        "unifyName": "建设用地规划许可变更（设区的市级权限）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115013000",
+        "rightsId": "8794B3AA865C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "foqYSed6S0GDBqP2rmkyfQ",
+        "unifyName": "建设用地规划许可延期（设区的市级权限）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115013000",
+        "rightsId": "8794B3AA865C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "PeY7psDVTN2Pa6ANehRcZQ",
+        "unifyName": "建设用地规划许可注销（设区的市级权限）",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000115013000",
+        "rightsId": "8794B3AA865C9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "PYVksh2OTBqsDScami2aNg",
+        "unifyName": "建设用地规划许可办理（县级权限）",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115013000",
+        "rightsId": "8794B3AA865C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fz44CQrCTG6bqIjIJeRqbg",
+        "unifyName": "建设用地规划许可变更（县级权限）",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115013000",
+        "rightsId": "8794B3AA865C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "GoGg1V-ZQV-Ab2gjdd3ZkA",
+        "unifyName": "建设用地规划许可延期（县级权限）",
+        "ywCode": "09"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115017002",
+        "rightsId": "8794B3AA866E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0101d0891355470aaee7d7db3fe41dd4",
+        "unifyName": "探矿许可延续申请",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115017007",
+        "rightsId": "0f76b5d84dfe4a0bb67416df18f6d1ef",
+        "transactLevel": "0",
+        "unifyId": "bnepIE_QQ26iZFuoMHnx-A",
+        "unifyName": "探矿许可首次申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115032001",
+        "rightsId": "e17f9ba284db41e79d3f336f3fcf6f22",
+        "transactLevel": "0",
+        "unifyId": "xMOb2xIuRNukY7N0-c7q2w",
+        "unifyName": "除国家重大工程项目和国务院确定的大城市外建立相对独立的平面坐标系统审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115034000",
+        "rightsId": "8794B3AA86949492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "4fd687e8c09d45ae9615abd3437fa46e",
+        "unifyName": "拆迁永久性测量标志或者使永久性测量标志失去效能审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115036000",
+        "rightsId": "8794B3AA86969492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "465607b320384cbc8e7d651fcb145c2f",
+        "unifyName": "对外提供属于国家秘密的除跨省级行政区域外测绘成果审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115037000",
+        "rightsId": "8794B3AA86979492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "b5c10420f1244bfc9fe70b62d8011032",
+        "unifyName": "法人或者其他组织需要利用属于国家秘密的基础测绘成果审批（省级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115037000",
+        "rightsId": "8794B3AA86979492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "QDJ8XkDJTcyzib8gd8CNTg",
+        "unifyName": "法人或者其他组织需要利用属于国家秘密的基础测绘成果审批（设区的市级权限）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115037000",
+        "rightsId": "8794B3AA86979492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "pJNBVq-cToCEFVhv8XMfBA",
+        "unifyName": "法人或者其他组织需要利用属于国家秘密的基础测绘成果审批（县级权限）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000117011000",
+        "rightsId": "8794B3AA86FA9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "MFxnNu14QLSyEQmsJeI__w",
+        "unifyName": "建设工程规划许可办理（设区的市级权限）",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117011000",
+        "rightsId": "8794B3AA86FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Vvpml2oGQ56jK9BovFb2Uw",
+        "unifyName": "建设工程规划许可变更（设区的市级权限）",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117011000",
+        "rightsId": "8794B3AA86FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "06FhkNXOQDS55perLUgVqg",
+        "unifyName": "建设工程规划许可延期（设区的市级权限）",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117011000",
+        "rightsId": "8794B3AA86FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "jGeijtVDSku0tH9epXanUA",
+        "unifyName": "建设工程规划许可注销（设区的市级权限）",
+        "ywCode": "12"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000117011000",
+        "rightsId": "8794B3AA86FA9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "IivWFV7gT2OeIDBGHOM09w",
+        "unifyName": "临时建设工程规划许可办理（设区的市级权限）",
+        "ywCode": "18"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117011000",
+        "rightsId": "8794B3AA86FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9b8oe4NPTtGYqAb9XYohEA",
+        "unifyName": "临时建设工程规划许可变更（设区的市级权限）",
+        "ywCode": "19"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117011000",
+        "rightsId": "8794B3AA86FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "urzZ879yQZOn2l0HxHWzWg",
+        "unifyName": "临时建设工程规划许可延期（设区的市级权限）",
+        "ywCode": "20"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117011000",
+        "rightsId": "8794B3AA86FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "qQNtTe5ORMK3__vymP8RZA",
+        "unifyName": "临时建设工程规划许可注销（设区的市级权限）",
+        "ywCode": "21"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000117011000",
+        "rightsId": "8794B3AA86FA9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "MqctaYsLQHmV_A2OCjgUzw",
+        "unifyName": "建设工程规划许可办理（县级权限）",
+        "ywCode": "13"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117011000",
+        "rightsId": "8794B3AA86FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "S9QHxPniTtuULWKCP2o7lg",
+        "unifyName": "建设工程规划许可变更（县级权限）",
+        "ywCode": "14"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117011000",
+        "rightsId": "8794B3AA86FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Zl6asJ14SzCcXbAwYTHUXg",
+        "unifyName": "建设工程规划许可延期（县级权限）",
+        "ywCode": "15"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117011000",
+        "rightsId": "8794B3AA86FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cm--F4JCQaKioYOGfHBNCQ",
+        "unifyName": "建设工程规划许可注销（县级权限）",
+        "ywCode": "16"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000117011000",
+        "rightsId": "8794B3AA86FA9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "Ni_ZwBvCTWKd91F5qP5o1w",
+        "unifyName": "临时建设工程规划许可办理（县级权限）",
+        "ywCode": "22"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117011000",
+        "rightsId": "8794B3AA86FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "lWnfPukTTUukloNZW5YG6g",
+        "unifyName": "临时建设工程规划许可变更（县级权限）",
+        "ywCode": "23"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117011000",
+        "rightsId": "8794B3AA86FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "zHbArh9XQ6acyVcHwKnhrA",
+        "unifyName": "临时建设工程规划许可延期（县级权限）",
+        "ywCode": "24"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117011000",
+        "rightsId": "8794B3AA86FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "UEAqTPceTYGjbxVnMmwyZg",
+        "unifyName": "临时建设工程规划许可注销（县级权限）",
+        "ywCode": "25"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 100,
+    "totalPage": 2
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

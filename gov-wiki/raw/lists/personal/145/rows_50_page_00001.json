@@ -1,0 +1,516 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123002000",
+        "rightsId": "8794B3AA89199492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f2c1094f66f643ab93a85f2bafc78486",
+        "unifyName": "母婴保健服务人员资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000123003000",
+        "rightsId": "8794B3AA891A9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "08c344c6e82b498cb8abdc547fd2fa12",
+        "unifyName": "医疗机构设置审批（含港澳台）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000123004000",
+        "rightsId": "8794B3AA891B9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "589c110f716f4422a19fb0f35b14e9dd",
+        "unifyName": "医疗机构执业登记（新发)",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000123004000",
+        "rightsId": "8794B3AA891B9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "65d8b75d168147a5b48c2de5ec324581",
+        "unifyName": "医疗机构执业登记（校验)",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000123004000",
+        "rightsId": "8794B3AA891B9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "resqmwGxQc2Xi-EKY4Segw",
+        "unifyName": "医疗机构执业登记（注销)",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000123004000",
+        "rightsId": "8794B3AA891B9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "01e17f2cef9f462189eda8024abf23cd",
+        "unifyName": "医疗机构执业登记（变更）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123010000",
+        "rightsId": "8794B3AA89219492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "nE_49CFaTji6BSI26q_GjA",
+        "unifyName": "医师资格准入（台湾地区、港澳特别行政区医师申请大陆医师资格认定）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123010000",
+        "rightsId": "8794B3AA89219492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "E5DSKARCS32ze7-d2V3V1w",
+        "unifyName": "医师资格准入（军队医师复转退换领地方医师资格证书）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123012000",
+        "rightsId": "8794B3AA89239492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "30d14787fa734c14838a140c68b45cd4",
+        "unifyName": "医师执业注册（首次）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123012000",
+        "rightsId": "8794B3AA89239492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "17488b157a004b7a88e750989938a323",
+        "unifyName": "医师执业变更注册（变更执业范围）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123012000",
+        "rightsId": "8794B3AA89239492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6a3e451f73e84ec989e08e16cef4de15",
+        "unifyName": "医师执业变更注册（变更主执业机构）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000123012000",
+        "rightsId": "8794B3AA89239492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "ba06ea864a9b4042a2286ae38202e3f4",
+        "unifyName": "医师多执业机构备案",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123012000",
+        "rightsId": "8794B3AA89239492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ff953c58febc422dbd93eedf9feed31c",
+        "unifyName": "医师执业备案（注册备案）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123012000",
+        "rightsId": "8794B3AA89239492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "02e1035e78434ccfad3a388d9b5716d5",
+        "unifyName": "医师执业注销",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123012000",
+        "rightsId": "8794B3AA89239492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "efa0d618cbd04c83b4ee89787be747eb",
+        "unifyName": "医师执业注册（遗失补证）",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123013000",
+        "rightsId": "8794B3AA89249492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "hmAvzz3NQnG-YY_Vi08r0g",
+        "unifyName": "外籍医师来华短期执业许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123013000",
+        "rightsId": "8794B3AA89249492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "15e6d56287004a6da0b31f2f46e5df51",
+        "unifyName": "香港、澳门特别行政区医师在内地短期行医许可",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123013000",
+        "rightsId": "8794B3AA89249492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5b8cfd63a2a547dbb6dc16bae63213b9",
+        "unifyName": "台湾地区医师在大陆短期行医许可",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123014000",
+        "rightsId": "8794B3AA89259492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1811631a89894d9c82a62592f671ec19",
+        "unifyName": "护士执业注册（首次注册）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123014000",
+        "rightsId": "8794B3AA89259492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c1f93cde9c65424db66636ecf2b259a7",
+        "unifyName": "护士执业注册（遗失补证）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123014000",
+        "rightsId": "8794B3AA89259492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2c56d9ce0b504d67896486c38995346a",
+        "unifyName": "护士执业注册（延续）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000123014000",
+        "rightsId": "8794B3AA89259492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "a5b432e615684418a6fcfa2c064eeb9f",
+        "unifyName": "护士执业注册（变更）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123014000",
+        "rightsId": "8794B3AA89259492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9b1c5d3688eb44e09b15df18939daa40",
+        "unifyName": "护士执业注册（注销）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fh6qvPH6TweRllbLeiVP9w",
+        "unifyName": "公共场所卫生许可（新发）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "aA9m9AQ9ScKB9oyZosd_JQ",
+        "unifyName": "公共场所卫生许可（换证）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "-OrQ6yHDQgWJVrukcWG2lg",
+        "unifyName": "公共场所卫生许可（变更）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6A3Nqn3SSp2hevBBEJFSOg",
+        "unifyName": "公共场所卫生许可（补办）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0035618e34d44e49b3aa1e550c4cc34b",
+        "unifyName": "公共场所卫生许可（注销）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4478a42c6ed548e684772636c05e394e",
+        "unifyName": "公共场所卫生许可-告知承诺",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123026000",
+        "rightsId": "8794B3AA89349492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1f7b127747a64ad19bb2bf1e2dea096a",
+        "unifyName": "乡村医生执业注册",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123026000",
+        "rightsId": "8794B3AA89349492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ZaMEpw5CTZ2x7HGkaZJisA",
+        "unifyName": "乡村医生执业变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123026000",
+        "rightsId": "8794B3AA89349492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "CdCWmSYgTvavuIocTKiPqA",
+        "unifyName": "乡村医生执业再注册",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172005000",
+        "rightsId": "8794B3AA8E4C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "baac2f2f4e274d6e8dec525a2737f7f7",
+        "unifyName": "药品零售企业许可变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172029001",
+        "rightsId": "c34878166bdb43f9a93a075c4fed1d3e",
+        "transactLevel": "0",
+        "unifyId": "65e4abe786934325b1b0a12f19f5054b",
+        "unifyName": "执业药师首次注册",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172029002",
+        "rightsId": "ccd5f66284814f5b890736d082e86a6f",
+        "transactLevel": "0",
+        "unifyId": "d3d2f7f8ebd54be19272a1d14aa12688",
+        "unifyName": "执业药师延续注册",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172029003",
+        "rightsId": "24652fc09ff1455ea83cbec2dab2cba6",
+        "transactLevel": "0",
+        "unifyId": "7cafa22cccd3411883b2a655b8d62802",
+        "unifyName": "执业药师变更注册",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172029004",
+        "rightsId": "c093548440cf4b5ebaf30c80db1720ab",
+        "transactLevel": "0",
+        "unifyId": "c770ede39fed4300b37cc22cd4880fea",
+        "unifyName": "执业药师注销注册（依申请注销）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000723006000",
+        "rightsId": "8794B3AA90779492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4642fc695c19482caf239a48b18244ac",
+        "unifyName": "对婚前医学检查、遗传病诊断和产前诊断结果有异议的医学技术鉴定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000723008000",
+        "rightsId": "8794B3AA90799492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b431936a723e46639748c86bceaafa18",
+        "unifyName": "计划生育手术并发症鉴定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000723009000",
+        "rightsId": "8794B3AA907A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3673910aa26f48359176e9b088b7bec3",
+        "unifyName": "全省新生儿疾病筛查中心资格的指定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000723011000",
+        "rightsId": "8794B3AA907C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "78a0d8eb22cd4e4e9fcd8c4b164e7fd3",
+        "unifyName": "放射医疗工作人员证新发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000723011000",
+        "rightsId": "8794B3AA907C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ac60f4a061a345e699a1f20f38120af6",
+        "unifyName": "放射医疗工作人员证注销",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000723012000",
+        "rightsId": "8794B3AA907D9492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "95c71f60be484a72986f85455e6354c3",
+        "unifyName": "参加护士执业资格考试人员报名资格审定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000723013000",
+        "rightsId": "8794B3AA907E9492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "7229cd1bacbf423d86e1dccc9952758e",
+        "unifyName": "传统医学师承出师证书核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000723015000",
+        "rightsId": "8794B3AA90809492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "zjc2ocUTSGSDDLOGg1yW1A",
+        "unifyName": "对传统医学师承和确有专长人员申请参加医师资格考试的资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001072002000",
+        "rightsId": "8794B3AA929C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d12d8bc927b140869ba337247ceea7dd",
+        "unifyName": "携带少量麻醉药品和精神药品出入境证明",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431023085W00",
+        "rightsId": "Nr-5Lrn6QOyuXTnTr2US9A",
+        "transactLevel": "1",
+        "unifyId": "eccc15464da648fd9747defafcd7cfa7",
+        "unifyName": "中医诊所备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431023114W00",
+        "rightsId": "70F599A5662FABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "f0984f53e4f14833b6553c2821d2b6b5",
+        "unifyName": "医疗事故争议调解申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "432023002W00",
+        "rightsId": "VrC7PAhuQauj5t-BD1lhsg",
+        "transactLevel": "3",
+        "unifyId": "eApVaNm0RwG6hGB_6ROpgA",
+        "unifyName": "死亡医学（推断）证明书办理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432023202W00",
+        "rightsId": "979D0B92957A62A9E053681515AC0F59",
+        "transactLevel": "0",
+        "unifyId": "0d130b94558a43abacf2a01a133b1150",
+        "unifyName": "医疗纠纷行政调解申请",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 53,
+    "totalPage": 2
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

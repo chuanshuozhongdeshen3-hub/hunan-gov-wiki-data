@@ -1,0 +1,520 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039074W00",
+        "rightsId": "xWhRH7fLSSCnlxtHrLd2Ww",
+        "transactLevel": "0",
+        "unifyId": "211af703a5444b7481117f3695391c24",
+        "unifyName": "出版物出版单位年度核验",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039075W00",
+        "rightsId": "lIDO5wX3RJ-8nLoJfBH_5w",
+        "transactLevel": "0",
+        "unifyId": "658da373ffaf4f9e9e7486f855182064",
+        "unifyName": "出版单位中止出版活动备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039075W00",
+        "rightsId": "lIDO5wX3RJ-8nLoJfBH_5w",
+        "transactLevel": "0",
+        "unifyId": "1513e4f5809b427a91d9dbe15515327a",
+        "unifyName": "出版单位终止出版活动注销登记",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039076W00",
+        "rightsId": "14gVjleeS1qxYRHMUA933A",
+        "transactLevel": "0",
+        "unifyId": "ef8adea4e11a4766aa43e45a3e0ea8c1",
+        "unifyName": "新闻机构驻地方机构年度核验",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039077W00",
+        "rightsId": "tW6q7RaCT8aswDd9FJroaA",
+        "transactLevel": "0",
+        "unifyId": "e86ac10a4d3444bd85fd149432bec89d",
+        "unifyName": "期刊变更开本备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039077W00",
+        "rightsId": "tW6q7RaCT8aswDd9FJroaA",
+        "transactLevel": "0",
+        "unifyId": "bb89c4b8cd9f4d68a801d153e8c928e3",
+        "unifyName": "音像出版单位变更地址备案",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039077W00",
+        "rightsId": "tW6q7RaCT8aswDd9FJroaA",
+        "transactLevel": "0",
+        "unifyId": "e11c0124651c4bdf8c30b196c7a99778",
+        "unifyName": "电子出版物出版单位变更地址备案",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039077W00",
+        "rightsId": "tW6q7RaCT8aswDd9FJroaA",
+        "transactLevel": "0",
+        "unifyId": "e8a4cecd0e7d44459a0231add6e8f05b",
+        "unifyName": "报纸变更承印单位备案",
+        "ywCode": "12"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039077W00",
+        "rightsId": "tW6q7RaCT8aswDd9FJroaA",
+        "transactLevel": "0",
+        "unifyId": "8aecace871664c9d8029282136f30fa7",
+        "unifyName": "图书出版单位变更法定代表人或主要负责人备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039077W00",
+        "rightsId": "tW6q7RaCT8aswDd9FJroaA",
+        "transactLevel": "0",
+        "unifyId": "d99b10bc3a794c8a9039d36ed2c958a4",
+        "unifyName": "报纸出版单位变更法定代表人或主要负责人备案",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039077W00",
+        "rightsId": "tW6q7RaCT8aswDd9FJroaA",
+        "transactLevel": "0",
+        "unifyId": "7b27b914f96b433cbd5b39d2e1dce143",
+        "unifyName": "期刊出版单位变更法定代表人或主要负责人备案",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039077W00",
+        "rightsId": "tW6q7RaCT8aswDd9FJroaA",
+        "transactLevel": "0",
+        "unifyId": "ef22b64d11d441fba52cdeae37e55607",
+        "unifyName": "音像出版单位变更法定代表人或主要负责人备案",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039077W00",
+        "rightsId": "tW6q7RaCT8aswDd9FJroaA",
+        "transactLevel": "0",
+        "unifyId": "6dac16f1fc074ebebed9bb6938898247",
+        "unifyName": "电子出版物出版单位变更法定代表人或主要负责人备案",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039077W00",
+        "rightsId": "tW6q7RaCT8aswDd9FJroaA",
+        "transactLevel": "0",
+        "unifyId": "e391685cdbea4932990728431c8ef1a5",
+        "unifyName": "图书出版单位变更地址备案",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039077W00",
+        "rightsId": "tW6q7RaCT8aswDd9FJroaA",
+        "transactLevel": "0",
+        "unifyId": "444ef5e6f77649c9a6e8cd6026e801bc",
+        "unifyName": "报纸出版单位变更地址备案",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039077W00",
+        "rightsId": "tW6q7RaCT8aswDd9FJroaA",
+        "transactLevel": "0",
+        "unifyId": "a4efe3e6b3f94335a2711b4428661da3",
+        "unifyName": "期刊出版单位在同一登记地内变更地址备案",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039078W00",
+        "rightsId": "200db0aff8df4a8c9ddffc535c74abae",
+        "transactLevel": "0",
+        "unifyId": "c728e705d2c342a59b2bc83c4e364cc5",
+        "unifyName": "已经取得出版物经营许可证的单位、个人在批准的经营范围内通过互联网等信息网络从事出版物发行业务的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431041040W00",
+        "rightsId": "70F599A55163ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "f55c25d2618e456088d34e85c73f76fb",
+        "unifyName": "宗教院校聘用教师情况的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431041053W00",
+        "rightsId": "2021edc377ca4bdb9a95324f9af36256",
+        "transactLevel": "0",
+        "unifyId": "6df051883c07473ea50afd6af2723304",
+        "unifyName": "政府授牌清真食品生产加工企业改变服务方向审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "431059011W00",
+        "rightsId": "NvldZk2GS-eHqlaQObdrag",
+        "transactLevel": "3",
+        "unifyId": "Co3X9CaQS7ag7fNl1ifb7A",
+        "unifyName": "粮油仓储单位储粮熏蒸方案备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431064001W00",
+        "rightsId": "hYSebEvQTDSMlRscoK3X1Q",
+        "transactLevel": "0",
+        "unifyId": "d1091c1cf6d7470999382a3800975ae1",
+        "unifyName": "在风景名胜区内从事建设、设置广告、举办大型游乐活动以及其他影响生态和景观活动许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431064043W00",
+        "rightsId": "A4ObKBs4Sr6h0PaAmE-O6w",
+        "transactLevel": "0",
+        "unifyId": "8e616544566e41fbadfd01e780084c5e",
+        "unifyName": "生产、经营森林植物及其产品的企业备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431064052W00",
+        "rightsId": "8esiX3-yTru32eE82-vqFw",
+        "transactLevel": "0",
+        "unifyId": "7a6c26736a714572a10cb09c4e0a6eb3",
+        "unifyName": "生产、经营应实施检疫的森林植物及其产品的单位和个人备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431064056W00",
+        "rightsId": "70F599A552DEABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "HKngewJ-Rfm_IN3m5wybWw",
+        "unifyName": "与国外签署涉及林业系统地方级自然保护区的协议认可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431064063W00",
+        "rightsId": "70F599A56029ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "2f2a8e3a1fff4a1d822bf752e2c7420b",
+        "unifyName": "林木良种补偿",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068001W00",
+        "rightsId": "g9x6ObxtTQ2y__nibP3N5g",
+        "transactLevel": "0",
+        "unifyId": "7cf12c87f11b407ca4262b9dee6b9aab",
+        "unifyName": "文物商店购销文物的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068001W00",
+        "rightsId": "g9x6ObxtTQ2y__nibP3N5g",
+        "transactLevel": "0",
+        "unifyId": "63a280c6de6c4cb68ffc2fd668ab8db9",
+        "unifyName": "拍卖企业拍卖文物记录的备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068003W00",
+        "rightsId": "BIYQooa_R6SYP4X2WQlQ7g",
+        "transactLevel": "0",
+        "unifyId": "89e0ac62d24540bb9a2bebc25a76dbed",
+        "unifyName": "博物馆陈列展览的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068004W00",
+        "rightsId": "78c2d58de5d54273852e7e83a8355f39",
+        "transactLevel": "0",
+        "unifyId": "867548ea76154987aaeda4b71bf1dd4e",
+        "unifyName": "文物保护工程验收",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068005W00",
+        "rightsId": "cc70de565ced4c53b5086da15852aa90",
+        "transactLevel": "0",
+        "unifyId": "1fed73c13b4e4b02b9c1e7c7b4ec905e",
+        "unifyName": "国有文物收藏单位之间借出二级（含）以下馆藏文物备案",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068006W00",
+        "rightsId": "_6k56UX3Spa-paGI9Bys_g",
+        "transactLevel": "0",
+        "unifyId": "943a4ef2280a413085cb58f792b3c6ab",
+        "unifyName": "国有文物收藏单位收藏、保管的文物藏品档案、管理制度备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068007W00",
+        "rightsId": "228f97dd483649feb21bfaeaae49acc9",
+        "transactLevel": "0",
+        "unifyId": "89e01bda7ace429cab443c82b06789ab",
+        "unifyName": "世界文化遗产日常监测",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068010W00",
+        "rightsId": "961d1da6dd55409c9481ba2852d2d72c",
+        "transactLevel": "0",
+        "unifyId": "e2d43d1425744f629f1b94a65a9dc198",
+        "unifyName": "省级及以上文物保护单位日常保养维护工程备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068011W00",
+        "rightsId": "cagntOrySQmKjxbfUH3yLA",
+        "transactLevel": "0",
+        "unifyId": "1bc3622920124858aa883e1eed0f2651",
+        "unifyName": "调拨国有文物收藏单位馆藏文物",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068012W00",
+        "rightsId": "cwCZ-LovTs63lI223p7wmw",
+        "transactLevel": "0",
+        "unifyId": "3de77d2f7bee4f1e8822b4978949eba6",
+        "unifyName": "博物馆设立备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068012W00",
+        "rightsId": "cwCZ-LovTs63lI223p7wmw",
+        "transactLevel": "0",
+        "unifyId": "33f6492c36cd4d13829169b5d72ce456",
+        "unifyName": "博物馆变更备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068012W00",
+        "rightsId": "cwCZ-LovTs63lI223p7wmw",
+        "transactLevel": "0",
+        "unifyId": "42e4ac760bb4447cbb347abdb798aea0",
+        "unifyName": "博物馆终止备案",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068013W00",
+        "rightsId": "tf0eApkGTG2pVzqMpvGL9A",
+        "transactLevel": "0",
+        "unifyId": "ec3a2073700842ce884a9b93e0787252",
+        "unifyName": "拍卖企业拍卖文物资质年审",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072001W00",
+        "rightsId": "DQhy2Kn4T7e8lQslaHOwPQ",
+        "transactLevel": "0",
+        "unifyId": "be1fe35f9cdd402fb53f2773cb810a1a",
+        "unifyName": "首次进口药材审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072031W00",
+        "rightsId": "70F599A55BD5ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "2bb0e3bb88cc4aabba6cb0681e61b701",
+        "unifyName": "医院类别医疗机构申请中药制剂委托配制备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072033W00",
+        "rightsId": "70F599A55E9AABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "792e36b8289d49ebb6592b1c9a07d5f7",
+        "unifyName": "医疗器械临床试验备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072035W00",
+        "rightsId": "70F599A55E82ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "d4320535974040b4a8538cf5c9b0e063",
+        "unifyName": "药品进口备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072037W00",
+        "rightsId": "70F599A56120ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "e6f87fa9e54b454b9ffcb9dbce60961d",
+        "unifyName": "医疗机构应用传统工艺配制中药制剂备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072040W00",
+        "rightsId": "70F599A55946ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "60d4318a22b841a6b2eb0da9af3fecd0",
+        "unifyName": "疫苗委托配送备案",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072042W00",
+        "rightsId": "70F599A5595AABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "d2dba38ef4cf44168eb092a16601f858",
+        "unifyName": "非药品生产企业需要使用第二类精神药品原料药（使用咖啡因除外）备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072049W00",
+        "rightsId": "70F599A566BEABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "9f837d90f37e4a018ff8f283709ff135",
+        "unifyName": "第二类医疗器械说明书变更备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072055W00",
+        "rightsId": "B0aRmSa4TGuC7YQI_x7Q1w",
+        "transactLevel": "0",
+        "unifyId": "956454ed25a647a7adc5fc2347cbd82e",
+        "unifyName": "医疗器械网络销售变更备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072055W00",
+        "rightsId": "B0aRmSa4TGuC7YQI_x7Q1w",
+        "transactLevel": "0",
+        "unifyId": "3101a18c1c914c64bf800ade534eccd1",
+        "unifyName": "医疗器械网络销售首次备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072055W00",
+        "rightsId": "B0aRmSa4TGuC7YQI_x7Q1w",
+        "transactLevel": "0",
+        "unifyId": "6fafee46eb8f4edba6f069d9a93d0661",
+        "unifyName": "医疗器械网络销售备案注销",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072056W00",
+        "rightsId": "9CFXaMXYTSq-Y0T9knJWjQ",
+        "transactLevel": "0",
+        "unifyId": "e03339701f4a44a5a9342088633f7a81",
+        "unifyName": "第二类医疗器械经营首次备案",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 50,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

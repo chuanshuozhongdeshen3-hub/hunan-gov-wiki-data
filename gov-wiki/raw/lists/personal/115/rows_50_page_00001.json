@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125047002",
+        "rightsId": "321b644f9f1e4b34ba8b37a30597e12f",
+        "transactLevel": "0",
+        "unifyId": "f725e1b6eab347afa30bcfe14a451b75",
+        "unifyName": "一级注册消防工程师初始注册审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125047002",
+        "rightsId": "321b644f9f1e4b34ba8b37a30597e12f",
+        "transactLevel": "0",
+        "unifyId": "4abbed2b0ff34bc99d97400ae425a68d",
+        "unifyName": "一级注册消防工程师变更注册审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125047002",
+        "rightsId": "321b644f9f1e4b34ba8b37a30597e12f",
+        "transactLevel": "0",
+        "unifyId": "445610bd98c44000afd7ef8fc9af0fbe",
+        "unifyName": "一级注册消防工程师注销注册审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125047002",
+        "rightsId": "321b644f9f1e4b34ba8b37a30597e12f",
+        "transactLevel": "0",
+        "unifyId": "5064ebcf0aa244fd828f14babdccf9fb",
+        "unifyName": "一级注册消防工程师延续注册审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125047002",
+        "rightsId": "321b644f9f1e4b34ba8b37a30597e12f",
+        "transactLevel": "0",
+        "unifyId": "f57ffe11f329451cb3151d822220bc3c",
+        "unifyName": "一级注册消防工程师证章补办/更换",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125049000",
+        "rightsId": "8794B3AA89939492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "99f103485468485ba9b62f9b04de95bf",
+        "unifyName": "公众聚集场所投入使用、营业前消防安全检查（一般流程）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125049000",
+        "rightsId": "8794B3AA89939492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ad8127c644af4a91bca66c688bbae0a5",
+        "unifyName": "公众聚集场所投入使用、营业前消防安全检查（告知承诺制流程）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164150000",
+        "rightsId": "0e62999b29ed43ba84c19fcd04f68e2c",
+        "transactLevel": "0",
+        "unifyId": "NfOxAM2oShGKcoE-fe7xzw",
+        "unifyName": "森林防火期内进入森林防火区进行实弹演习、爆破等活动审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430825003W00",
+        "rightsId": "400411b212d44e53a6d3199401ed24c6",
+        "transactLevel": "0",
+        "unifyId": "9FNzrv-BRtikK9V7lESUjQ",
+        "unifyName": "湖南省森林消防先进集体与个人表彰",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 9,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

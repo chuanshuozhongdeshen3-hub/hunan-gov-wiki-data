@@ -1,0 +1,74 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "000711002000",
+        "rightsId": "8794B3AA8FD59492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "d5892cf3482f4cdf8edb16d571c9f1ae",
+        "unifyName": "涉外收养登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "000711005000",
+        "rightsId": "8794B3AA8FD89492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "81f24fe457324e4590279e039f4b212b",
+        "unifyName": "华侨及居住在香港、澳门、台湾地区的中国公民在内地收养登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "000711005000",
+        "rightsId": "8794B3AA8FD89492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "L5g_UlIuTcyrVdU7D8DhSA",
+        "unifyName": "华侨及居住在香港、澳门、台湾地区的中国公民解除收养登记",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432011703W00",
+        "rightsId": "995738A2A326D4BCE053681515AC4828",
+        "transactLevel": "0",
+        "unifyId": "48d3213785a24500bfdfafbd84293c2c",
+        "unifyName": "儿童收养登记相关政策咨询服务",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "432023113W00",
+        "rightsId": "979D0B92958762A9E053681515AC0F59",
+        "transactLevel": "1",
+        "unifyId": "584b53927f9e4813972aaafafb347171",
+        "unifyName": "农村部分计划生育家庭奖励扶助对象确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432023201W00",
+        "rightsId": "979D0B92957962A9E053681515AC0F59",
+        "transactLevel": "0",
+        "unifyId": "aVeaQhKzT9CV76X1iRO6IQ",
+        "unifyName": "生育登记",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 6,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

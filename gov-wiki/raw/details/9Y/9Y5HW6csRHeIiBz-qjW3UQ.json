@@ -1,0 +1,90 @@
+{
+  "code": 0,
+  "data": {
+    "acceptanceCondition": "1、案件已结案；\n2、案卷材料完整、真实 ；\n3、符合规范的归档要求。",
+    "according": "《中华人民共和国法律援助法》（（2021年8月20日，十三届全国人大常委会第三十次会议通过）(2022年1月1日起施行））  第十二条 法律援助机构应当依照有关规定及时向法律援助人员支付法律援助补贴。 法律援助补贴的标准，由省、自治区、直辖市人民政府司法行政部门会同同级财政部门，根据当地经济发展水平和法律援助的服务类型、承办成本、基本劳务费用等确定，并实行动态调整。 法律援助补贴免征增值税和个人所得税。",
+    "applicantDuty": "法律援助人员应当自法律援助案件结案之日起30日内，按照有关规定向法律援助机构提交有关的法律文书副本或者复印件以及结案报告等完整的案卷归档材料。",
+    "applicantPower": "法律援助机构收到结案材料后，应当及时向接受指派或者安排的法律援助人员支付办案补贴。",
+    "approveLimit": "30",
+    "approveLimitExplain": "无",
+    "blbm": "省、市、县级司法行政部门",
+    "commitmentLimit": "30",
+    "commitmentLimitExplain": "无",
+    "deptName": "司法行政部门",
+    "doScope": "不可通办",
+    "faqList": [
+      {
+        "createDate": 1627379082000,
+        "faqContent": "请问法律援助案件补贴是怎么发放的？",
+        "faqId": "nwDFqPHqTPunnLh17foDVg",
+        "isDelete": "N",
+        "isSzyy": "N",
+        "orderNum": 1.0,
+        "replyContent": "你好，办理法律援助案件的律师或办理法律援助案件的社会组织人员，已按照相关案卷归档的要求，完成如法网系统和纸质案卷的归档工作，并经市法律援助审查合格后，长沙市司法局会将案件补贴，通过银行转账的形式进行发放。",
+        "unifyId": "9Y5HW6csRHeIiBz-qjW3UQ",
+        "updateDate": 1668659564000
+      }
+    ],
+    "isCharge": "否",
+    "isIntermediaryServices": "无",
+    "isSpecialProcedure": "否",
+    "isonline": "是",
+    "lctList": [
+      {
+        "approveCode": "9Y5HW6csRHeIiBz-qjW3UQ",
+        "approveId": "9Y5HW6csRHeIiBz-qjW3UQ",
+        "bucketName": "zwfw202107",
+        "createTime": 1627379006000,
+        "flowc": "approve/2021-07-27-17/1627379006157$$法律援助办案补贴发放流程图.jpg",
+        "id": "C818B19F0EC80FD3E053651515AC8771",
+        "isDelete": "0",
+        "isExchange": "Y",
+        "operateFlag": "N"
+      }
+    ],
+    "materialList": [
+      {
+        "acceptStandard": "1、案件已结案 ;2、案卷材料完整、真实 ;3、符合案卷归档要求.",
+        "bylaw": "《法律援助条例》第二十四条 \n《湖南省法律援助条例》第二十一条",
+        "commitWay": "网上现场都可提交",
+        "copiesNum": 1.0,
+        "createDate": 1627379127000,
+        "freeSubmission": "无",
+        "isDelete": "N",
+        "isMust": "必要",
+        "materialApproveType": "其他",
+        "materialCode": "M0005120020000101",
+        "materialExplain": "暂无填报须知",
+        "materialId": "yQn0OQ0ZQaKtw16mqxy1qA",
+        "materialStandard": "纸质",
+        "materialTitle": "案卷",
+        "materialType": "原件和复印件",
+        "pageformat": "A4",
+        "sourceChannel": "其他",
+        "sourceexplain": "办理法律援助案件所需的相关材料",
+        "unifyId": "9Y5HW6csRHeIiBz-qjW3UQ",
+        "updateDate": 1760598203000
+      }
+    ],
+    "minExplain": "四级标准说明：该事项已经实现全程网办，申请人可以通过网络提交和补正相关申请信息和材料，提交的材料全部为已验证信息，受理通过后直接进入办理程序，申请人可网上查询办理状态、咨询问题，作出审批决定后，申请人可以通过网上缴费后物流递送证书结果。整个办事过程无需到现场办理。",
+    "minSeq": "0",
+    "orgId": "29ce4122acdf4e998a9def4d6dea7e30",
+    "orgName": "湖南省司法厅",
+    "processDescript": "无",
+    "quantitativeRestriction": "暂无数量限制",
+    "resultSampleName": "无",
+    "rightsCode": "000512002000",
+    "rightsId": "8794B3AA8F5A9492E053681515ACDDA6",
+    "schemeLevels": "省、市、县",
+    "serveObject": "个人",
+    "transactLevel": "四级标准",
+    "transactionFrom": "窗口办理^网上办理",
+    "typeName": "行政给付",
+    "unifyId": "9Y5HW6csRHeIiBz-qjW3UQ",
+    "unifyName": "法律援助补贴发放",
+    "ywCode": "01"
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

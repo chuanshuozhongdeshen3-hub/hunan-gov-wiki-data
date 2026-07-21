@@ -1,0 +1,528 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111005000",
+        "rightsId": "8794B3AA860E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "99001203ec954275828db144cb98f6c7",
+        "unifyName": "基金会成立预登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000111005000",
+        "rightsId": "8794B3AA860E9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "315a393d13fb40ceab30480af37ab5a7",
+        "unifyName": "基金会注销登记",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000111005000",
+        "rightsId": "8794B3AA860E9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "6a184519b8e64ae187b8e4e22c1be0fc",
+        "unifyName": "基金会变更名称登记",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111005000",
+        "rightsId": "8794B3AA860E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2ZBDPT7WRuCETzJcxDtyVQ",
+        "unifyName": "基金会变更住所登记",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111005000",
+        "rightsId": "8794B3AA860E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "lzx6iirzQ-G_zWMWtcsWvg",
+        "unifyName": "基金会变更法定代表人登记",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111005000",
+        "rightsId": "8794B3AA860E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "LV18g4utSfO_2dlFbT9HRw",
+        "unifyName": "基金会变更注册资金登记",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111005000",
+        "rightsId": "8794B3AA860E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "GRA-_2-LRymPmt5_6oUBdg",
+        "unifyName": "基金会变更业务主管单位登记",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111005000",
+        "rightsId": "8794B3AA860E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6d8h7PPkSpqGsTx2i-E4uw",
+        "unifyName": "基金会变更业务范围登记",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111006000",
+        "rightsId": "8794B3AA86139492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9f38f5ac9c7d47cb983cb28f1a642c48",
+        "unifyName": "基金会修改章程核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112001000",
+        "rightsId": "8794B3AA861F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7709e610ad5444eba6b8a8f9e1e1bce1",
+        "unifyName": "律师事务所变更组织形式",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112001000",
+        "rightsId": "8794B3AA861F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a24bb9bea36b4500b368beeccf1707b6",
+        "unifyName": "律师事务所变更合伙人备案",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112001000",
+        "rightsId": "8794B3AA861F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "84e08a9c2d094a029ec659e59019b8b0",
+        "unifyName": "律师事务所分所变更名称",
+        "ywCode": "13"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112001000",
+        "rightsId": "8794B3AA861F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9b7191f21d8f4eb1ac9cd694e3e97185",
+        "unifyName": "律师事务所分所变更负责人",
+        "ywCode": "14"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112001000",
+        "rightsId": "8794B3AA861F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "770ffd01b7744c4b9bb67305f27de752",
+        "unifyName": "律师事务所分所变更住所备案",
+        "ywCode": "16"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112001000",
+        "rightsId": "8794B3AA861F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6fb5597f7e984b7486129e891a91abfb",
+        "unifyName": "律师事务所分所执业证书注销",
+        "ywCode": "18"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112001000",
+        "rightsId": "8794B3AA861F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "81feeafd22f5422e92eee3018036f9b8",
+        "unifyName": "设立律师事务所分所",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112001000",
+        "rightsId": "8794B3AA861F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7feeb07b33634f049130848f6b7c7eb1",
+        "unifyName": "律师事务所变更名称",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112001000",
+        "rightsId": "8794B3AA861F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "96e6edcc3c924d3e9f9e91fc8633d0c6",
+        "unifyName": "律师事务所负责人变更审批",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112001000",
+        "rightsId": "8794B3AA861F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "00b9a3f9e6ba4bcaad5a0589c6e1f361",
+        "unifyName": "律师事务所变更章程",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112001000",
+        "rightsId": "8794B3AA861F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "47a143d80efe46a2841c5a86190f6bb5",
+        "unifyName": "律师事务所变更合伙协议",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112004000",
+        "rightsId": "8794B3AA86229492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a7a0ceb0b21548ada73f3d4e5b304cf3",
+        "unifyName": "港澳台律师事务所在内地或者大陆设立代表机构、派驻代表",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112004000",
+        "rightsId": "8794B3AA86229492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9360d83da6674c8ba4a76a380d717ca2",
+        "unifyName": "港澳台律师事务所驻内地或大陆代表机构变更名称、派驻代表",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112004000",
+        "rightsId": "8794B3AA86229492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5ca3c6066b4047d68688335302cf619b",
+        "unifyName": "港澳台律师事务所驻内地或大陆代表机构、派驻代表执业证书注销",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112009000",
+        "rightsId": "8794B3AA86279492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "516fb1026b1e4a4589b92556e74f41be",
+        "unifyName": "香港、澳门律师事务所与内地律师事务所联营核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112012000",
+        "rightsId": "8794B3AA862A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "394d89adc96c449ebef3c415bb52c52d",
+        "unifyName": "仲裁委员会设立登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112012000",
+        "rightsId": "8794B3AA862A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1b305cf7c21c40afaf2adc6a71bde48e",
+        "unifyName": "仲裁委员会变更备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112012000",
+        "rightsId": "8794B3AA862A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "830538edeec94e7fb6ae8891d82a139f",
+        "unifyName": "仲裁委员会注销登记",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112013000",
+        "rightsId": "8794B3AA862B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ed06519f088a4ec09e3d26623eb00d2e",
+        "unifyName": "司法鉴定机构设立登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112013000",
+        "rightsId": "8794B3AA862B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fde71ff42142453d91affe9cc52f4e8d",
+        "unifyName": "司法鉴定机构变更业务范围",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000114002001",
+        "rightsId": "8794B3AA86389492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "mB33YtbORD-nsiEH6BMQGg",
+        "unifyName": "技工学校变更及终止审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000114002001",
+        "rightsId": "8794B3AA86389492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "05243946a3734177aba8e0c28386d2a9",
+        "unifyName": "技工学校筹设",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000114003001",
+        "rightsId": "8794B3AA863A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c936c12716154f978534e1fb8b963851",
+        "unifyName": "民办职业培训学校设立",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000114003001",
+        "rightsId": "8794B3AA863A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "kPbKj2mURdmrtqtp_v3ECQ",
+        "unifyName": "民办职业培训学校变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000114003001",
+        "rightsId": "8794B3AA863A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "WdgTkuinRIi1wIc9Ul5Qxw",
+        "unifyName": "民办培训学校的分立",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000114003001",
+        "rightsId": "8794B3AA863A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2FgXxVXbStGy1WJDOOl9og",
+        "unifyName": "民办培训学校合并",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000114003001",
+        "rightsId": "8794B3AA863A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "m2_vz4v0RT-jhHPTePAyVQ",
+        "unifyName": "民办培训学校的终止",
+        "ywCode": "05"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000114004001",
+        "rightsId": "8794B3AA863C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "936275e1960a4971ba130401c522da34",
+        "unifyName": "中外合作职业技能培训机构设立、分立、合并、变更及终止审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000114005001",
+        "rightsId": "8794B3AA863E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d7460ff6c1f34017baa4ca0eb065387f",
+        "unifyName": "中外合作职业技能培训项目设立审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115016002",
+        "rightsId": "8794B3AA86679492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "qpDa6MrSTp-CvAlGk2h4Ug",
+        "unifyName": "采矿许可延续申请（省级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115016002",
+        "rightsId": "8794B3AA86679492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "VaPNbmxUTo2Y6G8f8aDUYg",
+        "unifyName": "采矿许可延续申请（设区的市级权限）",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115016003",
+        "rightsId": "8794B3AA86689492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "jHgw8a7TTkCJNSwo-6eTdQ",
+        "unifyName": "采矿许可变更申请（省级权限）",
+        "ywCode": "04"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115016003",
+        "rightsId": "8794B3AA86689492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Qz8_dDrtSGKOBg7t8rbmkQ",
+        "unifyName": "采矿许可变更申请（设区的市级权限）",
+        "ywCode": "06"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115016004",
+        "rightsId": "8794B3AA86699492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bf17023fc3334d68b087afe736559878",
+        "unifyName": "采矿许可注销申请（省级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115016004",
+        "rightsId": "8794B3AA86699492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fkcP3ro2TuuTB0CyL_hFdA",
+        "unifyName": "采矿许可注销申请（设区的市级权限）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115016006",
+        "rightsId": "c297f560e1424344af9abf2c1f34855f",
+        "transactLevel": "0",
+        "unifyId": "z22kZqi5Q0SFnlAWw0lZ-Q",
+        "unifyName": "采矿许可首次申请（省级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115016006",
+        "rightsId": "c297f560e1424344af9abf2c1f34855f",
+        "transactLevel": "0",
+        "unifyId": "cLBSgRxwSYG79mXTvRzuxw",
+        "unifyName": "采矿许可首次申请（设区的市级权限）",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115017004",
+        "rightsId": "8794B3AA86709492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3d6cf727fe354a2c93bb791dabd9b2e8",
+        "unifyName": "探矿许可注销申请",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115017005",
+        "rightsId": "8794B3AA86719492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "TfCV_CbHRxSjPHJ43H23ug",
+        "unifyName": "探矿许可变更申请",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117026000",
+        "rightsId": "8794B3AA87099492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bUvv_DaoRqejL8JmfUzrwQ",
+        "unifyName": "改变绿化规划、绿化用地的使用性质审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117027000",
+        "rightsId": "8794B3AA870A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "LmBKcFf2Q3u2EL_KWMTyIw",
+        "unifyName": "砍伐城市树木审批",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 2,
+    "pageSize": 50,
+    "total": 417,
+    "totalPage": 9
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

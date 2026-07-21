@@ -1,0 +1,527 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131013000",
+        "rightsId": "8794B3AA89F09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bopzRq6OSgCblr1PS4dJ9Q",
+        "unifyName": "计量器具型式批准补证",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131013000",
+        "rightsId": "8794B3AA89F09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "WfDOvmeaSc-NhXtAym2lfQ",
+        "unifyName": "计量器具型式批准注销",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131013000",
+        "rightsId": "8794B3AA89F09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "nsq1lJwYSnaMlJRIpB2t1w",
+        "unifyName": "计量器具型式批准变更",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131015000",
+        "rightsId": "8794B3AA89F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cYt9xVg_SDaWpBCZUEWaEQ",
+        "unifyName": "承担国家法定计量检定机构任务授权",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131015000",
+        "rightsId": "8794B3AA89F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "rLQQ-jcbT2mrSmCSkkmBxQ",
+        "unifyName": "法定计量检定机构补证",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131015000",
+        "rightsId": "8794B3AA89F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "EYgUYuOdSjO03qk4uaMTRw",
+        "unifyName": "法定计量检定机构变更",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131015000",
+        "rightsId": "8794B3AA89F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "FZbGXgbvSxitIAhs57Ovlg",
+        "unifyName": "法定计量检定机构注销",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131016000",
+        "rightsId": "8794B3AA89F39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cb0f9e8ebfd1482abb1e87b4bc4dfa66",
+        "unifyName": "重要工业产品生产许可证核发",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131016000",
+        "rightsId": "8794B3AA89F39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "iG30JQoETAmNW6pgUwRhuw",
+        "unifyName": "重要工业产品生产许可证核发（食品相关产品）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131017000",
+        "rightsId": "8794B3AA89F49492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2e5010c0de9b47b6bf6356f66abfb0f6",
+        "unifyName": "特种设备检验、检测机构核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131018000",
+        "rightsId": "8794B3AA89F59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "w6A6AQlKRk6fkKzHIfWXpQ",
+        "unifyName": "检验检测机构资质认定（不含机动车检验领域）",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131018000",
+        "rightsId": "8794B3AA89F59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "-xgdyDQ-Tn-h1TQHMdw_Zw",
+        "unifyName": "检验检测机构资质认定（机动车检验领域）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131023000",
+        "rightsId": "8794B3AA89FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b573fb9420d44337a30968f2e0017bc6",
+        "unifyName": "食品生产许可（保健食品、婴幼儿配方乳粉、特殊医学用途配方食品、食盐）核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131023000",
+        "rightsId": "8794B3AA89FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2212706b425447b2976cbb9fc9253980",
+        "unifyName": "食品（不含特殊食品）生产许可注销",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131023000",
+        "rightsId": "8794B3AA89FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d6017054d83241b2bb93ca4d6868eba3",
+        "unifyName": "食品生产许可（保健食品、婴幼儿配方乳粉、特殊医学用途配方食品、食盐）变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131023000",
+        "rightsId": "8794B3AA89FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b631688472c04b65823b32a7d3ab80df",
+        "unifyName": "食品生产许可（保健食品、婴幼儿配方乳粉、特殊医学用途配方食品、食盐）补发",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131023000",
+        "rightsId": "8794B3AA89FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "44c8595dd7ea48d681555fe56aab82eb",
+        "unifyName": "食品生产许可（保健食品、婴幼儿配方乳粉、特殊医学用途配方食品、食盐）注销",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131023000",
+        "rightsId": "8794B3AA89FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "de53e5139c11436d8b865ba6bb7e6061",
+        "unifyName": "食品生产许可（保健食品、婴幼儿配方乳粉、特殊医学用途配方食品、食盐）延续",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000131023000",
+        "rightsId": "8794B3AA89FA9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "eb8f58f67ad941f18eb44c13ed2538c3",
+        "unifyName": "食品（不含特殊食品）生产许可核发",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000131023000",
+        "rightsId": "8794B3AA89FA9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "aa85956f50984123bf091eeb5fa640ec",
+        "unifyName": "食品（不含特殊食品）生产许可变更",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000131023000",
+        "rightsId": "8794B3AA89FA9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "ec36ccadf8774c5aad95baeeb4525920",
+        "unifyName": "食品（不含特殊食品）生产许可延续",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131023000",
+        "rightsId": "8794B3AA89FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8f171e7e332449ec87d037df59f12c20",
+        "unifyName": "食品（不含特殊食品）生产许可补证",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131024000",
+        "rightsId": "8794B3AA89FB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ec1f1f52c4d643e193c7ae0eea3a5934",
+        "unifyName": "《食品经营许可证》新办",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131024000",
+        "rightsId": "8794B3AA89FB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e64db333cafd4ef2bb9100888a99c911",
+        "unifyName": "《食品经营许可证》变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131024000",
+        "rightsId": "8794B3AA89FB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "663251390e854ad993dc1ddac69d0f6b",
+        "unifyName": "《食品经营许可证》延续",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131024000",
+        "rightsId": "8794B3AA89FB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "88aa98c796a645eea9804bfe146ea52b",
+        "unifyName": "《食品经营许可证》补办",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131024000",
+        "rightsId": "8794B3AA89FB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8dd651e08fb1413e8dc075c7708d9d4e",
+        "unifyName": "《食品经营许可证》注销",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131025000",
+        "rightsId": "8794B3AA89FC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5390a2f6b41642bca9e52cce76ac69b8",
+        "unifyName": "食品添加剂生产许可核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131025000",
+        "rightsId": "8794B3AA89FC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "db1de4cce1044717b42ce4ebd45985f8",
+        "unifyName": "食品添加剂生产许可变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131025000",
+        "rightsId": "8794B3AA89FC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0845381850df45ada25b346e0707f739",
+        "unifyName": "食品添加剂生产许可注销",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131025000",
+        "rightsId": "8794B3AA89FC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b982814b7f774343870bf40c0e9d876d",
+        "unifyName": "食品添加剂生产许可补证",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131025000",
+        "rightsId": "8794B3AA89FC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ed4c704706cc44d6ad9623968293636b",
+        "unifyName": "食品添加剂生产许可延续",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131026000",
+        "rightsId": "8794B3AA89FD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1039420480d04100944ad22bd8912127",
+        "unifyName": "保健食品广告审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131027000",
+        "rightsId": "8794B3AA89FE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "87c74aeb9e1341b5a5d0701dadfe8535",
+        "unifyName": "特殊医学用途配方食品广告审查",
+        "ywCode": "01"
+      },
+      {
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131033000",
+        "rightsId": "2007b48644614cd3b7711b4e9bc3ff65",
+        "transactLevel": "0",
+        "unifyId": "47j4Qkt9QeO12uFllAPMqA",
+        "unifyName": "特种设备作业人员新办",
+        "ywCode": "01"
+      },
+      {
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131033000",
+        "rightsId": "2007b48644614cd3b7711b4e9bc3ff65",
+        "transactLevel": "0",
+        "unifyId": "MK0gzScoR7CalAdFB-B7vQ",
+        "unifyName": "特种设备作业人员延续",
+        "ywCode": "02"
+      },
+      {
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131033000",
+        "rightsId": "2007b48644614cd3b7711b4e9bc3ff65",
+        "transactLevel": "0",
+        "unifyId": "ALcD4V0gR7az0B528UBRLw",
+        "unifyName": "特种设备作业人员补证",
+        "ywCode": "03"
+      },
+      {
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131033000",
+        "rightsId": "2007b48644614cd3b7711b4e9bc3ff65",
+        "transactLevel": "0",
+        "unifyId": "ESLYzf_yQLGSjHCIWA7ySg",
+        "unifyName": "特种设备安全管理人员和作业人员注销",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131034000",
+        "rightsId": "5f1a16ee59d74bac9652cac2d57d6417",
+        "transactLevel": "0",
+        "unifyId": "eXL1fiCcQRiSYKHJPS6ujQ",
+        "unifyName": "药品广告审查",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131035000",
+        "rightsId": "4825a38a25cf4dfea22f825005b8f095",
+        "transactLevel": "0",
+        "unifyId": "oty-jtpbTbCvqgr2N8Ggbw",
+        "unifyName": "移动式压力容器、气瓶充装许可新办",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131035000",
+        "rightsId": "4825a38a25cf4dfea22f825005b8f095",
+        "transactLevel": "0",
+        "unifyId": "GFMwAIpJQqOty4CWx7s0vQ",
+        "unifyName": "移动式压力容器、气瓶充装许可延续",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131035000",
+        "rightsId": "4825a38a25cf4dfea22f825005b8f095",
+        "transactLevel": "0",
+        "unifyId": "WZACX47zQZW1wqWgc0ltDw",
+        "unifyName": "移动式压力容器、气瓶充装许可变更",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131035000",
+        "rightsId": "4825a38a25cf4dfea22f825005b8f095",
+        "transactLevel": "0",
+        "unifyId": "9zSdyVKMRbKG8prwKZaU2Q",
+        "unifyName": "移动式压力容器、气瓶充装许可增项",
+        "ywCode": "04"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131035000",
+        "rightsId": "4825a38a25cf4dfea22f825005b8f095",
+        "transactLevel": "0",
+        "unifyId": "UJXZ1K20Q8Weob3C045qNg",
+        "unifyName": "移动式压力容器、气瓶充装许可补证",
+        "ywCode": "05"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131035000",
+        "rightsId": "4825a38a25cf4dfea22f825005b8f095",
+        "transactLevel": "0",
+        "unifyId": "eUHNJ_CxTFiPGTfB_zjqcA",
+        "unifyName": "移动式压力容器、气瓶充装许可注销",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131036000",
+        "rightsId": "2aa67820741444658459ebb3cb39f6e9",
+        "transactLevel": "0",
+        "unifyId": "bChcd_jkRx-9x3fffB86Xg",
+        "unifyName": "医疗器械广告审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131039000",
+        "rightsId": "fd2a6ca7f1704739b8f4651ff2b7294c",
+        "transactLevel": "0",
+        "unifyId": "vFK7EeeLRTehJ_I4iBzA8Q",
+        "unifyName": "注册计量师初始注册",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131039000",
+        "rightsId": "fd2a6ca7f1704739b8f4651ff2b7294c",
+        "transactLevel": "0",
+        "unifyId": "hRKQDObQRwKM5x6p3o57Nw",
+        "unifyName": "注册计量师延续注册",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131039000",
+        "rightsId": "fd2a6ca7f1704739b8f4651ff2b7294c",
+        "transactLevel": "0",
+        "unifyId": "RP8powCsTXSCQmrLUGdCIQ",
+        "unifyName": "注册计量师变更注册",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131039000",
+        "rightsId": "fd2a6ca7f1704739b8f4651ff2b7294c",
+        "transactLevel": "0",
+        "unifyId": "jsXburMPR9q5iJhIAHadjQ",
+        "unifyName": "注册计量师注销",
+        "ywCode": "04"
+      }
+    ],
+    "pageIndex": 23,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

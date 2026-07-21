@@ -1,0 +1,514 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125036004",
+        "rightsId": "8794B3AA896D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b3a13569a91c414ca43fe5af40ebf8a1",
+        "unifyName": "金属、非金属矿山地质勘探单位安全生产许可",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125036004",
+        "rightsId": "8794B3AA896D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "61879716d8b54cdb85fc9f4b357a4b28",
+        "unifyName": "年生产规模12万吨（不含）以下金属矿山企业安全生产许可",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125036004",
+        "rightsId": "8794B3AA896D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d38e3fd5e3594fb38ea51229210517cf",
+        "unifyName": "金属、非金属矿山采掘施工企业安全生产许可",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125036004",
+        "rightsId": "8794B3AA896D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "TBmNEbJPScaUtvHRrUTzsw",
+        "unifyName": "非煤矿山企业安全生产许可复选延期和变更",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125036005",
+        "rightsId": "8794B3AA896E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cWQSRxzySluDLNbqxp4tfw",
+        "unifyName": "危险化学品生产企业安全生产许可初领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125036005",
+        "rightsId": "8794B3AA896E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "iHcGVtoaTK6FOshIFrVujg",
+        "unifyName": "危险化学品生产企业安全生产许可延期",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125036005",
+        "rightsId": "8794B3AA896E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "WvBDRvkCR4-GVsamqZdosA",
+        "unifyName": "危险化学品生产企业安全生产许可变更",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125036005",
+        "rightsId": "8794B3AA896E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "CqOCeUwnTmi_KFwnM_stYg",
+        "unifyName": "危险化学品生产企业安全生产复选延期和变更",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125036006",
+        "rightsId": "826f124ddc5d47f4b8e968f719d081db",
+        "transactLevel": "0",
+        "unifyId": "8ISaYLfsTPae16s2f3tLLg",
+        "unifyName": "烟花爆竹生产企业安全生产许可初领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125036006",
+        "rightsId": "826f124ddc5d47f4b8e968f719d081db",
+        "transactLevel": "0",
+        "unifyId": "JBUvFS5MTvCLLzvTMMS7Vw",
+        "unifyName": "烟花爆竹生产企业安全生产许可延期",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125036006",
+        "rightsId": "826f124ddc5d47f4b8e968f719d081db",
+        "transactLevel": "0",
+        "unifyId": "3deee27809784dc7b4d9e3c2e9ae190c",
+        "unifyName": "烟花爆竹生产企业安全生产许可变更",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125036006",
+        "rightsId": "826f124ddc5d47f4b8e968f719d081db",
+        "transactLevel": "0",
+        "unifyId": "ub14RdJESCCuBdzXfhh0Qw",
+        "unifyName": "烟花爆竹生产企业安全生产许可复选延期和变更",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00012503700Y",
+        "rightsId": "8794B3AA89749492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "MozmeJ1lTCiOXgwWLBhPoA",
+        "unifyName": "煤矿建设项目安全设施设计审查",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125037011",
+        "rightsId": "8794B3AA89769492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d1_VXKNqS6OUo1lpQip_yQ",
+        "unifyName": "其他金属冶炼建设项目安全设施设计审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125037012",
+        "rightsId": "8794B3AA89779492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "dUc-TETyT1SJ3l3r6YHi-Q",
+        "unifyName": "其他危险化学品生产、储存建设项目安全设施设计审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125037013",
+        "rightsId": "8794B3AA89789492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "xFvaIgqtT1CGAgvJPkU2IA",
+        "unifyName": "生产、储存烟花爆竹建设项目安全设施设计审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125037015",
+        "rightsId": "8794B3AA897A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "W4iSfQ9yT7uwYxOFohRNUg",
+        "unifyName": "其他非煤矿山建设项目安全设施设计审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125039000",
+        "rightsId": "8794B3AA897F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8iyV1eE5RMa0Ku57hcFvDQ",
+        "unifyName": "危险化学品生产、储存建设项目安全条件审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125042000",
+        "rightsId": "8794B3AA89899492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "iBYwbYTKTNyzk5dSAdK4jA",
+        "unifyName": "危险化学品安全使用许可证初领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125042000",
+        "rightsId": "8794B3AA89899492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "G55NeeI9TyalA8Yvs2VxqQ",
+        "unifyName": "危险化学品安全使用许可证延期",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125042000",
+        "rightsId": "8794B3AA89899492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "74RzdD4LSg632IDGBuau7g",
+        "unifyName": "危险化学品安全使用许可证变更",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125043000",
+        "rightsId": "8794B3AA898A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "O1M7HJvaTwWBmVMsNKUDLw",
+        "unifyName": "第一类非药品类易制毒化学品生产许可初领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125043000",
+        "rightsId": "8794B3AA898A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "LzvS6dUeQi-7lWRNhBaGJA",
+        "unifyName": "第一类非药品类易制毒化学品生产许可延期",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125043000",
+        "rightsId": "8794B3AA898A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Yt8dqvMhRTKOVOYTXb0aPQ",
+        "unifyName": "第一类非药品类易制毒化学品生产许可变更",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125044000",
+        "rightsId": "8794B3AA898B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "eyzjI5_uQuG6kU0rdhRMlw",
+        "unifyName": "第一类非药品类易制毒化学品经营许可初领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125044000",
+        "rightsId": "8794B3AA898B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "FPE0to3ZS-2B55medUf50Q",
+        "unifyName": "第一类非药品类易制毒化学品经营许可延期",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125044000",
+        "rightsId": "8794B3AA898B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "DEAIgyg3T9ypGWVbU4l1-Q",
+        "unifyName": "第一类非药品类易制毒化学品经营许可变更",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125045000",
+        "rightsId": "8794B3AA898C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "T7glokoQRzKrz1XJpGfgpA",
+        "unifyName": "危险化学品经营许可初领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125045000",
+        "rightsId": "8794B3AA898C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "CW5iedhZTY-Z6p0ia8xr1Q",
+        "unifyName": "危险化学品经营许可延期",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125045000",
+        "rightsId": "8794B3AA898C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "vLzSWP2WT4aLPJkhCPIqhw",
+        "unifyName": "危险化学品经营许可变更",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125046001",
+        "rightsId": "8794B3AA898D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "j1lHZBVzRkWg7I-f_dnytA",
+        "unifyName": "烟花爆竹经营（批发）许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125046001",
+        "rightsId": "8794B3AA898D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ogkbBffdS16RkNJH-G1a5g",
+        "unifyName": "烟花爆竹经营（批发）变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125046001",
+        "rightsId": "8794B3AA898D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3KAParz1Ro6H3xXdtS7HIA",
+        "unifyName": "烟花爆竹经营（批发）延期",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125046002",
+        "rightsId": "8794B3AA898E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "qbKtyQtbQw-hcboBgHqL3Q",
+        "unifyName": "烟花爆竹经营（零售）许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125046002",
+        "rightsId": "8794B3AA898E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "By-NGtP-QI-vdqV3bnsVAA",
+        "unifyName": "烟花爆竹经营（零售）变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125046002",
+        "rightsId": "8794B3AA898E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "VQeYI4B0RamZ16o7TSLeYg",
+        "unifyName": "烟花爆竹经营（零售）延期",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125049000",
+        "rightsId": "8794B3AA89939492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "99f103485468485ba9b62f9b04de95bf",
+        "unifyName": "公众聚集场所投入使用、营业前消防安全检查（一般流程）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125049000",
+        "rightsId": "8794B3AA89939492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ad8127c644af4a91bca66c688bbae0a5",
+        "unifyName": "公众聚集场所投入使用、营业前消防安全检查（告知承诺制流程）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000130005000",
+        "rightsId": "8794B3AA89E19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "404ca1d9bf0e4662b0d2f375366e061f",
+        "unifyName": "增值税防伪税控系统最高开票限额审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "daa77de6142a41f29fa8492a30862a45",
+        "unifyName": "凭法院裁判文书申请撤销登记",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "56289e53b70f4f0da4c65f55305eb223",
+        "unifyName": "分公司设立登记",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4af65fc28b4f4d3097dcb34ea5a4557d",
+        "unifyName": "分公司变更登记",
+        "ywCode": "12"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7b129bf1104a4af28e074589bb461cd0",
+        "unifyName": "分公司注销登记",
+        "ywCode": "13"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "24e2379b4ef847c28b7edbbe6c5f75f6",
+        "unifyName": "非公司企业法人设立登记",
+        "ywCode": "14"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "35b18a647bec423bbef1942ab0c58aec",
+        "unifyName": "非公司企业法人变更登记",
+        "ywCode": "15"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2b19b7b7c6c2454aa858b29711cdc24d",
+        "unifyName": "非公司企业法人通过普通程序注销登记",
+        "ywCode": "16"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "66b690af6e50406bab9b8be90921293b",
+        "unifyName": "非公司企业法人改制登记",
+        "ywCode": "17"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c46cc6f61c994dbaaa68547e4e77c419",
+        "unifyName": "非公司企业法人分支机构设立登记",
+        "ywCode": "18"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "12967264832843ee8301a661d1b9c38c",
+        "unifyName": "非公司企业法人分支机构变更登记",
+        "ywCode": "19"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c5f6a51698fc41ffa4a6e7ff574bb597",
+        "unifyName": "非公司企业法人分支机构注销登记",
+        "ywCode": "20"
+      }
+    ],
+    "pageIndex": 21,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

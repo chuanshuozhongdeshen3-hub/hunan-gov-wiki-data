@@ -1,0 +1,36 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432018801W00",
+        "rightsId": "9A7017193C40C6C9E053681515ACD5F9",
+        "transactLevel": "0",
+        "unifyId": "QjygYJ52SLqJFJKfkd_KPA",
+        "unifyName": "开具监理项目评定书服务",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432072017W00",
+        "rightsId": "972172B56A5A8461E053681515ACEDAA",
+        "transactLevel": "0",
+        "unifyId": "43240c8052e64cb7a324840abd2811a6",
+        "unifyName": "药品生产企业出口欧盟原料药证明文件",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 8,
+    "pageSize": 50,
+    "total": 352,
+    "totalPage": 8
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

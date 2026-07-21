@@ -1,0 +1,262 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W01",
+        "rightsId": "98230378981C4362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "tz3ob_olQwmmtVYfHJajaw",
+        "unifyName": "单位参保登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W01",
+        "rightsId": "98230378981C4362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "w6bUXPtGQnGnVYrePKdsMQ",
+        "unifyName": "单位注销登记",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W02",
+        "rightsId": "98230378981D4362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "tK6dAbgjQSqzYBgvZaSNZg",
+        "unifyName": "职工增加登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W02",
+        "rightsId": "98230378981D4362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "x9XF5SnMTEeESPm7RWzE_g",
+        "unifyName": "职工减少登记（暂停参保）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W02",
+        "rightsId": "98230378981D4362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "LKU-lEobSo6mTClVGR7_Rg",
+        "unifyName": "在职转退休",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W02",
+        "rightsId": "98230378981D4362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "vvwxFe4ASNmBtS0J6pgOpw",
+        "unifyName": "职工减少登记（终止参保）",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W04",
+        "rightsId": "xb5DFRe_RqeHaYPO_P8a_g",
+        "transactLevel": "0",
+        "unifyId": "MvhqnjfaT-u0-Nw-52ZOLg",
+        "unifyName": "职工参保信息变更登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W05",
+        "rightsId": "ulEbSwbmRleyKMAj0oHabQ",
+        "transactLevel": "0",
+        "unifyId": "6iN0h2nTQZqzjc4HyQ9BBg",
+        "unifyName": "单位参保信息变更登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W08",
+        "rightsId": "3EALYXqkSzC_jFWky8ZIUw",
+        "transactLevel": "0",
+        "unifyId": "11WTqDUyTGqenwPodiDVig",
+        "unifyName": "法定断档补缴",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036009W01",
+        "rightsId": "9823037898294362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "01795fa9f4024378ba082a13e687b587",
+        "unifyName": "医疗机构申请定点协议管理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036009W02",
+        "rightsId": "98230378982A4362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "fe9971525833420198b00f88ef76b782",
+        "unifyName": "零售药店申请定点协议管理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "432036011W07",
+        "rightsId": "PkiGC1yIQR-05HxResuLVQ",
+        "transactLevel": "2",
+        "unifyId": "R_J9nkj6Te-nUDH2k6b30A",
+        "unifyName": "住院费用报销",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "432036011W08",
+        "rightsId": "BE7eVzQFTYyN2y0w3MobAg",
+        "transactLevel": "2",
+        "unifyId": "5W4Sy1iESzaI7nY2GrfMFg",
+        "unifyName": "门诊费用报销",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432072002W00",
+        "rightsId": "nR5wwHkaT3ObDegS1zweiw",
+        "transactLevel": "0",
+        "unifyId": "wGFBFu63R5iVFAA-6pZuJg",
+        "unifyName": "医疗器械产品出口销售证明",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432072003W00",
+        "rightsId": "K9vaDehEQAGrcwReVuBGMg",
+        "transactLevel": "0",
+        "unifyId": "ROMRfa8oTlqAOt056Vivsw",
+        "unifyName": "第二类创新医疗器械特别审查服务",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432072004W00",
+        "rightsId": "kt-U9Y7ORvOyByK8LYHI7Q",
+        "transactLevel": "0",
+        "unifyId": "Cx3ajVGoQ4mmwjZFmbH0rw",
+        "unifyName": "互联网药品医疗器械信息服务备案",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432072004W00",
+        "rightsId": "kt-U9Y7ORvOyByK8LYHI7Q",
+        "transactLevel": "0",
+        "unifyId": "jeQZ-b0HSZKfglG8VN5Y5w",
+        "unifyName": "互联网药品医疗器械信息服务变更备案",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432072004W00",
+        "rightsId": "kt-U9Y7ORvOyByK8LYHI7Q",
+        "transactLevel": "0",
+        "unifyId": "0aui1DUQTMqxQBwpC80sTw",
+        "unifyName": "互联网药品医疗器械信息服务取消备案",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432072005W00",
+        "rightsId": "eMlw9EKZR2GOlU_1VGEPug",
+        "transactLevel": "0",
+        "unifyId": "YBZGZNRgQkqwW51aVrUsTg",
+        "unifyName": "药品网络交易第三方平台备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432072005W00",
+        "rightsId": "eMlw9EKZR2GOlU_1VGEPug",
+        "transactLevel": "0",
+        "unifyId": "mVbO4aQbQMerNad9wFyEJA",
+        "unifyName": "药品网络交易第三方平台变更备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432072005W00",
+        "rightsId": "eMlw9EKZR2GOlU_1VGEPug",
+        "transactLevel": "0",
+        "unifyId": "wYAQE-rZRDe48sZj26X7Jw",
+        "unifyName": "药品网络交易第三方平台申请取消备案",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432072017W00",
+        "rightsId": "972172B56A5A8461E053681515ACEDAA",
+        "transactLevel": "0",
+        "unifyId": "43240c8052e64cb7a324840abd2811a6",
+        "unifyName": "药品生产企业出口欧盟原料药证明文件",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432088008W00",
+        "rightsId": "w52GzAZ6SQSYx-cRmjNo4A",
+        "transactLevel": "0",
+        "unifyId": "vVpSysA6TpGXJVuYM3-ATg",
+        "unifyName": "残疾人创业小额贷款贴息",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "432099002W00",
+        "rightsId": "g-T3Ik4VSlmGKCWzd9PZUA",
+        "transactLevel": "3",
+        "unifyId": "3ddd0074a9ce4b42a9dcf4a496468be1",
+        "unifyName": "有线电视安装费",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 53,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

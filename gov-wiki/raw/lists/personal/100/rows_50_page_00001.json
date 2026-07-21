@@ -1,0 +1,44 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168018000",
+        "rightsId": "8794B3AA8DEA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "242da9be6b9b47b883f45d5ddf435b06",
+        "unifyName": "外国公民、组织和国际组织参观未开放的文物点和考古发掘现场审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432022401W00",
+        "rightsId": "9829CA1E6AE711E2E053681515AC9879",
+        "transactLevel": "0",
+        "unifyId": "xbuw_71lTG2SuKuX0BH-fQ",
+        "unifyName": "旅游投诉服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432022402W00",
+        "rightsId": "9829CA1E6AF011E2E053681515AC9879",
+        "transactLevel": "0",
+        "unifyId": "4vnANh9iTG28eCIGfvKRUg",
+        "unifyName": "提供旅游信息咨询服务",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 3,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

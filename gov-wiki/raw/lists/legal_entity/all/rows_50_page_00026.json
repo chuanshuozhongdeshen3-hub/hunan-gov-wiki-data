@@ -1,0 +1,524 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "772ea6300d0f47baa65a99500f637722",
+        "unifyName": "图书出版单位变更主管单位审批（名称变更）的初审",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0f1a459410604d219bd802f1e7cabb2c",
+        "unifyName": "图书出版单位合并后不设立新的图书出版单位合并审批的初审",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "43c8ff869db341d6b2b0d309bac43e23",
+        "unifyName": "图书出版单位合并后设立新的图书出版单位合并审批的初审",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139003000",
+        "rightsId": "8794B3AA8A529492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "362ce16117e142c78a0b1ab5599132ec",
+        "unifyName": "设立音像制品或电子出版物复制单位审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139003000",
+        "rightsId": "8794B3AA8A529492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7aaa0860bfa04368b04a7858351aad2f",
+        "unifyName": "音像制品或电子出版物复制单位变更名称、业务范围、兼并、合并或者分立审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139004000",
+        "rightsId": "8794B3AA8A539492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4a145da6b7fe4c31940a88d9537b30cb",
+        "unifyName": "新闻单位设立驻地方机构审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139005000",
+        "rightsId": "8794B3AA8A549492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e4bd1af38b1f499c9b62df5117d559db",
+        "unifyName": "出版物印刷企业经营许可证核发",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139005000",
+        "rightsId": "8794B3AA8A549492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ee01cc6e606b426d99bab23fda49736c",
+        "unifyName": "出版物印刷企业申请兼营、变更、合并、分立审批",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139005000",
+        "rightsId": "8794B3AA8A549492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d1feb2cbc1d848de9991984989d95e98",
+        "unifyName": "包装装潢印刷企业经营许可证核发",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139005000",
+        "rightsId": "8794B3AA8A549492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2045b523e0324e0cb2057c26abe29d9c",
+        "unifyName": "包装装潢印刷企业申请兼营、变更、合并、分立审批",
+        "ywCode": "04"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139005000",
+        "rightsId": "8794B3AA8A549492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "db8210d7105041eaa241697f73fd3278",
+        "unifyName": "其他印刷品印刷企业经营许可证核发",
+        "ywCode": "05"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139005000",
+        "rightsId": "8794B3AA8A549492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "aa53af7c91db45b3a3dd465e5a6b9ba0",
+        "unifyName": "其他印刷品印刷企业申请兼营、变更、合并、分立审批",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139006000",
+        "rightsId": "8794B3AA8A559492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fab8d95c297c4d25b482f3fcdf9be0fa",
+        "unifyName": "单位内部设立印刷厂登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139007000",
+        "rightsId": "8794B3AA8A569492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9baf40c9e26b41c0a6415511a21f3f9e",
+        "unifyName": "印刷宗教用品审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139008000",
+        "rightsId": "8794B3AA8A579492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a5696953df9f4d56a61222d9b819a340",
+        "unifyName": "音像复制单位接收委托复制境外音像制品许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139008000",
+        "rightsId": "8794B3AA8A579492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "42b77152c1a4455b95764dcdb7e065ea",
+        "unifyName": "电子出版物复制单位接收委托复制境外电子出版物许可",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139009000",
+        "rightsId": "8794B3AA8A589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9c0902b7b2434abc909ad976e8242c04",
+        "unifyName": "省内印刷委托书备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139009000",
+        "rightsId": "8794B3AA8A589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d3e5dff514e949979d4183dc46e97bd6",
+        "unifyName": "省外入湘印刷委托书备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139010000",
+        "rightsId": "8794B3AA8A599492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "46e9d63ae73c42cd8e2d0aa67bba961f",
+        "unifyName": "地方单位订户订购限定发行范围的境外出版物审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139011000",
+        "rightsId": "8794B3AA8A5A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "727215368b9e460f9a7e4770b0869886",
+        "unifyName": "印刷企业接受委托印刷境外出版物审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139012000",
+        "rightsId": "8794B3AA8A5B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "89384366d70a45208d67cb7dcf1214e2",
+        "unifyName": "中央驻长单位、省直单位申办一次性内部资料性出版物审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139012000",
+        "rightsId": "8794B3AA8A5B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ed6b4c19eff94b8fa9988c913f774e62",
+        "unifyName": "中央驻长单位、省直单位申办连续性内部资料性出版物审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139012000",
+        "rightsId": "8794B3AA8A5B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2039a98a5d8b40f98547aa62124cf50d",
+        "unifyName": "市级连续性内部资料性出版物审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139012000",
+        "rightsId": "8794B3AA8A5B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cd286ccf63824fdaa9b4cb70673cdba5",
+        "unifyName": "含有宗教内容的一次性内部资料性出版物准印证核发",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139012000",
+        "rightsId": "8794B3AA8A5B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8259e89ba3b0412c88b94c45543677ce",
+        "unifyName": "不含宗教内容的一次性内部资料性出版物准印证核发",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139012000",
+        "rightsId": "8794B3AA8A5B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3dd9c3feb47d479e8aed8d43918167a8",
+        "unifyName": "印数3000册以上的一次性内部资料性出版物准印证核发",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139012000",
+        "rightsId": "8794B3AA8A5B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ce45b3894080405d99a136e3c9b38dc2",
+        "unifyName": "跨市州的一次性内部资料性出版物准印证核发",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139013000",
+        "rightsId": "8794B3AA8A5C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "39c7da0a3e2f47aab517fd71cfff50a0",
+        "unifyName": "设立出版物批发企业审批（内资）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139013000",
+        "rightsId": "8794B3AA8A5C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "056a913e6dd84e67ac0d839b685b9a90",
+        "unifyName": "设立外商投资出版物批发企业审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139013000",
+        "rightsId": "8794B3AA8A5C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0616b81e6de34ce3a2db411413d399dc",
+        "unifyName": "出版物批发企业变更名称、业务范围、地址、兼并、合并、分立的审批",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139014000",
+        "rightsId": "8794B3AA8A5D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0e65ad0124a74cc3bf2687ae9b13be06",
+        "unifyName": "设立出版物零售企业和个体工商户审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139014000",
+        "rightsId": "8794B3AA8A5D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "62af91b31fa54034bd8d47a7f55af78f",
+        "unifyName": "出版物零售企业和个体工商户变更名称、业务范围、地址、兼并、合并、分立的审批",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139015000",
+        "rightsId": "8794B3AA8A5E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "10cc12d421b34278bf14cc9a8ad05977",
+        "unifyName": "电子出版物制作单位设立审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139015000",
+        "rightsId": "8794B3AA8A5E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5dcc14e3949144b69ff5ca7617b15a90",
+        "unifyName": "电子出版物制作单位变更审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139016000",
+        "rightsId": "8794B3AA8A5F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "84768674c90d4703959c4d43264477c6",
+        "unifyName": "对新闻出版广电总局负责的中学小学教科书出版资质审批的初审",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139017000",
+        "rightsId": "8794B3AA8A609492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2f96e37f5d6245cab87bc6665e246c9c",
+        "unifyName": "设立中外合资、合作印刷企业审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139017000",
+        "rightsId": "8794B3AA8A609492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a2a900b894574e5b891ace3f765a1af9",
+        "unifyName": "设立外商独资包装装潢印刷企业审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139018000",
+        "rightsId": "8794B3AA8A619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8bea32a5bcc948098b25965d1321d4b9",
+        "unifyName": "在湘登记的报纸变更刊期审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139018000",
+        "rightsId": "8794B3AA8A619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "37a11e30079249ac85b1a60cdc84ba7e",
+        "unifyName": "报纸变更开版审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139018000",
+        "rightsId": "8794B3AA8A619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "03164db5885f46f99fe908f8906f1984",
+        "unifyName": "期刊变更刊期审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139018000",
+        "rightsId": "8794B3AA8A619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "65ef5337401546969b9ca9ffaa575be6",
+        "unifyName": "报纸出版增期审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139019000",
+        "rightsId": "8794B3AA8A629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a4932882a2e642ca9b552567962f19dd",
+        "unifyName": "对新闻出版广电总局负责的订户订购境外出版物审批的初审",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139020000",
+        "rightsId": "8794B3AA8A639492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e7828a5b59ef4bfa9cfcde24b1555243",
+        "unifyName": "省内图书、期刊印制委托书备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139020000",
+        "rightsId": "8794B3AA8A639492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5bd92aa2aab64faba261e4608bfe7b72",
+        "unifyName": "省外入湘图书、期刊印制委托书备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139021000",
+        "rightsId": "8794B3AA8A649492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bbd0134359d9495a90196ccd9c695c73",
+        "unifyName": "承印加工境外包装装潢和其他印刷品备案核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139030000",
+        "rightsId": "8794B3AA8A6D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0dff3eb0bed04b4195c3421c2bacf3ca",
+        "unifyName": "进口出版物目录备案核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139040000",
+        "rightsId": "8794B3AA8A779492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d4838520ed764d1f900e621ee71f44e0",
+        "unifyName": "加工贸易项下光盘进出口审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000141001001",
+        "rightsId": "8794B3AA8A789492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "SUF0rhOiRXe6UI-kF5Qt_g",
+        "unifyName": "宗教活动场所设立审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000141001002",
+        "rightsId": "8794B3AA8A799492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "be9e745a26de40f7b1b38ddc965ec239",
+        "unifyName": "宗教活动场所扩建审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000141001003",
+        "rightsId": "8794B3AA8A7A9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "1a8ce1f03a0c4751a6db96382bc12872",
+        "unifyName": "宗教活动场所异地重建审批",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 26,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

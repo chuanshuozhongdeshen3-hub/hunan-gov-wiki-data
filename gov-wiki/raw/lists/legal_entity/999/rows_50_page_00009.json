@@ -1,0 +1,517 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199003W02",
+        "rightsId": "wdiKJWvyTcO1etXBGukjDA",
+        "transactLevel": "0",
+        "unifyId": "rggaziWISBKp61sBG3O8Lw",
+        "unifyName": "改造人防工程审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199003W02",
+        "rightsId": "wdiKJWvyTcO1etXBGukjDA",
+        "transactLevel": "0",
+        "unifyId": "z34Jdx_1RB6HVhtfr3-wZQ",
+        "unifyName": "报废人防工程审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199005W00",
+        "rightsId": "rTDPc7kxSkKRLipfQhtS7w",
+        "transactLevel": "0",
+        "unifyId": "426a04fb40c14de09758aad08042734e",
+        "unifyName": "迁移防空警报通信设施审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199009W07",
+        "rightsId": "g1kvUhRLRreIc5yingAL4g",
+        "transactLevel": "0",
+        "unifyId": "C96fSBxkSbKzi4N69jquig",
+        "unifyName": "城市地下空间开发利用中人防工程竣工验收认可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "430199009W07",
+        "rightsId": "g1kvUhRLRreIc5yingAL4g",
+        "transactLevel": "3",
+        "unifyId": "5UB30uevRcqNYx-DQbH76Q",
+        "unifyName": "城市地下空间开发利用中人防工程的档案备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199009W08",
+        "rightsId": "tZHJGFOISwKW5i0lp3YasQ",
+        "transactLevel": "0",
+        "unifyId": "c-ZZYc-qRJOfldIdQmDI9A",
+        "unifyName": "城市地下空间开发利用中人防工程报建审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199009W08",
+        "rightsId": "tZHJGFOISwKW5i0lp3YasQ",
+        "transactLevel": "0",
+        "unifyId": "oC9WN13ERbme0O6Zbq9qyQ",
+        "unifyName": "城市地下空间开发利用中人防工程防护事项的施工图设计重大变更备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199009W08",
+        "rightsId": "tZHJGFOISwKW5i0lp3YasQ",
+        "transactLevel": "0",
+        "unifyId": "5is2HKJoRAWPXNgeAzeA7w",
+        "unifyName": "办理城市地下空间开发利用中人防工程的质量监督手续",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199012W0A",
+        "rightsId": "y1n6N57OReaDKlQS_IKgdQ",
+        "transactLevel": "0",
+        "unifyId": "oKnoDKVSQYSWjnH6pNr_bw",
+        "unifyName": "新建民用建筑防空地下室竣工验收认可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199012W0A",
+        "rightsId": "y1n6N57OReaDKlQS_IKgdQ",
+        "transactLevel": "0",
+        "unifyId": "4LtEBdYxSPivnBXoeUXAaQ",
+        "unifyName": "新建民用建筑防空地下室的档案备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199012W0B",
+        "rightsId": "cqi_AVXnQ7au7Iy88pKGoA",
+        "transactLevel": "0",
+        "unifyId": "cKw4GsbpQWm1Rru6gy1StQ",
+        "unifyName": "新建民用建筑防空地下室的报建审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199012W0D",
+        "rightsId": "dYQS4Gr8SGK2eH6B2ACaGw",
+        "transactLevel": "0",
+        "unifyId": "q6UcPe1yTCulhM_zCAeX-g",
+        "unifyName": "新建民用建筑防空地下室的施工图设计重大变更备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199012W0D",
+        "rightsId": "dYQS4Gr8SGK2eH6B2ACaGw",
+        "transactLevel": "0",
+        "unifyId": "MdzvyczxQ7aVkAbbFfnxxQ",
+        "unifyName": "办理新建民用建筑防空地下室的质量监督手续",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199017W00",
+        "rightsId": "AuzNECH5QWWN3htkzMxc5g",
+        "transactLevel": "0",
+        "unifyId": "Ra2r2vtSTPCoiJSviQr-8A",
+        "unifyName": "新建民用建筑防空地下室易地建设审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199017W00",
+        "rightsId": "AuzNECH5QWWN3htkzMxc5g",
+        "transactLevel": "0",
+        "unifyId": "c71852f5007c42a7b8baf22bddd2c1aa",
+        "unifyName": "易地建设费变更审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430520001W00",
+        "rightsId": "xg8cJ57mTY2U3HRFu_VPkw",
+        "transactLevel": "0",
+        "unifyId": "gp2z_Y0lQbmvsipiI-5LiA",
+        "unifyName": "农业机械购置补贴",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430520001W00",
+        "rightsId": "xg8cJ57mTY2U3HRFu_VPkw",
+        "transactLevel": "0",
+        "unifyId": "5x1Ay27hRR6hJL4cUGgFcQ",
+        "unifyName": "农业机械报废更新补贴",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "430520013W00",
+        "rightsId": "70F599A5656EABCFE053681515ACCFDC",
+        "transactLevel": "3",
+        "unifyId": "sDJsMrsGR0Wyr99CfXvAow",
+        "unifyName": "重大动物疫病扑杀补贴",
+        "ywCode": "01"
+      },
+      {
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430707001W00",
+        "rightsId": "il_fOxNVRe2IY6CQ8-ETuw",
+        "transactLevel": "0",
+        "unifyId": "hjwCi8O_SbC0oZPtcws_qg",
+        "unifyName": "新型墙体材料产品首次认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430707001W00",
+        "rightsId": "il_fOxNVRe2IY6CQ8-ETuw",
+        "transactLevel": "0",
+        "unifyId": "VzMs9GH3RTyJ6xe7TP2PTA",
+        "unifyName": "新型墙体材料产品非首次认定",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430707001W00",
+        "rightsId": "il_fOxNVRe2IY6CQ8-ETuw",
+        "transactLevel": "0",
+        "unifyId": "UhYv2xWtSJ-bKV8RzKYsQg",
+        "unifyName": "《新型墙体材料产品认定证书》遗失补证",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430708001W00",
+        "rightsId": "OtK0qLSHSX-5O8Zb-YeslA",
+        "transactLevel": "0",
+        "unifyId": "f7d72daa87334a5fb590d9dae3ea73d3",
+        "unifyName": "宗教教职人员兼任另外一个宗教活动场所的主要教职的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430708002W00",
+        "rightsId": "dbvwt155SBOVh4bzESFhpA",
+        "transactLevel": "0",
+        "unifyId": "18fafbdb3f8c46888df1bbf653d6c1ef",
+        "unifyName": "民族团体年度检查的初审",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430708002W00",
+        "rightsId": "dbvwt155SBOVh4bzESFhpA",
+        "transactLevel": "0",
+        "unifyId": "55ae8d7f39fa4102bc8ee5901f6c7569",
+        "unifyName": "宗教团体年度检查的初审",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430718048W00",
+        "rightsId": "SFcN9zsfTwO5e1fyQX9q8g",
+        "transactLevel": "0",
+        "unifyId": "779a16574387434ea14dd5bc6d715ef3",
+        "unifyName": "道路客运站服务质量等级核定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430720008W00",
+        "rightsId": "FxCDdYZmRuaoAeg0I8dweA",
+        "transactLevel": "0",
+        "unifyId": "tPVJzzwHRKqTMdjnrS7n-g",
+        "unifyName": "植保事故鉴定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430720026W00",
+        "rightsId": "70F599A55593ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "il46KEEUQAWyC3K9GHYXzg",
+        "unifyName": "水产原（良）种场的确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430739004W00",
+        "rightsId": "74bd5edfb2fb4c5881117791feeccb4f",
+        "transactLevel": "0",
+        "unifyId": "0ed9bc43cf0e4790abf7675554a22ae1",
+        "unifyName": "公益电影固定放映点开办",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430739004W00",
+        "rightsId": "74bd5edfb2fb4c5881117791feeccb4f",
+        "transactLevel": "0",
+        "unifyId": "9ee60ca97a8b4a8cb53e504980037202",
+        "unifyName": "公益电影放映场次确认",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430799003W00",
+        "rightsId": "taWCxSfzQpSJtZcmlBzpTQ",
+        "transactLevel": "0",
+        "unifyId": "d1ea512dea5e40658417f3fd866c16e5",
+        "unifyName": "防空警报通信设施达到使用期限或因故损坏需要报废认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430799009W00",
+        "rightsId": "xgj2aUsmQfyqWi-PqjvuIg",
+        "transactLevel": "0",
+        "unifyId": "EFA73al5S1OlnzqrGz7CLQ",
+        "unifyName": "人防工程认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430808001W00",
+        "rightsId": "ALED9kMhQdS6feOw-moEDQ",
+        "transactLevel": "0",
+        "unifyId": "abdf506e83df4a6baa78803d7b849d9a",
+        "unifyName": "民族团结进步表彰",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "430820001W00",
+        "rightsId": "70F599A55D90ABCFE053681515ACCFDC",
+        "transactLevel": "3",
+        "unifyId": "konss-LWTtSIdgcITad3rQ",
+        "unifyName": "农业丰收奖表彰",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430839006W00",
+        "rightsId": "MzRE1Aq9Sm-5jtjvMc96iw",
+        "transactLevel": "0",
+        "unifyId": "u3CEJ6G1RU6_f1Opt6wJUQ",
+        "unifyName": "对优秀农家书屋和优秀阅读推广机构的表彰奖励",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "430859001W00",
+        "rightsId": "70F599A55692ABCFE053681515ACCFDC",
+        "transactLevel": "3",
+        "unifyId": "8NvW7MyISq-uKpp9yzANJg",
+        "unifyName": "储备粮管理先进单位评选",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430915003W00",
+        "rightsId": "70F599A55A05ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "b2e60d420bb447d79e005ed5362f6eec",
+        "unifyName": "采矿权属争议调处",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430919001W00",
+        "rightsId": "nQ7-crpaQUKAynXF2xONaw",
+        "transactLevel": "0",
+        "unifyId": "eda863e2355547f3a45d3c956c0751d2",
+        "unifyName": "水土流失纠纷裁决",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "430920001W00",
+        "rightsId": "73D929B050BED82DE053681515AC07F5",
+        "transactLevel": "3",
+        "unifyId": "QQuZRS5BTJewmm2_ZZgduQ",
+        "unifyName": "农村土地承包经营纠纷仲裁",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004001W00",
+        "rightsId": "RRoh0_vvSAyXQQDeQXnJBw",
+        "transactLevel": "0",
+        "unifyId": "6Ome_qpLTfiZW-eKoPXO7g",
+        "unifyName": "省级创新平台认定服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004003W00",
+        "rightsId": "i-DABuYZStGyV83jLJLerQ",
+        "transactLevel": "0",
+        "unifyId": "KP439VoURV2uRa8023ifCw",
+        "unifyName": "市县级政府投资项目代建单位招标文件备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004003W00",
+        "rightsId": "i-DABuYZStGyV83jLJLerQ",
+        "transactLevel": "0",
+        "unifyId": "Us_u7OLUTPCeSY9B-YHmlQ",
+        "unifyName": "市县级政府投资项目代建合同备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004003W00",
+        "rightsId": "i-DABuYZStGyV83jLJLerQ",
+        "transactLevel": "0",
+        "unifyId": "aGcIV7yyQXCnjsblAFDHqw",
+        "unifyName": "省级政府投资项目代建单位招标文件备案",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004003W00",
+        "rightsId": "i-DABuYZStGyV83jLJLerQ",
+        "transactLevel": "0",
+        "unifyId": "GwxrJCaySROMdfJ51sRuqQ",
+        "unifyName": "省级政府投资项目代建合同备案",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004065W00",
+        "rightsId": "XVOMNz7STtuJDhD_ffclaA",
+        "transactLevel": "0",
+        "unifyId": "2da66de8344343ccb0bb46056f3c98e7",
+        "unifyName": "石油天然气管道竣工测量图备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004065W00",
+        "rightsId": "XVOMNz7STtuJDhD_ffclaA",
+        "transactLevel": "0",
+        "unifyId": "b9adf6ec1a6a4fe485404851b08d1a91",
+        "unifyName": "石油天然气管道事故应急预案（备案）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004065W00",
+        "rightsId": "XVOMNz7STtuJDhD_ffclaA",
+        "transactLevel": "0",
+        "unifyId": "d6f81b70a36d49d8bc3753d1eb1566e3",
+        "unifyName": "石油天然气管道停止运行备案",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004065W00",
+        "rightsId": "XVOMNz7STtuJDhD_ffclaA",
+        "transactLevel": "0",
+        "unifyId": "4ba56cadb165483694cab1cc137d1f8c",
+        "unifyName": "石油天然气管道封存备案",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004065W00",
+        "rightsId": "XVOMNz7STtuJDhD_ffclaA",
+        "transactLevel": "0",
+        "unifyId": "3494bbf6f33e4a4aa9bf4c28f3341cf1",
+        "unifyName": "石油天然气管道报废备案",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004122W00",
+        "rightsId": "LnfZR-rXSsON5McE8J2inQ",
+        "transactLevel": "0",
+        "unifyId": "f5a69a4655d34d2886e71699361c451b",
+        "unifyName": "管道保护第三方施工审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431005106W00",
+        "rightsId": "Y1pQUFbOT3iPMpjIMKMffw",
+        "transactLevel": "0",
+        "unifyId": "af6e9e5e3dcd468da28bbcc789045a7d",
+        "unifyName": "中等职业学校招生简章、广告备案",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 9,
+    "pageSize": 50,
+    "total": 616,
+    "totalPage": 13
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

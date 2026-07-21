@@ -1,0 +1,459 @@
+{
+  "datas": [
+    {
+      "id": "6c1cd4d146844f079f9365bb68b1fd71",
+      "_title": "拍卖企业变更注册资本",
+      "name": "拍卖企业变更注册资本",
+      "type": "approve",
+      "yw_code": "07",
+      "rights_code": "000121006000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "c4d0dacb2cab44319fa8ce050f19075e",
+      "_title": "出版连续型电子出版物审批的初审",
+      "name": "出版连续型电子出版物审批的初审",
+      "type": "approve",
+      "yw_code": "48",
+      "rights_code": "000139001000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "HB-X_TI4QESPX-BAdx0EEg",
+      "_title": "对施工图审查机构人员资格认定",
+      "name": "对施工图审查机构人员资格认定",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000717006000",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "5a55a3a8c7284c49b02d40906d5fff27",
+      "_title": "教师资格证书补证、补表服务",
+      "name": "教师资格证书补证、补表服务",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "432005305W00",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "O4UXoSr2TZ68xNBF8rGa3Q",
+      "_title": "公证机构变更审批",
+      "name": "公证机构变更审批",
+      "type": "approve",
+      "yw_code": "04",
+      "rights_code": "431012065W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "GBO2tpgiSUy-iIwT--Gdkw",
+      "_title": "从事地图编制的单位乙级测绘资质审批",
+      "name": "从事地图编制的单位乙级测绘资质审批",
+      "type": "approve",
+      "yw_code": "18",
+      "rights_code": "000115030002",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "e8f4ba4534b24f3cb932f6b03f26de1f",
+      "_title": "第二类医疗器械经营备案变更",
+      "name": "第二类医疗器械经营备案变更",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "431072056W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "bHdji-6OTem_ozLKPvXMgg",
+      "_title": "外商投资的歌舞娱乐场所从事娱乐场所经营活动变更的审批",
+      "name": "外商投资的歌舞娱乐场所从事娱乐场所经营活动变更的审批",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000122014000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "d304585dde34435abb3b2d8c26e2523f",
+      "_title": "新建通用机场项目可行性研究报告审批",
+      "name": "新建通用机场项目可行性研究报告审批",
+      "type": "approve",
+      "yw_code": "04",
+      "rights_code": "431004129W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "6xdWzO1jQLWMwz8h4dcuig",
+      "_title": "从事对温度、湿度等有特殊要求的食品贮存业务的非食品生产经营者备案变更",
+      "name": "从事对温度、湿度等有特殊要求的食品贮存业务的非食品生产经营者备案变更",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "001031006000",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "15e6d56287004a6da0b31f2f46e5df51",
+      "_title": "香港、澳门特别行政区医师在内地短期行医许可",
+      "name": "香港、澳门特别行政区医师在内地短期行医许可",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000123013000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "LzvS6dUeQi-7lWRNhBaGJA",
+      "_title": "第一类非药品类易制毒化学品生产许可延期",
+      "name": "第一类非药品类易制毒化学品生产许可延期",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000125043000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "jXTIWQMuSL2B7pqCItZ70g",
+      "_title": "住房公积金个人账户同城转移",
+      "name": "住房公积金个人账户同城转移",
+      "type": "approve",
+      "yw_code": "10",
+      "rights_code": "432017003W00",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "onhObQ5yR3yONsvzIVYKSw",
+      "_title": "生产用于传染病防治的消毒产品的单位审批（延续）",
+      "name": "生产用于传染病防治的消毒产品的单位审批（延续）",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000123019000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "aa3ee7b1f0114b3c98805881da89b0be",
+      "_title": "地质灾害治理工程监理乙级资质遗失补证申请审批",
+      "name": "地质灾害治理工程监理乙级资质遗失补证申请审批",
+      "type": "approve",
+      "yw_code": "06",
+      "rights_code": "000115015006",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "def55bcafdfc497e8f969a0c31afc911",
+      "_title": "期刊出版单位变更审批的初审",
+      "name": "期刊出版单位变更审批的初审",
+      "type": "approve",
+      "yw_code": "24",
+      "rights_code": "000139001000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "0gOU9HLURcqeG1YtzKO2YA",
+      "_title": "《放射性药品经营许可证》延续审批",
+      "name": "《放射性药品经营许可证》延续审批",
+      "type": "approve",
+      "yw_code": "07",
+      "rights_code": "000172051000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "J0xMtPSSTfaByd6KPSJL4Q",
+      "_title": "母婴保健技术服务机构执业许可（校验）",
+      "name": "母婴保健技术服务机构执业许可（校验）",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "000123001000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "1StMi1ugSWuEs_zRAsWaPw",
+      "_title": "高校毕业生社会保险补贴（灵活就业人员申报）",
+      "name": "高校毕业生社会保险补贴（灵活就业人员申报）",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "002014107004",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "aVCA8lY1QYSya-dAG_cI7Q",
+      "_title": "仅销售预包装食品经营者备案变更",
+      "name": "仅销售预包装食品经营者备案变更",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "001031005000",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "WmCmUcTYSGyhtNJzNjGY7w",
+      "_title": "农药生产许可（延续）",
+      "name": "农药生产许可（延续）",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "000120163000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "ZyTjM4HZT3y84-Npp3_mHg",
+      "_title": "变更经营范围从事道路客运经营许可",
+      "name": "变更经营范围从事道路客运经营许可",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000118003000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "f0a9b918f5ee4193b82c1a3ee342c8ae",
+      "_title": "城市建筑垃圾产生核准有效期届满申请延续",
+      "name": "城市建筑垃圾产生核准有效期届满申请延续",
+      "type": "approve",
+      "yw_code": "05",
+      "rights_code": "000117014000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "pud65JF9T5yZ3dmOYdEvHg",
+      "_title": "道路客运班线变更起讫地许可",
+      "name": "道路客运班线变更起讫地许可",
+      "type": "approve",
+      "yw_code": "07",
+      "rights_code": "000118003000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "6b0d2f1eef3d4969a75ddbc85ea57c59",
+      "_title": "举办外国的文艺表演团体、个人参加的营业性演出取消审批",
+      "name": "举办外国的文艺表演团体、个人参加的营业性演出取消审批",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "000122023000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "Xz7C05AKTVSO4ngqvk1ojw",
+      "_title": "林木良种繁殖材料、主要草种杂交种子及其亲本种子、常规原种种子生产经营许可证延续",
+      "name": "林木良种繁殖材料、主要草种杂交种子及其亲本种子、常规原种种子生产经营许可证延续",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000164103000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "30a68766d82e4b5bb9b3938e2081673a",
+      "_title": "公路项目核准（国家高速公路网和普通国道网项目、地方高速公路项目）",
+      "name": "公路项目核准（国家高速公路网和普通国道网项目、地方高速公路项目）",
+      "type": "approve",
+      "yw_code": "21",
+      "rights_code": "00010400100Y",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "23EYuGiTS7iWhP7_9coWPg",
+      "_title": "网络预约出租汽车驾驶员从业资格核发",
+      "name": "网络预约出租汽车驾驶员从业资格核发",
+      "type": "approve",
+      "yw_code": "07",
+      "rights_code": "430118134W00",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "858b7ec2991e4470a9aa0cee0ba5888b",
+      "_title": "实验动物使用许可证核发",
+      "name": "实验动物使用许可证核发",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000106001000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "AwMCv4RXTVuGZA_Ah3O7UQ",
+      "_title": "非煤矿山企业安全生产许可延期",
+      "name": "非煤矿山企业安全生产许可延期",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000125036004",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "14cbcd66b9e44d1f860fc36e3abf0692",
+      "_title": "放射源诊疗技术和医用辐射机构许可（补办）",
+      "name": "放射源诊疗技术和医用辐射机构许可（补办）",
+      "type": "approve",
+      "yw_code": "05",
+      "rights_code": "000123022000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "6dX-ADFsSUKrwd947uPDEA",
+      "_title": "道路危险货物运输经营许可证换发",
+      "name": "道路危险货物运输经营许可证换发",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "000118037000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "_jnAJsq0Rm6cgm4EVeZGuQ",
+      "_title": "设立子公司从事道路货物运输经营许可（含普货运输、专用运输、大件运输和网络货运）",
+      "name": "设立子公司从事道路货物运输经营许可（含普货运输、专用运输、大件运输和网络货运）",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "000118017000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "3d14f880fc284f6bbd9aebadc3c9114d",
+      "_title": "合伙企业分支机构设立登记",
+      "name": "合伙企业分支机构设立登记",
+      "type": "approve",
+      "yw_code": "36",
+      "rights_code": "000131003000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "dhCHZs2TQHyaBMbj1q3-7Q",
+      "_title": "道路危险货物运输经营许可变更法人信息",
+      "name": "道路危险货物运输经营许可变更法人信息",
+      "type": "approve",
+      "yw_code": "06",
+      "rights_code": "000118037000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "7c0730b7242c486291fddf92e16d0403",
+      "_title": "市、州司法鉴定人延续登记",
+      "name": "市、州司法鉴定人延续登记",
+      "type": "approve",
+      "yw_code": "08",
+      "rights_code": "431012063W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "UUoPOS8IS8CIW3EtVkKc_Q",
+      "_title": "南岳衡山风景名胜区非重大建设项目选址方案核准",
+      "name": "南岳衡山风景名胜区非重大建设项目选址方案核准",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "430164016W00",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "OPaa-rvaTnKq-eYnkPSEbw",
+      "_title": "从事大地测量的单位乙级测绘资质审批",
+      "name": "从事大地测量的单位乙级测绘资质审批",
+      "type": "approve",
+      "yw_code": "04",
+      "rights_code": "000115030002",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "UmNN51qwTMOu7c0py4MWQw",
+      "_title": "设计企业资质核准（甲级及部分乙级除外）-技术负责人变更",
+      "name": "设计企业资质核准（甲级及部分乙级除外）-技术负责人变更",
+      "type": "approve",
+      "yw_code": "08",
+      "rights_code": "000117054006",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "10dafe7188ac4467b7bc3537999f9b2d",
+      "_title": "参保人员续保申报",
+      "name": "参保人员续保申报",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "002014003001",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "z8tz2aKvQIOjBmZV4Fk9aQ",
+      "_title": "广播电视节目制作经营单位注销审批",
+      "name": "广播电视节目制作经营单位注销审批",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "000132038000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "7x_8vRpMTyexoQQnoviQzg",
+      "_title": "新增危险品船投入运营审批",
+      "name": "新增危险品船投入运营审批",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000118039000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "2885d0bd626d45909b9ce822e44fb11f",
+      "_title": "居住权首次登记",
+      "name": "居住权首次登记",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "000715001000",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "5216a5eaddfd4c3ea68da3682f3e75fa",
+      "_title": "权限内政府投资农业项目建议书审批",
+      "name": "权限内政府投资农业项目建议书审批",
+      "type": "approve",
+      "yw_code": "12",
+      "rights_code": "431004129W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "6cfe7a5a40ff4a6fb5699157ce19979b",
+      "_title": "律师事务所变更住所备案",
+      "name": "律师事务所变更住所备案",
+      "type": "approve",
+      "yw_code": "12",
+      "rights_code": "000112001000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "1cFErlqUSMehPIZT4I3jDw",
+      "_title": "省级制造业创新中心考评",
+      "name": "省级制造业创新中心考评",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "431007059W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "ecee47a3ab7640e4a45703d6983418c2",
+      "_title": "城市建筑垃圾产生核准申请变更产生种类及数量",
+      "name": "城市建筑垃圾产生核准申请变更产生种类及数量",
+      "type": "approve",
+      "yw_code": "06",
+      "rights_code": "000117014000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "G55NeeI9TyalA8Yvs2VxqQ",
+      "_title": "危险化学品安全使用许可证延期",
+      "name": "危险化学品安全使用许可证延期",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000125042000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "903e2e4777ef45a288ce33b326c0d602",
+      "_title": "报纸出版单位自身名称变更审批的初审",
+      "name": "报纸出版单位自身名称变更审批的初审",
+      "type": "approve",
+      "yw_code": "14",
+      "rights_code": "000139001000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "e5bb522c59fa4805a5f566fbfb53a8e4",
+      "_title": "司法鉴定机构变更法定代表人",
+      "name": "司法鉴定机构变更法定代表人",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000112013000",
+      "type_name": "行政许可"
+    }
+  ],
+  "total": 3184,
+  "pageTotal": 65,
+  "pageIndex": 49,
+  "pageSize": 50,
+  "highlight_words": []
+}

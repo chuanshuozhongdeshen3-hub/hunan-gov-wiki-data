@@ -1,0 +1,531 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115012000",
+        "rightsId": "8794B3AA865B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "PH-_MCAWTniady2QaJPPrg",
+        "unifyName": "建设项目用地预审与选址意见书变更（设区的市级权限）",
+        "ywCode": "06"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115012000",
+        "rightsId": "8794B3AA865B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4f8g7WR2QPqP2T83AOgloA",
+        "unifyName": "建设项目用地预审与选址意见书注销（设区的市级权限）",
+        "ywCode": "07"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115012000",
+        "rightsId": "8794B3AA865B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f3eDPoMhRU2eBlmu2OwbiA",
+        "unifyName": "建设项目用地预审与选址意见书办理（县级权限）",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115012000",
+        "rightsId": "8794B3AA865B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "N3EE0Js0SpGmPrWWkH7XGQ",
+        "unifyName": "建设项目用地预审与选址意见书变更（县级权限）",
+        "ywCode": "09"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115016002",
+        "rightsId": "8794B3AA86679492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "qpDa6MrSTp-CvAlGk2h4Ug",
+        "unifyName": "采矿许可延续申请（省级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115016002",
+        "rightsId": "8794B3AA86679492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "VaPNbmxUTo2Y6G8f8aDUYg",
+        "unifyName": "采矿许可延续申请（设区的市级权限）",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115016003",
+        "rightsId": "8794B3AA86689492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "jHgw8a7TTkCJNSwo-6eTdQ",
+        "unifyName": "采矿许可变更申请（省级权限）",
+        "ywCode": "04"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115016003",
+        "rightsId": "8794B3AA86689492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Qz8_dDrtSGKOBg7t8rbmkQ",
+        "unifyName": "采矿许可变更申请（设区的市级权限）",
+        "ywCode": "06"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115016004",
+        "rightsId": "8794B3AA86699492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bf17023fc3334d68b087afe736559878",
+        "unifyName": "采矿许可注销申请（省级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115016004",
+        "rightsId": "8794B3AA86699492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fkcP3ro2TuuTB0CyL_hFdA",
+        "unifyName": "采矿许可注销申请（设区的市级权限）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115016006",
+        "rightsId": "c297f560e1424344af9abf2c1f34855f",
+        "transactLevel": "0",
+        "unifyId": "z22kZqi5Q0SFnlAWw0lZ-Q",
+        "unifyName": "采矿许可首次申请（省级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115016006",
+        "rightsId": "c297f560e1424344af9abf2c1f34855f",
+        "transactLevel": "0",
+        "unifyId": "cLBSgRxwSYG79mXTvRzuxw",
+        "unifyName": "采矿许可首次申请（设区的市级权限）",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115017004",
+        "rightsId": "8794B3AA86709492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3d6cf727fe354a2c93bb791dabd9b2e8",
+        "unifyName": "探矿许可注销申请",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115017005",
+        "rightsId": "8794B3AA86719492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "TfCV_CbHRxSjPHJ43H23ug",
+        "unifyName": "探矿许可变更申请",
+        "ywCode": "04"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115036000",
+        "rightsId": "8794B3AA86969492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "465607b320384cbc8e7d651fcb145c2f",
+        "unifyName": "对外提供属于国家秘密的除跨省级行政区域外测绘成果审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115037000",
+        "rightsId": "8794B3AA86979492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "b5c10420f1244bfc9fe70b62d8011032",
+        "unifyName": "法人或者其他组织需要利用属于国家秘密的基础测绘成果审批（省级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115037000",
+        "rightsId": "8794B3AA86979492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "QDJ8XkDJTcyzib8gd8CNTg",
+        "unifyName": "法人或者其他组织需要利用属于国家秘密的基础测绘成果审批（设区的市级权限）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115037000",
+        "rightsId": "8794B3AA86979492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "pJNBVq-cToCEFVhv8XMfBA",
+        "unifyName": "法人或者其他组织需要利用属于国家秘密的基础测绘成果审批（县级权限）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117010000",
+        "rightsId": "8794B3AA86F99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0a59027765d04b68b61553fd39a4a15c",
+        "unifyName": "超限高层建筑工程抗震设防审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117012000",
+        "rightsId": "8794B3AA86FB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "rNN1i7ZWTpmWLgQESubZxw",
+        "unifyName": "关闭、闲置、拆除城市环卫设施许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117015000",
+        "rightsId": "8794B3AA86FE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d86e8784b6e6475ab44a75f4a449e929",
+        "unifyName": "城镇污水排入排水管网许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117016000",
+        "rightsId": "8794B3AA86FF9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "uLFvkG6XSSe-bfbRlhvA2Q",
+        "unifyName": "因工程建设需要拆除、改动、迁移排水与污水处理设施审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000117017000",
+        "rightsId": "8794B3AA87009492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "ROqBmJRFSKCbLutif49QGQ",
+        "unifyName": "设置大型户外广告及在城市建筑物、设施上悬挂、张贴宣传品审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117017000",
+        "rightsId": "8794B3AA87009492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0409d4e4a5a349cebba0824ea60d05d1",
+        "unifyName": "（延期）设置大型户外广告及在城市建筑物、设施上悬挂、张贴宣传品审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117017000",
+        "rightsId": "8794B3AA87009492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7kM542naS-eMs2lB8Vo61g",
+        "unifyName": "建筑工地围挡广告设置审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117018000",
+        "rightsId": "8794B3AA87019492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "DIKrUWMFQj6HxV8O0jR4bw",
+        "unifyName": "燃气经营许可证办理",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117020000",
+        "rightsId": "8794B3AA87039492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Ylgw2IesTxq--6nxmnT_GA",
+        "unifyName": "占用、挖掘城市道路审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117020000",
+        "rightsId": "8794B3AA87039492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0ZoyK7OaSASlyf15o9rWXQ",
+        "unifyName": "依附于城市道路建设各种管线、杆线等设施审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117020000",
+        "rightsId": "8794B3AA87039492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "eDyK2ssbRamirbgm90Ea5g",
+        "unifyName": "城市桥梁上架设各类市政管线审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117022000",
+        "rightsId": "8794B3AA87059492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "AvyYiSI4RfS51AWC63bkcA",
+        "unifyName": "临时占用街道两侧和公共场地许可（占道宣传）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117025000",
+        "rightsId": "8794B3AA87089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "BfzCT8ENQV6kGIcdM-R3IQ",
+        "unifyName": "临时占用城市绿化用地审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117026000",
+        "rightsId": "8794B3AA87099492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bUvv_DaoRqejL8JmfUzrwQ",
+        "unifyName": "改变绿化规划、绿化用地的使用性质审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117027000",
+        "rightsId": "8794B3AA870A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "LmBKcFf2Q3u2EL_KWMTyIw",
+        "unifyName": "砍伐城市树木审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117027000",
+        "rightsId": "8794B3AA870A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "GuxxY5OvT3yLZ9WkOVxHag",
+        "unifyName": "移植城市树木花草",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117027000",
+        "rightsId": "8794B3AA870A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2giMevDwS2yxAqEXq9xXiA",
+        "unifyName": "修剪城市树木花草",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117028000",
+        "rightsId": "8794B3AA870B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Ifwvafh3SRut-Tm7kI024A",
+        "unifyName": "迁移古树名木审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117051000",
+        "rightsId": "8794B3AA87259492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1c4fd9f2c653402ba9c29b5c482be93d",
+        "unifyName": "特殊建设工程消防验收",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117052000",
+        "rightsId": "8794B3AA87269492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4bccdbcd670e4651b026c89af5403901",
+        "unifyName": "特殊建设工程消防设计审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000117054002",
+        "rightsId": "8794B3AA87299492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "gkTpIi21QsqjBvtAwg0KnA",
+        "unifyName": "建筑业企业专业作业资质备案制",
+        "ywCode": "12"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118007000",
+        "rightsId": "8794B3AA873C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bWX7cytcR3GRa4YuM-2fEw",
+        "unifyName": "占用、挖掘公路、公路用地或者使公路改线审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118015000",
+        "rightsId": "8794B3AA874A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fb03278d335a4782a790d27ea896bca1",
+        "unifyName": "国内水路运输经营许可证换发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118015000",
+        "rightsId": "8794B3AA874A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b3899ad66493406f88cfa36c883dd077",
+        "unifyName": "国内水路运输经营许可证注销",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000118025000",
+        "rightsId": "8794B3AA87549492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "3Qbyjt6bT2W5cjZAAlr52A",
+        "unifyName": "港口内进行危险货物的装卸、过驳作业许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118030000",
+        "rightsId": "8794B3AA87599492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "710d7d3508bb4e8aafc493e847b8cb35",
+        "unifyName": "公路收费标准审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118031000",
+        "rightsId": "8794B3AA875A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "yxYTDwqOSHOHefwFqfuFKA",
+        "unifyName": "跨越、穿越公路修建桥梁、渡槽或者架设、埋设管道、电缆等设施审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118031000",
+        "rightsId": "8794B3AA875A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "FP7dbFPDSzyYoX7u8l0xZA",
+        "unifyName": "在公路用地范围内架设、埋设管线、电缆等设施许可",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118031000",
+        "rightsId": "8794B3AA875A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "qRerLLhoTaqZDfWjhO4BfA",
+        "unifyName": "利用公路桥梁、公路隧道、涵洞铺设电缆等设施许可",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118031000",
+        "rightsId": "8794B3AA875A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "OH5-7lu6RQSF-fb7wxmb1w",
+        "unifyName": "穿、跨越高速公路架、埋设电力线路审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118032000",
+        "rightsId": "8794B3AA875B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "PPsKEcwhQaiQ42j0rbof6w",
+        "unifyName": "公路建筑控制区内埋设管线、电缆等设施许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118034000",
+        "rightsId": "8794B3AA875D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b376354ba6974613bb14273451e518fa",
+        "unifyName": "收费公路收费期限确定",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 2,
+    "pageSize": 50,
+    "total": 616,
+    "totalPage": 13
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

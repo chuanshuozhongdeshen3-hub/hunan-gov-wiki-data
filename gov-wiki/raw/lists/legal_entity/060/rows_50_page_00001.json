@@ -1,0 +1,44 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004002W00",
+        "rightsId": "ALM26dVXSriPp0gq0fkU5Q",
+        "transactLevel": "0",
+        "unifyId": "Nk4ehVrOTamSj2lKb8Phug",
+        "unifyName": "依法必须招标的工业项目招标文件的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004002W00",
+        "rightsId": "ALM26dVXSriPp0gq0fkU5Q",
+        "transactLevel": "0",
+        "unifyId": "X9WfNegNQSuV8DXaljtiTQ",
+        "unifyName": "依法必须招标的工业项目招投标情况的书面备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "432019105W00",
+        "rightsId": "97D338F503C1FC3BE053681515ACCA9B",
+        "transactLevel": "2",
+        "unifyId": "1f3d6da61d5a4e2aaaefa76dd8a84e16",
+        "unifyName": "水利工程建设项目招投标活动投诉处理",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 3,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

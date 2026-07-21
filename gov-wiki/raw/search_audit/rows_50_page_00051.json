@@ -1,0 +1,459 @@
+{
+  "datas": [
+    {
+      "id": "1b5c077a5ce94cfc9e5d425205b4a127",
+      "_title": "个人独资企业通过普通程序注销登记",
+      "name": "个人独资企业通过普通程序注销登记",
+      "type": "approve",
+      "yw_code": "23",
+      "rights_code": "000131003000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "jW-KtxilQA6gHfuoRMghTg",
+      "_title": "因公司合并（分立）申请设立登记",
+      "name": "因公司合并（分立）申请设立登记",
+      "type": "approve",
+      "yw_code": "64",
+      "rights_code": "000131003000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "2b19b7b7c6c2454aa858b29711cdc24d",
+      "_title": "非公司企业法人通过普通程序注销登记",
+      "name": "非公司企业法人通过普通程序注销登记",
+      "type": "approve",
+      "yw_code": "16",
+      "rights_code": "000131003000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "ogkbBffdS16RkNJH-G1a5g",
+      "_title": "烟花爆竹经营（批发）变更",
+      "name": "烟花爆竹经营（批发）变更",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000125046001",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "j1lHZBVzRkWg7I-f_dnytA",
+      "_title": "烟花爆竹经营（批发）许可",
+      "name": "烟花爆竹经营（批发）许可",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000125046001",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "VQeYI4B0RamZ16o7TSLeYg",
+      "_title": "烟花爆竹经营（零售）延期",
+      "name": "烟花爆竹经营（零售）延期",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "000125046002",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "9T5UFv3US5ab1nwc9P1YPQ",
+      "_title": "合伙企业通过简易程序注销登记",
+      "name": "合伙企业通过简易程序注销登记",
+      "type": "approve",
+      "yw_code": "69",
+      "rights_code": "000131003000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "vh32SEPqQjq3o6Q3p-3Z5Q",
+      "_title": "非公司企业法人分支机构备案",
+      "name": "非公司企业法人分支机构备案",
+      "type": "approve",
+      "yw_code": "05",
+      "rights_code": "001031004000",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "6a7614b32cb749578b1cec95e9434b3b",
+      "_title": "公证员年度考核及结果备案",
+      "name": "公证员年度考核及结果备案",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431012003W01",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "002fc1b2fc6d4636a3fa8d59ef05b9a6",
+      "_title": "新建加油站申报",
+      "name": "新建加油站申报",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000121008000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "8af08d248e4d4d87aa772c8da8fa43c8",
+      "_title": "《成品油零售经营批准证书》遗失、损毁、补发证书申报",
+      "name": "《成品油零售经营批准证书》遗失、损毁、补发证书申报",
+      "type": "approve",
+      "yw_code": "05",
+      "rights_code": "000121008000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "-MiFr4pwSRqHro-ifgDRIg",
+      "_title": "建筑施工企业安全生产许可证-主要负责人变更",
+      "name": "建筑施工企业安全生产许可证-主要负责人变更",
+      "type": "approve",
+      "yw_code": "04",
+      "rights_code": "000117007000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "5254185e06ba4e1a98907fd1a4cd20c7",
+      "_title": "加油站竣工验收及经营批准证书发放申请",
+      "name": "加油站竣工验收及经营批准证书发放申请",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "000121008000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "puPzS49uSDOUw8cgPMzIPw",
+      "_title": "拖拉机和联合收割机变更登记",
+      "name": "拖拉机和联合收割机变更登记",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "000120185000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "6AnNtNvlRoOS51Rvfrr7bQ",
+      "_title": "出售、购买、利用国家重点保护水生野生动物及其制品审批",
+      "name": "出售、购买、利用国家重点保护水生野生动物及其制品审批",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000120147000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "uLFvkG6XSSe-bfbRlhvA2Q",
+      "_title": "因工程建设需要拆除、改动、迁移排水与污水处理设施审核",
+      "name": "因工程建设需要拆除、改动、迁移排水与污水处理设施审核",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000117016000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "ORGMjNO4QXW7_CoXxaj0Nw",
+      "_title": "农药登记证持有人变更初审",
+      "name": "农药登记证持有人变更初审",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000120127000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "wGFBFu63R5iVFAA-6pZuJg",
+      "_title": "医疗器械产品出口销售证明",
+      "name": "医疗器械产品出口销售证明",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "432072002W00",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "mqNn85l9S5KZZ9gobGXpfQ",
+      "_title": "政府采购投诉处理",
+      "name": "政府采购投诉处理",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000913001000",
+      "type_name": "行政裁决"
+    },
+    {
+      "id": "TfCV_CbHRxSjPHJ43H23ug",
+      "_title": "探矿许可变更申请",
+      "name": "探矿许可变更申请",
+      "type": "approve",
+      "yw_code": "04",
+      "rights_code": "000115017005",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "cLBSgRxwSYG79mXTvRzuxw",
+      "_title": "采矿许可首次申请（设区的市级权限）",
+      "name": "采矿许可首次申请（设区的市级权限）",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000115016006",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "bf17023fc3334d68b087afe736559878",
+      "_title": "采矿许可注销申请（省级权限）",
+      "name": "采矿许可注销申请（省级权限）",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000115016004",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "z22kZqi5Q0SFnlAWw0lZ-Q",
+      "_title": "采矿许可首次申请（省级权限）",
+      "name": "采矿许可首次申请（省级权限）",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000115016006",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "43TC2000100Y",
+      "_title": "农村建房一件事",
+      "name": "农村建房一件事",
+      "type": "theme",
+      "yw_code": "",
+      "rights_code": "",
+      "type_name": "高效办成一件事"
+    },
+    {
+      "id": "s9teXbvoSnCV1UIHmvCb9Q",
+      "_title": "采矿权变更登记（开采矿种变更）",
+      "name": "采矿权变更登记（开采矿种变更）",
+      "type": "approve",
+      "yw_code": "12",
+      "rights_code": "000715001000",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "s6sW6y8ESUSYimLwSVDoog",
+      "_title": "采矿权转移登记",
+      "name": "采矿权转移登记",
+      "type": "approve",
+      "yw_code": "07",
+      "rights_code": "000715001000",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "ylKbCdWeRsqpXhLQR7kjdw",
+      "_title": "探矿权变更登记（缩小勘查区域范围）",
+      "name": "探矿权变更登记（缩小勘查区域范围）",
+      "type": "approve",
+      "yw_code": "18",
+      "rights_code": "000715001000",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "6sPCf47wQxaCepSU6vpktw",
+      "_title": "抵押权注销登记（矿业权）",
+      "name": "抵押权注销登记（矿业权）",
+      "type": "approve",
+      "yw_code": "24",
+      "rights_code": "000715001000",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "bjii-MqSQum2Wjs5VRLjsw",
+      "_title": "采矿权注销登记",
+      "name": "采矿权注销登记",
+      "type": "approve",
+      "yw_code": "08",
+      "rights_code": "000715001000",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "B-OWORaGSL2oPz6yoTai5A",
+      "_title": "注销无线电台（站）设置、使用许可",
+      "name": "注销无线电台（站）设置、使用许可",
+      "type": "approve",
+      "yw_code": "04",
+      "rights_code": "000107012000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "a47f5589ffe94b738a8968faf7dfe3c6",
+      "_title": "辅助器具异地配置申请",
+      "name": "辅助器具异地配置申请",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "002014007019",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "43TCP0019",
+      "_title": "科技型企业创新政策扶持（以高新技术企业为例）“一件事”",
+      "name": "科技型企业创新政策扶持（以高新技术企业为例）“一件事”",
+      "type": "theme",
+      "yw_code": "",
+      "rights_code": "",
+      "type_name": "高效办成一件事"
+    },
+    {
+      "id": "43PCP0022",
+      "_title": "育儿补贴申领“一件事”",
+      "name": "育儿补贴申领“一件事”",
+      "type": "theme",
+      "yw_code": "",
+      "rights_code": "",
+      "type_name": "高效办成一件事"
+    },
+    {
+      "id": "d339d41c70d843dba8835c8ff6857ed7",
+      "_title": "工程建设项目办理工伤保险参保登记（补充）登记（申报登记方式）",
+      "name": "工程建设项目办理工伤保险参保登记（补充）登记（申报登记方式）",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "002014001003",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "20kfCHDNSEK9pYATvJKQ8A",
+      "_title": "工伤保险工程建设项目基本信息变更（申报变更方式）",
+      "name": "工伤保险工程建设项目基本信息变更（申报变更方式）",
+      "type": "approve",
+      "yw_code": "04",
+      "rights_code": "002014002001",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "815102ec58744419b943a643def0b10d",
+      "_title": "公益性群众团体的公益性捐赠税前扣除资格认定",
+      "name": "公益性群众团体的公益性捐赠税前扣除资格认定",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000713002000",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "5AoWmXTzTn-1h0Y49J7x4A",
+      "_title": "外省养老保险关系转入我省城乡居民基本养老保险",
+      "name": "外省养老保险关系转入我省城乡居民基本养老保险",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "002014006014",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "zZWSlcukTw2-Tn9E4Xs33A",
+      "_title": "工伤保险同隶属单位间员工参保关系接续",
+      "name": "工伤保险同隶属单位间员工参保关系接续",
+      "type": "approve",
+      "yw_code": "05",
+      "rights_code": "002014002002",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "uhC0Acv1RMCi_RWwXKH4mw",
+      "_title": "采矿权首次登记",
+      "name": "采矿权首次登记",
+      "type": "approve",
+      "yw_code": "06",
+      "rights_code": "000715001000",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "43PCP0023",
+      "_title": "租房、购房提取住房公积金“一件事”",
+      "name": "租房、购房提取住房公积金“一件事”",
+      "type": "theme",
+      "yw_code": "",
+      "rights_code": "",
+      "type_name": "高效办成一件事"
+    },
+    {
+      "id": "43PCP0024",
+      "_title": "家政信用信息查询“一件事”",
+      "name": "家政信用信息查询“一件事”",
+      "type": "theme",
+      "yw_code": "",
+      "rights_code": "",
+      "type_name": "高效办成一件事"
+    },
+    {
+      "id": "ff38d30cd2f844f6845647a2526e154c",
+      "_title": "社会保险企业单位基本信息变更（申报变更方式）",
+      "name": "社会保险企业单位基本信息变更（申报变更方式）",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "002014002001",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "cU0FwwbDSwateToFezzWaw",
+      "_title": "机事保退休人员养老保险关系终止及一次性待遇申领（出国出境定居）",
+      "name": "机事保退休人员养老保险关系终止及一次性待遇申领（出国出境定居）",
+      "type": "approve",
+      "yw_code": "06",
+      "rights_code": "002014006007",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "fDW-jQbERzq6l65A16lH2A",
+      "_title": "我省企业职工基本养老保险关系转出至外省养老保险",
+      "name": "我省企业职工基本养老保险关系转出至外省养老保险",
+      "type": "approve",
+      "yw_code": "05",
+      "rights_code": "002014006012",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "dcc062517c204f198dd1f9fe921a77bf",
+      "_title": "机关事业单位养老保险费断缴补缴申报",
+      "name": "机关事业单位养老保险费断缴补缴申报",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "002014003004",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "JdRXcaBURFO2YaCzw6hLoQ",
+      "_title": "社会保险待遇享受资格人脸认证",
+      "name": "社会保险待遇享受资格人脸认证",
+      "type": "approve",
+      "yw_code": "04",
+      "rights_code": "432014001W01",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "JsMdyOQyRsmWWYx6fMB5yw",
+      "_title": "社会保险职工缴费基数调整申请",
+      "name": "社会保险职工缴费基数调整申请",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "002014003005",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "l2XuAO29QDK6zYapz1lagw",
+      "_title": "非因工劳动能力鉴定申请",
+      "name": "非因工劳动能力鉴定申请",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "002014007005",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "b2bbd3d6deac497fbf06f9877cff6fbf",
+      "_title": "企业单位职工参保登记（停保）",
+      "name": "企业单位职工参保登记（停保）",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "002014003001",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "9b33bb7787f0473bbbc0ec6e4d59519f",
+      "_title": "停工留薪期延长的确认申请",
+      "name": "停工留薪期延长的确认申请",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "002014007020",
+      "type_name": "公共服务"
+    }
+  ],
+  "total": 3184,
+  "pageTotal": 63,
+  "pageIndex": 51,
+  "pageSize": 50,
+  "highlight_words": []
+}

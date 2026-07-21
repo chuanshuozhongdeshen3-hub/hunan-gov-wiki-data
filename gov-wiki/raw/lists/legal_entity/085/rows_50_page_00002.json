@@ -1,0 +1,514 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000117011000",
+        "rightsId": "8794B3AA86FA9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "Dh6p9E_aQNq1UYHY2_4pqg",
+        "unifyName": "建设工程规划条件核实验收",
+        "ywCode": "17"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117016000",
+        "rightsId": "8794B3AA86FF9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "HJXbeHF8QPKy6RK2mCxWYg",
+        "unifyName": "因工程建设需要拆除、改动、迁移供水设施审核",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117026000",
+        "rightsId": "8794B3AA87099492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bUvv_DaoRqejL8JmfUzrwQ",
+        "unifyName": "改变绿化规划、绿化用地的使用性质审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117047000",
+        "rightsId": "8794B3AA87219492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "goVo-xmNQH642gSnWc_OMg",
+        "unifyName": "停止供水、改（迁、拆）公共供水的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117057000",
+        "rightsId": "8794B3AA87359492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4248b97b146a416f8232392d94190086",
+        "unifyName": "建筑起重机械使用登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119008000",
+        "rightsId": "8794B3AA87A39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8fba3f83157a493190479dad6432d247",
+        "unifyName": "河道管理范围内建设项目工程建设方案审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119008000",
+        "rightsId": "8794B3AA87A39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "qMfepQhaSuOzYTJN6poFOQ",
+        "unifyName": "洪水影响评价审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119010000",
+        "rightsId": "8794B3AA87A59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2d92112207554f65a33e56a95529b7ed",
+        "unifyName": "洪泛区、蓄滞洪区非防洪建设项目洪水影响评价报告审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119010000",
+        "rightsId": "8794B3AA87A59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "yfwFGMRuQ9OUVV4-riQBDg",
+        "unifyName": "洪水影响评价审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000119011000",
+        "rightsId": "8794B3AA87A69492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "aspaiLYqSzSFgS-fSryOhA",
+        "unifyName": "城市建设填堵水域、废除围堤审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168010003",
+        "rightsId": "8794B3AA8DD29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bbd880ba5a3c4253bddb568363950be5",
+        "unifyName": "县级文物保护单位保护范围内其他建设工程或者爆破、钻探、挖掘等作业审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "m49a7UsHTDuuPJHORaZ2Fg",
+        "unifyName": "采矿权变更登记（缩小开采区域范围）",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "xL4hMDw_RbSvN20trQpvag",
+        "unifyName": "采矿权变更登记（续期）",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "s9teXbvoSnCV1UIHmvCb9Q",
+        "unifyName": "采矿权变更登记（开采矿种变更）",
+        "ywCode": "12"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "CxE79alpSfChGADAVRo8Kw",
+        "unifyName": "采矿权变更登记（采矿权人名称变更）",
+        "ywCode": "13"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "qxpb7cF7Teao0M7wz3Cisg",
+        "unifyName": "探矿权首次登记",
+        "ywCode": "14"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "Zb9C2nncQfeMaZZWKvLLpA",
+        "unifyName": "探矿权转移登记",
+        "ywCode": "15"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "wsXarV08Spq5rE3DCeGiKw",
+        "unifyName": "探矿权注销登记",
+        "ywCode": "16"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "09ClS9ZKSDSEJWdmY2u89Q",
+        "unifyName": "探矿权变更登记（扩大勘查区域范围）",
+        "ywCode": "17"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "ylKbCdWeRsqpXhLQR7kjdw",
+        "unifyName": "探矿权变更登记（缩小勘查区域范围）",
+        "ywCode": "18"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "aanj6PTTSoKHg0LP-4v1Gg",
+        "unifyName": "探矿权变更登记（续期）",
+        "ywCode": "19"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "_fzckxEgRZmr261QIdbhig",
+        "unifyName": "探矿权变更登记（保留、解除保留）",
+        "ywCode": "20"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "s84GvoN-THCQ-FuZ3zXIUg",
+        "unifyName": "探矿权变更登记（探矿权人名称变更）",
+        "ywCode": "21"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "DmN8u2cSREq8eOVh0QfLDw",
+        "unifyName": "抵押权首次登记（矿业权）",
+        "ywCode": "22"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "v1i7MBHhQ92ALecG9ZoqVw",
+        "unifyName": "抵押权转移登记（矿业权）",
+        "ywCode": "23"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "6sPCf47wQxaCepSU6vpktw",
+        "unifyName": "抵押权注销登记（矿业权）",
+        "ywCode": "24"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "wxFqmIU6RMGqIL2Zhg43Xw",
+        "unifyName": "抵押权变更登记（矿业权）",
+        "ywCode": "25"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "uhC0Acv1RMCi_RWwXKH4mw",
+        "unifyName": "采矿权首次登记",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "s6sW6y8ESUSYimLwSVDoog",
+        "unifyName": "采矿权转移登记",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "bjii-MqSQum2Wjs5VRLjsw",
+        "unifyName": "采矿权注销登记",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "fLFJgrqrSBCNBaOMjjxBiA",
+        "unifyName": "采矿权变更登记（扩大开采区域范围）",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001004",
+        "rightsId": "8794B3AA8FEC9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "f022a6dfc74e4e0796a5e1ce5ee61f4c",
+        "unifyName": "集体土地所有权首次登记",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715006000",
+        "rightsId": "8794B3AA90009492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "72d214e0b51849a08ec2b1e3a60db15e",
+        "unifyName": "矿产资源储量评审备案（省级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715006000",
+        "rightsId": "8794B3AA90009492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "U5bR6D95SRCZbUt30Vu9oQ",
+        "unifyName": "矿产资源储量评审备案（设区的市级权限）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "001015002000",
+        "rightsId": "8794B3AA92029492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "uuTB4JPaS3eu_Xtvyjo2Rg",
+        "unifyName": "土地复垦验收确认",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001015005000",
+        "rightsId": "8794B3AA92059492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "58688ed5ce6246a59d4a1bbbebf8f2be",
+        "unifyName": "卫星导航定位基准站建设备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001015006000",
+        "rightsId": "8794B3AA92069492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3f45268575784a1a8bd9e41c748e081b",
+        "unifyName": "测绘作业证办理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001015008000",
+        "rightsId": "a0152ee2b3134df492c65afa4001513f",
+        "transactLevel": "0",
+        "unifyId": "ulWYmZZ5SqStDTmmKoU8jA",
+        "unifyName": "重要地理信息数据审核公布",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017006000",
+        "rightsId": "8794B3AA920F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6fd8b4d27e9d41908201d7588543b7b2",
+        "unifyName": "城镇排水与污水处理设施竣工验收备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002015001000",
+        "rightsId": "8f2e72cdcd3c406b85faf31dee24c141",
+        "transactLevel": "0",
+        "unifyId": "rFxWBGJGSL-ueGpWW46HOw",
+        "unifyName": "测绘成果目录汇交",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164003W00",
+        "rightsId": "aP-McVfmRBqOocJmejnFqg",
+        "transactLevel": "0",
+        "unifyId": "441779f9ca6e45a69eec7e21ed66e2a4",
+        "unifyName": "风景名胜区内修建重大建设工程项目选址方案（新办）核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164003W00",
+        "rightsId": "aP-McVfmRBqOocJmejnFqg",
+        "transactLevel": "0",
+        "unifyId": "049d2bceaec3435494f2bae061b8571e",
+        "unifyName": "风景名胜区内修建重大建设工程项目选址方案（变更）核准",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164003W00",
+        "rightsId": "aP-McVfmRBqOocJmejnFqg",
+        "transactLevel": "0",
+        "unifyId": "d1356d77927148909439827479730fd8",
+        "unifyName": "风景名胜区内修建重大建设工程项目选址方案（延期）核准",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164016W00",
+        "rightsId": "S3DPHewNQiuO1n43MUWw5Q",
+        "transactLevel": "0",
+        "unifyId": "vmDIgOLmRhqLV5jwf1MTxw",
+        "unifyName": "崀山风景名胜区非重大建设项目选址方案核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164016W00",
+        "rightsId": "S3DPHewNQiuO1n43MUWw5Q",
+        "transactLevel": "0",
+        "unifyId": "UUoPOS8IS8CIW3EtVkKc_Q",
+        "unifyName": "南岳衡山风景名胜区非重大建设项目选址方案核准",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164016W00",
+        "rightsId": "S3DPHewNQiuO1n43MUWw5Q",
+        "transactLevel": "0",
+        "unifyId": "0d54TS8xSz-4T0QNPS4FVA",
+        "unifyName": "韶山风景名胜区非重大建设项目选址方案核准",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009064W00",
+        "rightsId": "P1Fzil3VRRW6Wm4nfsN9Qw",
+        "transactLevel": "0",
+        "unifyId": "39ff23f21958436fbe30a333e815d772",
+        "unifyName": "经营管理单位改变城市大型建筑用途备案预约",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009066W00",
+        "rightsId": "0GTnNP3mR56Q2RyYXeH4BQ",
+        "transactLevel": "0",
+        "unifyId": "968ebf8dddae4e99a7d6d4a01d00e715",
+        "unifyName": "城市道路沿线的大型建筑以及其他可能影响交通安全的建设项目和城市道路两侧增设或封闭平面交叉口、机动车通道和出入口审核预约",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017001W00",
+        "rightsId": "cdpB1HpNRbC2Kl9Ub2WnbQ",
+        "transactLevel": "0",
+        "unifyId": "IPCoI9G4SoGnRvWWgBTKmg",
+        "unifyName": "园林绿化工程（含工程建设项目附属绿化工程）设计方案审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017325W00",
+        "rightsId": "743B71E256BE6106E053681515AC8231",
+        "transactLevel": "0",
+        "unifyId": "QeYqyuvbRi6gDltm5t6YSA",
+        "unifyName": "建设工程城建档案验收",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 2,
+    "pageSize": 50,
+    "total": 100,
+    "totalPage": 2
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

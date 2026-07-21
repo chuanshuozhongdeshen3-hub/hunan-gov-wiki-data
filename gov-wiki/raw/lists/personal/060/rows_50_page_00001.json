@@ -1,0 +1,74 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000711001000",
+        "rightsId": "8794B3AA8FD49492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "90faf2749d1348c0bb7493dc6c0d5b45",
+        "unifyName": "涉外婚姻登记预约",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000711001000",
+        "rightsId": "8794B3AA8FD49492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "56d40baac0104922870bee555161610f",
+        "unifyName": "涉台婚姻登记预约",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000711001000",
+        "rightsId": "8794B3AA8FD49492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4b6821b016554f67a9ae4ce6790fa624",
+        "unifyName": "涉港澳婚姻登记预约",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000711001000",
+        "rightsId": "8794B3AA8FD49492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "71c22d24c08e41ea9b87ea4c69171ead",
+        "unifyName": "华侨婚姻登记预约",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000711003000",
+        "rightsId": "8794B3AA8FD69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "LE3LBXy2Th2UWhtObMG0sQ",
+        "unifyName": "内地居民离婚登记预约",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431011074W00",
+        "rightsId": "u8FB2sZLSTy3-4lShJdhTw",
+        "transactLevel": "1",
+        "unifyId": "63168e87bfda4998b558ba8ebad5243e",
+        "unifyName": "补发婚姻登记证件",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 6,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

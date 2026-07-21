@@ -1,0 +1,55 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111008000",
+        "rightsId": "8794B3AA86159492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2c51ca4b75154193b920885195992f18",
+        "unifyName": "建设殡仪馆审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111008000",
+        "rightsId": "8794B3AA86159492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b4a84277ea974458a3340984ce36fb02",
+        "unifyName": "建设火葬场审批",
+        "ywCode": "02"
+      },
+      {
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000111016000",
+        "rightsId": "e250cdf010454a3292fc8d810f8e473c",
+        "transactLevel": "0",
+        "unifyId": "hZ4WFvZtTIqhcJxNrgsRpg",
+        "unifyName": "遗体火化证明开具",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "432023002W00",
+        "rightsId": "VrC7PAhuQauj5t-BD1lhsg",
+        "transactLevel": "3",
+        "unifyId": "eApVaNm0RwG6hGB_6ROpgA",
+        "unifyName": "死亡医学（推断）证明书办理",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 4,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

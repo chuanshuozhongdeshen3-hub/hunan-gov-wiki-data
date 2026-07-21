@@ -1,0 +1,196 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121006000",
+        "rightsId": "8794B3AA88D39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "671a04b036f94275978cd0b355590706",
+        "unifyName": "拍卖企业终止",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "daa77de6142a41f29fa8492a30862a45",
+        "unifyName": "凭法院裁判文书申请撤销登记",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2b19b7b7c6c2454aa858b29711cdc24d",
+        "unifyName": "非公司企业法人通过普通程序注销登记",
+        "ywCode": "16"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "D4umU7XNQbuYTAuOUEnT9A",
+        "unifyName": "公司通过普通程序注销登记",
+        "ywCode": "58"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8TbFN9bpTE6MaDGIIwl_Ag",
+        "unifyName": "因公司合并（分立）申请注销登记",
+        "ywCode": "66"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ybaf3SFORq-8wUsLJTz97Q",
+        "unifyName": "公司通过简易程序注销登记",
+        "ywCode": "67"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "g0bj0Rc4RxSns3lCPurg7A",
+        "unifyName": "非公司企业法人通过简易程序注销登记",
+        "ywCode": "68"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9T5UFv3US5ab1nwc9P1YPQ",
+        "unifyName": "合伙企业通过简易程序注销登记",
+        "ywCode": "69"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "r4w4eg9tTK6B-tb3lPsWSQ",
+        "unifyName": "农民专业合作社（联合社）通过简易程序注销登记",
+        "ywCode": "71"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "u-c8wim-TwCqpLDtiEAfSA",
+        "unifyName": "经人民法院裁定宣告破产并终结破产程序后办理注销登记",
+        "ywCode": "72"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "-MjO3whvRKKPfH00L1Zbrg",
+        "unifyName": "经人民法院裁定强制清算程序终结后办理注销登记",
+        "ywCode": "73"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131005000",
+        "rightsId": "8794B3AA89E89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "910041fac99e483b8754aa53d450e253",
+        "unifyName": "农民专业合作社（联合社）通过普通程序注销登记",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131005000",
+        "rightsId": "8794B3AA89E89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "TsaCZbi8SvuKLJO1q0IpjA",
+        "unifyName": "因农民专业合作社（联合社）合并（分立）申请注销登记",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131011000",
+        "rightsId": "8794B3AA89EE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "11ebb8206245499cac4c7693c15be109",
+        "unifyName": "《特种设备使用登记》变更登记",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431013034W00",
+        "rightsId": "70F599A55F28ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "dce5471eedce4d289aac2aabc5e96289",
+        "unifyName": "会计师事务所变更备案和执业许可的注销",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431022098W00",
+        "rightsId": "6Xg9lZfMS3m18gI25w4bZg",
+        "transactLevel": "0",
+        "unifyId": "C1XSdhdpRCCXIC3M0wn8ow",
+        "unifyName": "旅行社登记事项变更或终止经营备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431031105W00",
+        "rightsId": "f6jrdSSiSGqAHTC6_TSyVA",
+        "transactLevel": "0",
+        "unifyId": "f66e696c86e64b7595e9179acf7521b1",
+        "unifyName": "网络食品交易第三方平台备案注销",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431031105W00",
+        "rightsId": "f6jrdSSiSGqAHTC6_TSyVA",
+        "transactLevel": "0",
+        "unifyId": "c4b51ea0baec41d8a2c0690d685d84dc",
+        "unifyName": "自建网站备案注销",
+        "ywCode": "06"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 18,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

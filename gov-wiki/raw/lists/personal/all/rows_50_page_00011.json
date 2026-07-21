@@ -1,0 +1,524 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132037000",
+        "rightsId": "8794B3AA8A319492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "nDC5QhsqTViI0A4-liuWoA",
+        "unifyName": "广播电视播音员、主持人职业资格注册",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132037000",
+        "rightsId": "8794B3AA8A319492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "EPbjsX35Qgah9-ne0kaJ3g",
+        "unifyName": "广播电视播音员、主持人职业资格续展",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133002000",
+        "rightsId": "8794B3AA8A449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6cc05cf6d0b44c48b0ed580e3b194f26",
+        "unifyName": "经营高危险性体育项目许可",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133002000",
+        "rightsId": "8794B3AA8A449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "koZkWsK6TnWk8Qh7dyhwlQ",
+        "unifyName": "经营高危险性体育项目许可（延续）",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133002000",
+        "rightsId": "8794B3AA8A449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ltbNin-8Qouu6reQ-Am6qQ",
+        "unifyName": "经营高危险性体育项目许可（变更）",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133002000",
+        "rightsId": "8794B3AA8A449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5W2CdO7tQ8y2LF8cJ2i15Q",
+        "unifyName": "经营高危险性体育项目许可（注销）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133003000",
+        "rightsId": "8794B3AA8A459492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "42ee08f615144d48b13b32d37898639c",
+        "unifyName": "举办健身气功活动的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133003000",
+        "rightsId": "8794B3AA8A459492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "19c6d2fbe9074f958019d8ae84413956",
+        "unifyName": "设立健身气功站点的审批",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139014000",
+        "rightsId": "8794B3AA8A5D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0e65ad0124a74cc3bf2687ae9b13be06",
+        "unifyName": "设立出版物零售企业和个体工商户审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139014000",
+        "rightsId": "8794B3AA8A5D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "62af91b31fa54034bd8d47a7f55af78f",
+        "unifyName": "出版物零售企业和个体工商户变更名称、业务范围、地址、兼并、合并、分立的审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000144001000",
+        "rightsId": "8794B3AA8A9A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "798af544ddbd452b9776a7b10a573670",
+        "unifyName": "华侨回国定居审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000154004000",
+        "rightsId": "8794B3AA8AA69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3126a730965243d4aa1b20653299cf57",
+        "unifyName": "新建、扩建、改建建设工程避免危害气象探测环境审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000155001000",
+        "rightsId": "8794B3AA8AAB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "62708aca61484d9fa7749f732403d9f8",
+        "unifyName": "典当行设立",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162004000",
+        "rightsId": "8794B3AA8C989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b1202da61d684a70bf1038948b27ce88",
+        "unifyName": "烟草专卖零售许可证新办办理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162004000",
+        "rightsId": "8794B3AA8C989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "59eb28aaa76b457f9e5d463cf2a3bd64",
+        "unifyName": "烟草专卖零售许可证变更办理",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162004000",
+        "rightsId": "8794B3AA8C989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f48787ef53f344fc8550bd7134f19ff0",
+        "unifyName": "烟草专卖零售许可证延续办理",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162004000",
+        "rightsId": "8794B3AA8C989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "68510d31c4a84de59947824129c1acb5",
+        "unifyName": "烟草专卖零售许可证补办办理",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162004000",
+        "rightsId": "8794B3AA8C989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b4f82728ec29404bbdeb501c64a72f53",
+        "unifyName": "烟草专卖零售许可证停业办理",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162004000",
+        "rightsId": "8794B3AA8C989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5a28163de08b41d8ab6cc776e19cc96f",
+        "unifyName": "烟草专卖零售许可证恢复营业办理",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162004000",
+        "rightsId": "8794B3AA8C989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "dbc02953cbc34f75b4a027ebd81a8b08",
+        "unifyName": "烟草专卖零售许可证歇业办理",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000163001001",
+        "rightsId": "a9d63e75ba7c4a82a7cd72785451a0fc",
+        "transactLevel": "3",
+        "unifyId": "6cL-ngfpToSnCGiDYL0DIQ",
+        "unifyName": "普通护照签发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000163002001",
+        "rightsId": "223e921efa99468fa668641130ff4111",
+        "transactLevel": "3",
+        "unifyId": "V6IE42sPRyCzlQQdXQmlKA",
+        "unifyName": "前往港澳通行证签发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000163002005",
+        "rightsId": "61331fe1c83d4cab922428f5a908cc66",
+        "transactLevel": "3",
+        "unifyId": "36dbb005cf1e4afabe0c8adcdbaa47f8",
+        "unifyName": "往来港澳通行证签发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000163003001",
+        "rightsId": "75ef255c6ea34f21b346701e007f1b79",
+        "transactLevel": "3",
+        "unifyId": "1782d98c5c394327a9634b7a5d0ae45f",
+        "unifyName": "大陆居民往来台湾通行证签发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000163003002",
+        "rightsId": "c891b9c03d6d4a25b7f7da8262683966",
+        "transactLevel": "3",
+        "unifyId": "mbO3V92ETLO04wdLLtNzqQ",
+        "unifyName": "大陆居民往来台湾签注签发",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000163004000",
+        "rightsId": "8794B3AA8CB29492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "SYI0d-U4SbaOxVi9WIkKAw",
+        "unifyName": "港澳居民来往内地通行证签发（内地换、补发申请）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "00016300500Y",
+        "rightsId": "bef41218703045e9a8ea2993f7afca3d",
+        "transactLevel": "3",
+        "unifyId": "SJRum15QSm-BE36m6bZ9sA",
+        "unifyName": "台湾居民来往大陆通行证签发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00016301300Y",
+        "rightsId": "25be25a7b2114638bc8c14d7dfef3d43",
+        "transactLevel": "0",
+        "unifyId": "6dwa8PUrRBunRHR4cRQNPg",
+        "unifyName": "边境管理区通行证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "00016301400Y",
+        "rightsId": "b01a0b8bd33c41f589880a2e9e66567e",
+        "transactLevel": "3",
+        "unifyId": "5BoREbYtQFO54EVIE8SNVQ",
+        "unifyName": "出入境通行证签发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164072000",
+        "rightsId": "8794B3AA8D0E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "99bc1ff8b7764978b0412225628f61a0",
+        "unifyName": "外国人对国家重点保护陆生野生动物进行野外考察或在野外拍摄电影、录像审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164072000",
+        "rightsId": "8794B3AA8D0E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e823160a61a44f2c8e942f3b931c729b",
+        "unifyName": "外国人对省重点保护野生动植物进行野外考察或在野外拍摄电影、录像审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164092000",
+        "rightsId": "8794B3AA8D229492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0SNtXw8mSAeZ2DwE4ZFWCA",
+        "unifyName": "进出口林草种子生产经营许可证新办",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164092000",
+        "rightsId": "8794B3AA8D229492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0OF4_Xb6RGCeuTU-WSLU6g",
+        "unifyName": "进出口林草种子生产经营许可证延续",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164092000",
+        "rightsId": "8794B3AA8D229492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "dVJWGDEJRYi_4O1ReepP1w",
+        "unifyName": "进出口林草种子生产经营许可证变更",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164097000",
+        "rightsId": "8794B3AA8D279492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d3a84f46c176441f80cb4a5f564b773b",
+        "unifyName": "采集或者采伐国家重点保护的天然种质资源审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164101000",
+        "rightsId": "8794B3AA8D2B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "LSbff3yERAyMXoNJNXkL5w",
+        "unifyName": "权限内国家一级保护陆生野生动物人工繁育许可证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164101000",
+        "rightsId": "8794B3AA8D2B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5a35ccb6830b4471984a9946ccb5ffb2",
+        "unifyName": "国家二级保护陆生野生动物人工繁育许可证核发",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164101000",
+        "rightsId": "8794B3AA8D2B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6defcb1be30b4cce89c080c0042d39cd",
+        "unifyName": "人工繁育省重点保护的陆生野生动物审批（委托下放）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164103000",
+        "rightsId": "8794B3AA8D2D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Xz7C05AKTVSO4ngqvk1ojw",
+        "unifyName": "林木良种繁殖材料、主要草种杂交种子及其亲本种子、常规原种种子生产经营许可证延续",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164103000",
+        "rightsId": "8794B3AA8D2D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "318c008ccd4b4eb894895f9f97bf6cb5",
+        "unifyName": "林木良种繁殖材料、主要草种杂交种子及其亲本种子、常规原种种子生产经营许可证变更",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164103000",
+        "rightsId": "8794B3AA8D2D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "KXOjy-T0T5umlpEfMaMerQ",
+        "unifyName": "普通林草种子生产经营许可证新办（设区的市级权限）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164103000",
+        "rightsId": "8794B3AA8D2D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d66f6e97f1f74ca690355dfa9ce73b29",
+        "unifyName": "普通林草种子生产经营许可证延续（设区的市级权限）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164103000",
+        "rightsId": "8794B3AA8D2D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ae59ff9573984ee5b6bd08d24821a933",
+        "unifyName": "普通林草种子生产经营许可证变更（设区的市级权限）",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164103000",
+        "rightsId": "8794B3AA8D2D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7334539674144593a09473a5cc7e17dc",
+        "unifyName": "普通林草种子生产经营许可证新办（县级权限）",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164103000",
+        "rightsId": "8794B3AA8D2D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c54e4e6cec5c4951bfd62d1b1dffe61c",
+        "unifyName": "普通林草种子生产经营许可证延续（县级权限）",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164103000",
+        "rightsId": "8794B3AA8D2D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "59390a6aced44e48a23a8d334dbd17cc",
+        "unifyName": "普通林草种子生产经营许可证变更（县级权限）",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164104000",
+        "rightsId": "8794B3AA8D2E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "07cac7ae68a744279c564eb44569b267",
+        "unifyName": "森林高火险期内，进入森林高火险区的活动审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164106000",
+        "rightsId": "8794B3AA8D309492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9aee2b4835a54c4393f3e5bade8db0d6",
+        "unifyName": "权限内猎捕国家一级保护陆生野生动物审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164109000",
+        "rightsId": "8794B3AA8D339492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8d0e96ff285042799a0943cd0d201357",
+        "unifyName": "权限内出售、购买、利用国家重点保护陆生野生动物及其制品审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164109000",
+        "rightsId": "8794B3AA8D339492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "SFO0zXFMRhWOkE1gDu0FDQ",
+        "unifyName": "出售、收购、利用省重点保护陆生野生动物及其产品审批（委托下放）",
+        "ywCode": "02"
+      }
+    ],
+    "pageIndex": 11,
+    "pageSize": 50,
+    "total": 1343,
+    "totalPage": 27
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

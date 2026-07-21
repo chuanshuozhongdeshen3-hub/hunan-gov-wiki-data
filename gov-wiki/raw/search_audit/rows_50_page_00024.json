@@ -1,0 +1,459 @@
+{
+  "datas": [
+    {
+      "id": "-3af984CTh-cb62cVHwV-A",
+      "_title": "侨眷身份认定",
+      "name": "侨眷身份认定",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000744001000",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "444ef5e6f77649c9a6e8cd6026e801bc",
+      "_title": "报纸出版单位变更地址备案",
+      "name": "报纸出版单位变更地址备案",
+      "type": "approve",
+      "yw_code": "08",
+      "rights_code": "431039077W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "a9fd9bcdcc124fc99b43fe162a3db1d6",
+      "_title": "水运机电工程专项监理资质许可及资质延续",
+      "name": "水运机电工程专项监理资质许可及资质延续",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000118014000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "407cbdb15aef4761b059378ab207ba3e",
+      "_title": "对其他印刷品印刷企业的年度核验",
+      "name": "对其他印刷品印刷企业的年度核验",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "431039073W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "1gYm3hzNSjWQ_a8u9D73fg",
+      "_title": "放射性物品道路运输企业终止经营",
+      "name": "放射性物品道路运输企业终止经营",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "000118036000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "byWeUfjGRqeMAx3JGDo-wg",
+      "_title": "从事城市生活垃圾经营性处置服务审批",
+      "name": "从事城市生活垃圾经营性处置服务审批",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000117013000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "2v6PhU4tTe2agaD5asjiRQ",
+      "_title": "变更客运班线车辆数量及要求许可",
+      "name": "变更客运班线车辆数量及要求许可",
+      "type": "approve",
+      "yw_code": "10",
+      "rights_code": "000118003000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "iELwkDgkR5-aigRy9cQhgw",
+      "_title": "香港特别行政区、澳门特别行政区的投资者在内地投资设立演出场所经营单位从事演出场所经营活动注销的审批",
+      "name": "香港特别行政区、澳门特别行政区的投资者在内地投资设立演出场所经营单位从事演出场所经营活动注销的审批",
+      "type": "approve",
+      "yw_code": "04",
+      "rights_code": "000122017000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "ef6078ec4c59468c972bc742c72b4589",
+      "_title": "国家级风景名胜区、国家自然保护区、全国重点文物保护单位区域内总投资 5000万元以下旅游开发和资源保护项目、世界自然和文化遗产保护区内总投资3000万元以下项目以及上述区域内限额以上其他旅游投资项目核准",
+      "name": "国家级风景名胜区、国家自然保护区、全国重点文物保护单位区域内总投资 5000万元以下旅游开发和资源保护项目、世界自然和文化遗产保护区内总投资3000万元以下项目以及上述区域内限额以上其他旅游投资项目核准",
+      "type": "approve",
+      "yw_code": "43",
+      "rights_code": "00010400100Y",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "91958b7f9feb45e9b76d74c59ff959e2",
+      "_title": "水运工程竣工质量鉴定",
+      "name": "水运工程竣工质量鉴定",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "430718051W00",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "1XxhdgYwRM61Zrs7l1Uucg",
+      "_title": "危险货物道路运输从业人员资格换发",
+      "name": "危险货物道路运输从业人员资格换发",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000118056000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "7ecd35bb9a284d519295c493a5e098d7",
+      "_title": "集体建设用地使用权及建筑物、构筑物所有权转移登记",
+      "name": "集体建设用地使用权及建筑物、构筑物所有权转移登记",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "000715001004",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "qJP8J6KnRKeCh9nSVIfn2w",
+      "_title": "驾驶人考试预约",
+      "name": "驾驶人考试预约",
+      "type": "approve",
+      "yw_code": "04",
+      "rights_code": "000109140009",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "65d8b75d168147a5b48c2de5ec324581",
+      "_title": "医疗机构执业登记（校验)",
+      "name": "医疗机构执业登记（校验)",
+      "type": "approve",
+      "yw_code": "04",
+      "rights_code": "000123004000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "2c8ba36758c64e89aafc92ede700dd92",
+      "_title": "拍卖企业经营文物拍卖许可",
+      "name": "拍卖企业经营文物拍卖许可",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000168017000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "d9b22aa9a18a44c391a45c04b6f99395",
+      "_title": "设立文物商店审批",
+      "name": "设立文物商店审批",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000168004000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "8BGsmpSdS6mWxRIaJ_YBIg",
+      "_title": "大型焰火燃放作业人员资格证明变更所在单位",
+      "name": "大型焰火燃放作业人员资格证明变更所在单位",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000709102000",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "ZhSQXND2SLeZPAZFOu5AqA",
+      "_title": "公章刻制备案",
+      "name": "公章刻制备案",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431009085W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "43PCP0006",
+      "_title": "就医费用报销“一件事”",
+      "name": "就医费用报销“一件事”",
+      "type": "theme",
+      "yw_code": "",
+      "rights_code": "",
+      "type_name": "高效办成一件事"
+    },
+    {
+      "id": "DEK00lKRRLme3iM5aN8Fqg",
+      "_title": "新建商品房（预售）抵押合同网签备案（变更、注销）",
+      "name": "新建商品房（预售）抵押合同网签备案（变更、注销）",
+      "type": "approve",
+      "yw_code": "07",
+      "rights_code": "001017003000",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "04b8baa6b17f4111887277f37813a4c7",
+      "_title": "对人民调解委员会和调解员进行表彰奖励",
+      "name": "对人民调解委员会和调解员进行表彰奖励",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000812002000",
+      "type_name": "行政奖励"
+    },
+    {
+      "id": "k1r7Zg90QruKNavtjDrpKQ",
+      "_title": "职业病诊断资格证书核发（增加业务范围）",
+      "name": "职业病诊断资格证书核发（增加业务范围）",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000123025000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "t-kT1lhgSYm_rxCASncdBg",
+      "_title": "互联网农药经营者备案（变更）",
+      "name": "互联网农药经营者备案（变更）",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "431020001W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "466c3a29b0f64408992c0543825edc29",
+      "_title": "商业保理公司合并、分立",
+      "name": "商业保理公司合并、分立",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "430155008W00",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "89efa680c5a54fa5b03af159b6b7f3f0",
+      "_title": "公证员免职（初审）",
+      "name": "公证员免职（初审）",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "000112011000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "43PCP0011",
+      "_title": "家电以旧换新和手机等购新补贴申请(2025年度)",
+      "name": "家电以旧换新和手机等购新补贴申请(2025年度)",
+      "type": "theme",
+      "yw_code": "",
+      "rights_code": "",
+      "type_name": "高效办成一件事"
+    },
+    {
+      "id": "7709e610ad5444eba6b8a8f9e1e1bce1",
+      "_title": "律师事务所变更组织形式",
+      "name": "律师事务所变更组织形式",
+      "type": "approve",
+      "yw_code": "10",
+      "rights_code": "000112001000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "2ce61ec0758147509ce65aa55fd62be2",
+      "_title": "省内撤回派驻律师",
+      "name": "省内撤回派驻律师",
+      "type": "approve",
+      "yw_code": "19",
+      "rights_code": "000112001000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "47a143d80efe46a2841c5a86190f6bb5",
+      "_title": "律师事务所变更合伙协议",
+      "name": "律师事务所变更合伙协议",
+      "type": "approve",
+      "yw_code": "09",
+      "rights_code": "000112001000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "a860ac6432c84a4180b95a430c975050",
+      "_title": "被省外总所增加派驻律师",
+      "name": "被省外总所增加派驻律师",
+      "type": "approve",
+      "yw_code": "20",
+      "rights_code": "000112001000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "7feeb07b33634f049130848f6b7c7eb1",
+      "_title": "律师事务所变更名称",
+      "name": "律师事务所变更名称",
+      "type": "approve",
+      "yw_code": "06",
+      "rights_code": "000112001000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "5e9ef50aef8946c19afb8fb93b8d183f",
+      "_title": "被省外总所撤回派驻律师",
+      "name": "被省外总所撤回派驻律师",
+      "type": "approve",
+      "yw_code": "21",
+      "rights_code": "000112001000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "81feeafd22f5422e92eee3018036f9b8",
+      "_title": "设立律师事务所分所",
+      "name": "设立律师事务所分所",
+      "type": "approve",
+      "yw_code": "05",
+      "rights_code": "000112001000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "0060a720944f422db0b1b40235e7cbe2",
+      "_title": "台湾居民申请在大陆从事律师职业许可",
+      "name": "台湾居民申请在大陆从事律师职业许可",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000112008000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "7b3afbcb67c645c5b97fb80c05fe8ba1",
+      "_title": "香港永久性居民中的中国居民申请在内地从事律师职业核准",
+      "name": "香港永久性居民中的中国居民申请在内地从事律师职业核准",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000112007000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "9dd2cdd718544128ae8990cab4108800",
+      "_title": "省内增加派驻律师",
+      "name": "省内增加派驻律师",
+      "type": "approve",
+      "yw_code": "15",
+      "rights_code": "000112001000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "83ede39a5c3d445084bd149f77eda7ef",
+      "_title": "注册设备监理师考试报名",
+      "name": "注册设备监理师考试报名",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "002014208009",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "cf07dd2aa68a464e98b69f07259dc0c1",
+      "_title": "法律援助律师工作证颁发",
+      "name": "法律援助律师工作证颁发",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000712001000",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "f067a1c973ee490aa33c26b84859e9ed",
+      "_title": "环境影响评价工程师考试报名",
+      "name": "环境影响评价工程师考试报名",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "002014208004",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "07cac7ae68a744279c564eb44569b267",
+      "_title": "森林高火险期内，进入森林高火险区的活动审批",
+      "name": "森林高火险期内，进入森林高火险区的活动审批",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000164104000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "d2225786905c41409b6293f4ee01cbe8",
+      "_title": "种畜禽生产经营许可（含蜂种）",
+      "name": "种畜禽生产经营许可（含蜂种）",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000120189000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "3LlRsHbyRiqescOblJnULg",
+      "_title": "建设港口设施使用非深水岸线审批",
+      "name": "建设港口设施使用非深水岸线审批",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000118004000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "d6XikboMQUicXn6NiQhCPg",
+      "_title": "兽药经营许可核发（生物制品）",
+      "name": "兽药经营许可核发（生物制品）",
+      "type": "approve",
+      "yw_code": "06",
+      "rights_code": "000120075000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "e603abc5f53f49fd96e9f97b1fa45f88",
+      "_title": "注册测绘师考试报名",
+      "name": "注册测绘师考试报名",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "002014208010",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "qULtFwcCRVmxsxcyu_jM2Q",
+      "_title": "农业机械鉴定证书（延续）",
+      "name": "农业机械鉴定证书（延续）",
+      "type": "approve",
+      "yw_code": "09",
+      "rights_code": "001020003000",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "6454815041064151b050e4d5674af288",
+      "_title": "小学教师资格认定",
+      "name": "小学教师资格认定",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000105013006",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "VzMs9GH3RTyJ6xe7TP2PTA",
+      "_title": "新型墙体材料产品非首次认定",
+      "name": "新型墙体材料产品非首次认定",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "430707001W00",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "By-NGtP-QI-vdqV3bnsVAA",
+      "_title": "烟花爆竹经营（零售）变更",
+      "name": "烟花爆竹经营（零售）变更",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000125046002",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "qbKtyQtbQw-hcboBgHqL3Q",
+      "_title": "烟花爆竹经营（零售）许可",
+      "name": "烟花爆竹经营（零售）许可",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000125046002",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "584b53927f9e4813972aaafafb347171",
+      "_title": "农村部分计划生育家庭奖励扶助对象确认",
+      "name": "农村部分计划生育家庭奖励扶助对象确认",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "432023113W00",
+      "type_name": "公共服务"
+    }
+  ],
+  "total": 3184,
+  "pageTotal": 133,
+  "pageIndex": 24,
+  "pageSize": 50,
+  "highlight_words": []
+}

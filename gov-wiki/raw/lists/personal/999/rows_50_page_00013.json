@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432088003W00",
+        "rightsId": "GSdsqVt9SemBLxquD3nWGw",
+        "transactLevel": "0",
+        "unifyId": "hTlg2zknTcSl4caPeXiulg",
+        "unifyName": "残疾人机动轮椅车燃油补贴",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432088004W00",
+        "rightsId": "6CRzSy77Q2a_A4lDYGGN_Q",
+        "transactLevel": "0",
+        "unifyId": "dIu7BmT2TsWWcEhc21q46g",
+        "unifyName": "残疾人法律救助",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432088008W00",
+        "rightsId": "w52GzAZ6SQSYx-cRmjNo4A",
+        "transactLevel": "0",
+        "unifyId": "vVpSysA6TpGXJVuYM3-ATg",
+        "unifyName": "残疾人创业小额贷款贴息",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432088009W00",
+        "rightsId": "rIe_nurrRjO_eX6KSGV8Rw",
+        "transactLevel": "0",
+        "unifyId": "Ds7bB8ImRmi169pG4cSP-g",
+        "unifyName": "残疾人就业咨询与职业介绍服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432088010W00",
+        "rightsId": "ZDZqq0HbTaSIHYULqR0HvQ",
+        "transactLevel": "0",
+        "unifyId": "a95d96c81f924c86afc84f19c4c1ecad",
+        "unifyName": "残疾人大学生、高中生及贫困残疾人家庭子女大学生、高中生资助",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432088011W00",
+        "rightsId": "WCHR2gEzTE-RV12Lfc3CMQ",
+        "transactLevel": "0",
+        "unifyId": "sNLYZRJaSEqp3gIm7hC1Kw",
+        "unifyName": "残疾儿童康复救助",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "432099003W00",
+        "rightsId": "0naB5hnzSSuvaco5WLc3nA",
+        "transactLevel": "3",
+        "unifyId": "86b9c9ee361f4283ba029c7b57463495",
+        "unifyName": "有线数字电视基本收视维护费",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "432099004W00",
+        "rightsId": "Biv_rHD4S6ujaFhZMxCr6Q",
+        "transactLevel": "3",
+        "unifyId": "8a4a04cec4f445d09884e37aa36c4168",
+        "unifyName": "面向特殊群体提供的有线电视免费或低收费服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "432099005W00",
+        "rightsId": "qKBJOKnDTH-iu8gIcFYJnw",
+        "transactLevel": "3",
+        "unifyId": "4cff192e5c6d4c81bc5f9d45588b3b5b",
+        "unifyName": "有线电视基本公共服务",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 13,
+    "pageSize": 50,
+    "total": 609,
+    "totalPage": 13
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

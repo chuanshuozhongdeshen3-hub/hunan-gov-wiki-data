@@ -1,0 +1,518 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000913001000",
+        "rightsId": "8794B3AA91E39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "mqNn85l9S5KZZ9gobGXpfQ",
+        "unifyName": "政府采购投诉处理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000915002000",
+        "rightsId": "8794B3AA91E59492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "ebdc54ede6d34ab6a8a5f2cf19f9d8c0",
+        "unifyName": "土地权属争议行政调处",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000915002000",
+        "rightsId": "8794B3AA91E59492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "92pMMEaeQeC8odyXRQYSzA",
+        "unifyName": "林木林地权属争议调处",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000918001000",
+        "rightsId": "8794B3AA91EE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "xsX9I5I4RYae18BTFm7wIQ",
+        "unifyName": "裁决客运经营者发车时间安排纠纷",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000923001000",
+        "rightsId": "8794B3AA91F19492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "51dd88baf533433b8407c0a360924764",
+        "unifyName": "医疗机构名称裁定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000931002000",
+        "rightsId": "8794B3AA91F39492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "Ej9ieYZzT9ujXgozNICjzg",
+        "unifyName": "对计量纠纷的调解和仲裁检定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001005001000",
+        "rightsId": "7afb33c0b84b4a42a04fd3483c7a53ba",
+        "transactLevel": "0",
+        "unifyId": "d30a7af579c342819c90a1a0a9415a77",
+        "unifyName": "对学生申诉的处理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001005002000",
+        "rightsId": "dac968099daa497d9e7d6133f27036b5",
+        "transactLevel": "0",
+        "unifyId": "fe25fd9b67a54c7ab730669cba73fce8",
+        "unifyName": "对教师申诉的处理",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "001011002000",
+        "rightsId": "8794B3AA91FE9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "350e2f575596437db4d1bf53077a2cd7",
+        "unifyName": "慈善信托备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "001015002000",
+        "rightsId": "8794B3AA92029492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "uuTB4JPaS3eu_Xtvyjo2Rg",
+        "unifyName": "土地复垦验收确认",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001015008000",
+        "rightsId": "a0152ee2b3134df492c65afa4001513f",
+        "transactLevel": "0",
+        "unifyId": "ulWYmZZ5SqStDTmmKoU8jA",
+        "unifyName": "重要地理信息数据审核公布",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017001000",
+        "rightsId": "8794B3AA92089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "69f6d914ae314672bd6a9db2bf3fe970",
+        "unifyName": "房地产估价机构备案登记-备案标注等级",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "001017001000",
+        "rightsId": "8794B3AA92089492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "9add2e4ea45c4539bff53b90371cab4f",
+        "unifyName": "房地产估价机构备案证书-注销",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017001000",
+        "rightsId": "8794B3AA92089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "NOIF-EwkRJ2bATk_12j5XA",
+        "unifyName": "房地产估价机构备案证书-注册地址、注册资金、企业名称变更",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017001000",
+        "rightsId": "8794B3AA92089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "QzQHO8ScRE6pFLZPPyIydg",
+        "unifyName": "房地产估价机构备案证书-法定代表人变更",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017002002",
+        "rightsId": "8794B3AA920A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ecdf59418efb4f7caaff3381c7b6f005",
+        "unifyName": "二级注册建筑师-初始注册",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017002002",
+        "rightsId": "8794B3AA920A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "kVVoC3cFTEClPvKIRTG9ww",
+        "unifyName": "二级注册建筑师-延续注册",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017002002",
+        "rightsId": "8794B3AA920A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "BV2-NsmIT8aWqroR25QAtQ",
+        "unifyName": "二级注册建筑师-变更注册",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017002002",
+        "rightsId": "8794B3AA920A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "h11P203FQomgCwWhzIKZMw",
+        "unifyName": "二级注册建筑师-注销注册",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017003000",
+        "rightsId": "8794B3AA920C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "j6vhwtkeSSuiei-UzjxMwg",
+        "unifyName": "新建商品房（预售）买卖合同网签备案（变更、注销）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017003000",
+        "rightsId": "8794B3AA920C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "UJj8_4KyTeCvzgJ_FKcvxQ",
+        "unifyName": "新建商品房（现售）买卖合同网签备案（变更、注销）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017003000",
+        "rightsId": "8794B3AA920C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "DEK00lKRRLme3iM5aN8Fqg",
+        "unifyName": "新建商品房（预售）抵押合同网签备案（变更、注销）",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "001017003000",
+        "rightsId": "8794B3AA920C9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "cRo4cg0FSYi1y9La6vnS1w",
+        "unifyName": "存量房买卖合同网签备案（变更、注销）",
+        "ywCode": "25"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017003000",
+        "rightsId": "8794B3AA920C9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "vKWPtDiARaCVrnVNW8l0nw",
+        "unifyName": "存量房抵押合同备案（变更、注销）",
+        "ywCode": "34"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001018001000",
+        "rightsId": "bf05eb18a98d4c2bb0b88a5cbbb02426",
+        "transactLevel": "0",
+        "unifyId": "S0nl2T6zSbufYrspIkaONw",
+        "unifyName": "航行通（警）告办理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "001018002000",
+        "rightsId": "5b0041f9cfb74b758de8363b26699347",
+        "transactLevel": "1",
+        "unifyId": "EMlKIjVzQ3aFMsRt1IUW_g",
+        "unifyName": "船舶文书签注（《航海（行）日志》《轮机日志》《车钟记录簿》《垃圾记录簿》《货物记录簿》《油类记录簿》《货物系固手册》）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001018005000",
+        "rightsId": "ccc33f7c70ef4d10904ca9d33db5d89f",
+        "transactLevel": "0",
+        "unifyId": "m5wy7hRcTt6m7jzBrrgnvA",
+        "unifyName": "危险货物安全适运报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "001018007000",
+        "rightsId": "95da78f93651451fb9fdb90d8025516d",
+        "transactLevel": "1",
+        "unifyId": "1AkwUg0lTD-Uie5x8YM3Tw",
+        "unifyName": "船舶防污染作业报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001019009000",
+        "rightsId": "accbb6dbef4d447d93fa28e2f5322942",
+        "transactLevel": "0",
+        "unifyId": "4f542bdd9fb34010b2e55df98bd0ad32",
+        "unifyName": "取水许可证变更",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001019009000",
+        "rightsId": "accbb6dbef4d447d93fa28e2f5322942",
+        "transactLevel": "0",
+        "unifyId": "62f5fb80a52841db870027a409d8a884",
+        "unifyName": "取水许可证注销",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001030035000",
+        "rightsId": "28867ef30c36408d90c05e19f901468c",
+        "transactLevel": "0",
+        "unifyId": "30b98ae6bb244fe4b2d370634d44d27c",
+        "unifyName": "纳税人（扣缴义务人）身份信息报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001030044000",
+        "rightsId": "b17719bd896443679bb6c15d844ac31a",
+        "transactLevel": "0",
+        "unifyId": "ed7e1b513e084e43b70774e2d55df88f",
+        "unifyName": "代开增值税专用发票",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001030045000",
+        "rightsId": "5bbdf343918c4a3bb49ed3487afdf771",
+        "transactLevel": "0",
+        "unifyId": "9975ab6811ca47dfb936f83d4bc682fa",
+        "unifyName": "代开增值税普通发票",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001030046000",
+        "rightsId": "f9f7c42dac274c69b352fac4f15c0060",
+        "transactLevel": "0",
+        "unifyId": "61d8ff035e8540009b0fc6bd83fe871d",
+        "unifyName": "代开发票作废",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001030055000",
+        "rightsId": "e28355e2c11742308ed8214d4bb92b2b",
+        "transactLevel": "0",
+        "unifyId": "50a8224e5ed348cda0d7618e900fcbfa",
+        "unifyName": "涉税专业服务机构（人员）基本信息报送",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001031004000",
+        "rightsId": "a0af2d8923df47e89d6d5663a9bb4a4f",
+        "transactLevel": "0",
+        "unifyId": "iHPzldkXRNuy4KYvrpCrDw",
+        "unifyName": "个体工商户备案",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001044001000",
+        "rightsId": "8794B3AA92839492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Dw1goJS7QrGj4OvAMSZmHA",
+        "unifyName": "华侨证明",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001064027000",
+        "rightsId": "d46b197eb20643c3907a702559fefe03",
+        "transactLevel": "0",
+        "unifyId": "03fa967af2404d2b96aa02dc100d348b",
+        "unifyName": "国有林场森林经营方案审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001064027000",
+        "rightsId": "d46b197eb20643c3907a702559fefe03",
+        "transactLevel": "0",
+        "unifyId": "16_eUSiUSwajg8MLWlYIIA",
+        "unifyName": "其他国有林经营单位森林经营方案审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001064027000",
+        "rightsId": "d46b197eb20643c3907a702559fefe03",
+        "transactLevel": "0",
+        "unifyId": "3U45kwNdTHCvKfy4OaIvmA",
+        "unifyName": "集体林组织、个体或非公有经营主体的森林经营方案审批",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001072002000",
+        "rightsId": "8794B3AA929C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d12d8bc927b140869ba337247ceea7dd",
+        "unifyName": "携带少量麻醉药品和精神药品出入境证明",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014001005",
+        "rightsId": "8794B3AA92A29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "JUNMcuolSVSy9MNXFstsnA",
+        "unifyName": "职工参保登记（灵活就业人员参保）",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014001006",
+        "rightsId": "8794B3AA92A39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "71a4ff8bcc274fd1b2778ffa45dd85c4",
+        "unifyName": "养老保险个人参保登记（新增、续保）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014002002",
+        "rightsId": "8794B3AA92A69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "11449977b41a46d7b76f5cb5e2e1e441",
+        "unifyName": "社会保险人员登记信息修正（关键信息）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "002014002002",
+        "rightsId": "8794B3AA92A69492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "H_IucUmBRnWJiIqzrtoscQ",
+        "unifyName": "职工停保原因变更申请（个人）",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014003004",
+        "rightsId": "8794B3AA92AE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "VFlQk-VLReyuE6IMW-vzNQ",
+        "unifyName": "机关事业单位养老保险编制类型变更及征缴",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014003004",
+        "rightsId": "8794B3AA92AE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "34fe9a4f34d6485989d2dab3767c0650",
+        "unifyName": "城乡居民养老保险费补缴申报",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014003004",
+        "rightsId": "8794B3AA92AE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "MxWgCpSyRS6ck8lsMTlsxA",
+        "unifyName": "社会保险统筹补缴申请",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014003004",
+        "rightsId": "8794B3AA92AE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "SEBWehUVT-2EA0cQ5eppng",
+        "unifyName": "企业职工基本养老保险达到法定退休年龄一次性延缴申请",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014003005",
+        "rightsId": "8794B3AA92AF9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "RTUEqQjXQoKf2HoqjZKuaA",
+        "unifyName": "社会保险缴费核定取消申请",
+        "ywCode": "04"
+      }
+    ],
+    "pageIndex": 17,
+    "pageSize": 50,
+    "total": 1343,
+    "totalPage": 27
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

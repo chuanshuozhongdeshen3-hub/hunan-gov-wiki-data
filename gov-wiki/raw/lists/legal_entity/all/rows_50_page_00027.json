@@ -1,0 +1,520 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000141002000",
+        "rightsId": "8794B3AA8A7C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bd3826a395ae41e3994a80e0fa9b7286",
+        "unifyName": "在华外国人集体进行宗教活动临时地点审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000141003000",
+        "rightsId": "8794B3AA8A7D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fb7fc812bfff4571b2b92a5330dfb1e9",
+        "unifyName": "邀请以其他身份入境的外国宗教教职人员讲经、讲道审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000141004000",
+        "rightsId": "8794B3AA8A7E9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "fae63511a1064b19be49abc7783ef64e",
+        "unifyName": "编印、发送宗教内部资料性出版物",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000141004000",
+        "rightsId": "8794B3AA8A7E9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "97a59e4014074b379a1d64d5b380ebf0",
+        "unifyName": "印刷其他宗教用品审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000141005000",
+        "rightsId": "8794B3AA8A7F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d37d3227bcda4fe8aaa6f5757cc62dfa",
+        "unifyName": "在宗教活动场所内改建建筑物审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000141005000",
+        "rightsId": "8794B3AA8A7F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f8b12072fc3447989a354a68ef0d15d6",
+        "unifyName": "在宗教活动场所内新建建筑物审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000141006000",
+        "rightsId": "8794B3AA8A809492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "cb81a4b513904784b69be1924bb8c98d",
+        "unifyName": "举行大型宗教活动审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000141007001",
+        "rightsId": "8794B3AA8A819492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "65c4ccf4b3c64dcc89d3df84fd46931a",
+        "unifyName": "宗教院校设立审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000141007002",
+        "rightsId": "8794B3AA8A829492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "85ccd3eb44a340178f42b41d39b5d265",
+        "unifyName": "宗教院校变更审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000141007003",
+        "rightsId": "8794B3AA8A839492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c021fa21ad454bb881da6bab26ce9e78",
+        "unifyName": "宗教院校合并审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000141007004",
+        "rightsId": "8794B3AA8A849492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "dd8ce0e229e84a56b7f278c422ddc829",
+        "unifyName": "宗教院校分设审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000141007005",
+        "rightsId": "8794B3AA8A859492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ed225b1ac0424f259591e7f841546e28",
+        "unifyName": "宗教院校终止审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000141008001",
+        "rightsId": "8794B3AA8A879492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "049a22ad07d74a108db5ca85b310d7b1",
+        "unifyName": "宗教活动场所登记审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000141008002",
+        "rightsId": "8794B3AA8A889492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "46131931e609405c986e969555b21299",
+        "unifyName": "宗教活动场所变更登记审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000141008003",
+        "rightsId": "8794B3AA8A899492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a36c1bc421434e7fab5e157be7947791",
+        "unifyName": "宗教活动场所注销审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000141009000",
+        "rightsId": "8794B3AA8A8B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6812857b1b7b45b787e5cff453198bb0",
+        "unifyName": "外国人携带用于宗教文化学术交流的宗教用品入境审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000141010001",
+        "rightsId": "8794B3AA8A8C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "75e49c8c48dd48bd9cb84afa40721eb7",
+        "unifyName": "宗教团体成立前审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000141010002",
+        "rightsId": "8794B3AA8A8D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c7ee65f3d4e84907a3decb092fc7a79e",
+        "unifyName": "宗教团体变更前审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000141010003",
+        "rightsId": "8794B3AA8A8E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "233e4b77850147aa82dd7c4a8d1a7ea7",
+        "unifyName": "宗教团体注销前审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000141012000",
+        "rightsId": "8794B3AA8A919492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "605f21ccd7c947d6a1cf249723341eb4",
+        "unifyName": "在寺观教堂内修建大型露天宗教造像审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000141013000",
+        "rightsId": "8794B3AA8A929492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8952d8fed30f49dda48d977b92898369",
+        "unifyName": "开展宗教教育培训审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000141014000",
+        "rightsId": "8794B3AA8A939492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b6e0efee9d784c8b8a3d78a275a287e7",
+        "unifyName": "宗教活动场所法人登记审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000141015000",
+        "rightsId": "8794B3AA8A949492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "8bbe7ef370df4938a7e1e04745918f4f",
+        "unifyName": "宗教临时活动地点审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000141016000",
+        "rightsId": "8794B3AA8A959492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4d6a5cf86961403296847417fc319005",
+        "unifyName": "从事互联网宗教信息服务审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000141017000",
+        "rightsId": "8794B3AA8A969492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "63709552a0e04da6a12ddd436395ed9d",
+        "unifyName": "宗教团体接受境外组织和个人捐赠审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000141017000",
+        "rightsId": "8794B3AA8A969492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ce10aa1f277a48cabf3995d4caf07e19",
+        "unifyName": "宗教院校接受境外组织和个人捐赠审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000141017000",
+        "rightsId": "8794B3AA8A969492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8b5be088eef2460cb65f1f5d8905b109",
+        "unifyName": "宗教活动场所接受境外组织和个人捐赠审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000154001000",
+        "rightsId": "51933523c6d6499d9e16e3d3045794ce",
+        "transactLevel": "1",
+        "unifyId": "dBBFBYC1SQOxL-ikMlM-6w",
+        "unifyName": "雷电防护装置设计审核",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000154002000",
+        "rightsId": "dbea19aa1492454fbece3cb241beb946",
+        "transactLevel": "0",
+        "unifyId": "C0w4AELTSUCgkrgNMMaAOA",
+        "unifyName": "除电力、通信以外的雷电防护装置检测资质单位认定",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000154003000",
+        "rightsId": "b0e5140a4ab74805bdf4b59ca812443a",
+        "transactLevel": "0",
+        "unifyId": "_iANejtMQKei89asxCfFMg",
+        "unifyName": "气象台站迁建审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000154004000",
+        "rightsId": "8794B3AA8AA69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3126a730965243d4aa1b20653299cf57",
+        "unifyName": "新建、扩建、改建建设工程避免危害气象探测环境审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000154005000",
+        "rightsId": "8794B3AA8AA79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "NlxMJmHQSNOKg43O2rwfLA",
+        "unifyName": "升放无人驾驶自由气球或者系留气球活动审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000154006000",
+        "rightsId": "8794B3AA8AA89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "HVoiY28vSHa6awMesz-SkA",
+        "unifyName": "升放无人驾驶自由气球、系留气球单位资质认定",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000154009000",
+        "rightsId": "5960f19a4d264382816915be495e7d59",
+        "transactLevel": "1",
+        "unifyId": "gNBgpLRESPKF_qrbQNGqpA",
+        "unifyName": "雷电防护装置竣工验收",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000155001000",
+        "rightsId": "8794B3AA8AAB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "62708aca61484d9fa7749f732403d9f8",
+        "unifyName": "典当行设立",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000155001000",
+        "rightsId": "8794B3AA8AAB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ff06f475bb2646bcb79257d30c17ee64",
+        "unifyName": "典当行合并、分立",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000155001000",
+        "rightsId": "8794B3AA8AAB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0a80a746663d4a06a505fdbaba389ee3",
+        "unifyName": "典当行变更业务范围或经营区域",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000155001000",
+        "rightsId": "8794B3AA8AAB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5244921a97a5464aa94215801316dbe0",
+        "unifyName": "典当行减少注册资本",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000155001000",
+        "rightsId": "8794B3AA8AAB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c02e3fee0a574d33a94161444511f447",
+        "unifyName": "典当行变更控股股东、实际控制人",
+        "ywCode": "07"
+      },
+      {
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000155002000",
+        "rightsId": "8794B3AA8AAC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "_FpJ-pFpSASqgZb9o3arlA",
+        "unifyName": "融资担保公司设立",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000155002000",
+        "rightsId": "8794B3AA8AAC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Y3KEe8_NSTuqlyDkcBturQ",
+        "unifyName": "融资担保公司分立",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000155002000",
+        "rightsId": "8794B3AA8AAC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "XOpiwrORSVW1wjwcy5767w",
+        "unifyName": "融资担保公司减少注册资本",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000160001000",
+        "rightsId": "8794B3AA8C4A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "10e6e25ce5e8406f866986c8e431e4be",
+        "unifyName": "煤矿建设项目初步设计文件审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162001000",
+        "rightsId": "8794B3AA8C959492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6fd126659ac241c4a3e81172f147018c",
+        "unifyName": "烟草专卖批发企业许可证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162002000",
+        "rightsId": "8794B3AA8C969492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "220e44791e2f450694540a20d8d7a2d3",
+        "unifyName": "烟草专卖品准运证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162004000",
+        "rightsId": "8794B3AA8C989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b1202da61d684a70bf1038948b27ce88",
+        "unifyName": "烟草专卖零售许可证新办办理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162004000",
+        "rightsId": "8794B3AA8C989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "59eb28aaa76b457f9e5d463cf2a3bd64",
+        "unifyName": "烟草专卖零售许可证变更办理",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162004000",
+        "rightsId": "8794B3AA8C989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f48787ef53f344fc8550bd7134f19ff0",
+        "unifyName": "烟草专卖零售许可证延续办理",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162004000",
+        "rightsId": "8794B3AA8C989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "68510d31c4a84de59947824129c1acb5",
+        "unifyName": "烟草专卖零售许可证补办办理",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162004000",
+        "rightsId": "8794B3AA8C989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b4f82728ec29404bbdeb501c64a72f53",
+        "unifyName": "烟草专卖零售许可证停业办理",
+        "ywCode": "05"
+      }
+    ],
+    "pageIndex": 27,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

@@ -1,0 +1,519 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120189000",
+        "rightsId": "8794B3AA88979492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d2225786905c41409b6293f4ee01cbe8",
+        "unifyName": "种畜禽生产经营许可（含蜂种）",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120189000",
+        "rightsId": "8794B3AA88979492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "epqJRQuxTrWRsa2Z8tsL6Q",
+        "unifyName": "种畜禽生产经营许可变更（含蜂种）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120198000",
+        "rightsId": "8794B3AA88A69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "db2LMTeJSOeX9VrD3bobVQ",
+        "unifyName": "国家重点保护的天然种质资源的采集、采伐批准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120200000",
+        "rightsId": "8794B3AA88A89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "WtnDAQd7QDCb7y5IDuyFxQ",
+        "unifyName": "食用菌菌种生产经营许可证核发（母种、原种）",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120200000",
+        "rightsId": "8794B3AA88A89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "830b46e34ef94d5dab04b1a34228af2d",
+        "unifyName": "食用菌菌种生产经营许可证核发（栽培种）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120201000",
+        "rightsId": "8794B3AA88A99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "GnOxARXIS-SK11iLWOzrYQ",
+        "unifyName": "使用低于国家或地方规定标准的农作物种子审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120207000",
+        "rightsId": "8794B3AA88B89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "O6WnXvM8T06jVim_GVvSDw",
+        "unifyName": "执业兽医备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120208000",
+        "rightsId": "8794B3AA88B99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d269eacb69314305b58d86ea9bda96b4",
+        "unifyName": "动物防疫条件合格证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120208000",
+        "rightsId": "8794B3AA88B99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5KAgTmRWT7mQ5KH-HZ-ecw",
+        "unifyName": "动物防疫条件合格证变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120208000",
+        "rightsId": "8794B3AA88B99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "DD4BxS-gTFCoZz5P7T-AQA",
+        "unifyName": "动物防疫条件合格证补发/注销",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120209000",
+        "rightsId": "8794B3AA88BA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6d1ba0adcd32459b862fe09350c3037e",
+        "unifyName": "动物诊疗许可证核发",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120209000",
+        "rightsId": "8794B3AA88BA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "WU83PKIVR3qJuJjowP_Z1A",
+        "unifyName": "动物诊疗许可证变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120209000",
+        "rightsId": "8794B3AA88BA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "_CLkLfWWStaoCDLCkFu4_g",
+        "unifyName": "动物诊疗许可证补发",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120212000",
+        "rightsId": "8794B3AA88BD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "m9JZ_bb2TXCknl7ONl5Ohg",
+        "unifyName": "动物及动物产品检疫合格证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120215000",
+        "rightsId": "8794B3AA88C89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bE-FoS23RVqeGAXeTf8b-Q",
+        "unifyName": "向国外申请农业植物新品种权审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120216000",
+        "rightsId": "8794B3AA88C99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c11ZiKWBRluHmECB6Vrt4g",
+        "unifyName": "养殖、科研等特殊需要在禁渔期、禁渔区作业审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120218000",
+        "rightsId": "8794B3AA88CB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Zs7fCzpPSPaJllKqhWCuyQ",
+        "unifyName": "农业转基因生物加工审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120218000",
+        "rightsId": "8794B3AA88CB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "F7cwg6yBQte8scDKszOaBg",
+        "unifyName": "农业转基因生物加工审批（变更）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120219000",
+        "rightsId": "8794B3AA88CC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cs3NQKLZQ8KC_1v9f2Cc0g",
+        "unifyName": "出口国家重点保护的农业野生植物或进出口中国参加的国际公约限制进出口的农业野生植物审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120220000",
+        "rightsId": "8794B3AA88CD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Nv8cZ9AwQf6rzM1opd01MQ",
+        "unifyName": "出售、收购国家二级保护野生植物（农业类）审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120220000",
+        "rightsId": "8794B3AA88CD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "iuitOAedR2OZeMmRHg2u3w",
+        "unifyName": "采集国家二级保护野生植物（农业类）审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122003000",
+        "rightsId": "8794B3AA88FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "nuUiy5e5TRq2NNFIhCuzqA",
+        "unifyName": "导游证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000122007000",
+        "rightsId": "8794B3AA88FE9492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "-ioh3Bf5QDOFhe1siwIC-w",
+        "unifyName": "导游人员从业资格证书核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122008000",
+        "rightsId": "8794B3AA88FF9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "xAdBhtecSmqDPoDOTAt_nw",
+        "unifyName": "境外组织或者个人在中华人民共和国境内进行非物质文化遗产调查的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123002000",
+        "rightsId": "8794B3AA89199492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f2c1094f66f643ab93a85f2bafc78486",
+        "unifyName": "母婴保健服务人员资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000123003000",
+        "rightsId": "8794B3AA891A9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "08c344c6e82b498cb8abdc547fd2fa12",
+        "unifyName": "医疗机构设置审批（含港澳台）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000123004000",
+        "rightsId": "8794B3AA891B9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "589c110f716f4422a19fb0f35b14e9dd",
+        "unifyName": "医疗机构执业登记（新发)",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000123004000",
+        "rightsId": "8794B3AA891B9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "65d8b75d168147a5b48c2de5ec324581",
+        "unifyName": "医疗机构执业登记（校验)",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000123004000",
+        "rightsId": "8794B3AA891B9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "resqmwGxQc2Xi-EKY4Segw",
+        "unifyName": "医疗机构执业登记（注销)",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000123004000",
+        "rightsId": "8794B3AA891B9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "01e17f2cef9f462189eda8024abf23cd",
+        "unifyName": "医疗机构执业登记（变更）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123010000",
+        "rightsId": "8794B3AA89219492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "nE_49CFaTji6BSI26q_GjA",
+        "unifyName": "医师资格准入（台湾地区、港澳特别行政区医师申请大陆医师资格认定）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123010000",
+        "rightsId": "8794B3AA89219492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "E5DSKARCS32ze7-d2V3V1w",
+        "unifyName": "医师资格准入（军队医师复转退换领地方医师资格证书）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123012000",
+        "rightsId": "8794B3AA89239492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "30d14787fa734c14838a140c68b45cd4",
+        "unifyName": "医师执业注册（首次）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123012000",
+        "rightsId": "8794B3AA89239492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "17488b157a004b7a88e750989938a323",
+        "unifyName": "医师执业变更注册（变更执业范围）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123012000",
+        "rightsId": "8794B3AA89239492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6a3e451f73e84ec989e08e16cef4de15",
+        "unifyName": "医师执业变更注册（变更主执业机构）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000123012000",
+        "rightsId": "8794B3AA89239492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "ba06ea864a9b4042a2286ae38202e3f4",
+        "unifyName": "医师多执业机构备案",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123012000",
+        "rightsId": "8794B3AA89239492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ff953c58febc422dbd93eedf9feed31c",
+        "unifyName": "医师执业备案（注册备案）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123012000",
+        "rightsId": "8794B3AA89239492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "02e1035e78434ccfad3a388d9b5716d5",
+        "unifyName": "医师执业注销",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123012000",
+        "rightsId": "8794B3AA89239492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "efa0d618cbd04c83b4ee89787be747eb",
+        "unifyName": "医师执业注册（遗失补证）",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123013000",
+        "rightsId": "8794B3AA89249492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "hmAvzz3NQnG-YY_Vi08r0g",
+        "unifyName": "外籍医师来华短期执业许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123013000",
+        "rightsId": "8794B3AA89249492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "15e6d56287004a6da0b31f2f46e5df51",
+        "unifyName": "香港、澳门特别行政区医师在内地短期行医许可",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123013000",
+        "rightsId": "8794B3AA89249492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5b8cfd63a2a547dbb6dc16bae63213b9",
+        "unifyName": "台湾地区医师在大陆短期行医许可",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123014000",
+        "rightsId": "8794B3AA89259492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1811631a89894d9c82a62592f671ec19",
+        "unifyName": "护士执业注册（首次注册）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123014000",
+        "rightsId": "8794B3AA89259492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c1f93cde9c65424db66636ecf2b259a7",
+        "unifyName": "护士执业注册（遗失补证）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123014000",
+        "rightsId": "8794B3AA89259492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2c56d9ce0b504d67896486c38995346a",
+        "unifyName": "护士执业注册（延续）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000123014000",
+        "rightsId": "8794B3AA89259492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "a5b432e615684418a6fcfa2c064eeb9f",
+        "unifyName": "护士执业注册（变更）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123014000",
+        "rightsId": "8794B3AA89259492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9b1c5d3688eb44e09b15df18939daa40",
+        "unifyName": "护士执业注册（注销）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fh6qvPH6TweRllbLeiVP9w",
+        "unifyName": "公共场所卫生许可（新发）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "aA9m9AQ9ScKB9oyZosd_JQ",
+        "unifyName": "公共场所卫生许可（换证）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "-OrQ6yHDQgWJVrukcWG2lg",
+        "unifyName": "公共场所卫生许可（变更）",
+        "ywCode": "03"
+      }
+    ],
+    "pageIndex": 9,
+    "pageSize": 50,
+    "total": 1343,
+    "totalPage": 27
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

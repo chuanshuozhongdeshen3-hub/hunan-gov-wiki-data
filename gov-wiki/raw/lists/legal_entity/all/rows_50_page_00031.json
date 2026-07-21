@@ -1,0 +1,540 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172012000",
+        "rightsId": "8794B3AA8E539492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3ed1a1560286405d9f774a82d0e70101",
+        "unifyName": "第一类中的药品类易制毒化学品购买许可",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172013000",
+        "rightsId": "8794B3AA8E549492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5b22e2bafdea4eb2984275acc33772c2",
+        "unifyName": "购买麻醉药品和精神药品标准品、对照品审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172013000",
+        "rightsId": "8794B3AA8E549492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "w0hz0gyfTpyYoMOhnDGINQ",
+        "unifyName": "科研和教学用毒性药品购买审批(省级)",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172014000",
+        "rightsId": "8794B3AA8E559492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9fca30c4ef3f4b6da26da7a6e3df341b",
+        "unifyName": "麻醉药品、精神药品生产企业许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172015000",
+        "rightsId": "8794B3AA8E569492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6e5aa8204cde4d0dbc365c570a1f8273",
+        "unifyName": "区域性批发企业跨省级行政区域向医疗机构销售麻醉药品、第一类精神药品许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172016000",
+        "rightsId": "8794B3AA8E579492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "r3ZtBrfpQXemz46o6ipLxw",
+        "unifyName": "企业从事麻醉药品、第一类精神药品区域性批发审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172016000",
+        "rightsId": "8794B3AA8E579492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "40f92d5f2e5c4c1d8d171e2d1581c407",
+        "unifyName": "企业专门从事第二类精神药品批发审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172017000",
+        "rightsId": "8794B3AA8E589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a2345070780a48d8b9fb3b99b671a51d",
+        "unifyName": "全国性批发企业向医疗机构销售麻醉药品、第一类精神药品许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172018000",
+        "rightsId": "8794B3AA8E599492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4a4604886e374a5f8f742bc3ed089429",
+        "unifyName": "区域性批发企业从定点生产企业购买麻醉药品、第一类精神药品审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172020000",
+        "rightsId": "8794B3AA8E5B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "42d856318ee24bb1b8085c76422fbb91",
+        "unifyName": "麻醉药品和第一类精神药品运输证明核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172020000",
+        "rightsId": "8794B3AA8E5B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "rO0qn-yzR761XaS9XMoxYQ",
+        "unifyName": "麻醉药品和第一类精神药品运输证明核发（补办）",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172021000",
+        "rightsId": "8794B3AA8E5C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "236e8cb1d95a4c1ea56457d612fa8c4f",
+        "unifyName": "非药品生产企业购买咖啡因审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172021000",
+        "rightsId": "8794B3AA8E5C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5244f12443ff44818f439cc029d28c1d",
+        "unifyName": "购买科研和教学用麻醉药品、精神药品审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172022000",
+        "rightsId": "8794B3AA8E5D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "40363e7d97b04941a8d5dd20499d2227",
+        "unifyName": "麻醉药品和精神药品邮寄证明核发",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172023000",
+        "rightsId": "8794B3AA8E5E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9bcd169407c94fe6901c56b827fbd22f",
+        "unifyName": "《放射性药品使用许可证》变更许可",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172023000",
+        "rightsId": "8794B3AA8E5E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3b7d3924a46b4157aaab04dc440eed58",
+        "unifyName": "《放射性药品使用许可证》核发许可",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172024000",
+        "rightsId": "8794B3AA8E5F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "332ba44c9ba04c38bf2a3cdb77ec7001",
+        "unifyName": "进口蛋白同化制剂、肽类激素审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172024000",
+        "rightsId": "8794B3AA8E5F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "tV8kIyAPRweh9HE4Ym6zyg",
+        "unifyName": "出口蛋白同化制剂、肽类激素审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172025000",
+        "rightsId": "8794B3AA8E609492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c6c813593ec44c60a3bf68758ae1a2b0",
+        "unifyName": "药品批发企业经营蛋白同化制剂、肽类激素审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172026000",
+        "rightsId": "8794B3AA8E619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a6e12901330148b5a06f9b6c5dd3eee8",
+        "unifyName": "第Ⅱ类体外诊断试剂注册证补发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172026000",
+        "rightsId": "8794B3AA8E619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9aa5ed9402404700a1165b9aeb53d8b9",
+        "unifyName": "第Ⅱ类医疗器械产品注册证补发",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172026000",
+        "rightsId": "8794B3AA8E619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "41a4fa6a793a4662b1f12d0b9f62bced",
+        "unifyName": "湖南省第二类体外诊断试剂变更备案",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172026000",
+        "rightsId": "8794B3AA8E619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cc0d20d01cc040c39ca926ee29e2fe08",
+        "unifyName": "国产第二类医疗器械首次注册",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172026000",
+        "rightsId": "8794B3AA8E619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "13e1b02be1894f10b393625ec90d05cb",
+        "unifyName": "湖南省第二类医疗器械变更备案",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172026000",
+        "rightsId": "8794B3AA8E619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a49115951c654ccab65602ab28952675",
+        "unifyName": "国产第二类医疗器械变更注册",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172026000",
+        "rightsId": "8794B3AA8E619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4ccbb12a97e7457ba12f1cd22e29ef80",
+        "unifyName": "国产第二类医疗器械延续注册",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172027000",
+        "rightsId": "8794B3AA8E629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c3a7a728f85045d4a89bb309abb1ef53",
+        "unifyName": "第二、三类医疗器械生产首次许可",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172027000",
+        "rightsId": "8794B3AA8E629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "dd023fd2c67e4085881ed6797b25bf0d",
+        "unifyName": "第二、三类医疗器械生产延续许可",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172027000",
+        "rightsId": "8794B3AA8E629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "337e73e934cf4fb699703b47ca42fc9c",
+        "unifyName": "第二、三类医疗器械生产许可事项变更许可",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172027000",
+        "rightsId": "8794B3AA8E629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5bd748f6764441dfb5835ad27214d420",
+        "unifyName": "Ⅱ、Ⅲ类医疗器械生产许可证补发",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172027000",
+        "rightsId": "8794B3AA8E629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9fc29afe109f45f4b72e1dc3fbccf583",
+        "unifyName": "第二、三类医疗器械生产登记事项变更许可",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172027000",
+        "rightsId": "8794B3AA8E629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "aV75zGhjTw63u1OZQB_aKA",
+        "unifyName": "第二、三类医疗器械生产许可证注销（依申请注销）",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172028000",
+        "rightsId": "8794B3AA8E639492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ef51ba86579d42359231d9907cf3989c",
+        "unifyName": "第三类医疗器械经营许可核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172028000",
+        "rightsId": "8794B3AA8E639492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b57b7233b1b94adf91280422ce30bc35",
+        "unifyName": "第三类医疗器械经营许可变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172028000",
+        "rightsId": "8794B3AA8E639492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "35b200e025b8415aacf21a138817daa8",
+        "unifyName": "第三类医疗器械经营许可延续",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172028000",
+        "rightsId": "8794B3AA8E639492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "10a293d2a1db436b8f9896aacc7a3d9a",
+        "unifyName": "第三类医疗器械经营许可补发",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172028000",
+        "rightsId": "8794B3AA8E639492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d98eef8ee93f4469a21baed9be7be9ac",
+        "unifyName": "第三类医疗器械经营许可注销",
+        "ywCode": "05"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172051000",
+        "rightsId": "8794B3AA8E959492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "kBaaaimuTmGfO1ZVv_nC8A",
+        "unifyName": "《放射性药品生产许可证》核发审批",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172051000",
+        "rightsId": "8794B3AA8E959492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "iVOdWJlNRWa8To2McdWQ9A",
+        "unifyName": "《放射性药品生产许可证》延续审批",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172051000",
+        "rightsId": "8794B3AA8E959492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b6b9fa3dcce64ef8a29d531a682c5df8",
+        "unifyName": "《放射性药品生产许可证》变更审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172051000",
+        "rightsId": "8794B3AA8E959492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1VmZVHRBRdCqKSIEwthUgg",
+        "unifyName": "《放射性药品经营许可证》核发审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172051000",
+        "rightsId": "8794B3AA8E959492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "DdxhEfvdRvyo2bp04iMGzQ",
+        "unifyName": "《放射性药品经营许可证》变更审批",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172051000",
+        "rightsId": "8794B3AA8E959492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0gOU9HLURcqeG1YtzKO2YA",
+        "unifyName": "《放射性药品经营许可证》延续审批",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172052005",
+        "rightsId": "1845657c37b2443e8795f45f0c4a0326",
+        "transactLevel": "0",
+        "unifyId": "JqrmituSSTOvXvhDCTqNqg",
+        "unifyName": "从国外进口实施审批管理的药材",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172052005",
+        "rightsId": "1845657c37b2443e8795f45f0c4a0326",
+        "transactLevel": "0",
+        "unifyId": "d2b66UqwSz-u1ijDHEdlaw",
+        "unifyName": "一次性进口药品",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172052006",
+        "rightsId": "b93f57e2dbc0421ab9ba341dacdbd90f",
+        "transactLevel": "0",
+        "unifyId": "mVFFQExrS2m9iRBxUqv9bw",
+        "unifyName": "从港澳台进口实施审批管理的药材",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172052006",
+        "rightsId": "b93f57e2dbc0421ab9ba341dacdbd90f",
+        "transactLevel": "0",
+        "unifyId": "NwDfTWG4TsuGoprX6IcbAQ",
+        "unifyName": "港澳台医药产品一次性进口",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172052008",
+        "rightsId": "31cd28587d284fceb0b216ae3f48661a",
+        "transactLevel": "0",
+        "unifyId": "dJmQ8yKnS6yTkfib3sFClw",
+        "unifyName": "境内生产药品再注册",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000525003000",
+        "rightsId": "8794B3AA8F809492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2kYXpH7gTR6yrN1Ddb7oUA",
+        "unifyName": "自然灾害救助资金给付",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000704001000",
+        "rightsId": "8794B3AA8F979492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "edf3ecec604e4fdcb21767bc5f39004b",
+        "unifyName": "鼓励类外商投资项目进口设备免税确认事项",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 31,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

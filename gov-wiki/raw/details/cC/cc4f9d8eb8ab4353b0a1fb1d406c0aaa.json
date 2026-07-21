@@ -1,0 +1,123 @@
+{
+  "code": 0,
+  "data": {
+    "acceptanceCondition": "《机动车驾驶证申领和使用规定》（中华人民共和国公安部令第172号）省级、设区的市或者相当于同级的公安机关交通管理部门应当在互联网上发布信息，便于群众查阅办理机动车驾驶证的有关规定，查询驾驶证使用状态、交通违法及记分等情况，下载、使用有关表格。\n公安机关交通管理部门应当积极推进与有关部门信息互联互通，对实现信息共享、网上核查的，申请人免予提交相关证明凭证。",
+    "according": "《公安部关于修改<机动车驾驶证申领和使用规定>的决定》已经公安部部长办公会议通过，自2016年4月1日起施行。",
+    "applicantDuty": "应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。",
+    "applicantPower": "依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。",
+    "approveLimit": "1",
+    "approveLimitExplain": "无",
+    "blbm": "市、县级公安部门",
+    "commitmentLimit": "1",
+    "commitmentLimitExplain": "无",
+    "deptName": "公安部门",
+    "doScope": "全国",
+    "faqList": [
+      {
+        "createDate": 1626266732000,
+        "faqContent": "禁止性规定是什么？",
+        "faqId": "9a5b0a1501b54dc9b862a6be42045d0c",
+        "isDelete": "N",
+        "isSzyy": "Y",
+        "orderNum": 1.0,
+        "replyContent": "非本人不能通过线上申请。",
+        "unifyId": "cc4f9d8eb8ab4353b0a1fb1d406c0aaa",
+        "updateDate": 1668659564000
+      },
+      {
+        "createDate": 1763536974000,
+        "faqContent": "机动车驾驶人安全驾驶信用记录在哪里可以办理？",
+        "faqId": "jmRoo9E4Tt2g2jeexsFenQ",
+        "isDelete": "N",
+        "isSzyy": "N",
+        "orderNum": 2.0,
+        "replyContent": "在车驾管所窗口或者互联网“交管12123”app上都可以办理。",
+        "unifyId": "cc4f9d8eb8ab4353b0a1fb1d406c0aaa",
+        "updateDate": 1763536974000
+      }
+    ],
+    "isCharge": "否",
+    "isIntermediaryServices": "无",
+    "isSpecialProcedure": "否",
+    "isonline": "是",
+    "lctList": [
+      {
+        "approveCode": "cc4f9d8eb8ab4353b0a1fb1d406c0aaa",
+        "approveId": "cc4f9d8eb8ab4353b0a1fb1d406c0aaa",
+        "bucketName": "zwfw202510",
+        "createTime": 1760774829000,
+        "flowc": "approve/2025-10-18-16/1760774828949$$流程图.jpg",
+        "id": "416B563740961B22E063651515ACB588",
+        "isDelete": "0",
+        "isExchange": "N",
+        "operateFlag": "N",
+        "updateTime": 1760774829000
+      }
+    ],
+    "materialList": [
+      {
+        "acceptStandard": "符合法定条件",
+        "bylaw": "《湖南省实施（中华人民共和国道路交通安全法）办法》第十三条",
+        "commitWay": "网上现场都可提交",
+        "copiesNum": 1.0,
+        "createDate": 1763537223000,
+        "freeSubmission": "无",
+        "isDelete": "N",
+        "isMust": "必要",
+        "materialApproveType": "证照",
+        "materialCode": "M430709020W000102",
+        "materialExplain": "真实、合法、有效",
+        "materialId": "o3KYO-RzQ6mnIzsYpb6qpw",
+        "materialStandard": "纸质或电子",
+        "materialTitle": "中华人民共和国机动车驾驶证",
+        "materialType": "原件",
+        "pageformat": "A4",
+        "sourceChannel": "政府部门核发",
+        "sourceexplain": "公安部门核发",
+        "standardMaterialsCode": "L2000019",
+        "standardMaterialsId": "14C399319FDDA8F13659E0",
+        "standardMaterialsName": "中华人民共和国机动车驾驶证",
+        "standardMaterialsSource": "运维管理",
+        "unifyId": "cc4f9d8eb8ab4353b0a1fb1d406c0aaa",
+        "updateDate": 1763537223000
+      }
+    ],
+    "minExplain": "四级标准说明：该事项已经实现全程网办，申请人可以通过网络提交和补正相关申请信息和材料，提交的材料全部为已验证信息，受理通过后直接进入办理程序，申请人可网上查询办理状态、咨询问题，作出审批决定后，申请人可以通过网上缴费后物流递送证书结果。整个办事过程无需到现场办理。",
+    "minSeq": "0",
+    "orgId": "9def3f565034406981bf70f2169e28ef",
+    "orgName": "湖南省公安厅",
+    "processDescript": "1.申请人向受理机关提出申请；\n2.受理机关受理审核；\n3.不符合要求的一次性告知理由，予以退办，符合规定的，业务办结。",
+    "quantitativeRestriction": "暂无数量限制",
+    "resultList": [
+      {
+        "approveCode": "cc4f9d8eb8ab4353b0a1fb1d406c0aaa",
+        "approveId": "cc4f9d8eb8ab4353b0a1fb1d406c0aaa",
+        "bucketName": "zwfw202107",
+        "createTime": 1626766776000,
+        "extend": "jpg",
+        "fileName": "安全驾驶记录.jpg",
+        "id": "C78A19CBDE2F3D1DE053671515AC432C",
+        "isDelete": "0",
+        "isExchange": "Y",
+        "isNeed": "N",
+        "operateFlag": "N",
+        "resultChart": "approve/2021-07-20-15/1626766776415$$安全驾驶记录.jpg",
+        "resultSampleName": "驾驶人安全驾驶记录"
+      }
+    ],
+    "resultSampleName": "驾驶人安全驾驶记录",
+    "rightsCode": "430709020W00",
+    "rightsId": "Zx0DWY2gQhalA8asEc0oBA",
+    "schemeLevels": "市、县",
+    "serveObject": "个人",
+    "transactLevel": "四级标准",
+    "transactionFrom": "窗口办理^网上办理",
+    "typeName": "行政确认",
+    "unifyId": "cc4f9d8eb8ab4353b0a1fb1d406c0aaa",
+    "unifyName": "申领机动车驾驶人安全驾驶信用记录",
+    "ywCode": "01"
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

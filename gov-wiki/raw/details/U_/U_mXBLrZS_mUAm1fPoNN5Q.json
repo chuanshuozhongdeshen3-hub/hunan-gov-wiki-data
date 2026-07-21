@@ -1,0 +1,181 @@
+{
+  "code": 0,
+  "data": {
+    "acceptanceCondition": "1.存在逾期未审验、被扣押、扣留、暂扣、注销、注销可恢复、吊销、撤销或者锁定、停止使用、记满12分等情形之一的，公安机关交通管理部门不予受理遗失补领、达到规定年龄换领、损毁换领驾驶证业务；2.存在前款所述情形之一，或者存在交通违法行为、交通事故未处理情形的，公安机关交通管理部门不予受理。3.属于有效期满换领、达到规定年龄换领机动车驾驶证的，应能核查到有效的身体条件证明信息。",
+    "according": "《中华人民共和国道路交通安全法》第十九条：驾驶机动车，应当依法取得机动车驾驶证。申请机动车驾驶证，应当符合国务院公安部门规定的驾驶许可条件；经考试合格后，由公安机关交通管理部门发给相应类别的机动车驾驶证。持有境外机动车驾驶证的人，符合国务院公安部门规定的驾驶许可条件，经公安机关交通管理部门考核合格的，可以发给中国的机动车驾驶证。……\n第二十三条：公安机关交通管理部门依照法律、行政法规的规定，定期对机动车驾驶证实施审验。\n《中华人民共和国道路交通安全法实施条例》第十九条：符合国务院公安部门规定的驾驶许可条件的人，可以向公安机关交通管理部门申请机动车驾驶证。机动车驾驶证由国务院公安部门规定式样并监制。\n《机动车驾驶证申领和使用规定》第二条：本规定由公安机关交通管理部门负责实施。省级公安机关交通管理部门负责本省（自治区、直辖市）机动车驾驶证业务工作的指导、检查和监督。直辖市公安机关交通管理部门车辆管理所、设区的市或者相当于同级的公安机关交通管理部门车辆管理所负责办理本行政区域内机动车驾驶证业务。县级公安机关交通管理部门车辆管理所可以办理本行政区域内除大型客车、重型牵引挂车、城市公交车、中型客车、大型货车场地驾驶技能、道路驾驶技能考试以外的其他机动车驾驶证业务。具体业务范围和办理条件由省级公安机关交通管理部门确定。",
+    "applicantDuty": "应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。",
+    "applicantPower": "依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。",
+    "approveLimit": "1",
+    "approveLimitExplain": "材料齐全当场办结。",
+    "blbm": "市、县级公安部门",
+    "chargeList": [
+      {
+        "chargeBylaw": "《关于发布湖南省公安系统行政事业性收费标准的通知》（湘发改价费规【2021】226号）",
+        "chargeId": "9eb7bbadfc554c028af53e927eb0d01f",
+        "createDate": 1668221723000,
+        "feename": "机动车驾驶证工本费",
+        "feestand": "10元/本",
+        "isDelete": "N",
+        "isMinus": "否",
+        "orderNum": 1.0,
+        "unifyId": "U_mXBLrZS_mUAm1fPoNN5Q",
+        "updateDate": 1761807997000
+      }
+    ],
+    "commitmentLimit": "1",
+    "commitmentLimitExplain": "材料齐全当场办结。",
+    "deptName": "公安部门",
+    "doScope": "全国",
+    "faqList": [
+      {
+        "createDate": 1668404193000,
+        "faqContent": "禁止性规定有什么？",
+        "faqId": "JNC3eBRMRz23D5WErj-59Q",
+        "isDelete": "N",
+        "isSzyy": "N",
+        "orderNum": 1.0,
+        "replyContent": "1、驾驶证记满12分、逾期未审验、被扣押、扣留、暂扣、注销、吊销或者撤销的不予换证。\n2、对交通违法行为或者交通事故未处理完毕的、身体条件不符合驾驶许可条件的、未按照规定参加学习、教育的，不予换证、补证。",
+        "unifyId": "U_mXBLrZS_mUAm1fPoNN5Q",
+        "updateDate": 1668659564000
+      }
+    ],
+    "isCharge": "是",
+    "isIntermediaryServices": "有",
+    "isSpecialProcedure": "否",
+    "isonline": "是",
+    "lctList": [
+      {
+        "approveCode": "U_mXBLrZS_mUAm1fPoNN5Q",
+        "approveId": "U_mXBLrZS_mUAm1fPoNN5Q",
+        "bucketName": "zwfw202510",
+        "createTime": 1760770335000,
+        "flowc": "approve/2025-10-18-14/1760770334982$$流程图.jpg",
+        "id": "416A4A5AB5A74C6FE063671515AC1FCF",
+        "isDelete": "0",
+        "isExchange": "N",
+        "operateFlag": "N",
+        "updateTime": 1760770335000
+      }
+    ],
+    "materialList": [
+      {
+        "acceptStandard": "符合法定条件",
+        "attachList": [
+          {
+            "attachCode": "000003",
+            "attachId": "n_jUPn4RSSimq0ebDzguHw",
+            "attachName": "居民身份证.pdf",
+            "attachPath": "approve/2022-11-21-09/1668993969886$$居民身份证.pdf",
+            "attachSize": 43141.0,
+            "attachType": ".pdf",
+            "bucketName": "zwfw202211",
+            "businessId": "0aff70088c494b598d5c1251a8a5673a",
+            "createTime": 1668993970000,
+            "isDel": "N",
+            "isDelete": "0",
+            "isExchange": "N",
+            "isValid": "Y",
+            "modFlag": "N",
+            "operateFlag": "N",
+            "pdfPath": "N"
+          }
+        ],
+        "bylaw": "《机动车驾驶证申领和使用规定》（公安部令第172号）第六十三条  机动车驾驶人应当于机动车驾驶证有效期满前九十日内，向机动车驾驶证核发地或者核发地以外的车辆管理所申请换证。申请时应当确认申请信息，并提交以下证明、凭证：\n（一）机动车驾驶人的身份证明；\n（二）医疗机构出具的有关身体条件的证明。",
+        "commitWay": "网上现场都可提交",
+        "copiesNum": 1.0,
+        "createDate": 1668221265000,
+        "freeSubmission": "电子证照代替",
+        "isDelete": "N",
+        "isMust": "必要",
+        "materialApproveType": "证照",
+        "materialCode": "M0001091400090102",
+        "materialExplain": "真实、合法、有效",
+        "materialId": "0aff70088c494b598d5c1251a8a5673a",
+        "materialStandard": "纸质或电子",
+        "materialTitle": "中华人民共和国居民身份证",
+        "materialType": "原件",
+        "pageformat": "公安部统一制定标准",
+        "sourceChannel": "政府部门核发",
+        "sourceexplain": "公安部门核发",
+        "standardMaterialsCode": "L2000016",
+        "standardMaterialsId": "4DED822B3D6AE634153EEB",
+        "standardMaterialsName": "中华人民共和国居民身份证",
+        "standardMaterialsSource": "运维管理",
+        "unifyId": "U_mXBLrZS_mUAm1fPoNN5Q",
+        "updateDate": 1761905345000
+      },
+      {
+        "acceptStandard": "符合法定条件",
+        "bylaw": "《机动车驾驶证申领和使用规定》（公安部令第172号）第六十三条  机动车驾驶人应当于机动车驾驶证有效期满前九十日内，向机动车驾驶证核发地或者核发地以外的车辆管理所申请换证。申请时应当确认申请信息，并提交以下证明、凭证：\n（一）机动车驾驶人的身份证明；\n（二）医疗机构出具的有关身体条件的证明。",
+        "commitWay": "网上现场都可提交",
+        "copiesNum": 1.0,
+        "createDate": 1668397360000,
+        "freeSubmission": "无",
+        "isDelete": "N",
+        "isMust": "必要",
+        "materialApproveType": "证明材料",
+        "materialCode": "M0001091400090103",
+        "materialExplain": "真实、合法、有效",
+        "materialId": "CP7yNYsrQ_mSo14w6R8c1w",
+        "materialStandard": "纸质或电子",
+        "materialTitle": "医疗机构出具的有关身体条件的证明",
+        "materialType": "原件",
+        "pageformat": "A4",
+        "sourceChannel": "其他",
+        "sourceexplain": "具有驾驶人体检资格的医疗机构出具的身体条件证明，属于申请残疾人专用小型自动挡载客汽车的，应当提交经省级卫生主管部门指定的专门医疗机构出具的有关身体条件的证明。",
+        "unifyId": "U_mXBLrZS_mUAm1fPoNN5Q",
+        "updateDate": 1761905382000
+      }
+    ],
+    "minExplain": "四级标准说明：该事项已经实现全程网办，申请人可以通过网络提交和补正相关申请信息和材料，提交的材料全部为已验证信息，受理通过后直接进入办理程序，申请人可网上查询办理状态、咨询问题，作出审批决定后，申请人可以通过网上缴费后物流递送证书结果。整个办事过程无需到现场办理。",
+    "minSeq": "0",
+    "orgId": "9def3f565034406981bf70f2169e28ef",
+    "orgName": "湖南省公安厅",
+    "processDescript": "1.申请人向受理机关提出申请；\n2.受理机关受理审核；\n3.不符合要求的一次性告知理由，予以退办，符合规定的，业务办结。",
+    "quantitativeRestriction": "暂无数量限制",
+    "resultList": [
+      {
+        "approveCode": "U_mXBLrZS_mUAm1fPoNN5Q",
+        "approveId": "U_mXBLrZS_mUAm1fPoNN5Q",
+        "bucketName": "zwfw202211",
+        "createTime": 1668408860000,
+        "extend": "jpg",
+        "fileName": "驾驶证.jpg",
+        "id": "f16b04b86a4c454d8b5b0978c06392b0",
+        "isDelete": "0",
+        "isExchange": "N",
+        "isNeed": "N",
+        "operateFlag": "N",
+        "resultChart": "approve/2022-11-14-14/1668408860167$$驾驶证.jpg",
+        "resultSampleName": "机动车驾驶证"
+      }
+    ],
+    "resultSampleName": "机动车驾驶证",
+    "rightsCode": "000109140009",
+    "rightsId": "b7f943776fe44166acfd02c7895ecb6a",
+    "schemeLevels": "市、县",
+    "serveObject": "个人",
+    "transactLevel": "四级标准",
+    "transactionFrom": "窗口办理^网上办理",
+    "typeName": "行政许可",
+    "unifyId": "U_mXBLrZS_mUAm1fPoNN5Q",
+    "unifyName": "补领、换领驾驶证",
+    "ywCode": "01",
+    "zjfwList": [
+      {
+        "createDate": 1761808080000,
+        "isDelete": "N",
+        "isSzyy": "N",
+        "orderNum": 1.0,
+        "serviceId": "1jmMq4QrQXuPuRdarB7MJA",
+        "serviceItemname": "机动车驾驶人体检",
+        "serviceOrgproperty": "具有驾驶人体检资格的医疗机构",
+        "unifyId": "U_mXBLrZS_mUAm1fPoNN5Q",
+        "updateDate": 1761808080000
+      }
+    ]
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

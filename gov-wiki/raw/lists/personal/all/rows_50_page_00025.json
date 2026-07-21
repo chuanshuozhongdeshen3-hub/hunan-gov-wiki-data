@@ -1,0 +1,515 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005305W00",
+        "rightsId": "If2zFpMKRbu5A7ayTReZGg",
+        "transactLevel": "0",
+        "unifyId": "8106114ab5884b2fa218b3a76dff506c",
+        "unifyName": "教师资格证书补证",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005305W00",
+        "rightsId": "If2zFpMKRbu5A7ayTReZGg",
+        "transactLevel": "0",
+        "unifyId": "d4a9f1da8d6c4117a8a6238a1aeda7b0",
+        "unifyName": "教师资格证书补表",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005305W00",
+        "rightsId": "If2zFpMKRbu5A7ayTReZGg",
+        "transactLevel": "0",
+        "unifyId": "5a55a3a8c7284c49b02d40906d5fff27",
+        "unifyName": "教师资格证书补证、补表服务",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005404W01",
+        "rightsId": "961D8B9AEAC5EDC0E053681515AC9D19",
+        "transactLevel": "0",
+        "unifyId": "6d8773482283440b874cf498f5ff4e6a",
+        "unifyName": "普通高等学校毕业生托管档案转出服务（省级）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005404W01",
+        "rightsId": "961D8B9AEAC5EDC0E053681515AC9D19",
+        "transactLevel": "0",
+        "unifyId": "K73Tuz44R8aUqQqUOIaw5w",
+        "unifyName": "普通高等学校毕业生托管档案转出服务（市县）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005404W02",
+        "rightsId": "961D8B9AEAC6EDC0E053681515AC9D19",
+        "transactLevel": "0",
+        "unifyId": "ad93644e1eda4493b213e8de12ac1a04",
+        "unifyName": "普通高等学校毕业生托管档案证明服务（省级）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005404W02",
+        "rightsId": "961D8B9AEAC6EDC0E053681515AC9D19",
+        "transactLevel": "0",
+        "unifyId": "7WpIt7ZqQiuGlqyTngPDcw",
+        "unifyName": "普通高等学校毕业生托管档案证明服务（市县）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005501W00",
+        "rightsId": "961D8B9AEAC7EDC0E053681515AC9D19",
+        "transactLevel": "0",
+        "unifyId": "8767561de78745b29b735939f5df4b21",
+        "unifyName": "教育收费政策咨询服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005601W00",
+        "rightsId": "961D8B9AEAC9EDC0E053681515AC9D19",
+        "transactLevel": "0",
+        "unifyId": "9872ae39b99f4baa908d93a2481e9164",
+        "unifyName": "公派出国留学咨询服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005601W00",
+        "rightsId": "961D8B9AEAC9EDC0E053681515AC9D19",
+        "transactLevel": "0",
+        "unifyId": "56b258980cab4bd9bbaad7e22e44c7ee",
+        "unifyName": "《外国留学人员来华签证申请表》（JW202表）核准",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432006101W00",
+        "rightsId": "98DEF4F23BBAA6C2E053681515AC0784",
+        "transactLevel": "0",
+        "unifyId": "1cf30366daf04d76ba442ec67b622bab",
+        "unifyName": "科技政策咨询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432006102W00",
+        "rightsId": "98DEF4F23BBDA6C2E053681515AC0784",
+        "transactLevel": "0",
+        "unifyId": "419b9aaf05bb45fea7753882bd13281d",
+        "unifyName": "科技查新咨询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432009105W00",
+        "rightsId": "968059BD17DB634EE053671515AC8FFE",
+        "transactLevel": "0",
+        "unifyId": "6dc639173dec4bac81974ac6cd341465",
+        "unifyName": "律师、基层法律服务工作者查询人口信息管理工作服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432009106W00",
+        "rightsId": "968059BD17DC634EE053671515AC8FFE",
+        "transactLevel": "0",
+        "unifyId": "L-pPSzHXQyefHJr8OzHLZA",
+        "unifyName": "户口登记项目变更更正证明",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432009207W00",
+        "rightsId": "968059BD17E4634EE053671515AC8FFE",
+        "transactLevel": "0",
+        "unifyId": "05d1d92ace8b4643912a291a3d207e2e",
+        "unifyName": "所有人名下机动车基本信息查询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432009303W00",
+        "rightsId": "968059BD17E7634EE053671515AC8FFE",
+        "transactLevel": "0",
+        "unifyId": "6nvzFcsCTamDVoJw634vRw",
+        "unifyName": "亲属关系证明",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432009305W00",
+        "rightsId": "968059BD17E9634EE053671515AC8FFE",
+        "transactLevel": "0",
+        "unifyId": "f7d9cf8268f94d0e8a36c0be982f8840",
+        "unifyName": "无犯罪记录证明",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432011001W00",
+        "rightsId": "0T57bETSSxGaYR_Y4H8jIQ",
+        "transactLevel": "0",
+        "unifyId": "Hso56q68Td68v5kPk9PylA",
+        "unifyName": "低保边缘家庭认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432011103W00",
+        "rightsId": "995738A2A313D4BCE053681515AC4828",
+        "transactLevel": "0",
+        "unifyId": "ba5c1b98eafd4bff96498feefc1a35fa",
+        "unifyName": "养老服务政策咨询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432011205W00",
+        "rightsId": "995738A2A31BD4BCE053681515AC4828",
+        "transactLevel": "0",
+        "unifyId": "03da2410da1f461a88c348bb59e8309a",
+        "unifyName": "困难残疾人生活补贴发放",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432011205W00",
+        "rightsId": "995738A2A31BD4BCE053681515AC4828",
+        "transactLevel": "0",
+        "unifyId": "9b65dd53338c4b9eac02729940535269",
+        "unifyName": "重度残疾人护理补贴发放",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432011401W00",
+        "rightsId": "995738A2A31ED4BCE053681515AC4828",
+        "transactLevel": "0",
+        "unifyId": "97f034795cf946fab59b1f98ad4ffe63",
+        "unifyName": "慈善捐赠咨询服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432011401W00",
+        "rightsId": "995738A2A31ED4BCE053681515AC4828",
+        "transactLevel": "0",
+        "unifyId": "632825b56de048d2869d150ad057e088",
+        "unifyName": "慈善救助咨询服务",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432011703W00",
+        "rightsId": "995738A2A326D4BCE053681515AC4828",
+        "transactLevel": "0",
+        "unifyId": "92ba6a8297bb481d911359f60c51522f",
+        "unifyName": "孤儿、事实无人抚养儿童相关福利政策咨询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432011703W00",
+        "rightsId": "995738A2A326D4BCE053681515AC4828",
+        "transactLevel": "0",
+        "unifyId": "48d3213785a24500bfdfafbd84293c2c",
+        "unifyName": "儿童收养登记相关政策咨询服务",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432011705W00",
+        "rightsId": "995738A2A328D4BCE053681515AC4828",
+        "transactLevel": "0",
+        "unifyId": "788b1a2de68c4dba8747bd2f20555ed5",
+        "unifyName": "孤儿基本生活费申请审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432011706W00",
+        "rightsId": "995738A2A329D4BCE053681515AC4828",
+        "transactLevel": "0",
+        "unifyId": "14cea76d79d24e1bbec7f11892770e2b",
+        "unifyName": "事实无人抚养儿童申请确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432011803W00",
+        "rightsId": "995738A2A32CD4BCE053681515AC4828",
+        "transactLevel": "0",
+        "unifyId": "8ea6b2c39fe245c6bfaffc682b9cd122",
+        "unifyName": "福利彩票公益金资助贫困家庭肢残人员装配假肢相关政策咨询服务",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432012002W00",
+        "rightsId": "I-_ADf2iT32AhawOjVD80Q",
+        "transactLevel": "0",
+        "unifyId": "882uBMzJTO2eO7jQkG_Xmw",
+        "unifyName": "知识产权纠纷仲裁申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "432012105W00",
+        "rightsId": "979CF1249AD12505E053681515AC612B",
+        "transactLevel": "1",
+        "unifyId": "e03b81811b734e5d83656b1f27e4bae2",
+        "unifyName": "法律援助（申请类）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432012108W00",
+        "rightsId": "979CF1249AD42505E053681515AC612B",
+        "transactLevel": "0",
+        "unifyId": "a434757a827a4a0293ee1860a79abfa0",
+        "unifyName": "军人军属法律援助",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432014001W01",
+        "rightsId": "97D2163705441FADE053681515AC8963",
+        "transactLevel": "0",
+        "unifyId": "CNitJZDoSSyh9Di3aiB_0Q",
+        "unifyName": "企业职工基本养老保险退休人员关系终止及相关待遇申领（丧失国籍）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432014001W01",
+        "rightsId": "97D2163705441FADE053681515AC8963",
+        "transactLevel": "0",
+        "unifyId": "JdRXcaBURFO2YaCzw6hLoQ",
+        "unifyName": "社会保险待遇享受资格人脸认证",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432014001W01",
+        "rightsId": "97D2163705441FADE053681515AC8963",
+        "transactLevel": "0",
+        "unifyId": "3d7e2JgeT9OFWvioVGuhZA",
+        "unifyName": "社会保险定期待遇享受资格单位协助认证（单位申请）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432014001W01",
+        "rightsId": "97D2163705441FADE053681515AC8963",
+        "transactLevel": "0",
+        "unifyId": "7Pfyx9lhRaW9L9R9EohaoA",
+        "unifyName": "社会保险定期待遇享受资格机构协助认证（个人申请）",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432014001W01",
+        "rightsId": "97D2163705441FADE053681515AC8963",
+        "transactLevel": "0",
+        "unifyId": "Jc-1k6pFS0y6T_YS4Tzx9Q",
+        "unifyName": "社会保险定期待遇享受资格机关事业单位工作人员信用认证",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432014001W01",
+        "rightsId": "97D2163705441FADE053681515AC8963",
+        "transactLevel": "0",
+        "unifyId": "cXUklWorTZ-jj9XtUonfjg",
+        "unifyName": "社会保险定期待遇享受资格上门协助认证",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432016205W00",
+        "rightsId": "98DD4D7C3F7B9D1DE053681515AC6F9E",
+        "transactLevel": "0",
+        "unifyId": "bd3838f25e7b47b8a1089d1b9690d0b4",
+        "unifyName": "依申请公开政府环境信息",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "ceK9ADFkRbGGh2TCV-Phgg",
+        "unifyName": "购买自住住房提取住房公积金",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "vHVg9eb-TievoGFTMMgQ6A",
+        "unifyName": "完全丧失劳动能力，并与单位终止劳动关系提取住房公积金",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "mCzjgq2PR2SsZ1uaNRMrJQ",
+        "unifyName": "离休退休提取住房公积金",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "6c_WxH6QTiO0L0oIYRfzMw",
+        "unifyName": "出境定居提取住房公积金",
+        "ywCode": "13"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "3",
+        "unifyId": "k3c8F-QOSdin11zhK4JX4g",
+        "unifyName": "死亡或被宣告死亡提取住房公积金",
+        "ywCode": "14"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "Va7O1TUoSzKfsBhxM1X4Yg",
+        "unifyName": "家庭生活困难提取住房公积金（含低保、疾病、灾害）",
+        "ywCode": "16"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "m7DGLmKCQW-mfiF2WitvLA",
+        "unifyName": "灵活就业人员销户提取住房公积金",
+        "ywCode": "17"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "kD3LtDsXRbiV7Rtf4914hg",
+        "unifyName": "封存满半年未再缴存提取住房公积金",
+        "ywCode": "18"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "U70hdXCyStqDoAue_pMhQg",
+        "unifyName": "建造、翻建、大修自住住房提取公积金",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "540hlk4pRLmrsA0yKQ6I_w",
+        "unifyName": "偿还购房贷款本息提取住房公积金",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "xH5LREaGS4ySAHgb7Xl0UQ",
+        "unifyName": "租赁自住房住房提取公积金",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "BqAFOmutQaGFR6WXua6b9w",
+        "unifyName": "既有住宅加装电梯提取住房公积金",
+        "ywCode": "09"
+      }
+    ],
+    "pageIndex": 25,
+    "pageSize": 50,
+    "total": 1343,
+    "totalPage": 27
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

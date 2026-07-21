@@ -1,0 +1,516 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107011000",
+        "rightsId": "8794B3AA85A19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "170009ccfdd842a592cf5dbf2f742aea",
+        "unifyName": "食盐定点批发企业证书变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107011000",
+        "rightsId": "8794B3AA85A19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4368f2baf09443bfaf23c157c868446d",
+        "unifyName": "食盐定点批发企业证书补发",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107011000",
+        "rightsId": "8794B3AA85A19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1b08dc19d6684626a9409d91a873fa08",
+        "unifyName": "食盐定点批发企业证书注销",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107012000",
+        "rightsId": "8794B3AA85A29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "XBYMvl2hSaaNtoLR-hZgEQ",
+        "unifyName": "新申请无线电台（站）设置、使用许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107012000",
+        "rightsId": "8794B3AA85A29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "spf111uBQ_uT6h1br7IkfA",
+        "unifyName": "延续无线电台（站）设置、使用许可",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107012000",
+        "rightsId": "8794B3AA85A29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "BsFMrhvdRC6BB_hnrqxceA",
+        "unifyName": "变更无线电台（站）设置、使用许可",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107012000",
+        "rightsId": "8794B3AA85A29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "B-OWORaGSL2oPz6yoTai5A",
+        "unifyName": "注销无线电台（站）设置、使用许可",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107013000",
+        "rightsId": "8794B3AA85A39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "42740dad1ec54a59ab5626551045799f",
+        "unifyName": "无线电发射设备进关核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107043000",
+        "rightsId": "3987b90b21ad4539b397c910751b5b70",
+        "transactLevel": "0",
+        "unifyId": "PuyogVuzSbGwpqxvIhU3CA",
+        "unifyName": "新建、扩建或者改建用于生产第二、三类监控化学品和第四类监控化学品中含磷、硫、氟的特定有机化学品的设施建设初审",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107045001",
+        "rightsId": "58b3669ad16e44f793a1320a6d0e6a86",
+        "transactLevel": "0",
+        "unifyId": "pPsshWmBTCShHTCVzgFwkw",
+        "unifyName": "新申请设置、使用卫星地球站审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107045001",
+        "rightsId": "58b3669ad16e44f793a1320a6d0e6a86",
+        "transactLevel": "0",
+        "unifyId": "u3R8JvDGT3OrMGW5Sl4T8Q",
+        "unifyName": "延续设置、使用卫星地球站审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107045001",
+        "rightsId": "58b3669ad16e44f793a1320a6d0e6a86",
+        "transactLevel": "0",
+        "unifyId": "5NN3ZPk8SZ25et54hO2JPQ",
+        "unifyName": "变更设置、使用卫星地球站审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107045001",
+        "rightsId": "58b3669ad16e44f793a1320a6d0e6a86",
+        "transactLevel": "0",
+        "unifyId": "lVyvZCIyR1qKyva9uHHkwA",
+        "unifyName": "注销设置、使用卫星地球站审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107046000",
+        "rightsId": "b276a4b0957c4fc8904f855e7f5ab337",
+        "transactLevel": "0",
+        "unifyId": "mvFDchDuQnS9RVHWVSNjYg",
+        "unifyName": "新申请无线电频率指配审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107046000",
+        "rightsId": "b276a4b0957c4fc8904f855e7f5ab337",
+        "transactLevel": "0",
+        "unifyId": "OlkCMWXPQFys-MKwWvao3Q",
+        "unifyName": "延续无线电频率指配审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107046000",
+        "rightsId": "b276a4b0957c4fc8904f855e7f5ab337",
+        "transactLevel": "0",
+        "unifyId": "5cuaGjDUSp-pDsknluckxA",
+        "unifyName": "变更无线电频率指配审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107046000",
+        "rightsId": "b276a4b0957c4fc8904f855e7f5ab337",
+        "transactLevel": "0",
+        "unifyId": "xsLtnDqIQiqxMle463-hFg",
+        "unifyName": "注销无线电频率指配审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107048000",
+        "rightsId": "46e275e793b2463a8b8afcf6790cef3d",
+        "transactLevel": "0",
+        "unifyId": "sz_et7VhRvyjz9UFdfMigQ",
+        "unifyName": "电台呼号指配审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107048000",
+        "rightsId": "46e275e793b2463a8b8afcf6790cef3d",
+        "transactLevel": "0",
+        "unifyId": "SHS78Wo5RTatqAB5CQ1CaA",
+        "unifyName": "注销电台呼号指配审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109102003",
+        "rightsId": "381b0ccd837c461a8d117b7937f29f77",
+        "transactLevel": "0",
+        "unifyId": "C_UTfz8SQPOizJTnDuAbAA",
+        "unifyName": "保安服务公司法定代表人变更许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109115001",
+        "rightsId": "38b153b5c5c9446e9ff2bcf965780eda",
+        "transactLevel": "0",
+        "unifyId": "d4T53t19ReeqiqvW2CMmmA",
+        "unifyName": "首次申请（营业性爆破作业单位许可）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109115001",
+        "rightsId": "38b153b5c5c9446e9ff2bcf965780eda",
+        "transactLevel": "0",
+        "unifyId": "9cZ778SeS6WG8MRcQDPG_A",
+        "unifyName": "有效期届满换发申请、资质升级 （营业性爆破作业单位）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109115001",
+        "rightsId": "38b153b5c5c9446e9ff2bcf965780eda",
+        "transactLevel": "0",
+        "unifyId": "wDaLIPljQuOuFOVmKkW1GQ",
+        "unifyName": "变更法定代表人、技术负责人、单位名称、单位地址换发申请 (营业性爆破作业单位)",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109115001",
+        "rightsId": "38b153b5c5c9446e9ff2bcf965780eda",
+        "transactLevel": "0",
+        "unifyId": "Ve6BQMO8QE-2jM8b4evOUA",
+        "unifyName": "营业性爆破作业单位变更法定代表人",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109115001",
+        "rightsId": "38b153b5c5c9446e9ff2bcf965780eda",
+        "transactLevel": "0",
+        "unifyId": "ba99MbywRTCfrUiVBMfgKA",
+        "unifyName": "营业性爆破作业单位变更技术负责人",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109115001",
+        "rightsId": "38b153b5c5c9446e9ff2bcf965780eda",
+        "transactLevel": "0",
+        "unifyId": "Hr3EAJPUSKina9LqWmnoPg",
+        "unifyName": "营业性爆破作业单位变更单位地址",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109115002",
+        "rightsId": "7a802c4a726d478794329f3cdd4984d0",
+        "transactLevel": "0",
+        "unifyId": "gpki4JIpQYqEae-0jgHiBQ",
+        "unifyName": "首次申请 （非营业性爆破作业单位许可）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109115002",
+        "rightsId": "7a802c4a726d478794329f3cdd4984d0",
+        "transactLevel": "0",
+        "unifyId": "kAwtR5nHSlaWbNIsV_mjAQ",
+        "unifyName": "有效期届满换发申请（非营业性爆破作业单位）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109115002",
+        "rightsId": "7a802c4a726d478794329f3cdd4984d0",
+        "transactLevel": "0",
+        "unifyId": "Rk-3UE7hRzqc9OHQawARLg",
+        "unifyName": "变更法定代表人、技术负责人、单位名称、单位地址换发申请（非营业性爆破作业单位）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109116000",
+        "rightsId": "d9037eb68d1b459da76bdf3c717131bb",
+        "transactLevel": "0",
+        "unifyId": "w0KPX-UORgG0zgE6gjFkIQ",
+        "unifyName": "城市、风景名胜区和重要工程设施附近实施爆破作业审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109118000",
+        "rightsId": "9379a6a7eb96432b9eb2a9f517d225c5",
+        "transactLevel": "0",
+        "unifyId": "5748a833b38d4eafa187f00acae8439a",
+        "unifyName": "民用爆炸物品购买许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109119000",
+        "rightsId": "3515eccee48947b8802cfafdbdfa65c9",
+        "transactLevel": "0",
+        "unifyId": "37b3a7b8881e411abea14471391c92cb",
+        "unifyName": "民用爆炸物品运输许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109120003",
+        "rightsId": "5160faaee355499f973e780ffcbe5a08",
+        "transactLevel": "0",
+        "unifyId": "abf051c64de24680bd475a299fffed25",
+        "unifyName": "设区的市内举办5000人以上大型群众性活动安全许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109120004",
+        "rightsId": "11a693126a73401eb5abd494774d2584",
+        "transactLevel": "0",
+        "unifyId": "oxM-0sxhQHeHuZyo1WLL-Q",
+        "unifyName": "举办1000人以上5000人以下大型群众性活动安全许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000109121002",
+        "rightsId": "01dabfd1502e4f4183562201d3544eea",
+        "transactLevel": "3",
+        "unifyId": "ZHayWYz5T42L2yyCxw2VSg",
+        "unifyName": "省级行政区域内跨市级行政区域举行游行示威许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000109121004",
+        "rightsId": "e3a574f0433a4ffbb2400757201cc195",
+        "transactLevel": "3",
+        "unifyId": "qCt2kyQ-SryeqFONugwQ4g",
+        "unifyName": "设区的市级行政区域内跨县级行政区域举行游行示威许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000109121005",
+        "rightsId": "d52d0bec39314e50aee69387e968739e",
+        "transactLevel": "3",
+        "unifyId": "1wfNFTKdTMOVjjR5Q4ZRIg",
+        "unifyName": "县级行政区域内举行集会游行示威许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "00010912100Y",
+        "rightsId": "f235727a260e46b9a2f6a79a0061ac32",
+        "transactLevel": "3",
+        "unifyId": "9aae8b868b734010867d0ca10546db11",
+        "unifyName": "举行集会游行示威许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109122001",
+        "rightsId": "d7f37f7dd0f14d5dbfad5fb477864c2b",
+        "transactLevel": "0",
+        "unifyId": "Y1NrdIcJSaGekIRJBflWsA",
+        "unifyName": "举办Ⅱ级（含）以上大型焰火燃放活动许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109122002",
+        "rightsId": "59fd80af7ac4487ca454cc694ebe5b60",
+        "transactLevel": "0",
+        "unifyId": "fHnRk0kASQGoYXhBC1LUTQ",
+        "unifyName": "举办Ⅲ级（含）以下大型焰火燃放活动许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109123003",
+        "rightsId": "31b4d4b6505942e0a968c09eb769e5e2",
+        "transactLevel": "1",
+        "unifyId": "EBo1a-kGT7KzTXn0yAROLg",
+        "unifyName": "通过道路运输其他放射性物品许可（省级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109123004",
+        "rightsId": "5a95da7c67734109af16a1ae72464272",
+        "transactLevel": "1",
+        "unifyId": "K-Qk0NG6TraOpdI0EjRZ4g",
+        "unifyName": "通过道路运输其他放射性物品许可（设区的市级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109123005",
+        "rightsId": "ebbc6be1ae2643178f13376d02a91af8",
+        "transactLevel": "1",
+        "unifyId": "xOKzpoR1QBWBEQZFpQLhUg",
+        "unifyName": "通过道路运输其他放射性物品许可（县级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109124000",
+        "rightsId": "e92901cadfd0465c92486b9da8915d0e",
+        "transactLevel": "0",
+        "unifyId": "_yiO7S-cQouToluUwg9rcw",
+        "unifyName": "烟花爆竹道路运输许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109125000",
+        "rightsId": "9c56bcd52cbc42e8926bb2d8e4a909e5",
+        "transactLevel": "0",
+        "unifyId": "NU2QpStMRHiRbxUjl44Bzw",
+        "unifyName": "剧毒化学品购买许可",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109126000",
+        "rightsId": "a67a404888594a9ba2eba9396c45a18b",
+        "transactLevel": "0",
+        "unifyId": "dgoo0B38S5uKPHDEcmAHGA",
+        "unifyName": "公章刻制业备案",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109127000",
+        "rightsId": "ff5db2c96d1d4bda863404a280977e41",
+        "transactLevel": "0",
+        "unifyId": "9fe34c53eaca43d8a4ef537188213785",
+        "unifyName": "旅馆业特种行业许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000109128001",
+        "rightsId": "4bf3ed966e6c412a959651aae58b3848",
+        "transactLevel": "3",
+        "unifyId": "wpreS985TgCzZBTkG8hpxw",
+        "unifyName": "弩制造许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000109128003",
+        "rightsId": "4197c21ff50c4ea092c4068c5cfc1c53",
+        "transactLevel": "3",
+        "unifyId": "Vb1rGbuXQ3KWAFsLwl8lNA",
+        "unifyName": "弩购置许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000109128004",
+        "rightsId": "e6420080a1ff49268bd84843f824d0ac",
+        "transactLevel": "3",
+        "unifyId": "eXAruhSLTQalWUQZJubAEA",
+        "unifyName": "弩进口许可",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 3,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

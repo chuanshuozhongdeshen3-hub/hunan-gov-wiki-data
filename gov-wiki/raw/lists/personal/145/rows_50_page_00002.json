@@ -1,0 +1,44 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "432036010W01",
+        "rightsId": "3TnDLDwTSl6omDDGM_qAOg",
+        "transactLevel": "2",
+        "unifyId": "-tDCXROXSBSngLDNNxDttQ",
+        "unifyName": "住院医疗救助申报",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "432036010W01",
+        "rightsId": "3TnDLDwTSl6omDDGM_qAOg",
+        "transactLevel": "2",
+        "unifyId": "wAKPdwzNTlK5atnniHe3lA",
+        "unifyName": "门诊医疗救助申报",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432088011W00",
+        "rightsId": "WCHR2gEzTE-RV12Lfc3CMQ",
+        "transactLevel": "0",
+        "unifyId": "sNLYZRJaSEqp3gIm7hC1Kw",
+        "unifyName": "残疾儿童康复救助",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 2,
+    "pageSize": 50,
+    "total": 53,
+    "totalPage": 2
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

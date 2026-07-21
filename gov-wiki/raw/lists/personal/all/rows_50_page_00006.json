@@ -1,0 +1,518 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000117054006",
+        "rightsId": "8794B3AA872D9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "_WGifK5nRGusi6yN5BcqiA",
+        "unifyName": "设计企业资质核准（甲级及部分乙级除外）-注销证书",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054006",
+        "rightsId": "8794B3AA872D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "q3kLFCbpQJ2hsmwSlsNg-A",
+        "unifyName": "设计企业资质核准（甲级及部分乙级除外）-更换证书",
+        "ywCode": "12"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054006",
+        "rightsId": "8794B3AA872D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "dfa298685ded42229e8ca41d5433f6f0",
+        "unifyName": "设计企业资质核准（甲级及部分乙级除外）-增项",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054006",
+        "rightsId": "8794B3AA872D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3950f1296ab340e986c712ee00498c72",
+        "unifyName": "设计企业资质核准（甲级及部分乙级除外）-延续",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054006",
+        "rightsId": "8794B3AA872D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "tiCY08-tQbO7ni697Ceu2g",
+        "unifyName": "设计企业资质核准（甲级及部分乙级除外）-重新核定",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054006",
+        "rightsId": "8794B3AA872D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b0MEjBrDTeyvgY2lwv-MeA",
+        "unifyName": "设计企业资质核准（甲级及部分乙级除外）-企业名称变更",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054006",
+        "rightsId": "8794B3AA872D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Zt3RBPG3SiyLEAS_hfbtWg",
+        "unifyName": "设计企业资质核准（甲级及部分乙级除外）-法定代表人、企业负责人变更",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054006",
+        "rightsId": "8794B3AA872D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "A5MrhahvQcqFihG5199zZA",
+        "unifyName": "设计企业资质核准（甲级及部分乙级除外）-注册地址变更、营业执照注册号变更、经济性质变更、注册资本金变更",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054006",
+        "rightsId": "8794B3AA872D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "UmNN51qwTMOu7c0py4MWQw",
+        "unifyName": "设计企业资质核准（甲级及部分乙级除外）-技术负责人变更",
+        "ywCode": "08"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054008",
+        "rightsId": "8794B3AA872F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e5d45850ba594733a8f130d529817b18",
+        "unifyName": "乙级工程监理企业资质认定（新设立、增项、延期）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117055002",
+        "rightsId": "8794B3AA87329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "96089ceb029c4121b2fc2cbe62d9f852",
+        "unifyName": "二级建造师强制注销",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117055002",
+        "rightsId": "8794B3AA87329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "nBYpRN-iT-aknwmhpLL98Q",
+        "unifyName": "二级建造师初始申报/重新申报",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117055002",
+        "rightsId": "8794B3AA87329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "RxOeC5ANR0aJYEP4ybavZQ",
+        "unifyName": "二级建造师延期申报",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117055002",
+        "rightsId": "8794B3AA87329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fW_DzRHiRH2wLFY7EbgMlA",
+        "unifyName": "二级建造师增项",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117055002",
+        "rightsId": "8794B3AA87329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "k3s27MASTz2H-rgQVjwAYA",
+        "unifyName": "二级建造师换证申报",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117056000",
+        "rightsId": "8794B3AA87349492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3Ez-tbYASYu9-FNM2eIs8Q",
+        "unifyName": "二级造价工程师强制注销",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118001000",
+        "rightsId": "8794B3AA87369492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "XgdEG-L0Tj2Mc9qO5zxttA",
+        "unifyName": "船舶进入或者穿越禁航区许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118004000",
+        "rightsId": "8794B3AA87399492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3LlRsHbyRiqescOblJnULg",
+        "unifyName": "建设港口设施使用非深水岸线审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118005000",
+        "rightsId": "8794B3AA873A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8V3CVxLeSfeaeExHEr9jwA",
+        "unifyName": "专用航标的设置、撤除、位移和其他状况改变审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118006000",
+        "rightsId": "8794B3AA873B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "g-VVJNXvSga6SuN5CWDbZA",
+        "unifyName": "超限运输车在省内高速公路、跨市州普通公路和城市道路上行驶审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118006000",
+        "rightsId": "8794B3AA873B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "r40GyMHhQEqd0doq8HGA4Q",
+        "unifyName": "超限运输车在跨省公路和城市道路上行驶审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118006000",
+        "rightsId": "8794B3AA873B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "aS8KpfnuShutLsbxIXNaww",
+        "unifyName": "超限运输车在市州（县）内公路上行驶审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118007000",
+        "rightsId": "8794B3AA873C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bWX7cytcR3GRa4YuM-2fEw",
+        "unifyName": "占用、挖掘公路、公路用地或者使公路改线审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118008000",
+        "rightsId": "8794B3AA873D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2vyqECEvQWeSL8wXOY36tA",
+        "unifyName": "在公路增设或改造平面交叉道口审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118009000",
+        "rightsId": "8794B3AA873E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "hfbG33YBTnuh9HIRfUjuJg",
+        "unifyName": "在公路、公路用地及公路附属设施上设置非公路标志及非交通工程设施审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118009000",
+        "rightsId": "8794B3AA873E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "rQsQSX2ES6WuOtA8YkoJKw",
+        "unifyName": "利用跨越公路的设施悬挂非公路标志许可",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118015000",
+        "rightsId": "8794B3AA874A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fb03278d335a4782a790d27ea896bca1",
+        "unifyName": "国内水路运输经营许可证换发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118015000",
+        "rightsId": "8794B3AA874A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b3899ad66493406f88cfa36c883dd077",
+        "unifyName": "国内水路运输经营许可证注销",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118015000",
+        "rightsId": "8794B3AA874A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6aaea5bc272341c4bfdd0f12a8b96cf5",
+        "unifyName": "国内水路运输经营许可",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118015000",
+        "rightsId": "8794B3AA874A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "JMQGgt8dRii3WHC5rCBx7Q",
+        "unifyName": "船舶营业运输证补发",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118015000",
+        "rightsId": "8794B3AA874A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cjMTBgKZQYG-B4Ta4z86fw",
+        "unifyName": "船舶营业运输证注销",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118015000",
+        "rightsId": "8794B3AA874A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "MaQm4-T5TSSofpo3g-hbMQ",
+        "unifyName": "船舶营业运输证配发、换发",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118017000",
+        "rightsId": "8794B3AA874C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "_uN7mydNTQy1F4x_0XfSQg",
+        "unifyName": "变更道路货物运输经营许可证法人代表名称和地址",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118017000",
+        "rightsId": "8794B3AA874C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "TWsdztDAS6ezeko5h28roA",
+        "unifyName": "变更道路货物运输经营许可证减少经营范围",
+        "ywCode": "08"
+      },
+      {
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118017000",
+        "rightsId": "8794B3AA874C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "52v_MC_mSJmwSXiR6SQFEQ",
+        "unifyName": "道路货物运输经营许可（含普货运输、专用运输、大件运输和网络货运）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118017000",
+        "rightsId": "8794B3AA874C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1aEjAhcaR4GIK3dwsgZz5g",
+        "unifyName": "换发道路货物运输经营许可证",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118017000",
+        "rightsId": "8794B3AA874C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "_jnAJsq0Rm6cgm4EVeZGuQ",
+        "unifyName": "设立子公司从事道路货物运输经营许可（含普货运输、专用运输、大件运输和网络货运）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118017000",
+        "rightsId": "8794B3AA874C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "BfgruZtGRuaq5yU4fsG3fQ",
+        "unifyName": "补发道路货物运输经营许可证",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118017000",
+        "rightsId": "8794B3AA874C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "pesv-p8CTGOy_3v1HCnWAw",
+        "unifyName": "变更道路货物运输经营许可证许可事项扩大经营范围",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118017000",
+        "rightsId": "8794B3AA874C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "QhtBt_uDT-6NYiIFk4zgYw",
+        "unifyName": "道路货物运输终止经营",
+        "ywCode": "06"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118019000",
+        "rightsId": "8794B3AA874E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "o1amUhZsQ9aIwg5owS2j9w",
+        "unifyName": "道路旅客运输站（场）经营许可（新增）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118019000",
+        "rightsId": "8794B3AA874E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "lXOZC23yRG2-Qkls9q44ZA",
+        "unifyName": "道路旅客运输站（场）经营许可证换发",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118019000",
+        "rightsId": "8794B3AA874E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "S8J1-xsGQ1ezfNGlJQQWBA",
+        "unifyName": "道路旅客运输站（场）经营许可证补发",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118019000",
+        "rightsId": "8794B3AA874E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "p28IDYmjS7iXGtg8AHlS9A",
+        "unifyName": "道路旅客运输站（场）经营许可证注销",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118022000",
+        "rightsId": "8794B3AA87519492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "181de0d680de4679a45f77c4ed54f9fb",
+        "unifyName": "网络预约出租汽车经营许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118022000",
+        "rightsId": "8794B3AA87519492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "kKaL2k8hTvu_n9aCdudRoQ",
+        "unifyName": "巡游出租汽车经营许可",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118023000",
+        "rightsId": "8794B3AA87529492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "CtyGwUaxQA-YNxxY8HtNYg",
+        "unifyName": "货运道路运输证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118023000",
+        "rightsId": "8794B3AA87529492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "t7ITKlupQM-f2x9XVPwE2A",
+        "unifyName": "普货车辆道路运输证换发",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118023000",
+        "rightsId": "8794B3AA87529492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "iu0Bi2nURl2On158Zpwxtw",
+        "unifyName": "危货车辆道路运输证换发",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118023000",
+        "rightsId": "8794B3AA87529492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "n2HpafmiSC6OBpFoIabAEg",
+        "unifyName": "巡游车辆道路运输证换发",
+        "ywCode": "12"
+      }
+    ],
+    "pageIndex": 6,
+    "pageSize": 50,
+    "total": 1343,
+    "totalPage": 27
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

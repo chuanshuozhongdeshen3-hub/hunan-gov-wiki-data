@@ -1,0 +1,266 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036003W02",
+        "rightsId": "9737EDC65342FE39E053681515ACF127",
+        "transactLevel": "0",
+        "unifyId": "KmrHkfGMRPewnzPDlb3BlQ",
+        "unifyName": "参保人员参保信息查询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036003W03",
+        "rightsId": "cG6IGpRRSaiZshyIbrefJA",
+        "transactLevel": "0",
+        "unifyId": "HfXaGzknQZGtrwURX6zxjA",
+        "unifyName": "参保人员个人账户一次性支取",
+        "ywCode": "01"
+      },
+      {
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036005W01",
+        "rightsId": "9737EDC65346FE39E053681515ACF127",
+        "transactLevel": "0",
+        "unifyId": "xK-GRypASgSGTCeA_DYD-w",
+        "unifyName": "异地安置退休人员备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036005W02",
+        "rightsId": "9737EDC65347FE39E053681515ACF127",
+        "transactLevel": "0",
+        "unifyId": "X3WUh3EVR1m4AUdgIKEacA",
+        "unifyName": "异地长期居住人员备案",
+        "ywCode": "01"
+      },
+      {
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036005W03",
+        "rightsId": "9737EDC65348FE39E053681515ACF127",
+        "transactLevel": "0",
+        "unifyId": "5-urV8BlR7Wed1yjRTogtQ",
+        "unifyName": "常驻异地工作人员备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036005W06",
+        "rightsId": "Q2MtZhETSeazOd8P4hDdrg",
+        "transactLevel": "0",
+        "unifyId": "iCuurpwmRRuWxsIQ00htWg",
+        "unifyName": "异地转诊人员备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036005W07",
+        "rightsId": "WL8znuh_ShSlu-XZ9eM0LA",
+        "transactLevel": "0",
+        "unifyId": "G4gIDY_BS7-q2Iwq7JsT7Q",
+        "unifyName": "其他临时外出就医人员备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W02",
+        "rightsId": "98230378981D4362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "k7X0twKCT4KO2h_Cc6AnQA",
+        "unifyName": "灵活就业人员增加登记",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W02",
+        "rightsId": "98230378981D4362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "i4CZjOAXSkKS2uLwEoQKYw",
+        "unifyName": "灵活就业人员减少登记",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W02",
+        "rightsId": "98230378981D4362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "LKU-lEobSo6mTClVGR7_Rg",
+        "unifyName": "在职转退休",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W02",
+        "rightsId": "98230378981D4362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "vvwxFe4ASNmBtS0J6pgOpw",
+        "unifyName": "职工减少登记（终止参保）",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W03",
+        "rightsId": "98230378981E4362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "e_g3JY-nRt2AjFUq5iyrAg",
+        "unifyName": "城乡居民参保登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W03",
+        "rightsId": "98230378981E4362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "vBLUgJN2QqmRL_5CiUjGwA",
+        "unifyName": "城乡居民减少登记（暂停参保）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W03",
+        "rightsId": "98230378981E4362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "uDla2V4gSTGfIZ5f8WbVCg",
+        "unifyName": "城乡居民减少登记（终止参保）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W04",
+        "rightsId": "xb5DFRe_RqeHaYPO_P8a_g",
+        "transactLevel": "0",
+        "unifyId": "MvhqnjfaT-u0-Nw-52ZOLg",
+        "unifyName": "职工参保信息变更登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W06",
+        "rightsId": "V6ivhJWcQIiPH6SmIEB2_Q",
+        "transactLevel": "0",
+        "unifyId": "R9bKdA1OQqiJI5reP3QGFw",
+        "unifyName": "城乡居民参保信息变更登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036007W03",
+        "rightsId": "x43oARpjTEGOAqiPI7ovRQ",
+        "transactLevel": "0",
+        "unifyId": "MzsT43wQTDyLPRazL100tA",
+        "unifyName": "基本医疗保险关系转入",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036007W03",
+        "rightsId": "x43oARpjTEGOAqiPI7ovRQ",
+        "transactLevel": "0",
+        "unifyId": "uKC5h-jxR8K_mMTfFQVaAA",
+        "unifyName": "基本医疗保险关系转出",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036008W01",
+        "rightsId": "9823037898234362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "8GlyVKIiRZCkvq-hhthaVQ",
+        "unifyName": "职工医保参保人员享受“双通道”管理药品待遇认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036008W01",
+        "rightsId": "9823037898234362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "JEoOE5ZdTdyB2cotSx1eMQ",
+        "unifyName": "居民医保参保人员享受“双通道”管理药品待遇认定",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036008W02",
+        "rightsId": "9823037898244362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "KxfeblbqS_e1ayhnCb1nGg",
+        "unifyName": "职工医保参保人员享受门诊慢特病病种待遇认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036008W02",
+        "rightsId": "9823037898244362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "VgDgef_7TE6xxj8hzomZ9w",
+        "unifyName": "居民医保参保人员享受门诊慢特病病种待遇认定",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "432036010W01",
+        "rightsId": "3TnDLDwTSl6omDDGM_qAOg",
+        "transactLevel": "2",
+        "unifyId": "-tDCXROXSBSngLDNNxDttQ",
+        "unifyName": "住院医疗救助申报",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "432036010W01",
+        "rightsId": "3TnDLDwTSl6omDDGM_qAOg",
+        "transactLevel": "2",
+        "unifyId": "wAKPdwzNTlK5atnniHe3lA",
+        "unifyName": "门诊医疗救助申报",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432088010W00",
+        "rightsId": "ZDZqq0HbTaSIHYULqR0HvQ",
+        "transactLevel": "0",
+        "unifyId": "a95d96c81f924c86afc84f19c4c1ecad",
+        "unifyName": "残疾人大学生、高中生及贫困残疾人家庭子女大学生、高中生资助",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 3,
+    "pageSize": 50,
+    "total": 125,
+    "totalPage": 3
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

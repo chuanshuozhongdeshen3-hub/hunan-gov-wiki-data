@@ -1,0 +1,516 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000706001000",
+        "rightsId": "8794B3AA8FA99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "gh3XHjMZSD6N4Ndl8cneUg",
+        "unifyName": "技术合同认定登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000706002000",
+        "rightsId": "8794B3AA8FAA9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "5da928ada1fa4cb18a868e7eaac970df",
+        "unifyName": "省级科技类民办非企业单位进口科教用品免税资格审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000706003000",
+        "rightsId": "8794B3AA8FAB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "869236b8bc0c4eabb8b27020357a88fa",
+        "unifyName": "省级科技企业孵化器认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709101000",
+        "rightsId": "ea4530f1bd25433789b00f1fa814916d",
+        "transactLevel": "0",
+        "unifyId": "vm5n1oJySDiT8Yx4eNrqGg",
+        "unifyName": "大型焰火燃放作业单位资质证明核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709101000",
+        "rightsId": "ea4530f1bd25433789b00f1fa814916d",
+        "transactLevel": "0",
+        "unifyId": "mjdySSdUTjuMv-ueacGMVA",
+        "unifyName": "大型焰火燃放作业单位变更法定代表人",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709101000",
+        "rightsId": "ea4530f1bd25433789b00f1fa814916d",
+        "transactLevel": "0",
+        "unifyId": "UeDskjrDThesnvL5U8B9Dw",
+        "unifyName": "大型焰火燃放作业单位变更技术负责人",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709101000",
+        "rightsId": "ea4530f1bd25433789b00f1fa814916d",
+        "transactLevel": "0",
+        "unifyId": "2xPTwJwBQuy9o-pdPblwOw",
+        "unifyName": "大型焰火燃放作业单位变更单位名称",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709101000",
+        "rightsId": "ea4530f1bd25433789b00f1fa814916d",
+        "transactLevel": "0",
+        "unifyId": "Z-ER44C7T9yjk8i-d3TUNQ",
+        "unifyName": "大型焰火燃放作业单位变更单位地址",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709101000",
+        "rightsId": "ea4530f1bd25433789b00f1fa814916d",
+        "transactLevel": "0",
+        "unifyId": "r4ljIxT5TZ6K0aHa_1E32A",
+        "unifyName": "大型焰火燃放作业单位资质证明到期换证、资质升级",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709102000",
+        "rightsId": "c17c5a49890a41578bcbf43a01c6475f",
+        "transactLevel": "1",
+        "unifyId": "SVyDLnGARA6TzajCWQcXlA",
+        "unifyName": "大型焰火燃放作业人员资格证明核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709102000",
+        "rightsId": "c17c5a49890a41578bcbf43a01c6475f",
+        "transactLevel": "0",
+        "unifyId": "8BGsmpSdS6mWxRIaJ_YBIg",
+        "unifyName": "大型焰火燃放作业人员资格证明变更所在单位",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709113000",
+        "rightsId": "883fae2e7af1461e9c829d68d54a414c",
+        "transactLevel": "0",
+        "unifyId": "vZCG6vXzQdCclbHT6SSzdg",
+        "unifyName": "网络安全等级保护备案",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00070911400Y",
+        "rightsId": "4b2e17a413404ddb9b9d88395bba0005",
+        "transactLevel": "0",
+        "unifyId": "qybd_d3JRgaC8wAh-JV0dg",
+        "unifyName": "国际联网备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000711017000",
+        "rightsId": "8794B3AA8FE49492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "60fbc147300c4b1b9055e40af4d15d5c",
+        "unifyName": "慈善组织认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000713001000",
+        "rightsId": "8794B3AA8FE69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0KYUuodHTiSF_VcpyP2LWg",
+        "unifyName": "非营利组织免税资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000713002000",
+        "rightsId": "8794B3AA8FE79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "815102ec58744419b943a643def0b10d",
+        "unifyName": "公益性群众团体的公益性捐赠税前扣除资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d5d1253f0a344bd98a9f379d0c1228f6",
+        "unifyName": "换证登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "m49a7UsHTDuuPJHORaZ2Fg",
+        "unifyName": "采矿权变更登记（缩小开采区域范围）",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "xL4hMDw_RbSvN20trQpvag",
+        "unifyName": "采矿权变更登记（续期）",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "s9teXbvoSnCV1UIHmvCb9Q",
+        "unifyName": "采矿权变更登记（开采矿种变更）",
+        "ywCode": "12"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "CxE79alpSfChGADAVRo8Kw",
+        "unifyName": "采矿权变更登记（采矿权人名称变更）",
+        "ywCode": "13"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "qxpb7cF7Teao0M7wz3Cisg",
+        "unifyName": "探矿权首次登记",
+        "ywCode": "14"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "Zb9C2nncQfeMaZZWKvLLpA",
+        "unifyName": "探矿权转移登记",
+        "ywCode": "15"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "wsXarV08Spq5rE3DCeGiKw",
+        "unifyName": "探矿权注销登记",
+        "ywCode": "16"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "09ClS9ZKSDSEJWdmY2u89Q",
+        "unifyName": "探矿权变更登记（扩大勘查区域范围）",
+        "ywCode": "17"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "ylKbCdWeRsqpXhLQR7kjdw",
+        "unifyName": "探矿权变更登记（缩小勘查区域范围）",
+        "ywCode": "18"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "aanj6PTTSoKHg0LP-4v1Gg",
+        "unifyName": "探矿权变更登记（续期）",
+        "ywCode": "19"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "aa49a5b27dd24b238620b4c8dd704cc8",
+        "unifyName": "遗失补证登记",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "_fzckxEgRZmr261QIdbhig",
+        "unifyName": "探矿权变更登记（保留、解除保留）",
+        "ywCode": "20"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "s84GvoN-THCQ-FuZ3zXIUg",
+        "unifyName": "探矿权变更登记（探矿权人名称变更）",
+        "ywCode": "21"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "DmN8u2cSREq8eOVh0QfLDw",
+        "unifyName": "抵押权首次登记（矿业权）",
+        "ywCode": "22"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "v1i7MBHhQ92ALecG9ZoqVw",
+        "unifyName": "抵押权转移登记（矿业权）",
+        "ywCode": "23"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "6sPCf47wQxaCepSU6vpktw",
+        "unifyName": "抵押权注销登记（矿业权）",
+        "ywCode": "24"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "wxFqmIU6RMGqIL2Zhg43Xw",
+        "unifyName": "抵押权变更登记（矿业权）",
+        "ywCode": "25"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "uhC0Acv1RMCi_RWwXKH4mw",
+        "unifyName": "采矿权首次登记",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "s6sW6y8ESUSYimLwSVDoog",
+        "unifyName": "采矿权转移登记",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "bjii-MqSQum2Wjs5VRLjsw",
+        "unifyName": "采矿权注销登记",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "fLFJgrqrSBCNBaOMjjxBiA",
+        "unifyName": "采矿权变更登记（扩大开采区域范围）",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001004",
+        "rightsId": "8794B3AA8FEC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "62ec315f4c374a05a09e1500aae5cd9e",
+        "unifyName": "集体建设用地使用权及建筑物、构筑物所有权首次登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001004",
+        "rightsId": "8794B3AA8FEC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "dbbd079b2b3e4b53a6cdc0fab3f03eb1",
+        "unifyName": "集体建设用地使用权及建筑物、构筑物所有权变更登记",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001004",
+        "rightsId": "8794B3AA8FEC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7ecd35bb9a284d519295c493a5e098d7",
+        "unifyName": "集体建设用地使用权及建筑物、构筑物所有权转移登记",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001004",
+        "rightsId": "8794B3AA8FEC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b156b952357e4dc082b4fde41ae3b957",
+        "unifyName": "集体建设用地使用权及建筑物、构筑物所有权注销登记",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001004",
+        "rightsId": "8794B3AA8FEC9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "f022a6dfc74e4e0796a5e1ce5ee61f4c",
+        "unifyName": "集体土地所有权首次登记",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001004",
+        "rightsId": "8794B3AA8FEC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d4d7a926efc54a17bfeb0570d03f6e33",
+        "unifyName": "集体土地所有权变更登记",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001004",
+        "rightsId": "8794B3AA8FEC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fe5f4ca4794e453aa1d359d8e7afd950",
+        "unifyName": "集体土地所有权转移登记",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001004",
+        "rightsId": "8794B3AA8FEC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "728cd3f5d3c240e299d6eaa69b65e45a",
+        "unifyName": "集体土地所有权注销登记",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001005",
+        "rightsId": "8794B3AA8FED9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "98984c5d77f24b6695532066c728bef0",
+        "unifyName": "国有建设用地使用权首次登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001005",
+        "rightsId": "8794B3AA8FED9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "45968e83bc03452ba46180a4ae271865",
+        "unifyName": "国有建设用地使用权变更登记",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001005",
+        "rightsId": "8794B3AA8FED9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7a5d3a3d6cfd4465bd4cce3b207208c9",
+        "unifyName": "国有建设用地使用权转移登记",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001005",
+        "rightsId": "8794B3AA8FED9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e86cf481ba6e403386b8d5cd9943dbe2",
+        "unifyName": "国有建设用地使用权注销登记",
+        "ywCode": "04"
+      }
+    ],
+    "pageIndex": 32,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

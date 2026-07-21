@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "data": {
+    "acceptanceCondition": "（一）已按批准的建设规模、标准和内容建成，满足生产使用要求；申请竣工验收的航道建设工程有尾留工程的，尾留工程不得是主体工程，不得影响工程效果和工程正常运行，投资额不能超过工程总概算的5%； （二）各单位工程和项目经工程质量监督机构检验合格； （三）各单位工程交工验收合格； （四）主要工艺设备或者设施调试以及联动测试均已完成，主要技术参数达到设计要求； （五）航运枢纽工程阶段验收合格； （六）需要实船适航检验的，已选用设计船型进行了实船适航检验，各项检验指标满足设计要求； （七）工程试运行期满一年，运行情况正常； （八）竣工档案资料齐全，通过有关专项验收； （九）竣工决算报告已编制完成，并取得国家审计机构或者具有审计资格的中介机构出具的审计报告，且审计报告无保留意见； （十）工程运行管理部门已落实； （十一）竣工验收工作报告编制完成； （十二）航运枢纽工程以及技术复杂的其他航道工程，已经竣工验收部门委托的有关单位初步验收合格。",
+    "according": "《中华人民共和国港口法》（2003年6月28日主席令第5号，2015年4月24日予以修改）第十九条：港口设施建设项目竣工后，应当按照国家有关规定经验收合格，方可投入使用”。\n《中华人民共和国航道法》（2014年12月28日主席令第17号）第十三条：航道建设工程竣工后，应当按照国家有关规定组织竣工验收，经验收合格方可正式投入使用。\n《国务院关于取消和调整一批行政审批项目等事项的决定》（国发﹝2014﹞27号）第11项：国家重点水运建设项目竣工验，收下放至省级人民政府交通运输主管部门。",
+    "applicantDuty": "应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。",
+    "applicantPower": "依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。",
+    "approveLimit": "20",
+    "approveLimitExplain": "国家承诺时限",
+    "blbm": "湖南省交通运输厅",
+    "commitmentLimit": "13",
+    "commitmentLimitExplain": "省政府承诺时限",
+    "deptName": "交通运输部门",
+    "doScope": "全省",
+    "isCharge": "否",
+    "isIntermediaryServices": "无",
+    "isSpecialProcedure": "否",
+    "isonline": "是",
+    "lctList": [
+      {
+        "approveCode": "de7305b12f574614bd06a29893d88c03",
+        "approveId": "de7305b12f574614bd06a29893d88c03",
+        "createTime": 1558424105000,
+        "flowc": "approve/2019-05-21/1558424105261$$22.jpg",
+        "id": "f17fc5ccacd34535979a9dc9b0f3245b",
+        "isDelete": "0",
+        "isExchange": "Y",
+        "operateFlag": "N"
+      }
+    ],
+    "limitsceneexplain": "需现场核实材料和身份等信息",
+    "materialList": [
+      {
+        "acceptStandard": "含工程交工验收、试运行及要求的专项验收情况，说明项目是否具备验收条件",
+        "bylaw": "无",
+        "commitWay": "网上现场都可提交",
+        "copiesNum": 1.0,
+        "createDate": 1626662648000,
+        "freeSubmission": "无",
+        "isDelete": "N",
+        "isMust": "必要",
+        "materialApproveType": "其他",
+        "materialCode": "M0001180570000101",
+        "materialExplain": "填写必须真实、齐全，法人签发，盖章单位公章。",
+        "materialId": "b198745a46f4429998f9af1505647b0d",
+        "materialStandard": "纸质和电子",
+        "materialTitle": "竣工验收申报文件",
+        "materialType": "原件",
+        "pageformat": "A4，胶装。",
+        "sourceChannel": "申请人自备",
+        "sourceexplain": "申请人自备",
+        "unifyId": "de7305b12f574614bd06a29893d88c03",
+        "updateDate": 1668659565000
+      }
+    ],
+    "minExplain": "四级标准说明：该事项已经实现全程网办，申请人可以通过网络提交和补正相关申请信息和材料，提交的材料全部为已验证信息，受理通过后直接进入办理程序，申请人可网上查询办理状态、咨询问题，作出审批决定后，申请人可以通过网上缴费后物流递送证书结果。整个办事过程无需到现场办理。",
+    "minSeq": "0",
+    "orgId": "9a3c0b9b8fc446bba5f536dcada7dc23",
+    "orgName": "湖南省交通运输厅",
+    "processDescript": "无",
+    "quantitativeRestriction": "无数量限制。",
+    "resultList": [
+      {
+        "approveCode": "de7305b12f574614bd06a29893d88c03",
+        "approveId": "de7305b12f574614bd06a29893d88c03",
+        "bucketName": "zwfw202411",
+        "createTime": 1732255171000,
+        "extend": "png",
+        "fileName": "竣工验收鉴定书.png",
+        "id": "277B16274E504570E063651515ACD7FE",
+        "isDelete": "0",
+        "isExchange": "N",
+        "isNeed": "N",
+        "operateFlag": "N",
+        "resultChart": "approve/2024-11-22-13/1732255171411$$竣工验收鉴定书.png",
+        "resultSampleName": "竣工验收鉴定书",
+        "updateTime": 1732255171000
+      }
+    ],
+    "resultSampleName": "竣工验收鉴定书",
+    "rightsCode": "000118057000",
+    "rightsId": "8794B3AA87779492E053681515ACDDA6",
+    "schemeLevels": "省",
+    "serveObject": "法人",
+    "transactLevel": "四级标准",
+    "transactionFrom": "网上办理",
+    "typeName": "行政许可",
+    "unifyId": "de7305b12f574614bd06a29893d88c03",
+    "unifyName": "国家重点水运工程建设项目竣工验收",
+    "ywCode": "01",
+    "zjfwList": [
+      {
+        "chargeDesc": "市场调节价-审批部门委托符合条件的中介机构实施。",
+        "createDate": 1670555651000,
+        "isDelete": "N",
+        "isSzyy": "N",
+        "orderNum": 1.0,
+        "serviceExplain": "合同约定为准",
+        "serviceId": "nBT8TsiFSFiP5ZZtABzdcw",
+        "serviceItemname": "国家重点水运建设项目竣（交）工验收质量鉴定",
+        "serviceOrgproperty": "公路水运工程试验检测",
+        "serviceTimelimit": 14.0,
+        "unifyId": "de7305b12f574614bd06a29893d88c03",
+        "updateDate": 1670555651000
+      }
+    ]
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

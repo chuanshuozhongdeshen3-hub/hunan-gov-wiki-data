@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "data": {
+    "acceptanceCondition": "具有安全评价检测检验资质的机构，在开展现场技术服务前七个工作日内，书面告知项目实施地资质认可机关。",
+    "according": "《安全评价检测检验机构管理办法》（应急部令第1号）第19条规定：安全评价检测检验机构应当在开展现场技术服务前七个工作日内，书面告知项目实施地资质认可机关，接受资质认可机关及其下级部门的监督抽查。",
+    "applicantDuty": "应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。",
+    "applicantPower": "依法享有知情权、陈述权、申辩权以及要求听证和举报的权利，有权依法申请行政复议或者提起行政诉讼，以及要求赔偿。",
+    "approveLimit": "3",
+    "approveLimitExplain": "按相关法律规定办理",
+    "blbm": "湖南省应急管理厅",
+    "commitmentLimit": "3",
+    "commitmentLimitExplain": "根据实际情况办理",
+    "deptName": "应急管理部门",
+    "doScope": "跨村（社区）",
+    "faqList": [
+      {
+        "createDate": 1626854827000,
+        "faqContent": "申请表格和提交材料中相关人员签名是否必须本人亲笔签名？",
+        "faqId": "8754d16f51d14dee8e1680fa8fbd9af3",
+        "isDelete": "N",
+        "isSzyy": "Y",
+        "orderNum": 1.0,
+        "replyContent": "申请表格和提交材料中的相关人员签名必须由相关人员本人亲笔签名，不得由他人代签。",
+        "unifyId": "0kzpx8HXS9GMCazPreDn1Q",
+        "updateDate": 1668659564000
+      }
+    ],
+    "isCharge": "否",
+    "isIntermediaryServices": "无",
+    "isSpecialProcedure": "否",
+    "isonline": "是",
+    "lctList": [
+      {
+        "approveCode": "0kzpx8HXS9GMCazPreDn1Q",
+        "approveId": "0kzpx8HXS9GMCazPreDn1Q",
+        "bucketName": "zwfw202401",
+        "createTime": 1704880114000,
+        "flowc": "approve/2024-01-10-17/1704880114356$$图片9.png",
+        "id": "0E95559AAB71759CE063681515AC41AE",
+        "isDelete": "0",
+        "isExchange": "N",
+        "operateFlag": "N",
+        "updateTime": 1704880114000
+      }
+    ],
+    "materialList": [
+      {
+        "acceptStandard": "填写必须真实、齐全，法人签字，盖单位的公章",
+        "attachList": [
+          {
+            "attachCode": "000002",
+            "attachId": "43d7fbe6b08d4fc29335adf7244e068a",
+            "attachName": "安全评价检测检验机构从业告知书.docx",
+            "attachPath": "approve/2020-08-04/1596533676985$$安全评价检测检验机构从业告知书.docx",
+            "attachSize": 13814.0,
+            "attachType": ".docx",
+            "businessId": "5f3d85db37de493e9120384af66a0b56",
+            "createTime": 1596533677000,
+            "isDel": "N",
+            "isDelete": "0",
+            "isExchange": "Y",
+            "isValid": "Y",
+            "modFlag": "N",
+            "operateFlag": "N",
+            "pdfPath": "N"
+          }
+        ],
+        "bylaw": "《安全评价检测检验机构管理办法》（应急部令1号）第十九条：安全评价检测检验机构应当在开展现场技术服务前七个工作日内，书面告知项目实施地资质认可机关，接受资质认可机关及其下级部门的监督抽查。",
+        "commitWay": "网上现场都可提交",
+        "copiesNum": 1.0,
+        "createDate": 1626854827000,
+        "freeSubmission": "无",
+        "isDelete": "N",
+        "isMust": "必要",
+        "materialApproveType": "其他",
+        "materialCode": "M431025002W000101",
+        "materialExplain": "按填写须知填写",
+        "materialId": "5f3d85db37de493e9120384af66a0b56",
+        "materialStandard": "纸质和电子",
+        "materialTitle": "安全评价检测检验机构从业告知书",
+        "materialType": "原件",
+        "pageformat": "A4",
+        "sourceChannel": "申请人自备",
+        "sourceexplain": "按《安全评价检测检验机构管理办法》（应急部令1号）附件4（安全评价检测检验机构从业告知书）内容填写",
+        "unifyId": "0kzpx8HXS9GMCazPreDn1Q",
+        "updateDate": 1668659565000
+      }
+    ],
+    "minExplain": "四级标准说明：该事项已经实现全程网办，申请人可以通过网络提交和补正相关申请信息和材料，提交的材料全部为已验证信息，受理通过后直接进入办理程序，申请人可网上查询办理状态、咨询问题，作出审批决定后，申请人可以通过网上缴费后物流递送证书结果。整个办事过程无需到现场办理。",
+    "minSeq": "0",
+    "orgId": "62bab4bfbbc142a5bb4e2f61c68accb7",
+    "orgName": "湖南省应急管理厅",
+    "processDescript": "办理网址：http://120.133.22.112:8095/",
+    "quantitativeRestriction": "无数量限制",
+    "resultSampleName": "外省评价机构入湘开展业务书面告知结果样本",
+    "rightsCode": "431025002W00",
+    "rightsId": "4de0a0a4e32346b5896e245abca0efdb",
+    "schemeLevels": "省",
+    "serveObject": "法人",
+    "transactLevel": "四级标准",
+    "transactionFrom": "窗口办理^网上办理",
+    "typeName": "其他行政权力",
+    "unifyId": "0kzpx8HXS9GMCazPreDn1Q",
+    "unifyName": "安全评价检测检验机构开展业务书面告知",
+    "ywCode": "01"
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

@@ -1,0 +1,125 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121001000",
+        "rightsId": "8794B3AA88CE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5de7fd05f5ed4cfcb611229c21d35b47",
+        "unifyName": "限制进口技术许可意向书",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121001000",
+        "rightsId": "8794B3AA88CE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a682db9c60cb4461b20be7a022a15edb",
+        "unifyName": "限制进口技术许可证",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121001000",
+        "rightsId": "8794B3AA88CE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "mX30QAf7ShmkNtYdcHhnQw",
+        "unifyName": "限制出口技术许可意向书",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121001000",
+        "rightsId": "8794B3AA88CE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "vRx2IYwmSyGiP4BHpfl-yg",
+        "unifyName": "限制出口技术许可证",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000721001000",
+        "rightsId": "8794B3AA90629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2d96a9113efd40d0832d70541c431e81",
+        "unifyName": "台湾投资者经第三地转投资认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000721004000",
+        "rightsId": "8794B3AA90659492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4d12c01ab7d1486fb5aeafe78ceb135b",
+        "unifyName": "鼓励类外商投资项目进口设备减免税确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001021001000",
+        "rightsId": "8794B3AA92179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Vo2u25NySfWNJCxAyov-Mw",
+        "unifyName": "对协议国家的纺织品出口原产地证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431021015W00",
+        "rightsId": "HH1CEp5DTtm3Sm904lO6CQ",
+        "transactLevel": "0",
+        "unifyId": "03feee83bf784e1790e7cc5b294d8a7c",
+        "unifyName": "自由进出口技术合同备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431021015W00",
+        "rightsId": "HH1CEp5DTtm3Sm904lO6CQ",
+        "transactLevel": "0",
+        "unifyId": "a0eccd7a1ad04cefb4ddc843a1510390",
+        "unifyName": "自由进出口技术合同变更备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431021034W00",
+        "rightsId": "70F599A55F66ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "91bab3415ff24810a91452a9b86c7b65",
+        "unifyName": "零售商促销活动备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432021101W00",
+        "rightsId": "98518000BCB3ECE2E053681515AC6A64",
+        "transactLevel": "0",
+        "unifyId": "6e4969202356441ca6de10a15cd63cf3",
+        "unifyName": "外来投资企业咨询和投诉",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 11,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

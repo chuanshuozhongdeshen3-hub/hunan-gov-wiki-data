@@ -1,0 +1,90 @@
+{
+  "code": 0,
+  "data": {
+    "acceptanceCondition": "1.申报人为认定对象的所有权人或持有人，申请可移动文物认定的申报人为株洲市荷塘区户籍或在株洲市荷塘区域内注册的法人。\n　　2.不可移动文物认定的对象是株洲市荷塘区辖区内具有历史、艺术、科学价值的文化资源。\n　　3.如实填写文物认定申请表。\n　　4.认定对象来源合法。\n　　5.认定对象未经其他文物行政部门认定",
+    "according": "《中华人民共和国文物保护法》（中华人民共和国主席令〔2017〕第81号）第十三条第四款  尚未核定公布为文物保护单位的不可移动文物，由县级人民政府文物行政部门予以登记并公布。",
+    "applicantDuty": "应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。",
+    "applicantPower": "依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。",
+    "approveLimit": "20",
+    "approveLimitExplain": "中华人民共和国文物保护法",
+    "blbm": "市、县级文物部门",
+    "commitmentLimit": "15",
+    "commitmentLimitExplain": "中华人民共和国文物保护法",
+    "deptName": "文物部门",
+    "doScope": "全国",
+    "faqList": [
+      {
+        "createDate": 1632469199000,
+        "faqContent": "办理条件是什么？",
+        "faqId": "fe7956377e504569a8b4ed17025fe0a6",
+        "isDelete": "N",
+        "isSzyy": "Y",
+        "orderNum": 1.0,
+        "replyContent": "1.申报人为认定对象的所有权人或持有人，申请可移动文物认定的申报人为株洲市荷塘区户籍或在株洲市荷塘区域内注册的法人。\n\n2.不可移动文物认定的对象是株洲市荷塘区辖区内具有历史、艺术、科学价值的文化资源。\n\n3.如实填写文物认定申请表。\n\n4.认定对象来源合法。\n\n5.认定对象未经其他文物行政部门认定。",
+        "unifyId": "193484073f7f44f087125f3c9e7e70ce",
+        "updateDate": 1668659564000
+      }
+    ],
+    "isCharge": "否",
+    "isIntermediaryServices": "无",
+    "isSpecialProcedure": "否",
+    "isonline": "是",
+    "lctList": [
+      {
+        "approveCode": "193484073f7f44f087125f3c9e7e70ce",
+        "approveId": "193484073f7f44f087125f3c9e7e70ce",
+        "createTime": 1539054468000,
+        "flowc": "approve/2018-10-09/1539054468152$$QQ图片20181009110708.png",
+        "id": "8212b706798a4660b8740714dd74ccba",
+        "isDelete": "0",
+        "isExchange": "Y",
+        "operateFlag": "N"
+      }
+    ],
+    "limitsceneexplain": "需现场核实材料和身份等信息",
+    "materialList": [
+      {
+        "acceptStandard": "1.内容真实；2.符合国家相关法律法规。",
+        "bylaw": "《中华人民共和国文物保护法》（2017年修正）",
+        "commitWay": "网上现场都可提交",
+        "copiesNum": 1.0,
+        "createDate": 1632469199000,
+        "freeSubmission": "无",
+        "isDelete": "N",
+        "isMust": "必要",
+        "materialApproveType": "其他",
+        "materialCode": "M430768004W000101",
+        "materialExplain": "1.内容真实；2.符合国家相关法律法规。",
+        "materialId": "928829613e1e49f1bf259d44a8275718",
+        "materialStandard": "纸质和电子",
+        "materialTitle": "对尚未核定公布为文物保护单位的不可移动文物的登记",
+        "materialType": "原件和复印件",
+        "pageformat": "符合编制规范",
+        "sourceChannel": "其他",
+        "sourceexplain": "申请人自备",
+        "unifyId": "193484073f7f44f087125f3c9e7e70ce",
+        "updateDate": 1713946486000
+      }
+    ],
+    "minExplain": "四级标准说明：该事项已经实现全程网办，申请人可以通过网络提交和补正相关申请信息和材料，提交的材料全部为已验证信息，受理通过后直接进入办理程序，申请人可网上查询办理状态、咨询问题，作出审批决定后，申请人可以通过网上缴费后物流递送证书结果。整个办事过程无需到现场办理。",
+    "minSeq": "0",
+    "orgId": "7186671ab5ad49c586fcb213b5570ee8",
+    "orgName": "湖南省文物局",
+    "processDescript": "1.申请（提供申报材料）；2.受理（材料齐全）；3.审查（对申报材料进行审查，必要时进行实地勘察，专家评审）；决定（根据实际情况做出审批决定）；5.告知（将审批结果书面告知申请单位）。\n1.申请（提供申报材料）；2.不予受理（1.不属于本机关职权范围内；2.材料不齐全或者不符合有关要求的，一次性书面告知申报单位补充）。",
+    "quantitativeRestriction": "暂无数量限制",
+    "resultSampleName": "暂无结果名称",
+    "rightsCode": "430768004W00",
+    "rightsId": "71cb68c6168347d4a7519f24441657bb",
+    "schemeLevels": "市、县",
+    "serveObject": "个人",
+    "transactLevel": "四级标准",
+    "transactionFrom": "网上办理",
+    "typeName": "行政确认",
+    "unifyId": "193484073f7f44f087125f3c9e7e70ce",
+    "unifyName": "对尚未核定公布为文物保护单位的不可移动文物的登记",
+    "ywCode": "01"
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

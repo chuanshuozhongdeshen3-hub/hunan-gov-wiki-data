@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "data": {
+    "acceptanceCondition": "《海运固体散装货物安全监督管理规定》第十二条 载运B组以外固体散装货物船舶进出港口，应当在进出港口24小时前向海事管理机构报告。航程不足24小时的，应当在驶离上一港口前报告。报告应当包括以下信息内容：\n（一）船名、航次、国籍、始发港、卸货港、作业地点、预计进出港口和作业时间等船舶信息；\n（二）货物名称、组别、类别、联合国编号、总重量和装载位置等货物信息。",
+    "according": "1《海运固体散装货物安全监督管理规定》第十二条、第三十三条\n2.《交通运输部关于公布水路运输易流态化固体散装货物安全管理规定的通知》（交水发〔2011〕638号）第九条\n3.《中华人民共和国海事局关于执行<国际海运固体散装货物规则>有关事项的通知》(海危防〔2015〕136号)全文",
+    "applicantDuty": "应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。",
+    "applicantPower": "依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。",
+    "approveLimit": "5",
+    "approveLimitExplain": "无",
+    "blbm": "市、县级交通运输部门",
+    "commitmentLimit": "1",
+    "commitmentLimitExplain": "无",
+    "deptName": "交通运输部门",
+    "doScope": "全市",
+    "faqList": [
+      {
+        "createDate": 1626317124000,
+        "faqContent": "是否需要收费",
+        "faqId": "86a26779635041b58158a28d1cb44562",
+        "isDelete": "N",
+        "isSzyy": "Y",
+        "orderNum": 1.0,
+        "replyContent": "无需",
+        "unifyId": "t0HHta4pQyi-M0h0ykFgpg",
+        "updateDate": 1668659564000
+      }
+    ],
+    "isCharge": "否",
+    "isIntermediaryServices": "无",
+    "isSpecialProcedure": "否",
+    "isonline": "是",
+    "lctList": [
+      {
+        "approveCode": "t0HHta4pQyi-M0h0ykFgpg",
+        "approveId": "t0HHta4pQyi-M0h0ykFgpg",
+        "createTime": 1584349729000,
+        "flowc": "approve/2020-03-16/1584349729433$$备案流程图.jpg",
+        "id": "36949f9860f741baab0687e85aef130d",
+        "isDelete": "0",
+        "isExchange": "Y",
+        "operateFlag": "N"
+      }
+    ],
+    "limitsceneexplain": "现场办理",
+    "materialList": [
+      {
+        "acceptStandard": "真实有效",
+        "bylaw": "中华人民共和国内河安全管理条例",
+        "commitWay": "网上现场都可提交",
+        "copiesNum": 1.0,
+        "createDate": 1626317124000,
+        "freeSubmission": "无",
+        "isDelete": "N",
+        "isMust": "必要",
+        "materialApproveType": "其他",
+        "materialCode": "M0010180030000101",
+        "materialExplain": "真实有效",
+        "materialId": "053ed4fd7bc642309b575bb38e788c89",
+        "materialStandard": "纸质和电子",
+        "materialTitle": "作业计划和有关核对情况",
+        "materialType": "原件",
+        "pageformat": "A4",
+        "sourceChannel": "申请人自备",
+        "sourceexplain": "自备",
+        "unifyId": "t0HHta4pQyi-M0h0ykFgpg",
+        "updateDate": 1668659565000
+      }
+    ],
+    "minExplain": "三级标准说明：该事项已经实现原件核验，申请人可以通过网络提交和补正相关申请信息和材料，材料符合办理条件直接进入办理程序，申请人可网上查询办理状态、咨询问题，作出审批决定后，申请人需到现场核验原件材料、缴费后领取证书结果。整个办事过程应到大厅现场不超过1次。",
+    "minSeq": "1",
+    "orgId": "9a3c0b9b8fc446bba5f536dcada7dc23",
+    "orgName": "湖南省交通运输厅",
+    "processDescript": "无",
+    "quantitativeRestriction": "赞无数量限制",
+    "resultList": [
+      {
+        "approveCode": "t0HHta4pQyi-M0h0ykFgpg",
+        "approveId": "t0HHta4pQyi-M0h0ykFgpg",
+        "bucketName": "zwfw202107",
+        "createTime": 1626317337000,
+        "extend": "png",
+        "fileName": "行政许可审查决定.png",
+        "id": "a72d2b41baca446a9a5728f2b0dc7321",
+        "isDelete": "0",
+        "isExchange": "Y",
+        "isNeed": "N",
+        "operateFlag": "N",
+        "resultChart": "approve/2021-07-15-10/1626317337539$$行政许可审查决定.png",
+        "resultSampleName": "行政许可审查报告"
+      }
+    ],
+    "resultSampleName": "行政许可审查报告",
+    "rightsCode": "001018003000",
+    "rightsId": "0f5cbeda9fc8499a9e9244865dfd5267",
+    "schemeLevels": "市、县",
+    "serveObject": "法人",
+    "transactLevel": "三级标准",
+    "transactionFrom": "窗口办理^网上办理",
+    "typeName": "其他行政权力",
+    "unifyId": "t0HHta4pQyi-M0h0ykFgpg",
+    "unifyName": "船舶载运固体散装货物（A组和C组）的报告（船舶和货物托运人）",
+    "ywCode": "01"
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

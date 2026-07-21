@@ -1,0 +1,531 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000120185000",
+        "rightsId": "8794B3AA88939492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "4e797e20c7fc463cb9d46eeed3bf613e",
+        "unifyName": "拖拉机和联合收割机临时号牌申领",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120185000",
+        "rightsId": "8794B3AA88939492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "eRnpf4tcSqe_WaOcQlgBxw",
+        "unifyName": "拖拉机和联合收割机注销登记",
+        "ywCode": "06"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120187000",
+        "rightsId": "8794B3AA88959492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f41ab6d4cc464997a2844ca872d12184",
+        "unifyName": "蚕种生产、经营许可证核发",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120189000",
+        "rightsId": "8794B3AA88979492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d2225786905c41409b6293f4ee01cbe8",
+        "unifyName": "种畜禽生产经营许可（含蜂种）",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120189000",
+        "rightsId": "8794B3AA88979492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "epqJRQuxTrWRsa2Z8tsL6Q",
+        "unifyName": "种畜禽生产经营许可变更（含蜂种）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120191000",
+        "rightsId": "8794B3AA88999492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f9a8ff90af334488bcc1c515fea48f9d",
+        "unifyName": "部级权限内肥料产品登记初审",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120191000",
+        "rightsId": "8794B3AA88999492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "931e4fe933fb44ccb75b69fecdb4f890",
+        "unifyName": "部级权限内肥料产品续展登记初审",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120191000",
+        "rightsId": "8794B3AA88999492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1e84000d50904869aa2d75460347309a",
+        "unifyName": "部级权限内肥料产品变更登记初审",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120192000",
+        "rightsId": "8794B3AA889A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d916a8db089c4f36a39b3e0c53c672c7",
+        "unifyName": "有机肥料产品登记核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120192000",
+        "rightsId": "8794B3AA889A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9036bbab15aa4a9ca12eb3f5ce03410a",
+        "unifyName": "有机肥料产品续展登记核准",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120192000",
+        "rightsId": "8794B3AA889A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1a57b26d23d74f0482908572ebad53e2",
+        "unifyName": "有机肥料产品变更登记核准",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120192000",
+        "rightsId": "8794B3AA889A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8a4a12f2b75b4c909abad2e22fc78450",
+        "unifyName": "有机-无机复混肥料产品登记核准",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120192000",
+        "rightsId": "8794B3AA889A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4df14117e7374af3be87414796b1d88f",
+        "unifyName": "有机-无机复混肥料产品续展登记核准",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120192000",
+        "rightsId": "8794B3AA889A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0b61ee52d8ad4eaaaac25a51f2212b40",
+        "unifyName": "有机-无机复混肥料产品变更登记核准",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120192000",
+        "rightsId": "8794B3AA889A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fe4dbf8393e6469fadc62c53bad0de1c",
+        "unifyName": "床土调酸剂产品登记核准",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120192000",
+        "rightsId": "8794B3AA889A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d27e7373904241ca8874e91939e5c44c",
+        "unifyName": "床土调酸剂产品续展登记核准",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120192000",
+        "rightsId": "8794B3AA889A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f96ebb181c43408fbcf716846f2ba7b5",
+        "unifyName": "床土调酸剂产品变更登记核准",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120198000",
+        "rightsId": "8794B3AA88A69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "db2LMTeJSOeX9VrD3bobVQ",
+        "unifyName": "国家重点保护的天然种质资源的采集、采伐批准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120200000",
+        "rightsId": "8794B3AA88A89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "WtnDAQd7QDCb7y5IDuyFxQ",
+        "unifyName": "食用菌菌种生产经营许可证核发（母种、原种）",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120200000",
+        "rightsId": "8794B3AA88A89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "830b46e34ef94d5dab04b1a34228af2d",
+        "unifyName": "食用菌菌种生产经营许可证核发（栽培种）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120201000",
+        "rightsId": "8794B3AA88A99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "GnOxARXIS-SK11iLWOzrYQ",
+        "unifyName": "使用低于国家或地方规定标准的农作物种子审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120202000",
+        "rightsId": "8794B3AA88AA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3aIJNrTeRNCpzjx3xjg0pQ",
+        "unifyName": "主要农作物杂交种子及其亲本种子生产经营许可证核发（含实行选育生产经营相结合、有效区域为全国的生产经营许可证）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120202000",
+        "rightsId": "8794B3AA88AA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6649895118bd46058b582c0466c8b581",
+        "unifyName": "主要农作物常规种子及非主要农作物种子生产经营许可证核发",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120208000",
+        "rightsId": "8794B3AA88B99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d269eacb69314305b58d86ea9bda96b4",
+        "unifyName": "动物防疫条件合格证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120208000",
+        "rightsId": "8794B3AA88B99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5KAgTmRWT7mQ5KH-HZ-ecw",
+        "unifyName": "动物防疫条件合格证变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120208000",
+        "rightsId": "8794B3AA88B99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "DD4BxS-gTFCoZz5P7T-AQA",
+        "unifyName": "动物防疫条件合格证补发/注销",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120209000",
+        "rightsId": "8794B3AA88BA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6d1ba0adcd32459b862fe09350c3037e",
+        "unifyName": "动物诊疗许可证核发",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120209000",
+        "rightsId": "8794B3AA88BA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "WU83PKIVR3qJuJjowP_Z1A",
+        "unifyName": "动物诊疗许可证变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120209000",
+        "rightsId": "8794B3AA88BA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "_CLkLfWWStaoCDLCkFu4_g",
+        "unifyName": "动物诊疗许可证补发",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120212000",
+        "rightsId": "8794B3AA88BD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "m9JZ_bb2TXCknl7ONl5Ohg",
+        "unifyName": "动物及动物产品检疫合格证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120214000",
+        "rightsId": "8794B3AA88C79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "qJbkO9rITtil1cOx86cf5A",
+        "unifyName": "省级及以下农产品质量安全检测机构考核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120214000",
+        "rightsId": "8794B3AA88C79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "EJe3EI1iRGGlzFp24cKf9g",
+        "unifyName": "省级及以下农产品质量安全检测机构考核（变更）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120214000",
+        "rightsId": "8794B3AA88C79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "iFeRyVU7QQi9lCDFrIXDig",
+        "unifyName": "省级及以下农产品质量安全检测机构考核（注销）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120215000",
+        "rightsId": "8794B3AA88C89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bE-FoS23RVqeGAXeTf8b-Q",
+        "unifyName": "向国外申请农业植物新品种权审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120216000",
+        "rightsId": "8794B3AA88C99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c11ZiKWBRluHmECB6Vrt4g",
+        "unifyName": "养殖、科研等特殊需要在禁渔期、禁渔区作业审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120218000",
+        "rightsId": "8794B3AA88CB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Zs7fCzpPSPaJllKqhWCuyQ",
+        "unifyName": "农业转基因生物加工审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120218000",
+        "rightsId": "8794B3AA88CB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "F7cwg6yBQte8scDKszOaBg",
+        "unifyName": "农业转基因生物加工审批（变更）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120219000",
+        "rightsId": "8794B3AA88CC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cs3NQKLZQ8KC_1v9f2Cc0g",
+        "unifyName": "出口国家重点保护的农业野生植物或进出口中国参加的国际公约限制进出口的农业野生植物审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120220000",
+        "rightsId": "8794B3AA88CD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Nv8cZ9AwQf6rzM1opd01MQ",
+        "unifyName": "出售、收购国家二级保护野生植物（农业类）审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120220000",
+        "rightsId": "8794B3AA88CD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "iuitOAedR2OZeMmRHg2u3w",
+        "unifyName": "采集国家二级保护野生植物（农业类）审批",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121001000",
+        "rightsId": "8794B3AA88CE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5de7fd05f5ed4cfcb611229c21d35b47",
+        "unifyName": "限制进口技术许可意向书",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121001000",
+        "rightsId": "8794B3AA88CE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a682db9c60cb4461b20be7a022a15edb",
+        "unifyName": "限制进口技术许可证",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121001000",
+        "rightsId": "8794B3AA88CE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "mX30QAf7ShmkNtYdcHhnQw",
+        "unifyName": "限制出口技术许可意向书",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121001000",
+        "rightsId": "8794B3AA88CE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "vRx2IYwmSyGiP4BHpfl-yg",
+        "unifyName": "限制出口技术许可证",
+        "ywCode": "04"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000121002000",
+        "rightsId": "8794B3AA88CF9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "b2768c3f888d41d4815f377f3428d031",
+        "unifyName": "对外劳务合作经营资格核准",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121006000",
+        "rightsId": "8794B3AA88D39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "73867702c3c844c39207cf2a7f135a73",
+        "unifyName": "设立拍卖企业",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121006000",
+        "rightsId": "8794B3AA88D39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "671a04b036f94275978cd0b355590706",
+        "unifyName": "拍卖企业终止",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121006000",
+        "rightsId": "8794B3AA88D39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c41e985d0c6f4036992c040a26893fec",
+        "unifyName": "设立拍卖企业分公司",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121006000",
+        "rightsId": "8794B3AA88D39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0ef2fdf62a7a47e696f0066c967791ac",
+        "unifyName": "拍卖企业变更名称",
+        "ywCode": "04"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121006000",
+        "rightsId": "8794B3AA88D39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "43adf051d40f4011872cc8baab212eb5",
+        "unifyName": "拍卖企业变更法定代表人",
+        "ywCode": "05"
+      }
+    ],
+    "pageIndex": 16,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

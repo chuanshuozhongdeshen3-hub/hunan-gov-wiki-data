@@ -1,0 +1,522 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004127W00",
+        "rightsId": "Fdr3EQ5ITd6R3IZ3NGNcRw",
+        "transactLevel": "0",
+        "unifyId": "5f1b9b40a0c1419c88fd71fb19874f46",
+        "unifyName": "绿心融合发展区建设项目准入审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004127W00",
+        "rightsId": "Fdr3EQ5ITd6R3IZ3NGNcRw",
+        "transactLevel": "0",
+        "unifyId": "K8GoT63dQmKzGDIbbZvzMQ",
+        "unifyName": "绿心核心保护区内建设项目准入审核",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431007067W00",
+        "rightsId": "WbHYksECQLK79hJqDdjdpw",
+        "transactLevel": "0",
+        "unifyId": "05d30393616c4f67acb0083945d545f8",
+        "unifyName": "民用爆炸物品安全生产许可（证）年检",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009031W00",
+        "rightsId": "1yiHQfjdTU2Ly3Iz34e6Fg",
+        "transactLevel": "0",
+        "unifyId": "fb2e3bebe65c400e845f758be4a0e4de",
+        "unifyName": "娱乐场所经营单位备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009031W00",
+        "rightsId": "1yiHQfjdTU2Ly3Iz34e6Fg",
+        "transactLevel": "0",
+        "unifyId": "aadefa0eb9994e87be47d3de44ade0ff",
+        "unifyName": "娱乐场所变更名称",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009031W00",
+        "rightsId": "1yiHQfjdTU2Ly3Iz34e6Fg",
+        "transactLevel": "0",
+        "unifyId": "c8f1461344974abfa36b75d62067575c",
+        "unifyName": "娱乐场所变更经营场所",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009031W00",
+        "rightsId": "1yiHQfjdTU2Ly3Iz34e6Fg",
+        "transactLevel": "0",
+        "unifyId": "3484517b34af4bfaa56ac26fea4e4507",
+        "unifyName": "娱乐场所变更法定代表人和主要负责人",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009031W00",
+        "rightsId": "1yiHQfjdTU2Ly3Iz34e6Fg",
+        "transactLevel": "0",
+        "unifyId": "1dc8859bb49f4882a43d28ac0f5f6739",
+        "unifyName": "娱乐场所变更主要设施设备",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017154W00",
+        "rightsId": "9vc3xOMRQwSR2jmLwfNlYA",
+        "transactLevel": "0",
+        "unifyId": "q2AElXzjTle8KNmWmcKbeA",
+        "unifyName": "城市照明设施移交",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017297W00",
+        "rightsId": "70F599A55A9AABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "73opLV9iR-msrS0KcsKtjw",
+        "unifyName": "已入湘企业变更",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017297W00",
+        "rightsId": "70F599A55A9AABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "VhBY4b2KTzyeONC_dwQ6Gw",
+        "unifyName": "已入湘企业注销",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018101W00",
+        "rightsId": "1QWrqmUrQw-8pFdgeBsS1g",
+        "transactLevel": "0",
+        "unifyId": "nm_HOCiJR7in8g77CUcvMA",
+        "unifyName": "在我市经营累计3个月以上的外地道路危险货物运输企业的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018130W00",
+        "rightsId": "70F599A5550FABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "458ca46df5af4041a4e1523c63204355",
+        "unifyName": "专用铁路兼办公共旅客、货物运输营业审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018188W00",
+        "rightsId": "RAbKPegtQE-W4sEdrdsiTw",
+        "transactLevel": "1",
+        "unifyId": "0rRVp9BcT2O8VzUY4Ar_7g",
+        "unifyName": "船舶代理、水路旅客运输代理以及水路货物运输代理业务经营企业（经营者）信息备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431019049W00",
+        "rightsId": "70F599A55893ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "5377e685cccb4bd8a0f17b302bc339c6",
+        "unifyName": "生产建设项目水土保持设施验收备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431020045W00",
+        "rightsId": "WqvhUE0pQbOeo0NqGcdykg",
+        "transactLevel": "0",
+        "unifyId": "4MofFAKoQ4a7oY5bVrPggw",
+        "unifyName": "与动物有关的一、二级病原微生物实验室建设备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431020062W00",
+        "rightsId": "TpaI0i6FSQ2jgpUJ1fYVIw",
+        "transactLevel": "0",
+        "unifyId": "TPNwKNaKRFK7vrgm7Xrm9w",
+        "unifyName": "持证收购出售利用水生野生动物及产品的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431022028W00",
+        "rightsId": "PYxfR1YbR_2duXt_f_BvOg",
+        "transactLevel": "0",
+        "unifyId": "31d4992085db493c92105637561bf0aa",
+        "unifyName": "演出场所经营单位的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431023094W00",
+        "rightsId": "70F599A555EDABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "948143a006af4e0292aa46578abe229e",
+        "unifyName": "对供水单位、城市公共饮用水项目选址和设计卫生验收",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431031105W00",
+        "rightsId": "f6jrdSSiSGqAHTC6_TSyVA",
+        "transactLevel": "0",
+        "unifyId": "5c8f20e3558b4201991dfba07c770d9b",
+        "unifyName": "网络食品交易第三方平台首次备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431031105W00",
+        "rightsId": "f6jrdSSiSGqAHTC6_TSyVA",
+        "transactLevel": "0",
+        "unifyId": "8faa11630f584f19a8c216423948f24f",
+        "unifyName": "网络食品交易第三方平台备案变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431031105W00",
+        "rightsId": "f6jrdSSiSGqAHTC6_TSyVA",
+        "transactLevel": "0",
+        "unifyId": "621a1f48fbfb48b2a599a084499b289b",
+        "unifyName": "自建网站首次备案",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431031105W00",
+        "rightsId": "f6jrdSSiSGqAHTC6_TSyVA",
+        "transactLevel": "0",
+        "unifyId": "06e54b19978041f69fb2630c9275daa8",
+        "unifyName": "自建网站备案变更",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431032043W00",
+        "rightsId": "ec1764a8ded644dcb1657b88490d81ce",
+        "transactLevel": "0",
+        "unifyId": "3be61e94c2bb44a6bc5b0a4fbaccd67e",
+        "unifyName": "地（市）级以上广播电台、电视台从事互联网视听节目转播类服务备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039013W00",
+        "rightsId": "70F599A55B37ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "fe1cf1b558a34d8dbcb972475c62e37c",
+        "unifyName": "报纸出版号外备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039017W00",
+        "rightsId": "70F599A55B4DABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "c12cc7c33dbf418f9a59e10e4316f540",
+        "unifyName": "建立发行出版物的网络交易平台备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039019W00",
+        "rightsId": "70F599A56073ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "09736d81b0ca4c8cbe15033a408ba7e8",
+        "unifyName": "只读类光盘设备投产验收",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039053W00",
+        "rightsId": "70F599A565ECABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "2053e3a84aab44848cc40fca1872c188",
+        "unifyName": "音像制品版号发放",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039071W00",
+        "rightsId": "790442c7a6824ef09ccf9a043f73a3ed",
+        "transactLevel": "0",
+        "unifyId": "9d5332d193c94431941d8d419337f8be",
+        "unifyName": "单位、个人从事出版物出租业务的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039072W00",
+        "rightsId": "e135aabbfd3c49068cc3bbb505d88b4e",
+        "transactLevel": "0",
+        "unifyId": "9e939b6a7b36408c9769966717ba71c5",
+        "unifyName": "期刊出版增刊备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039078W00",
+        "rightsId": "200db0aff8df4a8c9ddffc535c74abae",
+        "transactLevel": "0",
+        "unifyId": "c728e705d2c342a59b2bc83c4e364cc5",
+        "unifyName": "已经取得出版物经营许可证的单位、个人在批准的经营范围内通过互联网等信息网络从事出版物发行业务的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431064001W00",
+        "rightsId": "hYSebEvQTDSMlRscoK3X1Q",
+        "transactLevel": "0",
+        "unifyId": "d1091c1cf6d7470999382a3800975ae1",
+        "unifyName": "在风景名胜区内从事建设、设置广告、举办大型游乐活动以及其他影响生态和景观活动许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068012W00",
+        "rightsId": "cwCZ-LovTs63lI223p7wmw",
+        "transactLevel": "0",
+        "unifyId": "3de77d2f7bee4f1e8822b4978949eba6",
+        "unifyName": "博物馆设立备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068012W00",
+        "rightsId": "cwCZ-LovTs63lI223p7wmw",
+        "transactLevel": "0",
+        "unifyId": "42e4ac760bb4447cbb347abdb798aea0",
+        "unifyName": "博物馆终止备案",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072031W00",
+        "rightsId": "70F599A55BD5ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "2bb0e3bb88cc4aabba6cb0681e61b701",
+        "unifyName": "医院类别医疗机构申请中药制剂委托配制备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072056W00",
+        "rightsId": "9CFXaMXYTSq-Y0T9knJWjQ",
+        "transactLevel": "0",
+        "unifyId": "e03339701f4a44a5a9342088633f7a81",
+        "unifyName": "第二类医疗器械经营首次备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072056W00",
+        "rightsId": "9CFXaMXYTSq-Y0T9knJWjQ",
+        "transactLevel": "0",
+        "unifyId": "0236f9cf72694502b5813b53b766c203",
+        "unifyName": "第一类医疗器械生产补发备案",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072056W00",
+        "rightsId": "9CFXaMXYTSq-Y0T9knJWjQ",
+        "transactLevel": "0",
+        "unifyId": "9e63f745491044c2b33a1a076f9470f4",
+        "unifyName": "第一类医疗器械委托生产备案",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072056W00",
+        "rightsId": "9CFXaMXYTSq-Y0T9knJWjQ",
+        "transactLevel": "0",
+        "unifyId": "e8f4ba4534b24f3cb932f6b03f26de1f",
+        "unifyName": "第二类医疗器械经营备案变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072056W00",
+        "rightsId": "9CFXaMXYTSq-Y0T9knJWjQ",
+        "transactLevel": "0",
+        "unifyId": "d3c070f875a94841bcaf16143592283e",
+        "unifyName": "第二类医疗器械经营备案凭证补发",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072056W00",
+        "rightsId": "9CFXaMXYTSq-Y0T9knJWjQ",
+        "transactLevel": "0",
+        "unifyId": "245c359314bb4488853b34bc9f127f34",
+        "unifyName": "第二类医疗器械经营备案凭证取消",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072056W00",
+        "rightsId": "9CFXaMXYTSq-Y0T9knJWjQ",
+        "transactLevel": "0",
+        "unifyId": "54c13885670c49f1aaf16f00e7c411e3",
+        "unifyName": "第一类医疗器械产品首次备案",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072056W00",
+        "rightsId": "9CFXaMXYTSq-Y0T9knJWjQ",
+        "transactLevel": "0",
+        "unifyId": "834d22b71b954feaa428ebb8fe0143dd",
+        "unifyName": "第一类医疗器械产品变更备案",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072056W00",
+        "rightsId": "9CFXaMXYTSq-Y0T9knJWjQ",
+        "transactLevel": "0",
+        "unifyId": "bdec056b1d49432cb325c46866d12709",
+        "unifyName": "第一类医疗器械产品补发备案",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072056W00",
+        "rightsId": "9CFXaMXYTSq-Y0T9knJWjQ",
+        "transactLevel": "0",
+        "unifyId": "f14ba45222e24cec88162ab7d47bfd5a",
+        "unifyName": "第一类医疗器械生产首次备案",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072056W00",
+        "rightsId": "9CFXaMXYTSq-Y0T9knJWjQ",
+        "transactLevel": "0",
+        "unifyId": "ef6736081da645cab3b027fb84255d69",
+        "unifyName": "第一类医疗器械生产变更备案",
+        "ywCode": "09"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072057W00",
+        "rightsId": "zd0jA_H_QPaMDqrISVQ2kA",
+        "transactLevel": "0",
+        "unifyId": "201fc778eff842feaa73ca7209e5cf40",
+        "unifyName": "核发麻醉药品、第一类精神药品和第二类精神药品原料药生产计划初审",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099001W00",
+        "rightsId": "9rZt7lNqS3yzqmNOtk_X0w",
+        "transactLevel": "0",
+        "unifyId": "LSEdvgLNQV2jRUrkCrmybg",
+        "unifyName": "省本级政务信息化项目可行性研究报告审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099001W00",
+        "rightsId": "9rZt7lNqS3yzqmNOtk_X0w",
+        "transactLevel": "0",
+        "unifyId": "L31zZuqURQiBYvF_WUfINg",
+        "unifyName": "省本级政务信息化项目初步设计和投资概算审批",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432072004W00",
+        "rightsId": "kt-U9Y7ORvOyByK8LYHI7Q",
+        "transactLevel": "0",
+        "unifyId": "Cx3ajVGoQ4mmwjZFmbH0rw",
+        "unifyName": "互联网药品医疗器械信息服务备案",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 10,
+    "pageSize": 50,
+    "total": 503,
+    "totalPage": 11
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

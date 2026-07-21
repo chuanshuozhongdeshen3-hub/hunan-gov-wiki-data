@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "data": {
+    "acceptanceCondition": "民办非企业单位申请成立、变更手续办理完结后，应将变更的事项内容报社会组织登记管理机关备案。",
+    "according": "《社会团体登记管理条例》（中华人民共和国国务院令〔2016〕第666号）第五条   国家保护社会团体依照法律、法规及其章程开展活动，任何组织和个人不得非法干涉。 。《民办非企业单位登记管理暂行条例》（国务院令 第251号）第十四条  民办非企业单位凭登记证书申请刻制印章，开立银行账号。民办非企业单位应当将印章式样、银行账号报登记管理机关备案。",
+    "applicantDuty": "应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。",
+    "applicantPower": "依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。",
+    "approveLimit": "10",
+    "approveLimitExplain": "有时限，10日",
+    "blbm": "省、市、县级民政部门",
+    "commitmentLimit": "5",
+    "commitmentLimitExplain": "有时限，1日",
+    "deptName": "民政部门",
+    "doScope": "全国",
+    "faqList": [
+      {
+        "createDate": 1689153909000,
+        "faqContent": "民办非企业单位哪些事项需要备案？",
+        "faqId": "3ab08f45b83c44caaddcadf4b19077dd",
+        "isDelete": "N",
+        "isSzyy": "Y",
+        "orderNum": 1.0,
+        "replyContent": "成立登记和变更登记相关事项",
+        "unifyId": "dweY4B8ZSOK-uoK9ppAxGw",
+        "updateDate": 1715915958000
+      }
+    ],
+    "isCharge": "否",
+    "isEnterpriseCommitment": "否",
+    "isIntermediaryServices": "无",
+    "isSpecialProcedure": "否",
+    "isonline": "是",
+    "lctList": [
+      {
+        "approveCode": "dweY4B8ZSOK-uoK9ppAxGw",
+        "approveId": "dweY4B8ZSOK-uoK9ppAxGw",
+        "bucketName": "zwfw202110",
+        "createTime": 1715915615000,
+        "flowc": "approve/2021-10-10-10/1633833352692$$民办非企业单位有关事项备案流程图.jpg",
+        "id": "3189e7221cef4fd2a227e29ad8fa9197",
+        "isDelete": "0",
+        "isExchange": "N",
+        "operateFlag": "N",
+        "updateTime": 1715915615000
+      }
+    ],
+    "limitsceneexplain": "需现场核实材料和身份等信息",
+    "materialList": [
+      {
+        "acceptStandard": "材料齐全",
+        "bylaw": "无",
+        "commitWay": "网上现场都可提交",
+        "copiesNum": 1.0,
+        "createDate": 1715915935000,
+        "freeSubmission": "无",
+        "isDelete": "N",
+        "isMust": "必要",
+        "materialApproveType": "证明材料",
+        "materialCode": "M431011075W000203",
+        "materialExplain": "按照法律法规规定应提交的材料",
+        "materialId": "6IUV0BkzSk2ycm5sZm3WlQ",
+        "materialStandard": "纸质和电子",
+        "materialTitle": "印章备案回执表",
+        "materialType": "原件",
+        "pageformat": "A4",
+        "sourceChannel": "申请人自备",
+        "sourceexplain": "申请人自备",
+        "unifyId": "dweY4B8ZSOK-uoK9ppAxGw",
+        "updateDate": 1715915935000
+      }
+    ],
+    "minExplain": "四级标准说明：该事项已经实现全程网办，申请人可以通过网络提交和补正相关申请信息和材料，提交的材料全部为已验证信息，受理通过后直接进入办理程序，申请人可网上查询办理状态、咨询问题，作出审批决定后，申请人可以通过网上缴费后物流递送证书结果。整个办事过程无需到现场办理。",
+    "minSeq": "0",
+    "orgId": "0ebc13dbe7324ffebc8cf13f7b7eb5d7",
+    "orgName": "湖南省民政厅",
+    "processDescript": "网上提交备案事项——网上初审受理——打印纸质版材料送来备案",
+    "quantitativeRestriction": "无数量限制",
+    "resultSampleName": "无",
+    "rightsCode": "431011075W00",
+    "rightsId": "ICbMaCLFS4iEvBlTRp3LyA",
+    "schemeLevels": "省、市、县",
+    "serveObject": "法人",
+    "transactLevel": "四级标准",
+    "transactionFrom": "网上办理",
+    "typeName": "其他行政权力",
+    "unifyId": "dweY4B8ZSOK-uoK9ppAxGw",
+    "unifyName": "民办非企业单位印章备案",
+    "ywCode": "02"
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

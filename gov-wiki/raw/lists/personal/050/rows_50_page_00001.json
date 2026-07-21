@@ -1,0 +1,514 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105013002",
+        "rightsId": "362d8bed9d8145beaf8d4c14264df921",
+        "transactLevel": "0",
+        "unifyId": "c504db7416e441b096db8ade42463f25",
+        "unifyName": "中等职业学校实习指导教师资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105013003",
+        "rightsId": "7261ef5f47714a1ab01044d1884d15bd",
+        "transactLevel": "0",
+        "unifyId": "d31c11d19864419887306c47cc0eba6f",
+        "unifyName": "中等职业学校教师资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105013004",
+        "rightsId": "cded3243f06847e4aa1f329175aef1b6",
+        "transactLevel": "0",
+        "unifyId": "86a4606c617d4b9b8087ef728d5ddf11",
+        "unifyName": "高级中学教师资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105013005",
+        "rightsId": "5937d5d2f39a4e638e506adb36612247",
+        "transactLevel": "0",
+        "unifyId": "4bff808ab4f24b4381b213d5c19a9d17",
+        "unifyName": "初级中学教师资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105013006",
+        "rightsId": "c2bee61d3c8642979de466ec86cfd448",
+        "transactLevel": "0",
+        "unifyId": "6454815041064151b050e4d5674af288",
+        "unifyName": "小学教师资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105013007",
+        "rightsId": "22d918cb56954931a632254227039ddb",
+        "transactLevel": "0",
+        "unifyId": "fc3f9156977e4159acd5d683af6254d0",
+        "unifyName": "幼儿园教师资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107038000",
+        "rightsId": "8794B3AA85C99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "nWax39gRRdijSf47R4ws-A",
+        "unifyName": "煤矿特种作业人员（含煤矿矿井使用的特种设备作业人员）操作资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109103000",
+        "rightsId": "829f992cda8a455f96be4d17cde59e6e",
+        "transactLevel": "1",
+        "unifyId": "M7n6fUnTTMm97z1VsoUY-w",
+        "unifyName": "保安员证核发（资格考试网上报名）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109117000",
+        "rightsId": "c899f0dc41564e74aa9b0c1c0bd60c36",
+        "transactLevel": "1",
+        "unifyId": "nzG5vdW4QHWjugNFHag8rA",
+        "unifyName": "初次申请爆破工程技术人员",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109117000",
+        "rightsId": "c899f0dc41564e74aa9b0c1c0bd60c36",
+        "transactLevel": "0",
+        "unifyId": "JdQWwkzFRTyrbJbEnYkY-g",
+        "unifyName": "《爆破作业人员许可证》有效期届满申请换发",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109117000",
+        "rightsId": "c899f0dc41564e74aa9b0c1c0bd60c36",
+        "transactLevel": "0",
+        "unifyId": "EEd2vtqVR6OxE-aydt9NVA",
+        "unifyName": "《爆破作业人员许可证》变更工作单位申请换发",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109117000",
+        "rightsId": "c899f0dc41564e74aa9b0c1c0bd60c36",
+        "transactLevel": "0",
+        "unifyId": "u6nyjYknSyiih_7yT2WxVA",
+        "unifyName": "《爆破作业人员许可证》遗失、损毁补发",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109117000",
+        "rightsId": "c899f0dc41564e74aa9b0c1c0bd60c36",
+        "transactLevel": "0",
+        "unifyId": "FXHsGWmWTHG7KQ0tVmto3A",
+        "unifyName": "《爆破作业人员许可证》撤销、吊销和注销申请",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109145004",
+        "rightsId": "af335ef5787947a3b53807c2242821d2",
+        "transactLevel": "0",
+        "unifyId": "hIs7avdzRv63QSKO4iJ65A",
+        "unifyName": "申请校车驾驶资格",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112011000",
+        "rightsId": "8794B3AA86299492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ba9ba928b2b64cad8eefd53559ae951d",
+        "unifyName": "公证员任职（初审）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112014000",
+        "rightsId": "8794B3AA862C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0d04b0f3b6ab4459af85587b64155d4f",
+        "unifyName": "司法鉴定人执业登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112015000",
+        "rightsId": "8794B3AA862D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ded8dc493e63481f811d76fb5e2242d4",
+        "unifyName": "基层法律服务工作者执业核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112015000",
+        "rightsId": "8794B3AA862D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e1cbe9acaf9d4eada5fe91c386d01c7a",
+        "unifyName": "基层法律服务工作者变更执业机构核准",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000113004000",
+        "rightsId": "8794B3AA86329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3c6f5955893648c6b43ea2a6916197b7",
+        "unifyName": "注册会计师注册",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117055002",
+        "rightsId": "8794B3AA87329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "96089ceb029c4121b2fc2cbe62d9f852",
+        "unifyName": "二级建造师强制注销",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117055002",
+        "rightsId": "8794B3AA87329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "nBYpRN-iT-aknwmhpLL98Q",
+        "unifyName": "二级建造师初始申报/重新申报",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117055002",
+        "rightsId": "8794B3AA87329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "RxOeC5ANR0aJYEP4ybavZQ",
+        "unifyName": "二级建造师延期申报",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117055002",
+        "rightsId": "8794B3AA87329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fW_DzRHiRH2wLFY7EbgMlA",
+        "unifyName": "二级建造师增项",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117055002",
+        "rightsId": "8794B3AA87329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "k3s27MASTz2H-rgQVjwAYA",
+        "unifyName": "二级建造师换证申报",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118040000",
+        "rightsId": "8794B3AA87639492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "RPeBwtDhQYqw8ihUY6wHzA",
+        "unifyName": "船员适任证书核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118040000",
+        "rightsId": "8794B3AA87639492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "CX43eEpuQpu0I8z-2dWGHw",
+        "unifyName": "船员适任证书换发",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118040000",
+        "rightsId": "8794B3AA87639492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bGVobItjSMG3iygjEd9pSg",
+        "unifyName": "船员适任证书补发",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118045002",
+        "rightsId": "8794B3AA87699492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "hnoUH-LaSz6QaGvuQZu_pA",
+        "unifyName": "危险化学品申报人员资格认可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118045002",
+        "rightsId": "8794B3AA87699492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "li2jgZt5SBSQcHVa27OZFA",
+        "unifyName": "装卸管理人员资格认可",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118045003",
+        "rightsId": "8794B3AA876A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7EB4XNisRQKK1I4HwIkPzw",
+        "unifyName": "集装箱装箱现场检查员资格认可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119029002",
+        "rightsId": "06416e7cf0b8447a94d90e4652f6dc95",
+        "transactLevel": "0",
+        "unifyId": "Q-4_MUfeSfmJk_UpBQDhYQ",
+        "unifyName": "二级造价工程师（水利工程）证书初始注册",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119029002",
+        "rightsId": "06416e7cf0b8447a94d90e4652f6dc95",
+        "transactLevel": "0",
+        "unifyId": "Osqf5JSXTfy9LmKys6obXg",
+        "unifyName": "二级造价工程师（水利工程）证书延续注册",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119029002",
+        "rightsId": "06416e7cf0b8447a94d90e4652f6dc95",
+        "transactLevel": "0",
+        "unifyId": "7W5y9LVESJKbERQynGPeoQ",
+        "unifyName": "二级造价工程师（水利工程）证书单位名称变更",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119029002",
+        "rightsId": "06416e7cf0b8447a94d90e4652f6dc95",
+        "transactLevel": "0",
+        "unifyId": "vqvuiCYqRsOuucbSs-fcHg",
+        "unifyName": "二级造价工程师（水利工程）证书注销注册",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119029002",
+        "rightsId": "06416e7cf0b8447a94d90e4652f6dc95",
+        "transactLevel": "0",
+        "unifyId": "R5wNGfzMT7eyxSAnCT_f9Q",
+        "unifyName": "二级造价工程师（水利工程）证书执业单位变更",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120014000",
+        "rightsId": "8794B3AA87D69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "E67e4eSURTmZQNwJihb2xg",
+        "unifyName": "执业兽医资格证书核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120207000",
+        "rightsId": "8794B3AA88B89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "O6WnXvM8T06jVim_GVvSDw",
+        "unifyName": "执业兽医备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000122007000",
+        "rightsId": "8794B3AA88FE9492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "-ioh3Bf5QDOFhe1siwIC-w",
+        "unifyName": "导游人员从业资格证书核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123010000",
+        "rightsId": "8794B3AA89219492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "E5DSKARCS32ze7-d2V3V1w",
+        "unifyName": "医师资格准入（军队医师复转退换领地方医师资格证书）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123025000",
+        "rightsId": "8794B3AA89339492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "C74Hu-2fRnSkVmkMXWqZ_A",
+        "unifyName": "职业病诊断资格证书核发（新发）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123025000",
+        "rightsId": "8794B3AA89339492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "k1r7Zg90QruKNavtjDrpKQ",
+        "unifyName": "职业病诊断资格证书核发（增加业务范围）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125041001",
+        "rightsId": "94af9607ce914e2b80743fee538d5678",
+        "transactLevel": "0",
+        "unifyId": "aXJhbu_kTsG6xwdGrlkjFw",
+        "unifyName": "煤矿特种作业人员（含煤矿矿井使用的特种设备作业人员）操作资格认定初领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125041001",
+        "rightsId": "94af9607ce914e2b80743fee538d5678",
+        "transactLevel": "0",
+        "unifyId": "g6CpW6aqT4WcxSUC9hQHew",
+        "unifyName": "煤矿特种作业人员（含煤矿矿井使用的特种设备作业人员）操作资格认定复审",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125041001",
+        "rightsId": "94af9607ce914e2b80743fee538d5678",
+        "transactLevel": "0",
+        "unifyId": "eloAeJHAQCKJNdWdcJH2tw",
+        "unifyName": "煤矿特种作业人员（含煤矿矿井使用的特种设备作业人员）操作资格认定换证",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125041002",
+        "rightsId": "8794B3AA89879492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a9-9Jr_dQpqEqjL98Y-eDw",
+        "unifyName": "特种作业人员特种操作证初领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125041002",
+        "rightsId": "8794B3AA89879492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "gYSzvPKnTb2IKdGQda1kxg",
+        "unifyName": "特种作业人员特种操作证复审",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125041002",
+        "rightsId": "8794B3AA89879492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a-jWWdo9RCGLwQbkQWpF-g",
+        "unifyName": "特种作业人员特种操作证换证",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125047002",
+        "rightsId": "321b644f9f1e4b34ba8b37a30597e12f",
+        "transactLevel": "0",
+        "unifyId": "f725e1b6eab347afa30bcfe14a451b75",
+        "unifyName": "一级注册消防工程师初始注册审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125047002",
+        "rightsId": "321b644f9f1e4b34ba8b37a30597e12f",
+        "transactLevel": "0",
+        "unifyId": "4abbed2b0ff34bc99d97400ae425a68d",
+        "unifyName": "一级注册消防工程师变更注册审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125047002",
+        "rightsId": "321b644f9f1e4b34ba8b37a30597e12f",
+        "transactLevel": "0",
+        "unifyId": "445610bd98c44000afd7ef8fc9af0fbe",
+        "unifyName": "一级注册消防工程师注销注册审批",
+        "ywCode": "03"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 105,
+    "totalPage": 3
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

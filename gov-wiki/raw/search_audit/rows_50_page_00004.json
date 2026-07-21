@@ -1,0 +1,459 @@
+{
+  "datas": [
+    {
+      "id": "xsX9I5I4RYae18BTFm7wIQ",
+      "_title": "裁决客运经营者发车时间安排纠纷",
+      "name": "裁决客运经营者发车时间安排纠纷",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000918001000",
+      "type_name": "行政裁决"
+    },
+    {
+      "id": "GlL-A7JOQZ-CbgFJMo4Uew",
+      "_title": "属地管理单位中外合作摄制电影片审批",
+      "name": "属地管理单位中外合作摄制电影片审批",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "430182002W00",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "0SNtXw8mSAeZ2DwE4ZFWCA",
+      "_title": "进出口林草种子生产经营许可证新办",
+      "name": "进出口林草种子生产经营许可证新办",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000164092000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "e86ac10a4d3444bd85fd149432bec89d",
+      "_title": "期刊变更开本备案",
+      "name": "期刊变更开本备案",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431039077W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "6801a2ce0324458197408a4f62103738",
+      "_title": "两证整合个体工商户登记信息确认",
+      "name": "两证整合个体工商户登记信息确认",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "001030032000",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "q-B8EZEITmWQha0PZXO0vw",
+      "_title": "危险货物道路运输从业人员资格核发",
+      "name": "危险货物道路运输从业人员资格核发",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000118056000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "Hso56q68Td68v5kPk9PylA",
+      "_title": "低保边缘家庭认定",
+      "name": "低保边缘家庭认定",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "432011001W00",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "8471d1a5301e4dcc9613e835638937fd",
+      "_title": "退役士兵自主就业一次性经济补助金的给付",
+      "name": "退役士兵自主就业一次性经济补助金的给付",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000524001000",
+      "type_name": "行政给付"
+    },
+    {
+      "id": "5781895acb344e8b854c5ff62c7b55ba",
+      "_title": "《医疗机构制剂许可证》换发",
+      "name": "《医疗机构制剂许可证》换发",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000172006000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "c8d84bc0ede1417598c9acba90915717",
+      "_title": "辖区内地理标志产品保护申请资料的初审及转报",
+      "name": "辖区内地理标志产品保护申请资料的初审及转报",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431031097W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "LzF4kY8aRLul-L5jd_-q_g",
+      "_title": "临时占用草原审批（省级权限）",
+      "name": "临时占用草原审批（省级权限）",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000164155003",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "62708aca61484d9fa7749f732403d9f8",
+      "_title": "典当行设立",
+      "name": "典当行设立",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000155001000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "8VsJJneYT06l7h1RUE0T2A",
+      "_title": "组织指导生产安全事故应急演练",
+      "name": "组织指导生产安全事故应急演练",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "432025701W00",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "bUvv_DaoRqejL8JmfUzrwQ",
+      "_title": "改变绿化规划、绿化用地的使用性质审批",
+      "name": "改变绿化规划、绿化用地的使用性质审批",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000117026000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "T7glokoQRzKrz1XJpGfgpA",
+      "_title": "危险化学品经营许可初领",
+      "name": "危险化学品经营许可初领",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000125045000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "d3c0b6988dcb434da663a10afb59df2c",
+      "_title": "从国外引进林木种子、苗木检疫审批",
+      "name": "从国外引进林木种子、苗木检疫审批",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000164123000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "hnoUH-LaSz6QaGvuQZu_pA",
+      "_title": "危险化学品申报人员资格认可",
+      "name": "危险化学品申报人员资格认可",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000118045002",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "sTns3hfbQGWNGbrjm-F5Zw",
+      "_title": "证照遗失补领、换发申请",
+      "name": "证照遗失补领、换发申请",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431031090W01",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "8bbe7ef370df4938a7e1e04745918f4f",
+      "_title": "宗教临时活动地点审批",
+      "name": "宗教临时活动地点审批",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000141015000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "1455477e79f142caacff0b02ec749db2",
+      "_title": "跨区域涉税事项信息反馈",
+      "name": "跨区域涉税事项信息反馈",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "001030038000",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "465607b320384cbc8e7d651fcb145c2f",
+      "_title": "对外提供属于国家秘密的除跨省级行政区域外测绘成果审批",
+      "name": "对外提供属于国家秘密的除跨省级行政区域外测绘成果审批",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000115036000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "2358db03c17d4cfab8e02a561702af64",
+      "_title": "非居民企业股权转让适用特殊性税务处理的备案",
+      "name": "非居民企业股权转让适用特殊性税务处理的备案",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "002030042000",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "d67b42337f4341d68583a9133c20bf45",
+      "_title": "制作机构拍摄制作电视剧的备案",
+      "name": "制作机构拍摄制作电视剧的备案",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431032045W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "2bb0e3bb88cc4aabba6cb0681e61b701",
+      "_title": "医院类别医疗机构申请中药制剂委托配制备案",
+      "name": "医院类别医疗机构申请中药制剂委托配制备案",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431072031W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "0KYUuodHTiSF_VcpyP2LWg",
+      "_title": "非营利组织免税资格认定",
+      "name": "非营利组织免税资格认定",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000713001000",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "_7ra1ddWQnOx7RIfrdJBiA",
+      "_title": "燃气设施建设工程竣工验收情况备案",
+      "name": "燃气设施建设工程竣工验收情况备案",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431017087W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "f716ef23071245c694d009521e020910",
+      "_title": "洗染业经营者备案登记",
+      "name": "洗染业经营者备案登记",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431021044W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "24148b4203a145c4bfdd0d70e215e08e",
+      "_title": "企业年金方案终止备案",
+      "name": "企业年金方案终止备案",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "002014009003",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "072d41cfa6e0492ebe3e1b79ee3454fe",
+      "_title": "第一类中的药品类易制毒化学品经营许可",
+      "name": "第一类中的药品类易制毒化学品经营许可",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000172011000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "vZDQ6ZkMTgmR5raaJCpr5Q",
+      "_title": "煤矿企业安全生产许可初领",
+      "name": "煤矿企业安全生产许可初领",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000170003001",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "WuYKgub_Q2STHjzgPdexmA",
+      "_title": "参保单位参保信息查询",
+      "name": "参保单位参保信息查询",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "432036003W01",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "5390a2f6b41642bca9e52cce76ac69b8",
+      "_title": "食品添加剂生产许可核发",
+      "name": "食品添加剂生产许可核发",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000131025000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "hfbG33YBTnuh9HIRfUjuJg",
+      "_title": "在公路、公路用地及公路附属设施上设置非公路标志及非交通工程设施审批",
+      "name": "在公路、公路用地及公路附属设施上设置非公路标志及非交通工程设施审批",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000118009000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "98fd38a66d5849cb8b3978c9d0d6c764",
+      "_title": "省级主要林木品种审定",
+      "name": "省级主要林木品种审定",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000764023000",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "220e44791e2f450694540a20d8d7a2d3",
+      "_title": "烟草专卖品准运证核发",
+      "name": "烟草专卖品准运证核发",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000162002000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "1882dd71462844df852ca60be6b608d9",
+      "_title": "职业病诊断机构备案（新发）",
+      "name": "职业病诊断机构备案（新发）",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000123024000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "m4DCGmXuRfeYt_ZxZ9fa8g",
+      "_title": "对公路工程参建单位的信用考核",
+      "name": "对公路工程参建单位的信用考核",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431018068W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "xDI3ebuOTAG-5p_6RH-xKw",
+      "_title": "旅游从业人员技能培训",
+      "name": "旅游从业人员技能培训",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "432022302W00",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "e2ac89ad270e4107a2ad10069c029d3e",
+      "_title": "对自考考生免考课程的确认",
+      "name": "对自考考生免考课程的确认",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000705003000",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "b1c4d31947f94967b5363d8a5b682cd0",
+      "_title": "部分易制毒化学品进出口许可",
+      "name": "部分易制毒化学品进出口许可",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000121011000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "d088e7b7362e447faa7fa1f5976ad01d",
+      "_title": "第一类中的药品类易制毒化学品生产许可",
+      "name": "第一类中的药品类易制毒化学品生产许可",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000172010000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "775b6a18369941a39cf671b099e1cdb5",
+      "_title": "个人所得税递延纳税报告",
+      "name": "个人所得税递延纳税报告",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "002030014000",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "89384366d70a45208d67cb7dcf1214e2",
+      "_title": "中央驻长单位、省直单位申办一次性内部资料性出版物审批",
+      "name": "中央驻长单位、省直单位申办一次性内部资料性出版物审批",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000139012000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "a8e93c92369b4c98844271dac1d81c7c",
+      "_title": "市级文物保护单位建设控制地带内建设工程设计方案审批",
+      "name": "市级文物保护单位建设控制地带内建设工程设计方案审批",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000168011003",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "201fc778eff842feaa73ca7209e5cf40",
+      "_title": "核发麻醉药品、第一类精神药品和第二类精神药品原料药生产计划初审",
+      "name": "核发麻醉药品、第一类精神药品和第二类精神药品原料药生产计划初审",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "431072057W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "37b3a7b8881e411abea14471391c92cb",
+      "_title": "民用爆炸物品运输许可",
+      "name": "民用爆炸物品运输许可",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000109119000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "JqrmituSSTOvXvhDCTqNqg",
+      "_title": "从国外进口实施审批管理的药材",
+      "name": "从国外进口实施审批管理的药材",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000172052005",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "gNBgpLRESPKF_qrbQNGqpA",
+      "_title": "雷电防护装置竣工验收",
+      "name": "雷电防护装置竣工验收",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000154009000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "2e76b124f3ca42d5b80894b31cda0afa",
+      "_title": "涉税专业服务协议要素信息报送",
+      "name": "涉税专业服务协议要素信息报送",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "001030056000",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "C_UTfz8SQPOizJTnDuAbAA",
+      "_title": "保安服务公司法定代表人变更许可",
+      "name": "保安服务公司法定代表人变更许可",
+      "type": "approve",
+      "yw_code": "01",
+      "rights_code": "000109102003",
+      "type_name": "行政许可"
+    }
+  ],
+  "total": 3184,
+  "pageTotal": 796,
+  "pageIndex": 4,
+  "pageSize": 50,
+  "highlight_words": []
+}

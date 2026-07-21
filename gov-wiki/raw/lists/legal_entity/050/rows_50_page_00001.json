@@ -1,0 +1,160 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123017001",
+        "rightsId": "8794B3AA89299492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5b8b4353d7c24b7f8bc41e8b038ac16b",
+        "unifyName": "除利用新材料、新工艺和新化学物质生产的国产涉及饮用水卫生安全产品的卫生行政许可（新发）",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172003000",
+        "rightsId": "8794B3AA8E4A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fb21473298324d28a089c07f71720fd7",
+        "unifyName": "药品生产许可证补发",
+        "ywCode": "06"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172006000",
+        "rightsId": "8794B3AA8E4D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d1540ea0c84f42138fe0fe6ebdca57a5",
+        "unifyName": "医疗机构制剂许可证补发",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172023000",
+        "rightsId": "8794B3AA8E5E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9bcd169407c94fe6901c56b827fbd22f",
+        "unifyName": "《放射性药品使用许可证》变更许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172026000",
+        "rightsId": "8794B3AA8E619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a6e12901330148b5a06f9b6c5dd3eee8",
+        "unifyName": "第Ⅱ类体外诊断试剂注册证补发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172026000",
+        "rightsId": "8794B3AA8E619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9aa5ed9402404700a1165b9aeb53d8b9",
+        "unifyName": "第Ⅱ类医疗器械产品注册证补发",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172026000",
+        "rightsId": "8794B3AA8E619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "41a4fa6a793a4662b1f12d0b9f62bced",
+        "unifyName": "湖南省第二类体外诊断试剂变更备案",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172026000",
+        "rightsId": "8794B3AA8E619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "13e1b02be1894f10b393625ec90d05cb",
+        "unifyName": "湖南省第二类医疗器械变更备案",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172026000",
+        "rightsId": "8794B3AA8E619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a49115951c654ccab65602ab28952675",
+        "unifyName": "国产第二类医疗器械变更注册",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172026000",
+        "rightsId": "8794B3AA8E619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4ccbb12a97e7457ba12f1cd22e29ef80",
+        "unifyName": "国产第二类医疗器械延续注册",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172027000",
+        "rightsId": "8794B3AA8E629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "dd023fd2c67e4085881ed6797b25bf0d",
+        "unifyName": "第二、三类医疗器械生产延续许可",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172027000",
+        "rightsId": "8794B3AA8E629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "337e73e934cf4fb699703b47ca42fc9c",
+        "unifyName": "第二、三类医疗器械生产许可事项变更许可",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172027000",
+        "rightsId": "8794B3AA8E629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5bd748f6764441dfb5835ad27214d420",
+        "unifyName": "Ⅱ、Ⅲ类医疗器械生产许可证补发",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172027000",
+        "rightsId": "8794B3AA8E629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9fc29afe109f45f4b72e1dc3fbccf583",
+        "unifyName": "第二、三类医疗器械生产登记事项变更许可",
+        "ywCode": "06"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 14,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

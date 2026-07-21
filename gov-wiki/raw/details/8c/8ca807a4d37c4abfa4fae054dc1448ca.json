@@ -1,0 +1,125 @@
+{
+  "code": 0,
+  "data": {
+    "acceptanceCondition": "《新闻记者证管理办法》第三十二条　新闻记者证实行年度核验制度，由新闻出版总署和各省、自治区、直辖市新闻出版行政部门以及解放军总政治部宣传部新闻出版局分别负责中央新闻机构、地方新闻机构和解放军及武警部队（不含边防、消防、警卫部队）新闻机构新闻记者证的年度核验工作。\n新闻记者证年度核验每年1月开始，3月15日前结束，各省、自治区、直辖市新闻出版行政部门和解放军总政治部宣传部新闻出版局须在3月31日前，将年度核验报告报新闻出版总署。\n新闻机构未按规定进行新闻记者证年度核验的，由发证机关注销其全部新闻记者证。\n第三十三条　新闻记者证年度核验工作由新闻机构自查，填写《新闻记者证年度核验表》，经主管单位审核后，报新闻出版行政部门依法核验。年度核验的主要内容是：\n（一）检查持证人员是否仍具备持有新闻记者证的所有条件；\n（二）检查持证人员本年度内是否出现违法行为；\n（三）检查持证人员的登记信息是否变更。\n通过年度核验的新闻记者证，由新闻出版行政部门核发年度核验标签，并粘贴到新闻记者证年度核验位置，新闻记者证的有效期以年度核验标签的时间为准。未通过年度核验的新闻记者证，由发证机关注销，不得继续使用。",
+    "according": "《新闻记者证管理办法》（新闻出版总署令第44号）第三十二条  新闻记者证实行年度核验制度，由新闻出版总署和各省、自治区、直辖市新闻出版行政部门以及解放军总政治部宣传部新闻出版局分别负责中央新闻机构、地方新闻机构和解放军及武警部队（不含边防、消防、警卫部队）新闻机构新闻记者证的年度核验工作。",
+    "applicantDuty": "应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。",
+    "applicantPower": "依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。",
+    "approveLimit": "20",
+    "approveLimitExplain": "按时办结",
+    "blbm": "湖南省新闻出版局、省电影局",
+    "commitmentLimit": "12",
+    "commitmentLimitExplain": "按时办结",
+    "deptName": "新闻出版",
+    "doScope": "全国",
+    "faqList": [
+      {
+        "createDate": 1626775223000,
+        "faqContent": "新闻记者证年度核验什么时候开展？",
+        "faqId": "70a82518a4b1430399fcd57941578106",
+        "isDelete": "N",
+        "isSzyy": "N",
+        "orderNum": 1.0,
+        "replyContent": "新闻记者证年度核验每年1月开始，3月15日前结束。",
+        "unifyId": "8ca807a4d37c4abfa4fae054dc1448ca",
+        "updateDate": 1668659564000
+      }
+    ],
+    "isCharge": "否",
+    "isIntermediaryServices": "无",
+    "isSpecialProcedure": "否",
+    "isonline": "是",
+    "lctList": [
+      {
+        "approveCode": "8ca807a4d37c4abfa4fae054dc1448ca",
+        "approveId": "8ca807a4d37c4abfa4fae054dc1448ca",
+        "createTime": 1558338513000,
+        "flowc": "approve/2018-08-10/1533869779027$$年度核验流程图.png",
+        "id": "a13c707adc61415a9ec1c49e35cee1da",
+        "isDelete": "0",
+        "isExchange": "Y",
+        "operateFlag": "N"
+      }
+    ],
+    "limitsceneexplain": "需现场核实材料和身份等信息",
+    "materialList": [
+      {
+        "acceptStandard": "资料符合要求",
+        "attachList": [
+          {
+            "attachCode": "000003",
+            "attachId": "92f5228c0e3849f59105cab8dc6f0bce",
+            "attachName": "样本3---记者证自查报告.doc",
+            "attachPath": "approve/2018-08-10/1533870620343$$样本3---记者证自查报告.doc",
+            "attachSize": 25600.0,
+            "attachType": ".doc",
+            "businessId": "5715312954bb475bb64447bd62d79394",
+            "createTime": 1533870649000,
+            "isDel": "N",
+            "isDelete": "0",
+            "isExchange": "Y",
+            "isValid": "Y",
+            "modFlag": "N",
+            "operateFlag": "N",
+            "pdfPath": "N"
+          }
+        ],
+        "bylaw": "《新闻记者证管理办法》",
+        "commitWay": "网上现场都可提交",
+        "copiesNum": 2.0,
+        "createDate": 1626775223000,
+        "freeSubmission": "无",
+        "isDelete": "N",
+        "isMust": "必要",
+        "materialApproveType": "其他",
+        "materialCode": "M431039024W000101",
+        "materialExplain": "内容真实准确，材料齐全，符合法定条件",
+        "materialId": "5715312954bb475bb64447bd62d79394",
+        "materialStandard": "纸质和电子",
+        "materialTitle": "新闻单位记者证管理自查报告",
+        "materialType": "原件",
+        "pageformat": "纸质资料一式两份",
+        "sourceChannel": "申请人自备",
+        "sourceexplain": "由申请人自备",
+        "unifyId": "8ca807a4d37c4abfa4fae054dc1448ca",
+        "updateDate": 1757297365000
+      }
+    ],
+    "minExplain": "四级标准说明：该事项已经实现全程网办，申请人可以通过网络提交和补正相关申请信息和材料，提交的材料全部为已验证信息，受理通过后直接进入办理程序，申请人可网上查询办理状态、咨询问题，作出审批决定后，申请人可以通过网上缴费后物流递送证书结果。整个办事过程无需到现场办理。",
+    "minSeq": "0",
+    "orgId": "zX2jV3bibQFKfK9OJ0uO7Vw",
+    "orgName": "湖南省新闻出版局、省电影局",
+    "processDescript": "按照行政许可事项流程图办理",
+    "quantitativeRestriction": "无数量限制",
+    "resultList": [
+      {
+        "approveCode": "8ca807a4d37c4abfa4fae054dc1448ca",
+        "approveId": "8ca807a4d37c4abfa4fae054dc1448ca",
+        "createTime": 1558338513000,
+        "extend": "png",
+        "fileName": "记者证核验.png",
+        "id": "732de16983f4400fae80425eb73f373c",
+        "isDelete": "0",
+        "isExchange": "Y",
+        "isNeed": "N",
+        "operateFlag": "N",
+        "resultChart": "approve/2018-08-10/1533870126448$$记者证核验.png",
+        "resultSampleName": "记者证年度核验"
+      }
+    ],
+    "resultSampleName": "记者证年度核验",
+    "rightsCode": "431039024W00",
+    "rightsId": "70F599A55DD4ABCFE053681515ACCFDC",
+    "schemeLevels": "省",
+    "serveObject": "法人",
+    "transactLevel": "四级标准",
+    "transactionFrom": "网上办理",
+    "typeName": "其他行政权力",
+    "unifyId": "8ca807a4d37c4abfa4fae054dc1448ca",
+    "unifyName": "新闻记者证年度核验",
+    "ywCode": "01"
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

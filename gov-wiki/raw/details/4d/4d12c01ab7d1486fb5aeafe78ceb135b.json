@@ -1,0 +1,91 @@
+{
+  "code": 0,
+  "data": {
+    "acceptanceCondition": "按照申请材料目录准备材料，齐全后即可进行申报。",
+    "according": "《海关总署关于进一步鼓励外商投资有关进口税收政策的通知》（署税〔1999〕第791号）全文。《对外贸易经济合作部关于外商投资企业进口设备有关问题的通知》（〔２０００〕外经贸资发第４７８号）全文。",
+    "applicantDuty": "应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。",
+    "applicantPower": "依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。",
+    "approveLimit": "20",
+    "approveLimitExplain": "无",
+    "blbm": "湖南省商务厅",
+    "commitmentLimit": "10",
+    "commitmentLimitExplain": "无",
+    "deptName": "商务部门",
+    "doScope": "全国",
+    "faqList": [
+      {
+        "createDate": 1628565963000,
+        "faqContent": "办理该事项所需要的申报材料有哪些？",
+        "faqId": "d001j4-6Qdq1cV589BedrQ",
+        "isDelete": "N",
+        "isSzyy": "N",
+        "orderNum": 1.0,
+        "replyContent": "通过外商投资企业信息报告渠道填报适用产业政策条目、项目性质、项目内容、项目投资总额（美元值）、进口设备用汇额（美元值）、项目建设年限等。",
+        "unifyId": "4d12c01ab7d1486fb5aeafe78ceb135b",
+        "updateDate": 1668659564000
+      }
+    ],
+    "isCharge": "否",
+    "isIntermediaryServices": "无",
+    "isSpecialProcedure": "否",
+    "isonline": "是",
+    "lctList": [
+      {
+        "approveCode": "4d12c01ab7d1486fb5aeafe78ceb135b",
+        "approveId": "4d12c01ab7d1486fb5aeafe78ceb135b",
+        "bucketName": "zwfw202504",
+        "createTime": 1744703260000,
+        "flowc": "approve/2025-04-15-15/1744703260729$$鼓励类外商投资项目进口设备免税确认事项办理流程图.png",
+        "id": "32CD6218B4403075E063661515AC9D41",
+        "isDelete": "0",
+        "isExchange": "N",
+        "operateFlag": "N",
+        "updateTime": 1744703260000
+      }
+    ],
+    "materialList": [
+      {
+        "acceptStandard": "暂无受理标准",
+        "bylaw": "无",
+        "commitWay": "网上现场都可提交",
+        "copiesNum": 1.0,
+        "createDate": 1628566521000,
+        "freeSubmission": "无",
+        "isDelete": "N",
+        "isMust": "非必要",
+        "materialApproveType": "其他",
+        "materialCode": "M0007210040000101",
+        "materialExplain": "暂无填报须知",
+        "materialId": "s0Lwl_x4Srit116-4pQm2Q",
+        "materialStandard": "纸质和电子",
+        "materialTitle": "无需材料",
+        "materialType": "原件和复印件",
+        "pageformat": "暂无纸质材料规格",
+        "sourceChannel": "其他",
+        "sourceexplain": "暂无来源渠道说明",
+        "unifyId": "4d12c01ab7d1486fb5aeafe78ceb135b",
+        "updateDate": 1668659565000
+      }
+    ],
+    "minExplain": "四级标准说明：该事项已经实现全程网办，申请人可以通过网络提交和补正相关申请信息和材料，提交的材料全部为已验证信息，受理通过后直接进入办理程序，申请人可网上查询办理状态、咨询问题，作出审批决定后，申请人可以通过网上缴费后物流递送证书结果。整个办事过程无需到现场办理。",
+    "minSeq": "0",
+    "orgId": "8ea7b36deffd4531aa8e92c2de32d66b",
+    "orgName": "湖南省商务厅",
+    "processDescript": "1.信息采集。通过外商投资企业信息报告的方式采集外商投资鼓励类项目有关信息，包括：适用产业政策条目、项目性质、项目内容、项目投资总额（美元值）、进口设备用汇额（美元值）、项目建设年限等。\n2.系统确认。各市州、国家级园区、自贸试验区片区管委会商务招商主管部门根据相关的依据文件及企业实际情况，在外商投资综合管理应用系统对企业提交的信息进行修正、确认后，将信息提交至省商务厅。省商务厅对各部门上报的外商投资鼓励类项目比对信息进行确认。\n3.盖章确认。各市州商务主管部门，国家级园区、自贸试验区片区管委会在外商投资综合管理应用系统打印信息报告确认表并加盖公章确认。",
+    "quantitativeRestriction": "无限制",
+    "resultSampleName": "无",
+    "rightsCode": "000721004000",
+    "rightsId": "8794B3AA90659492E053681515ACDDA6",
+    "schemeLevels": "省",
+    "serveObject": "法人",
+    "transactLevel": "四级标准",
+    "transactionFrom": "窗口办理^网上办理",
+    "typeName": "行政确认",
+    "unifyId": "4d12c01ab7d1486fb5aeafe78ceb135b",
+    "unifyName": "鼓励类外商投资项目进口设备减免税确认",
+    "ywCode": "01"
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

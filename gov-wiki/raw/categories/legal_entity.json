@@ -1,0 +1,144 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "ztflCode": "005",
+      "ztflName": "设立变更"
+    },
+    {
+      "ztflCode": "010",
+      "ztflName": "准营准办"
+    },
+    {
+      "ztflCode": "015",
+      "ztflName": "资质认证"
+    },
+    {
+      "ztflCode": "020",
+      "ztflName": "年检年审"
+    },
+    {
+      "ztflCode": "025",
+      "ztflName": "税收财务"
+    },
+    {
+      "ztflCode": "030",
+      "ztflName": "人力资源"
+    },
+    {
+      "ztflCode": "035",
+      "ztflName": "社会保障"
+    },
+    {
+      "ztflCode": "040",
+      "ztflName": "投资审批"
+    },
+    {
+      "ztflCode": "045",
+      "ztflName": "融资信贷"
+    },
+    {
+      "ztflCode": "050",
+      "ztflName": "抵押质押"
+    },
+    {
+      "ztflCode": "055",
+      "ztflName": "商务贸易"
+    },
+    {
+      "ztflCode": "060",
+      "ztflName": "招标拍卖"
+    },
+    {
+      "ztflCode": "065",
+      "ztflName": "海关口岸"
+    },
+    {
+      "ztflCode": "070",
+      "ztflName": "涉外服务"
+    },
+    {
+      "ztflCode": "075",
+      "ztflName": "农林牧渔"
+    },
+    {
+      "ztflCode": "085",
+      "ztflName": "国土和规划建设"
+    },
+    {
+      "ztflCode": "090",
+      "ztflName": "交通运输"
+    },
+    {
+      "ztflCode": "095",
+      "ztflName": "环保绿化"
+    },
+    {
+      "ztflCode": "105",
+      "ztflName": "水务气象"
+    },
+    {
+      "ztflCode": "110",
+      "ztflName": "医疗卫生"
+    },
+    {
+      "ztflCode": "115",
+      "ztflName": "科技创新"
+    },
+    {
+      "ztflCode": "120",
+      "ztflName": "文体教育"
+    },
+    {
+      "ztflCode": "125",
+      "ztflName": "知识产权"
+    },
+    {
+      "ztflCode": "130",
+      "ztflName": "民族宗教"
+    },
+    {
+      "ztflCode": "135",
+      "ztflName": "质量技术"
+    },
+    {
+      "ztflCode": "140",
+      "ztflName": "检验检疫"
+    },
+    {
+      "ztflCode": "145",
+      "ztflName": "安全生产"
+    },
+    {
+      "ztflCode": "150",
+      "ztflName": "公安消防"
+    },
+    {
+      "ztflCode": "155",
+      "ztflName": "司法公证"
+    },
+    {
+      "ztflCode": "160",
+      "ztflName": "公用事业"
+    },
+    {
+      "ztflCode": "165",
+      "ztflName": "法人注销"
+    },
+    {
+      "ztflCode": "170",
+      "ztflName": "档案文物"
+    },
+    {
+      "ztflCode": "998",
+      "ztflName": "地方特色分类"
+    },
+    {
+      "ztflCode": "999",
+      "ztflName": "其他"
+    }
+  ],
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

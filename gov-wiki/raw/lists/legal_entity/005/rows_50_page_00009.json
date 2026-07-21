@@ -1,0 +1,184 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039077W00",
+        "rightsId": "tW6q7RaCT8aswDd9FJroaA",
+        "transactLevel": "0",
+        "unifyId": "8aecace871664c9d8029282136f30fa7",
+        "unifyName": "图书出版单位变更法定代表人或主要负责人备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039077W00",
+        "rightsId": "tW6q7RaCT8aswDd9FJroaA",
+        "transactLevel": "0",
+        "unifyId": "d99b10bc3a794c8a9039d36ed2c958a4",
+        "unifyName": "报纸出版单位变更法定代表人或主要负责人备案",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039077W00",
+        "rightsId": "tW6q7RaCT8aswDd9FJroaA",
+        "transactLevel": "0",
+        "unifyId": "7b27b914f96b433cbd5b39d2e1dce143",
+        "unifyName": "期刊出版单位变更法定代表人或主要负责人备案",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039077W00",
+        "rightsId": "tW6q7RaCT8aswDd9FJroaA",
+        "transactLevel": "0",
+        "unifyId": "ef22b64d11d441fba52cdeae37e55607",
+        "unifyName": "音像出版单位变更法定代表人或主要负责人备案",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039077W00",
+        "rightsId": "tW6q7RaCT8aswDd9FJroaA",
+        "transactLevel": "0",
+        "unifyId": "6dac16f1fc074ebebed9bb6938898247",
+        "unifyName": "电子出版物出版单位变更法定代表人或主要负责人备案",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039077W00",
+        "rightsId": "tW6q7RaCT8aswDd9FJroaA",
+        "transactLevel": "0",
+        "unifyId": "e391685cdbea4932990728431c8ef1a5",
+        "unifyName": "图书出版单位变更地址备案",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039077W00",
+        "rightsId": "tW6q7RaCT8aswDd9FJroaA",
+        "transactLevel": "0",
+        "unifyId": "444ef5e6f77649c9a6e8cd6026e801bc",
+        "unifyName": "报纸出版单位变更地址备案",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039077W00",
+        "rightsId": "tW6q7RaCT8aswDd9FJroaA",
+        "transactLevel": "0",
+        "unifyId": "a4efe3e6b3f94335a2711b4428661da3",
+        "unifyName": "期刊出版单位在同一登记地内变更地址备案",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068012W00",
+        "rightsId": "cwCZ-LovTs63lI223p7wmw",
+        "transactLevel": "0",
+        "unifyId": "33f6492c36cd4d13829169b5d72ce456",
+        "unifyName": "博物馆变更备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072001W00",
+        "rightsId": "DQhy2Kn4T7e8lQslaHOwPQ",
+        "transactLevel": "0",
+        "unifyId": "be1fe35f9cdd402fb53f2773cb810a1a",
+        "unifyName": "首次进口药材审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099047W01",
+        "rightsId": "cutVvctPRkS3RIuwqL1TSA",
+        "transactLevel": "0",
+        "unifyId": "cea409ac71604464bfcf5f7aa2954d69",
+        "unifyName": "小额贷款公司设立",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099047W02",
+        "rightsId": "tYmdZIgLT5-0h4AVfWCX0Q",
+        "transactLevel": "0",
+        "unifyId": "7dd7d5253f80438493378cb5ecb3d5bc",
+        "unifyName": "小额贷款公司主要股东或实际控制人变更（含股权变更）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099047W02",
+        "rightsId": "tYmdZIgLT5-0h4AVfWCX0Q",
+        "transactLevel": "0",
+        "unifyId": "26ad474457c9490aa14604cafedafa28",
+        "unifyName": "小额贷款公司减少注册资本金",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099047W02",
+        "rightsId": "tYmdZIgLT5-0h4AVfWCX0Q",
+        "transactLevel": "0",
+        "unifyId": "16271e5747bf4fca94cf77764d9f27a1",
+        "unifyName": "小额贷款公司合并或者分立",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099047W02",
+        "rightsId": "tYmdZIgLT5-0h4AVfWCX0Q",
+        "transactLevel": "0",
+        "unifyId": "81ce4f3108a149f4a54adfa3dc61b31b",
+        "unifyName": "小额贷款公司变更业务范围和经营区域",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432072002W00",
+        "rightsId": "nR5wwHkaT3ObDegS1zweiw",
+        "transactLevel": "0",
+        "unifyId": "wGFBFu63R5iVFAA-6pZuJg",
+        "unifyName": "医疗器械产品出口销售证明",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432072003W00",
+        "rightsId": "K9vaDehEQAGrcwReVuBGMg",
+        "transactLevel": "0",
+        "unifyId": "ROMRfa8oTlqAOt056Vivsw",
+        "unifyName": "第二类创新医疗器械特别审查服务",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 9,
+    "pageSize": 50,
+    "total": 417,
+    "totalPage": 9
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

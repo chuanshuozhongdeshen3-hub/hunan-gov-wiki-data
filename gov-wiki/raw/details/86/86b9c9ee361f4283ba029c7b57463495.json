@@ -1,0 +1,112 @@
+{
+  "code": 0,
+  "data": {
+    "acceptanceCondition": "1.《国家发展改革委关于进一步清理规范政府定价经营服务性收费的通知》（发改价格〔2019〕798号）：地方政府定价的经营服务性收费范围-公共事业服务收费-13-有线数字电视基本收视维护费。 2.《湖南省发展改革委关于我省有线数字电视基本收视维护费有关问题的通知》（湘发改价服〔2016〕62号）明确：有线数字电视基本收视维护费收费和有线电视安装费收费标准实行政府定价。 3.《湖南省发展改革委关于进一步完善我省有线电视收费管理有关问题的通知》（湘发改价费〔2019〕747号）第1条：有线电视收费项目包括：有线数字电视基本收视维护费、有线电视安装费等。第2条：有线电视收费管理。有线电视收费区分不同性质和特点实行政府定价和市场调节价。居民用户有线数字电视基本收视维护费实行政府定价。",
+    "according": "《国家发展改革委关于进一步清理规范政府定价经营服务性收费的通知》（发改价格〔2019〕第798号）全文。《湖南省发展改革委关于进一步完善我省有线电视收费管理有关问题的通知》（湘发改价费〔2019〕第747号）全文。《湖南省发展改革委关于我省有线数字电视基本收视维护费有关问题的通知》（湘发改价服〔2016〕第62号）全文。",
+    "applicantDuty": "应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。",
+    "applicantPower": "依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。",
+    "approveLimit": "5",
+    "approveLimitExplain": "按国家有关规定",
+    "blbm": "省、市、县级湖南网络",
+    "chargeList": [
+      {
+        "chargeBylaw": "根据《中华人民共和国价格法》《国家发展和改革委员会关于进一步清理规范政府定价经营服务性收费的通知》（发改价格〔2019〕798号）和《湖南省发展改革委关于进一步完善我省有线电视收费管理有关问题的通知》（湘发改价费〔2019〕747号）第1条：有线电视收费项目包括：有线数字电视基本收视维护费、有线电视安装费等。第2条：有线电视收费管理。有线电视收费区分不同性质和特点实行政府定价和市场调节价。居民用户有线数字电视基本收视维护费实行政府定价。",
+        "chargeId": "fe595f0f55584946b90cbbbafd0da911",
+        "createDate": 1673595191000,
+        "feename": "有线数字电视基本收视维护费",
+        "feestand": "长沙、株洲、湘潭市城区24.5元/月，国家和省级贫困县按照23.5元/月，其他市县24元/月。自购机顶盒用户，主机基本收视费为18元/月。所有用户副机基本收视维护费为5元/台.月，机顶盒均由用户自行购置，主、副机智能卡由网络传输单位免费提供。",
+        "isDelete": "N",
+        "isMinus": "否",
+        "orderNum": 1.0,
+        "unifyId": "86b9c9ee361f4283ba029c7b57463495",
+        "updateDate": 1673595388000
+      }
+    ],
+    "commitmentLimit": "1",
+    "commitmentLimitExplain": "即时受理、审核、办结",
+    "deptName": "湖南网络",
+    "doScope": "全省",
+    "isCharge": "是",
+    "isIntermediaryServices": "无",
+    "isSpecialProcedure": "否",
+    "isonline": "否",
+    "lctList": [
+      {
+        "approveCode": "86b9c9ee361f4283ba029c7b57463495",
+        "approveId": "86b9c9ee361f4283ba029c7b57463495",
+        "bucketName": "zwfw202301",
+        "createTime": 1673513592000,
+        "flowc": "approve/2023-01-12-16/1673513591940$$有线数字电视基本收视维护费流程图.png",
+        "id": "8d64d47082464b47a05ff53e6afe3e38",
+        "isDelete": "0",
+        "isExchange": "N",
+        "operateFlag": "N"
+      }
+    ],
+    "limitsceneexplain": "需要现场对信息审核",
+    "materialList": [
+      {
+        "acceptStandard": "对身份信息核实",
+        "bylaw": "《中华人民共和国居民身份证法》",
+        "commitWay": "现场提交",
+        "copiesNum": 1.0,
+        "createDate": 1673515455000,
+        "freeSubmission": "电子证照代替",
+        "isDelete": "N",
+        "isMust": "必要",
+        "materialApproveType": "证照",
+        "materialCode": "M432099003W000101",
+        "materialExplain": "真实有效",
+        "materialId": "2da3bfa7600745fe809c5b575ede2d96",
+        "materialStandard": "纸质或电子",
+        "materialTitle": "身份证",
+        "materialType": "原件和复印件",
+        "pageformat": "暂无纸质材料规格",
+        "sourceChannel": "政府部门核发",
+        "sourceexplain": "公安部门核发。",
+        "standardMaterialsCode": "L2000016",
+        "standardMaterialsId": "4DED822B3D6AE634153EEB",
+        "standardMaterialsName": "中华人民共和国居民身份证",
+        "standardMaterialsSource": "运维管理",
+        "unifyId": "86b9c9ee361f4283ba029c7b57463495",
+        "updateDate": 1751888897000
+      }
+    ],
+    "minExplain": "一级标准说明：该事项可以提供详细具体的办事指南、网上咨询和投诉渠道，但无法提供网上办理，需到现场提交办理。",
+    "minSeq": "1",
+    "orgId": "iaGFvjxK9S4aoMp1wvv31icA",
+    "orgName": "中国广电湖南网络股份有限公司",
+    "processDescript": "按有线基本收视许可审批流程办理。",
+    "quantitativeRestriction": "1",
+    "resultList": [
+      {
+        "approveCode": "86b9c9ee361f4283ba029c7b57463495",
+        "approveId": "86b9c9ee361f4283ba029c7b57463495",
+        "bucketName": "zwfw202301",
+        "createTime": 1673514021000,
+        "extend": "png",
+        "fileName": "示例：有线电视业务办理审批表.png",
+        "id": "fef966e49f9645e3bb3ca7080efc2d65",
+        "isDelete": "0",
+        "isExchange": "N",
+        "isNeed": "N",
+        "operateFlag": "N",
+        "resultChart": "approve/2023-01-12-17/1673514021353$$示例：有线电视业务办理审批表.png",
+        "resultSampleName": "有线电视业务办理审批表"
+      }
+    ],
+    "resultSampleName": "有线电视业务办理审批表",
+    "rightsCode": "432099003W00",
+    "rightsId": "0naB5hnzSSuvaco5WLc3nA",
+    "schemeLevels": "省、市、县",
+    "serveObject": "个人",
+    "transactLevel": "一级标准",
+    "typeName": "公共服务",
+    "unifyId": "86b9c9ee361f4283ba029c7b57463495",
+    "unifyName": "有线数字电视基本收视维护费",
+    "ywCode": "01"
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

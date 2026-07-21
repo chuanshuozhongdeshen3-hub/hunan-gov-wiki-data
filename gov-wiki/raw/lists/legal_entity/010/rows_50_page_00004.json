@@ -1,0 +1,526 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1c63d4e4e459465d8193f3c66a0d9a09",
+        "unifyName": "添加剂预混合饲料生产许可证核发（设立、续展、迁址）",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "292bcb7b5176419eb007e7283cc723d4",
+        "unifyName": "宠物添加剂预混合饲料生产许可证核发（设立、续展、迁址）",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "z5WyV9u-RJCD-G_RssrFqg",
+        "unifyName": "单一饲料生产许可证核发(增加或更换生产线）",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4AolbRwSRWqKaCXH-zvCrg",
+        "unifyName": "单一饲料生产许可证核发(变更）",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120071000",
+        "rightsId": "8794B3AA88139492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2bc2e8af61784aaaa8567d41eb23f058",
+        "unifyName": "生猪定点屠宰厂（场）设置审查",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120071000",
+        "rightsId": "8794B3AA88139492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ff2d4797c0a6488296725ae3d338cce0",
+        "unifyName": "小型生猪屠宰场点设置审查",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120072000",
+        "rightsId": "8794B3AA88149492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "49e2960c99744415a16e7255f41e391f",
+        "unifyName": "生鲜乳准运证明核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120073000",
+        "rightsId": "8794B3AA88159492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ac30e57ea0f04efba1ac19469929d8d7",
+        "unifyName": "生鲜乳收购站许可",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120075000",
+        "rightsId": "8794B3AA88179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d6XikboMQUicXn6NiQhCPg",
+        "unifyName": "兽药经营许可核发（生物制品）",
+        "ywCode": "06"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120075000",
+        "rightsId": "8794B3AA88179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "h9RNVTo5T7uE7EgMQcshkA",
+        "unifyName": "兽药经营许可变更核发（生物制品）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120075000",
+        "rightsId": "8794B3AA88179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "06f0b4b847014cbbb03c502f4072c89f",
+        "unifyName": "兽药经营许可证到期换证（生物制品）",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120075000",
+        "rightsId": "8794B3AA88179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "320de09762684b4bb70a6aa40f9a4b27",
+        "unifyName": "兽药经营许可证核发（兽用生物制品除外）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120075000",
+        "rightsId": "8794B3AA88179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7b819ab21924434083e86e67e5ece0be",
+        "unifyName": "兽药经营许可证变更（兽用生物制品除外）",
+        "ywCode": "04"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120075000",
+        "rightsId": "8794B3AA88179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b6da8b6f82e44d55863345e58c7110d0",
+        "unifyName": "兽药经营许可证到期换证（兽用生物制品除外）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120076000",
+        "rightsId": "8794B3AA88189492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a86a4574376c4311a80795c955d90b50",
+        "unifyName": "兽药生产许可证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120076000",
+        "rightsId": "8794B3AA88189492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "QNVWOiUvSumalPVc3zQJsA",
+        "unifyName": "兽药生产许可证核发（变更）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120101000",
+        "rightsId": "8794B3AA88339492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1F264VWnT-CoMB-xysTXgQ",
+        "unifyName": "从事高致病性或疑似高致病性病原微生物实验活动审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120143000",
+        "rightsId": "8794B3AA885D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ETgOzIAcScCRvca1ftK0pQ",
+        "unifyName": "猎捕国家一级保护水生野生动物的初审",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120162000",
+        "rightsId": "8794B3AA88789492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fssHtO0XSVqFDd5g6hJZpg",
+        "unifyName": "农药广告审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120163000",
+        "rightsId": "8794B3AA88799492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7U7X48xSRM-RBm3gnzHTMA",
+        "unifyName": "农药生产许可（设立/增项/迁址）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120163000",
+        "rightsId": "8794B3AA88799492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "poukGhn_TCyq13yLxi8trA",
+        "unifyName": "农药生产许可（注销）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120164000",
+        "rightsId": "8794B3AA887A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a766e7b378a9491299519aa0e4370ac7",
+        "unifyName": "饲料添加剂产品批准文号核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120191000",
+        "rightsId": "8794B3AA88999492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f9a8ff90af334488bcc1c515fea48f9d",
+        "unifyName": "部级权限内肥料产品登记初审",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120191000",
+        "rightsId": "8794B3AA88999492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "931e4fe933fb44ccb75b69fecdb4f890",
+        "unifyName": "部级权限内肥料产品续展登记初审",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120191000",
+        "rightsId": "8794B3AA88999492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1e84000d50904869aa2d75460347309a",
+        "unifyName": "部级权限内肥料产品变更登记初审",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120192000",
+        "rightsId": "8794B3AA889A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d916a8db089c4f36a39b3e0c53c672c7",
+        "unifyName": "有机肥料产品登记核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120192000",
+        "rightsId": "8794B3AA889A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9036bbab15aa4a9ca12eb3f5ce03410a",
+        "unifyName": "有机肥料产品续展登记核准",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120192000",
+        "rightsId": "8794B3AA889A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1a57b26d23d74f0482908572ebad53e2",
+        "unifyName": "有机肥料产品变更登记核准",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120192000",
+        "rightsId": "8794B3AA889A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8a4a12f2b75b4c909abad2e22fc78450",
+        "unifyName": "有机-无机复混肥料产品登记核准",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120192000",
+        "rightsId": "8794B3AA889A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4df14117e7374af3be87414796b1d88f",
+        "unifyName": "有机-无机复混肥料产品续展登记核准",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120192000",
+        "rightsId": "8794B3AA889A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0b61ee52d8ad4eaaaac25a51f2212b40",
+        "unifyName": "有机-无机复混肥料产品变更登记核准",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120192000",
+        "rightsId": "8794B3AA889A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fe4dbf8393e6469fadc62c53bad0de1c",
+        "unifyName": "床土调酸剂产品登记核准",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120192000",
+        "rightsId": "8794B3AA889A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d27e7373904241ca8874e91939e5c44c",
+        "unifyName": "床土调酸剂产品续展登记核准",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120192000",
+        "rightsId": "8794B3AA889A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f96ebb181c43408fbcf716846f2ba7b5",
+        "unifyName": "床土调酸剂产品变更登记核准",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120200000",
+        "rightsId": "8794B3AA88A89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "WtnDAQd7QDCb7y5IDuyFxQ",
+        "unifyName": "食用菌菌种生产经营许可证核发（母种、原种）",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120200000",
+        "rightsId": "8794B3AA88A89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "830b46e34ef94d5dab04b1a34228af2d",
+        "unifyName": "食用菌菌种生产经营许可证核发（栽培种）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120208000",
+        "rightsId": "8794B3AA88B99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d269eacb69314305b58d86ea9bda96b4",
+        "unifyName": "动物防疫条件合格证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120208000",
+        "rightsId": "8794B3AA88B99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5KAgTmRWT7mQ5KH-HZ-ecw",
+        "unifyName": "动物防疫条件合格证变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120208000",
+        "rightsId": "8794B3AA88B99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "DD4BxS-gTFCoZz5P7T-AQA",
+        "unifyName": "动物防疫条件合格证补发/注销",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120209000",
+        "rightsId": "8794B3AA88BA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6d1ba0adcd32459b862fe09350c3037e",
+        "unifyName": "动物诊疗许可证核发",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120209000",
+        "rightsId": "8794B3AA88BA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "WU83PKIVR3qJuJjowP_Z1A",
+        "unifyName": "动物诊疗许可证变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120209000",
+        "rightsId": "8794B3AA88BA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "_CLkLfWWStaoCDLCkFu4_g",
+        "unifyName": "动物诊疗许可证补发",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000121008000",
+        "rightsId": "8794B3AA88D59492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "5254185e06ba4e1a98907fd1a4cd20c7",
+        "unifyName": "加油站竣工验收及经营批准证书发放申请",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121011000",
+        "rightsId": "8794B3AA88DA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b1c4d31947f94967b5363d8a5b682cd0",
+        "unifyName": "部分易制毒化学品进出口许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122001000",
+        "rightsId": "8794B3AA88F89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "hV3SahovTbCCqEbXWKuBaA",
+        "unifyName": "游戏游艺设备内容审核",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122002000",
+        "rightsId": "8794B3AA88F99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "XjgXfRYAQSq39XTaOekrfA",
+        "unifyName": "旅行社业务经营许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122004000",
+        "rightsId": "8794B3AA88FB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "mCy_P0hHTSy5lemBP6X-0A",
+        "unifyName": "外商投资旅行社业务许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122009000",
+        "rightsId": "8794B3AA89009492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "XYSbiUg3QxO67GIOK1VJjQ",
+        "unifyName": "设立社会艺术水平考级机构审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122010000",
+        "rightsId": "8794B3AA89019492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "12e01eacfcae492abf829c08ea41abe2",
+        "unifyName": "从事经营性互联网文化活动设立的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122010000",
+        "rightsId": "8794B3AA89019492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9b8bc98e4e8a450bb7d4d9ce7b0d4c4a",
+        "unifyName": "从事经营性互联网文化活动变更主体信息的审批",
+        "ywCode": "02"
+      }
+    ],
+    "pageIndex": 4,
+    "pageSize": 50,
+    "total": 503,
+    "totalPage": 11
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

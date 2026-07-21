@@ -1,0 +1,526 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131039000",
+        "rightsId": "fd2a6ca7f1704739b8f4651ff2b7294c",
+        "transactLevel": "0",
+        "unifyId": "NKxE2tw_TK6n7JWHMcBw6A",
+        "unifyName": "注册计量师补证",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132005001",
+        "rightsId": "8794B3AA8A099492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5c8b73a89df54b909c2011f480b8e538",
+        "unifyName": "国产电视动画片审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132006000",
+        "rightsId": "8794B3AA8A0C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ed4b667ba38e4a599b86a84880181bb8",
+        "unifyName": "单位设置卫星地面接收设施接收境外电视节目审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132006000",
+        "rightsId": "8794B3AA8A0C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3d41127c81f54b7aaff1f61dfed7dc12",
+        "unifyName": "单位设置卫星地面接收设施接收境内电视节目审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132008002",
+        "rightsId": "8794B3AA8A109492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2ba91c720f7e4341aaa10ac835d0918c",
+        "unifyName": "省级行政区域内经营广播电视节目传送（无线）业务审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132012000",
+        "rightsId": "8794B3AA8A159492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "01eb16591d0242ce8dfa4cf4f6298018",
+        "unifyName": "乡镇设立广播电视站",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132012000",
+        "rightsId": "8794B3AA8A159492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f35f3e404b8142b6a9984405596efc42",
+        "unifyName": "机关、部队、团体、企业事业单位设立有线广播电视站的审批",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132013000",
+        "rightsId": "8794B3AA8A169492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9155862a062440a38df2fa28198ae1b4",
+        "unifyName": "广播电视视频点播业务许可证（乙种）审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132014000",
+        "rightsId": "8794B3AA8A179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e1e94673c0cf436191b2e45a40478058",
+        "unifyName": "有线广播电视传输覆盖网工程建设及验收审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132015000",
+        "rightsId": "8794B3AA8A189492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a4e0a9e372174968a2a35b4e9fdbd792",
+        "unifyName": "广播电台、电视台设立审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132015000",
+        "rightsId": "8794B3AA8A189492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d08ec46f79e0464183178a8e592c9402",
+        "unifyName": "广播电台、电视台终止审核",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132019000",
+        "rightsId": "8794B3AA8A1C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7ec6c1ae74ce4d48aae0624dbf075b89",
+        "unifyName": "举办区域性广播电视节目交流、交易活动审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132020000",
+        "rightsId": "8794B3AA8A1D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "365eb3d8313e43ea881995c917e06267",
+        "unifyName": "卫星电视广播地面接收设施安装许可审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132025001",
+        "rightsId": "8794B3AA8A239492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4c6a94430ee64ca9bd3ded379f19c551",
+        "unifyName": "引进用于信息网络传播的境外其他视听节目审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132026000",
+        "rightsId": "8794B3AA8A269492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "146141cc480a486a828b103748b21f54",
+        "unifyName": "广播电台、电视台以卫星等传输方式进口、转播境外广播电视节目审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132027000",
+        "rightsId": "8794B3AA8A279492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e374f7e84d4f45d1a7ec3fe7a2ed864d",
+        "unifyName": "影视节目制作机构与外方合作制作电视剧（含电视动画片）立项",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132027000",
+        "rightsId": "8794B3AA8A279492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2fb00cde60b949e9a02ecdfd73d9bebb",
+        "unifyName": "影视节目制作机构与外方合作制作电视剧 （含电视动画片）完成片审查",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132032000",
+        "rightsId": "8794B3AA8A2C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "17f0c76a1a9642ce9197b8ee2c2b0232",
+        "unifyName": "广播电视专用频段频率使用许可证（甲类）核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132033000",
+        "rightsId": "8794B3AA8A2D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6a28c013d8de416eb53ff908e592e993",
+        "unifyName": "广播电视专用频段频率使用许可证（乙类）核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132034000",
+        "rightsId": "8794B3AA8A2E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8938cdc5c0504970b2f58de542af84f9",
+        "unifyName": "无线广播电视发射设备（不含小功率无线广播电视发射设备）订购证明核发",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132038000",
+        "rightsId": "8794B3AA8A329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "NAVPL2CNSDmOqXe0VjEg0w",
+        "unifyName": "广播电视节目制作经营单位设立审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132038000",
+        "rightsId": "8794B3AA8A329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7Z9aFCpGTiaxZA4QjyfW3w",
+        "unifyName": "广播电视节目制作经营单位延续（变更）审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132038000",
+        "rightsId": "8794B3AA8A329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "z8tz2aKvQIOjBmZV4Fk9aQ",
+        "unifyName": "广播电视节目制作经营单位注销审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132041000",
+        "rightsId": "8794B3AA8A389492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "acb9f8fe4865493080b7894fd7f7130f",
+        "unifyName": "县级广播电台、电视台变更台名、节目设置范围或节目套数审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132041000",
+        "rightsId": "8794B3AA8A389492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "78b64c96860a420fb18fc65b7a035fbb",
+        "unifyName": "省级以上广播电台、电视台（含教育电视台）变更台标审核",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132041000",
+        "rightsId": "8794B3AA8A389492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0ad9f20add3249528024240c50db1538",
+        "unifyName": "除县级广播电台、电视台外，其它广播电台、电视台（含教育电视台）变更台名、节目设置范围或节目套数审核",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132043000",
+        "rightsId": "8794B3AA8A3A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "r8zF4vxCQOalFAo8PkWCsA",
+        "unifyName": "设区的市、县级新闻机构信息网络传播视听节目许可证的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132043000",
+        "rightsId": "8794B3AA8A3A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Be-lDIScQterSXTsJ1S7Lg",
+        "unifyName": "信息网络传播视听节目许可证到期续证",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132043000",
+        "rightsId": "8794B3AA8A3A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ASk5EF4GTZyr85Fu8xze7w",
+        "unifyName": "其他单位信息网络传播视听节目许可证的审核转报",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132044000",
+        "rightsId": "8794B3AA8A3B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "946e2dec7c34469f879e7cd482fd4902",
+        "unifyName": "跨省经营广播电视节目传送（有线）业务审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132051000",
+        "rightsId": "8794B3AA8A429492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8557321b423d4ae6b0820e421a658a05",
+        "unifyName": "跨省经营广播电视节目传送（无线）业务审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133001000",
+        "rightsId": "8794B3AA8A439492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cf9b91b699214e9ba015f6943f628084",
+        "unifyName": "从事射击竞技体育运动单位审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133002000",
+        "rightsId": "8794B3AA8A449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6cc05cf6d0b44c48b0ed580e3b194f26",
+        "unifyName": "经营高危险性体育项目许可",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133002000",
+        "rightsId": "8794B3AA8A449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "koZkWsK6TnWk8Qh7dyhwlQ",
+        "unifyName": "经营高危险性体育项目许可（延续）",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133002000",
+        "rightsId": "8794B3AA8A449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ltbNin-8Qouu6reQ-Am6qQ",
+        "unifyName": "经营高危险性体育项目许可（变更）",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133002000",
+        "rightsId": "8794B3AA8A449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5W2CdO7tQ8y2LF8cJ2i15Q",
+        "unifyName": "经营高危险性体育项目许可（注销）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133003000",
+        "rightsId": "8794B3AA8A459492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "42ee08f615144d48b13b32d37898639c",
+        "unifyName": "举办健身气功活动的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133003000",
+        "rightsId": "8794B3AA8A459492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "19c6d2fbe9074f958019d8ae84413956",
+        "unifyName": "设立健身气功站点的审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133006000",
+        "rightsId": "8794B3AA8A489492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "935f470d59b04c6fb5a26be47ba604a0",
+        "unifyName": "临时占用公共体育场（馆）设施审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000134001000",
+        "rightsId": "8794B3AA8A4C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "w-jtHBT2TgmAbvUxFS3P9w",
+        "unifyName": "涉外统计调查机构资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000134002000",
+        "rightsId": "8794B3AA8A4D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "70e3df7f104d4a5ca84fa6e756c6e902",
+        "unifyName": "涉外社会调查项目审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bce1c76f230e4de1b888652e4a92ee1d",
+        "unifyName": "设立图书出版单位审批的初审",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "875ef87dbc6246049be7b44c39e783b7",
+        "unifyName": "图书出版单位分立审批的初审",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cc7bf6ed0b0a44009d314627bbe0d46a",
+        "unifyName": "创办报纸审批的初审",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6625fbdc6b664c00958f650a468a6acb",
+        "unifyName": "设立报纸出版单位审批的初审",
+        "ywCode": "12"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6ebaf27f5e1544758f68dc822d34666f",
+        "unifyName": "报纸变更名称审批的初审",
+        "ywCode": "13"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "903e2e4777ef45a288ce33b326c0d602",
+        "unifyName": "报纸出版单位自身名称变更审批的初审",
+        "ywCode": "14"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "098c4e325b854335a237892e08acef94",
+        "unifyName": "报纸出版单位变更至既有出版单位审批的初审",
+        "ywCode": "15"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c7a8735b5eeb45b097f7220961fa5528",
+        "unifyName": "报纸变更业务范围审批的初审",
+        "ywCode": "16"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "dd953b8e38a34bd89221cff3a8462040",
+        "unifyName": "报纸变更主办单位名称审批的初审",
+        "ywCode": "17"
+      }
+    ],
+    "pageIndex": 24,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

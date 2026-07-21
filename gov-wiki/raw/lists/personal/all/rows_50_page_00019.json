@@ -1,0 +1,518 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014007026",
+        "rightsId": "8794B3AA92E39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c49a1dd5c9e1426eb2c88aad6c5901f7",
+        "unifyName": "工伤保险一次性伤残补助金申领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014007026",
+        "rightsId": "8794B3AA92E39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "iqEbyHKfR6acRL1gDU2CjA",
+        "unifyName": "工伤保险伤残津贴申领",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014007026",
+        "rightsId": "8794B3AA92E39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cRDEPfpzTHeWRKGhjSRBKQ",
+        "unifyName": "工伤保险护理费申领",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014007027",
+        "rightsId": "8794B3AA92E49492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "MY03y9MMQoORRXcF_tElPw",
+        "unifyName": "死亡信息申报",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014007027",
+        "rightsId": "8794B3AA92E49492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8153a02a86f44fb0b20f03dc75ac1a16",
+        "unifyName": "社会保险关系终止及相关待遇申领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014007028",
+        "rightsId": "8794B3AA92E59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b4bcd3e9e41f42d688963df2e0cf2b3b",
+        "unifyName": "供养亲属抚恤金申领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014007029",
+        "rightsId": "8794B3AA92E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "TSFzoNIcRTu5ddW_3Z1TFg",
+        "unifyName": "暂停社会保险定期待遇申请（工伤保险）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014007029",
+        "rightsId": "8794B3AA92E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "sknNrtixT1mdWd1mTFgp2Q",
+        "unifyName": "工伤保险长期待遇终止",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014008001",
+        "rightsId": "8794B3AA92E79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d2fe8c3ba2c8484b907da8b34673a033",
+        "unifyName": "失业保险金申领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014008001",
+        "rightsId": "8794B3AA92E79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "qzEhubwhQlmHKd0Nb9l67w",
+        "unifyName": "失业待遇终止申报",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "002014008001",
+        "rightsId": "8794B3AA92E79492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "0Zc-Psf_QQ-TZLJPPo_2NQ",
+        "unifyName": "退役军人视同缴费年限录入",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "002014008001",
+        "rightsId": "8794B3AA92E79492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "aK6engSUQzecnKMUyS9nuw",
+        "unifyName": "失业保险视同缴费年限录入",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014008001",
+        "rightsId": "8794B3AA92E79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "oF8VYHTPSAOk586tXCdNTA",
+        "unifyName": "失业保险大龄领金人员养老保险费申领",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "002014008001",
+        "rightsId": "8794B3AA92E79492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "lpW4fXStQCGxqyrscaCLrQ",
+        "unifyName": "失业保险大龄领金人员法定退休年龄确认申请",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "002014008001",
+        "rightsId": "8794B3AA92E79492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "hCoqqhXaSTGZdwTym_rbZQ",
+        "unifyName": "领金人员职工医保费申领登记",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014008002",
+        "rightsId": "8794B3AA92E89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d89d7f647d0b4276bfc4fe94f243cc4f",
+        "unifyName": "失业保险丧葬补助金和抚恤金申领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014008003",
+        "rightsId": "8794B3AA92E99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "315d23da7eb94c3b84919c0754eb8365",
+        "unifyName": "失业保险职业培训补贴申领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014008003",
+        "rightsId": "8794B3AA92E99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "gAy9VgGHQSu2PtcHyvJmRQ",
+        "unifyName": "失业保险职业培训备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014008008",
+        "rightsId": "8794B3AA92EE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cc851958719242528170138345a00620",
+        "unifyName": "我省失业保险关系转出至外省失业保险",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014008010",
+        "rightsId": "8794B3AA92F19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0450cf9648fa4c5592c5cb23832b16ac",
+        "unifyName": "技能提升补贴申领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014010001",
+        "rightsId": "8794B3AA92F79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "yvLvrTFLRHeXCTAOiE1eGg",
+        "unifyName": "社会保障卡申领",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014010001",
+        "rightsId": "8794B3AA92F79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "zN04aI6mQj29e0jtA-aFIg",
+        "unifyName": "社会保障卡社保功能启用",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014010003",
+        "rightsId": "8794B3AA92F99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "637f7c2dc0404b6da45ed2dada2ae9cf",
+        "unifyName": "社会保障卡应用状态查询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014010004",
+        "rightsId": "8794B3AA92FA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0WG5fjxPSdOHnasmMIyluA",
+        "unifyName": "社会保障卡信息变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "002014010006",
+        "rightsId": "8794B3AA92FC9492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "08aabc5076de432c996591ff95b0672a",
+        "unifyName": "社会保障卡密码修改与重置",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014010007",
+        "rightsId": "8794B3AA92FD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ee91dbb7f01740df8eb09ed093fd9b71",
+        "unifyName": "社会保障卡挂失",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014010007",
+        "rightsId": "8794B3AA92FD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "yEsgKXhiSu6NQ1sMuVYkSg",
+        "unifyName": "社会保障卡解挂",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014010008",
+        "rightsId": "8794B3AA92FE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bd916ef9654342b19313fa984a4f6376",
+        "unifyName": "社会保障卡换发（跨行注销）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014104001",
+        "rightsId": "8794B3AA930D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "383f1004b395415c8a20b00eb4789eb0",
+        "unifyName": "失业登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014104002",
+        "rightsId": "8794B3AA930E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ca5f404e525d4c9cbac7e75b1df99cf9",
+        "unifyName": "就业登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014104003",
+        "rightsId": "8794B3AA930F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a7276efc67f44985a6154301b7e240a8",
+        "unifyName": "就业创业证申领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014105001",
+        "rightsId": "8794B3AA93119492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6ecca338ee33402284e521cca8dfb603",
+        "unifyName": "创业补贴申领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "002014105002",
+        "rightsId": "8794B3AA93129492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "LwAKxbbMS7O-LRnNVaxk1A",
+        "unifyName": "申请创业担保贷款",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "002014106001",
+        "rightsId": "8794B3AA93149492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "c9e4830110b04cfeafadbbfbb5a95d0e",
+        "unifyName": "就业困难人员认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014106002",
+        "rightsId": "8794B3AA93159492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "FQcdE1wAS4i4KiKtbGg5Vg",
+        "unifyName": "就业困难人员社会保险补贴（用人单位申报）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014106002",
+        "rightsId": "8794B3AA93159492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "urKDoep7TNupICyMSxtV2g",
+        "unifyName": "就业困难人员社会保险补贴（灵活就业人员申报）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "002014107003",
+        "rightsId": "8794B3AA931C9492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "bd52ce8b2aea4ed49c5bac3f8b80e63a",
+        "unifyName": "求职创业补贴申领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014107004",
+        "rightsId": "8794B3AA931D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1StMi1ugSWuEs_zRAsWaPw",
+        "unifyName": "高校毕业生社会保险补贴（灵活就业人员申报）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "002014203004",
+        "rightsId": "8794B3AA932B9492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "f86a243f754c45358c75eaa3be6ae4e1",
+        "unifyName": "事业单位工作人员申诉、再申诉办理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014204001",
+        "rightsId": "8794B3AA932D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8d6440760e4c4bf1b1928018f2c5d6c6",
+        "unifyName": "档案的接收（个人存档）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014204001",
+        "rightsId": "8794B3AA932D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0596f4766ccc422aba07278e7cfa5b42",
+        "unifyName": "档案的转出",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014204004",
+        "rightsId": "8794B3AA93309492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ENeUxiB_SfKTUm9ksfiGww",
+        "unifyName": "为符合相关规定的单位提供档案借阅服务",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014204005",
+        "rightsId": "8794B3AA93319492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "67905509db3a42cf8b2e44dda5a1a49c",
+        "unifyName": "依据档案记载出具相关证明",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014204006",
+        "rightsId": "8794B3AA93329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "48e137621c3f442a8ece8d0e3eb9b172",
+        "unifyName": "为相关单位提供政审（考察）服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "002014204007",
+        "rightsId": "8794B3AA93339492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "Xn2ambE7SGO0LMelKA78oA",
+        "unifyName": "存档人员党员组织关系的接转",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014207002",
+        "rightsId": "8794B3AA933F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "523df8b3ce3441f8af402fc085f13294",
+        "unifyName": "博士后进站办理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014207002",
+        "rightsId": "8794B3AA933F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5f8e60c7ce324b3db184ccc8c0070341",
+        "unifyName": "博士后出站办理",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014207002",
+        "rightsId": "8794B3AA933F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0b08a2aa42c14571ae89f82add929357",
+        "unifyName": "博士后退站办理",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014207003",
+        "rightsId": "8794B3AA93409492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "82f753d9aa2e475c8925988dd4c97554",
+        "unifyName": "职称申报",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208001",
+        "rightsId": "8794B3AA93459492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b5e8136938d5418d89f9abac027a9ba3",
+        "unifyName": "工程咨询（投资）专业技术人员职业资格考试报名",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 19,
+    "pageSize": 50,
+    "total": 1343,
+    "totalPage": 27
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

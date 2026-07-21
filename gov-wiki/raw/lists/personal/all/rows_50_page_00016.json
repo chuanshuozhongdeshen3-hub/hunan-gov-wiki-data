@@ -1,0 +1,515 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718025000",
+        "rightsId": "f3233f56e3814ed298192e0c1c89cbc0",
+        "transactLevel": "0",
+        "unifyId": "HVTfaF0dQVmm1uCnIS21fQ",
+        "unifyName": "游艇操作人员适任证书发放",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000718026000",
+        "rightsId": "b3b0bc3f6cad48a78ba0b7701b9c22a6",
+        "transactLevel": "1",
+        "unifyId": "mOu1VMgxQxiE3EL6SVCHyA",
+        "unifyName": "船舶建造重要日期确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000718027000",
+        "rightsId": "892e56bfd0e64369924bbd9bde746996",
+        "transactLevel": "1",
+        "unifyId": "wLZ2mLOoTpOwFB_YqulrQQ",
+        "unifyName": "海事声明签注",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000722004000",
+        "rightsId": "8794B3AA906A9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "MmtjwWYCRjatBFvse13Oeg",
+        "unifyName": "对非物质文化遗产代表性传承人的组织推荐评审认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000723005000",
+        "rightsId": "8794B3AA90769492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5d8371162467451f8b94bd256ccf7a2c",
+        "unifyName": "对职业病诊断争议的鉴定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000723006000",
+        "rightsId": "8794B3AA90779492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4642fc695c19482caf239a48b18244ac",
+        "unifyName": "对婚前医学检查、遗传病诊断和产前诊断结果有异议的医学技术鉴定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000723008000",
+        "rightsId": "8794B3AA90799492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b431936a723e46639748c86bceaafa18",
+        "unifyName": "计划生育手术并发症鉴定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000723009000",
+        "rightsId": "8794B3AA907A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3673910aa26f48359176e9b088b7bec3",
+        "unifyName": "全省新生儿疾病筛查中心资格的指定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000723011000",
+        "rightsId": "8794B3AA907C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "78a0d8eb22cd4e4e9fcd8c4b164e7fd3",
+        "unifyName": "放射医疗工作人员证新发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000723011000",
+        "rightsId": "8794B3AA907C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ac60f4a061a345e699a1f20f38120af6",
+        "unifyName": "放射医疗工作人员证注销",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000723012000",
+        "rightsId": "8794B3AA907D9492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "95c71f60be484a72986f85455e6354c3",
+        "unifyName": "参加护士执业资格考试人员报名资格审定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000723013000",
+        "rightsId": "8794B3AA907E9492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "7229cd1bacbf423d86e1dccc9952758e",
+        "unifyName": "传统医学师承出师证书核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000723015000",
+        "rightsId": "8794B3AA90809492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "zjc2ocUTSGSDDLOGg1yW1A",
+        "unifyName": "对传统医学师承和确有专长人员申请参加医师资格考试的资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000725006003",
+        "rightsId": "8794B3AA90939492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "BtmOCnMCQomhsIokI2rpGg",
+        "unifyName": "其他非煤矿山、危险化学品、烟花爆竹、金属冶炼等生产经营单位主要负责人和安全生产管理人员的安全生产合格证初领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000725006003",
+        "rightsId": "8794B3AA90939492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "JZ3w7HbrSni5D_f_pJHm0Q",
+        "unifyName": "其他非煤矿山、危险化学品、烟花爆竹、金属冶炼等生产经营单位主要负责人和安全生产管理人员的安全生产合格证换证",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000725006004",
+        "rightsId": "8794B3AA90949492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "sTbDYes6RKOQI9it-pkVhQ",
+        "unifyName": "其他煤矿企业主要负责人、安全生产管理人员安全生产知识和管理能力考核合格证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000730001000",
+        "rightsId": "8794B3AA90C79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6fa53acdadb54989830f7388f5bfd34f",
+        "unifyName": "中国税收居民身份证明的开具",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000730006000",
+        "rightsId": "8794B3AA90CC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a1318c3396e04ac8833529b88aabe679",
+        "unifyName": "发票真伪鉴定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000731002000",
+        "rightsId": "8794B3AA90D09492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "a617edc0cd844e939328c2a72f378923",
+        "unifyName": "股权出质设立登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000731002000",
+        "rightsId": "8794B3AA90D09492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "806a7cfb7c184393ae1c4aeb052a6a81",
+        "unifyName": "股权出质变更登记",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000731002000",
+        "rightsId": "8794B3AA90D09492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "c10ca5039a164146883a6d061bd94f38",
+        "unifyName": "股权出质注销登记",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000731002000",
+        "rightsId": "8794B3AA90D09492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "569433b60b674bd1857963e64ebb5f86",
+        "unifyName": "股权出质撤销登记",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000733003000",
+        "rightsId": "8794B3AA90E09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f5a33ed7c87441e8a08aa01fe4b86961",
+        "unifyName": "一级社会体育指导员技术等级称号授予",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000733003000",
+        "rightsId": "8794B3AA90E09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ce1de16e5d3746358307ab28a2a1a066",
+        "unifyName": "二级社会体育指导员技术等级称号授予",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000733003000",
+        "rightsId": "8794B3AA90E09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "33d4d20f262642bbbf65ddb39e23ab43",
+        "unifyName": "三级社会体育指导员技术等级称号授予",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000739001000",
+        "rightsId": "8794B3AA90E29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "375c48e93a384698a4bf80563017ce65",
+        "unifyName": "作品自愿登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000744001000",
+        "rightsId": "8794B3AA90E59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "B3YivGJES1OySk9EoPsEVw",
+        "unifyName": "归侨身份认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000744001000",
+        "rightsId": "8794B3AA90E59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "-3af984CTh-cb62cVHwV-A",
+        "unifyName": "侨眷身份认定",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000744002000",
+        "rightsId": "8794B3AA90E69492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "haL9WvqBSgCAUytnwgaZxQ",
+        "unifyName": "归侨、华侨子女、归侨子女考生身份确认",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000764023000",
+        "rightsId": "152ae5700a984a97b57e84b517919543",
+        "transactLevel": "0",
+        "unifyId": "98fd38a66d5849cb8b3978c9d0d6c764",
+        "unifyName": "省级主要林木品种审定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000772002000",
+        "rightsId": "8794B3AA911A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "60becb7cc191479c962ab6368dacf67e",
+        "unifyName": "对经营乙类非处方药的药品零售企业从业人员资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000788001001",
+        "rightsId": "c7de76b2748d4eaea267b353a015caa8",
+        "transactLevel": "0",
+        "unifyId": "6f1fc08ef736485b9d702966260f3b9e",
+        "unifyName": "残疾人证新办",
+        "ywCode": "01"
+      },
+      {
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000788001002",
+        "rightsId": "6b6431833dd940d68e20b522c303151b",
+        "transactLevel": "0",
+        "unifyId": "34167ca0c4364b3898487914e682b02a",
+        "unifyName": "残疾人证换领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000788001003",
+        "rightsId": "6f119fbd614a4921a117c6c09dba8644",
+        "transactLevel": "0",
+        "unifyId": "5e1cde86883e43f088491f2067edbdf5",
+        "unifyName": "残疾人证迁移",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000788001004",
+        "rightsId": "77bbd441199a4d9cb6518d5389d916f0",
+        "transactLevel": "0",
+        "unifyId": "gpcOUQECRDWMGW9zM-mVwg",
+        "unifyName": "残疾人证挂失补办",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000788001005",
+        "rightsId": "3758bbc106ef45a9a7e7d47a1615b07d",
+        "transactLevel": "0",
+        "unifyId": "GzgtsCQJSvGIM_dLP6QBRQ",
+        "unifyName": "残疾人证注销",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000788001006",
+        "rightsId": "46e249831e56474f8c76e04e5204587d",
+        "transactLevel": "0",
+        "unifyId": "EfICQR-mQSqytlRW59KheA",
+        "unifyName": "残疾类别/等级变更",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000812001000",
+        "rightsId": "8794B3AA914B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f1df92e8645a423586b9ee1417af13d3",
+        "unifyName": "对在法律援助工作中作出突出贡献的个人进行表彰奖励",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000812002000",
+        "rightsId": "8794B3AA914C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "04b8baa6b17f4111887277f37813a4c7",
+        "unifyName": "对人民调解委员会和调解员进行表彰奖励",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000812003000",
+        "rightsId": "8794B3AA914D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2a8a364563b245f4888b81bfaa3e3bfd",
+        "unifyName": "对基层法律服务所、基层法律服务工作者进行表彰奖励",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000812004000",
+        "rightsId": "8794B3AA914E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1151929138e74d4180fff2a2fce0aa5e",
+        "unifyName": "对律师事务所、律师进行表彰奖励",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000818001000",
+        "rightsId": "8794B3AA91679492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "nm7xPhMcTe-H0Na1ZnbcPw",
+        "unifyName": "对保护航标单位和个人的奖励",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000818002000",
+        "rightsId": "8794B3AA91689492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "p7hLGKbNTFu2AFtaSyACfg",
+        "unifyName": "对出租汽车经营者和驾驶员先进事迹的表彰和奖励",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000822001000",
+        "rightsId": "8794B3AA91829492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "qUrO6WbaRGO93nkyr3aAxw",
+        "unifyName": "对在艺术档案工作中做出显著成绩的单位和个人的表彰和奖励",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000822002000",
+        "rightsId": "8794B3AA91839492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "avgFeJL4RBGPwJxs6WaUPQ",
+        "unifyName": "对在公共文化体育设施的建设、管理和保护工作中做出突出贡献的单位和个人给与奖励",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000822003000",
+        "rightsId": "8794B3AA91849492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Vsw4GQJJQe6vzyGqg1GXtw",
+        "unifyName": "对作出突出贡献的营业性演出社会义务监督员的表彰",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000822004000",
+        "rightsId": "8794B3AA91859492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3vfcf-Q_SZ-LUtRtwuQBAA",
+        "unifyName": "对营业性演出举报人的奖励",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000822005000",
+        "rightsId": "8794B3AA91869492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Zg9R2xr_SGehvcR53h2D4Q",
+        "unifyName": "对在农村、工矿企业进行演出以及为少年儿童提供免费或者优惠演出表现突出的文艺表演团体、演员的表彰",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000831011000",
+        "rightsId": "def2765771d24993bf4734354bf8c24d",
+        "transactLevel": "3",
+        "unifyId": "M-QOD8SsRA2TvCkK1wb60Q",
+        "unifyName": "对传销行为举报的奖励",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000875001000",
+        "rightsId": "8794B3AA91DD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "28ad49e761b4486f92e420d2fb48ed25",
+        "unifyName": "对在档案工作中做出显著成绩的单位和个人的表彰或者奖励",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 16,
+    "pageSize": 50,
+    "total": 1343,
+    "totalPage": 27
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

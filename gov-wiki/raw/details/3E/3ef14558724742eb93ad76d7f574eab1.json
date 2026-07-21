@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "data": {
+    "acceptanceCondition": "1.印刷企业当年无违法违规经营行为；2.经营业主登录“湖南省新闻出版广电局网站”，自行上报企业当年经营状况进行年检。",
+    "according": "《印刷业管理条例》第四条：“县级以上地方各级人民政府负责出版管理的行政部门（以下简称出版行政部门）负责本行政区域内的印刷业监督管理工作。”\n《湖南省印刷业规定》第二十一条：“县级以上人民政府负责新闻出版工作的部门对其颁发《印刷经营许可证》的印刷企业进行年度核验。印刷企业年度核验不合格或者不参加年度核验的，由县级以上人民政府负责新闻出版工作的部门责令整改。”",
+    "applicantDuty": "应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。",
+    "applicantPower": "依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。",
+    "approveLimit": "1",
+    "approveLimitExplain": "网上年检通过，当场办结",
+    "blbm": "市、县级新闻出版",
+    "commitmentLimit": "1",
+    "commitmentLimitExplain": "网上年检通过，当场办结",
+    "deptName": "新闻出版",
+    "doScope": "全市",
+    "faqList": [
+      {
+        "createDate": 1626940347000,
+        "faqContent": "网上年检通过，是否还需要加盖公章？",
+        "faqId": "0349f95096034e049adaa10bef87789b",
+        "isDelete": "N",
+        "isSzyy": "Y",
+        "orderNum": 1.0,
+        "replyContent": "带副本到政务中心窗口盖章",
+        "unifyId": "3ef14558724742eb93ad76d7f574eab1",
+        "updateDate": 1668659564000
+      }
+    ],
+    "isCharge": "否",
+    "isIntermediaryServices": "无",
+    "isSpecialProcedure": "否",
+    "isonline": "是",
+    "lctList": [
+      {
+        "approveCode": "3ef14558724742eb93ad76d7f574eab1",
+        "approveId": "3ef14558724742eb93ad76d7f574eab1",
+        "createTime": 1536369616000,
+        "flowc": "approve/2018-09-08/1536369561418$$年检流程.jpg",
+        "id": "b4841900d4f64ff78ec0d889bab5adf1",
+        "isDelete": "0",
+        "isExchange": "Y",
+        "operateFlag": "N",
+        "updateTime": 1569838141000
+      }
+    ],
+    "materialList": [
+      {
+        "acceptStandard": "资料符合要求",
+        "bylaw": "《印刷业管理条例》",
+        "commitWay": "网上现场都可提交",
+        "copiesNum": 1.0,
+        "createDate": 1626940347000,
+        "freeSubmission": "无",
+        "isDelete": "N",
+        "isMust": "必要",
+        "materialApproveType": "其他",
+        "materialCode": "M431039073W000101",
+        "materialExplain": "暂无填报须知",
+        "materialId": "6211fe840846418c8549f0121349c24a",
+        "materialStandard": "纸质和电子",
+        "materialTitle": "年度报告回执",
+        "materialType": "原件和复印件",
+        "pageformat": "纸质资料或复印件均从系统打印",
+        "sourceChannel": "申请人自备",
+        "sourceexplain": "由申请人自备",
+        "unifyId": "3ef14558724742eb93ad76d7f574eab1",
+        "updateDate": 1678692544000
+      }
+    ],
+    "minExplain": "四级标准说明：该事项已经实现全程网办，申请人可以通过网络提交和补正相关申请信息和材料，提交的材料全部为已验证信息，受理通过后直接进入办理程序，申请人可网上查询办理状态、咨询问题，作出审批决定后，申请人可以通过网上缴费后物流递送证书结果。整个办事过程无需到现场办理。",
+    "minSeq": "0",
+    "orgId": "zX2jV3bibQFKfK9OJ0uO7Vw",
+    "orgName": "湖南省新闻出版局、省电影局",
+    "processDescript": "企业登录印刷网络管理系统报送数据，管理部门进行核验。",
+    "quantitativeRestriction": "暂无数量限制",
+    "resultList": [
+      {
+        "approveCode": "3ef14558724742eb93ad76d7f574eab1",
+        "approveId": "3ef14558724742eb93ad76d7f574eab1",
+        "createTime": 1536369407000,
+        "extend": "jpg",
+        "fileName": "印刷副证.jpg",
+        "id": "ad7ab568ac2f4b65a7085c38b17cb096",
+        "isDelete": "0",
+        "isExchange": "Y",
+        "isNeed": "N",
+        "operateFlag": "N",
+        "resultChart": "approve/2018-09-08/1536369352472$$印刷副证.jpg",
+        "resultSampleName": "印刷经营许可证副本加盖年检公章",
+        "updateTime": 1569838141000
+      }
+    ],
+    "resultSampleName": "印刷经营许可证副本加盖年检公章",
+    "rightsCode": "431039073W00",
+    "rightsId": "bce6f2f513f14e419046e106c15fd013",
+    "schemeLevels": "市、县",
+    "serveObject": "法人",
+    "transactLevel": "四级标准",
+    "transactionFrom": "网上办理",
+    "typeName": "其他行政权力",
+    "unifyId": "3ef14558724742eb93ad76d7f574eab1",
+    "unifyName": "对包装装潢印刷品印刷企业的年度核验",
+    "ywCode": "01"
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

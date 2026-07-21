@@ -1,0 +1,375 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000163003001",
+        "rightsId": "75ef255c6ea34f21b346701e007f1b79",
+        "transactLevel": "3",
+        "unifyId": "1782d98c5c394327a9634b7a5d0ae45f",
+        "unifyName": "大陆居民往来台湾通行证签发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000163003002",
+        "rightsId": "c891b9c03d6d4a25b7f7da8262683966",
+        "transactLevel": "3",
+        "unifyId": "mbO3V92ETLO04wdLLtNzqQ",
+        "unifyName": "大陆居民往来台湾签注签发",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000163004000",
+        "rightsId": "8794B3AA8CB29492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "SYI0d-U4SbaOxVi9WIkKAw",
+        "unifyName": "港澳居民来往内地通行证签发（内地换、补发申请）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "00016300500Y",
+        "rightsId": "bef41218703045e9a8ea2993f7afca3d",
+        "transactLevel": "3",
+        "unifyId": "SJRum15QSm-BE36m6bZ9sA",
+        "unifyName": "台湾居民来往大陆通行证签发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00016301300Y",
+        "rightsId": "25be25a7b2114638bc8c14d7dfef3d43",
+        "transactLevel": "0",
+        "unifyId": "6dwa8PUrRBunRHR4cRQNPg",
+        "unifyName": "边境管理区通行证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172029001",
+        "rightsId": "c34878166bdb43f9a93a075c4fed1d3e",
+        "transactLevel": "0",
+        "unifyId": "65e4abe786934325b1b0a12f19f5054b",
+        "unifyName": "执业药师首次注册",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172029002",
+        "rightsId": "ccd5f66284814f5b890736d082e86a6f",
+        "transactLevel": "0",
+        "unifyId": "d3d2f7f8ebd54be19272a1d14aa12688",
+        "unifyName": "执业药师延续注册",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172029003",
+        "rightsId": "24652fc09ff1455ea83cbec2dab2cba6",
+        "transactLevel": "0",
+        "unifyId": "7cafa22cccd3411883b2a655b8d62802",
+        "unifyName": "执业药师变更注册",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172029004",
+        "rightsId": "c093548440cf4b5ebaf30c80db1720ab",
+        "transactLevel": "0",
+        "unifyId": "c770ede39fed4300b37cc22cd4880fea",
+        "unifyName": "执业药师注销注册（依申请注销）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000709110001",
+        "rightsId": "1012c6a255c34f7f972ee4aa6f10e392",
+        "transactLevel": "3",
+        "unifyId": "g8JGu5pBT82g3IFrkddkeQ",
+        "unifyName": "居民身份证申领",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709110002",
+        "rightsId": "07c484e26f5d4c2780222e5d3ea8d29c",
+        "transactLevel": "0",
+        "unifyId": "H0AH-poRQmmLMzdsfYjBaw",
+        "unifyName": "居民身份证换领",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709110003",
+        "rightsId": "38f586283733438c9f3582384d42c830",
+        "transactLevel": "0",
+        "unifyId": "4aW4IvUbSjSF3Q08DdLTcQ",
+        "unifyName": "居民身份证补领",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709110004",
+        "rightsId": "36dce088024d44a0930e8cfa0c5a13a2",
+        "transactLevel": "0",
+        "unifyId": "oUUBOoQ0TuWra0N4Dhbihg",
+        "unifyName": "临时居民身份证申领",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709110005",
+        "rightsId": "ee8b64af85204766b852709803f6f876",
+        "transactLevel": "0",
+        "unifyId": "YZ3xkagtQbq9caDj3rLoaw",
+        "unifyName": "居民身份证挂失申报",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709111001",
+        "rightsId": "3683ffb2ae8843978be4da47b2ea56b2",
+        "transactLevel": "0",
+        "unifyId": "F8fWAnNERv6fcPfSwGdRVQ",
+        "unifyName": "居住证申领",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709111003",
+        "rightsId": "f1afdaf66a3a412f89c0545c6f92e599",
+        "transactLevel": "0",
+        "unifyId": "IjiNR5OmTgysp220sFGn4Q",
+        "unifyName": "居住证换领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709111004",
+        "rightsId": "00b3398b866549149db627d9e822fe9b",
+        "transactLevel": "0",
+        "unifyId": "kr2jtnTgSkuvofzPCudKYg",
+        "unifyName": "居住证补领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000712001000",
+        "rightsId": "8794B3AA8FE59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cf07dd2aa68a464e98b69f07259dc0c1",
+        "unifyName": "法律援助律师工作证颁发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000788001001",
+        "rightsId": "c7de76b2748d4eaea267b353a015caa8",
+        "transactLevel": "0",
+        "unifyId": "6f1fc08ef736485b9d702966260f3b9e",
+        "unifyName": "残疾人证新办",
+        "ywCode": "01"
+      },
+      {
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000788001002",
+        "rightsId": "6b6431833dd940d68e20b522c303151b",
+        "transactLevel": "0",
+        "unifyId": "34167ca0c4364b3898487914e682b02a",
+        "unifyName": "残疾人证换领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000788001003",
+        "rightsId": "6f119fbd614a4921a117c6c09dba8644",
+        "transactLevel": "0",
+        "unifyId": "5e1cde86883e43f088491f2067edbdf5",
+        "unifyName": "残疾人证迁移",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000788001004",
+        "rightsId": "77bbd441199a4d9cb6518d5389d916f0",
+        "transactLevel": "0",
+        "unifyId": "gpcOUQECRDWMGW9zM-mVwg",
+        "unifyName": "残疾人证挂失补办",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000788001005",
+        "rightsId": "3758bbc106ef45a9a7e7d47a1615b07d",
+        "transactLevel": "0",
+        "unifyId": "GzgtsCQJSvGIM_dLP6QBRQ",
+        "unifyName": "残疾人证注销",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000788001006",
+        "rightsId": "46e249831e56474f8c76e04e5204587d",
+        "transactLevel": "0",
+        "unifyId": "EfICQR-mQSqytlRW59KheA",
+        "unifyName": "残疾类别/等级变更",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017003000",
+        "rightsId": "8794B3AA920C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "j6vhwtkeSSuiei-UzjxMwg",
+        "unifyName": "新建商品房（预售）买卖合同网签备案（变更、注销）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017003000",
+        "rightsId": "8794B3AA920C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "UJj8_4KyTeCvzgJ_FKcvxQ",
+        "unifyName": "新建商品房（现售）买卖合同网签备案（变更、注销）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017003000",
+        "rightsId": "8794B3AA920C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "DEK00lKRRLme3iM5aN8Fqg",
+        "unifyName": "新建商品房（预售）抵押合同网签备案（变更、注销）",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "001017003000",
+        "rightsId": "8794B3AA920C9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "cRo4cg0FSYi1y9La6vnS1w",
+        "unifyName": "存量房买卖合同网签备案（变更、注销）",
+        "ywCode": "25"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017003000",
+        "rightsId": "8794B3AA920C9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "vKWPtDiARaCVrnVNW8l0nw",
+        "unifyName": "存量房抵押合同备案（变更、注销）",
+        "ywCode": "34"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430123066W05",
+        "rightsId": "RzW44a1XQ9ekXHEDb4Gp5g",
+        "transactLevel": "0",
+        "unifyId": "d668ab9067c04026b1b37b5c044e359d",
+        "unifyName": "托幼机构工作人员健康合格证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164017W00",
+        "rightsId": "7b1a8JmIQYWTU9Ey7aSitA",
+        "transactLevel": "0",
+        "unifyId": "n5oDAMLbTNawjysrY-p3dA",
+        "unifyName": "猎捕省重点保护的野生动物审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430709062W00",
+        "rightsId": "q3tmnY7ZQKePDLFtnXHLmw",
+        "transactLevel": "0",
+        "unifyId": "eda56df44d0c42cabee316c4fceda720",
+        "unifyName": "流动人口暂住登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012057W00",
+        "rightsId": "soV8MpUYRgSUvtAEDac4gg",
+        "transactLevel": "0",
+        "unifyId": "f3858d6b4cfc4839aba79708c5cfad2b",
+        "unifyName": "司法鉴定人执业初审",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012057W00",
+        "rightsId": "soV8MpUYRgSUvtAEDac4gg",
+        "transactLevel": "0",
+        "unifyId": "2a050e6632f64484b05cfb77c487a994",
+        "unifyName": "司法鉴定人变更初审",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012057W00",
+        "rightsId": "soV8MpUYRgSUvtAEDac4gg",
+        "transactLevel": "0",
+        "unifyId": "cedb0d50ffc5405e93a3b2d736b7e6bd",
+        "unifyName": "司法鉴定人注销初审",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005305W00",
+        "rightsId": "If2zFpMKRbu5A7ayTReZGg",
+        "transactLevel": "0",
+        "unifyId": "8106114ab5884b2fa218b3a76dff506c",
+        "unifyName": "教师资格证书补证",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 2,
+    "pageSize": 50,
+    "total": 86,
+    "totalPage": 2
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

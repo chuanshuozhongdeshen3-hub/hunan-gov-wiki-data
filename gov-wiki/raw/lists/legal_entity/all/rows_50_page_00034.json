@@ -1,0 +1,515 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718002000",
+        "rightsId": "8794B3AA902E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4ff8f1300c3b4a05a53739c300e8c219",
+        "unifyName": "收费公路的鉴定和验收",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718003000",
+        "rightsId": "8794B3AA902F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "EGT5DmCqRROCeXoBCFiqAw",
+        "unifyName": "道路运输车辆燃料消耗量检测认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718004000",
+        "rightsId": "8794B3AA90309492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8587af159b7d4edebb536a083ebbd8f7",
+        "unifyName": "出具公路工程参建单位工作综合评价等级证书",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718005000",
+        "rightsId": "8794B3AA90319492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0GgMG7F1TjS_UF84bjQKkg",
+        "unifyName": "客运站站级核定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000718006000",
+        "rightsId": "8794B3AA90329492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "e8wAkVoFRAupOQwaEGBrow",
+        "unifyName": "船舶最低安全配员证书核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000718006000",
+        "rightsId": "8794B3AA90329492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "bI-_pZX0TrCUw6SU8FQEnQ",
+        "unifyName": "船舶最低安全配员证书换、补发",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000718006000",
+        "rightsId": "8794B3AA90329492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "fATSleoeScWMrWEdUKEnEg",
+        "unifyName": "船舶最低安全配员证书注销",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718008000",
+        "rightsId": "8794B3AA90349492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Uc70RZg3Stuk6T_jlK5IQw",
+        "unifyName": "船舶进出港报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718010000",
+        "rightsId": "8794B3AA90369492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "zhHzYWy5Qe-UkuwVDBKC8Q",
+        "unifyName": "确认特定时段开行包车或者加班车资质",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718011000",
+        "rightsId": "8794B3AA90379492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4jXRKqy9QlOvStcOI5QxAg",
+        "unifyName": "营运客车类型等级评定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000718013000",
+        "rightsId": "8794B3AA90399492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "6DrSAa-TS6e5aAB0D_QPjg",
+        "unifyName": "船舶变更登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000718013000",
+        "rightsId": "8794B3AA90399492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "lChC00rdTi68824aTijALg",
+        "unifyName": "船舶抵押权登记",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000718013000",
+        "rightsId": "8794B3AA90399492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "ccd1234252084d2a9a3e53482726e92a",
+        "unifyName": "船舶所有权登记",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000718013000",
+        "rightsId": "8794B3AA90399492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "hIG68cQAT3eRHJM5uwNmLw",
+        "unifyName": "船舶注销登记",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718013000",
+        "rightsId": "8794B3AA90399492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7ce9b2dddec94516898a58b623070f7a",
+        "unifyName": "废钢船登记",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000718013000",
+        "rightsId": "8794B3AA90399492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "MUYPxP1rRverKQwYENhhpw",
+        "unifyName": "船舶光船租赁登记",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000718013000",
+        "rightsId": "8794B3AA90399492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "S8DPcRA5TuawCCDXrLVUIg",
+        "unifyName": "船舶登记证书补发",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000718014000",
+        "rightsId": "8794B3AA903A9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "NpTaCMkkQDmgBgj__ZZcUw",
+        "unifyName": "船舶名称核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718015000",
+        "rightsId": "8794B3AA903B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c70f5ee1d45446c7bf689b9ab3fea45f",
+        "unifyName": "公路工程综合类甲、乙、丙级和专项类及水运工程材料类甲、乙、丙级、水运工程结构类甲、乙级试验检测机构等级的资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718017000",
+        "rightsId": "8794B3AA903D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5953df37ffd348e88ee3015f1d6100fa",
+        "unifyName": "航道通航条件影响评价审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718018000",
+        "rightsId": "8794B3AA903E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8d77251d8bb2487588cc68ed1c7f63bb",
+        "unifyName": "公路工程交工验收向交通主管部门备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000718020000",
+        "rightsId": "5eb961c386a3446c9ae671015f55bee9",
+        "transactLevel": "1",
+        "unifyId": "oXxaa_YJQBCX8ubFzCdrPw",
+        "unifyName": "船舶识别号使用核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718021000",
+        "rightsId": "e79b5c3de5f549569e9bc212ef4a33e5",
+        "transactLevel": "0",
+        "unifyId": "1VNurYpRRw2l_OG68AzpKg",
+        "unifyName": "《连续概要记录》签发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718022000",
+        "rightsId": "6b67170c9c3f440680e0518fdccf14ab",
+        "transactLevel": "0",
+        "unifyId": "foMo01f3TXCCDJ4ESN0Sjw",
+        "unifyName": "高速客船操作安全证书核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000718026000",
+        "rightsId": "b3b0bc3f6cad48a78ba0b7701b9c22a6",
+        "transactLevel": "1",
+        "unifyId": "mOu1VMgxQxiE3EL6SVCHyA",
+        "unifyName": "船舶建造重要日期确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000718027000",
+        "rightsId": "892e56bfd0e64369924bbd9bde746996",
+        "transactLevel": "1",
+        "unifyId": "wLZ2mLOoTpOwFB_YqulrQQ",
+        "unifyName": "海事声明签注",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000721001000",
+        "rightsId": "8794B3AA90629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2d96a9113efd40d0832d70541c431e81",
+        "unifyName": "台湾投资者经第三地转投资认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000721003000",
+        "rightsId": "8794B3AA90649492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "4d1cc744f8334e128ab59879c50b5886",
+        "unifyName": "外资研发中心采购设备免、退税资格审核认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000721004000",
+        "rightsId": "8794B3AA90659492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4d12c01ab7d1486fb5aeafe78ceb135b",
+        "unifyName": "鼓励类外商投资项目进口设备减免税确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000722001000",
+        "rightsId": "8794B3AA90679492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0SlfiASGRRO8XbvRCBy6Mg",
+        "unifyName": "拟入境进行营业性演出的外国文艺表演团体、个人出具工作证明",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000722003000",
+        "rightsId": "8794B3AA90699492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "P5dEW3m6SMi0uSCy4mmSlQ",
+        "unifyName": "对非物质文化遗产代表性项目的组织推荐评审认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000722006000",
+        "rightsId": "8794B3AA906C9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "VEqvz98kTmKm-XW-dsuuGA",
+        "unifyName": "对非物质文化遗产项目保护单位的组织推荐评审认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000722008000",
+        "rightsId": "8794B3AA906E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "L4uy-XcWT9KX-G0Uos9eaA",
+        "unifyName": "中国公民出国旅游团队名单备案、中国居民赴台湾地区旅游团队名单备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000722009000",
+        "rightsId": "8794B3AA906F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "u8jN6mDbRtqEifnlRCHuUg",
+        "unifyName": "降低旅游服务质量保证金资格确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000722010000",
+        "rightsId": "8794B3AA90709492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "K4u9oiueQxWg4bfVPXcg1w",
+        "unifyName": "入境团队旅游邀请函",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000723001000",
+        "rightsId": "8794B3AA90729492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "L0GxnZW_QUidon6UQu_W4A",
+        "unifyName": "医疗机构评审",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000723002000",
+        "rightsId": "8794B3AA90739492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "dpLnvFTIS9-6RlYXCxMG0A",
+        "unifyName": "对传染病病人尸体或者疑似传染病病人的尸体进行解剖查验的批准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000723003000",
+        "rightsId": "8794B3AA90749492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "454298fa0c6640198951a4b23005e087",
+        "unifyName": "尸检机构认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000723004000",
+        "rightsId": "8794B3AA90759492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "EOHGPBErTSm7C_GXf4KkgQ",
+        "unifyName": "承担预防接种工作的医疗卫生机构（接种单位）的确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000723005000",
+        "rightsId": "8794B3AA90769492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5d8371162467451f8b94bd256ccf7a2c",
+        "unifyName": "对职业病诊断争议的鉴定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000723009000",
+        "rightsId": "8794B3AA907A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3673910aa26f48359176e9b088b7bec3",
+        "unifyName": "全省新生儿疾病筛查中心资格的指定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000725010000",
+        "rightsId": "7f15c44656e94c17aa11f60fa0fd508a",
+        "transactLevel": "0",
+        "unifyId": "SCq07EStSJOVxmDq6p3Bww",
+        "unifyName": "危险化学品登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000730001000",
+        "rightsId": "8794B3AA90C79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6fa53acdadb54989830f7388f5bfd34f",
+        "unifyName": "中国税收居民身份证明的开具",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000730006000",
+        "rightsId": "8794B3AA90CC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a1318c3396e04ac8833529b88aabe679",
+        "unifyName": "发票真伪鉴定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000730008000",
+        "rightsId": "8794B3AA90CE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "447b91371c2142abb902306f48e9b39a",
+        "unifyName": "境外注册中资控股居民企业身份认定申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000730009000",
+        "rightsId": "1d89c6c5e3424fa4984c0c8922741939",
+        "transactLevel": "0",
+        "unifyId": "295dde3379f6452b84c0baf310a57f6b",
+        "unifyName": "发票票种核定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000730010000",
+        "rightsId": "c7032226f3b74d13a6fa9a5ff9401b0c",
+        "transactLevel": "1",
+        "unifyId": "1a2fd6df8b0949e881bf4451b7dc86e4",
+        "unifyName": "印制有本单位名称发票",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000730011000",
+        "rightsId": "b09c733ee2ee4a7c8ffcbc2cdc44de77",
+        "transactLevel": "0",
+        "unifyId": "fa6f1bf02789440085d7370581a6d64e",
+        "unifyName": "出口退（免）税分类管理评定申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000730012000",
+        "rightsId": "16726fa7a51540b3b74f425fd04f4d30",
+        "transactLevel": "0",
+        "unifyId": "31aa6908d0fa42d6a0810c8b1cdbd95e",
+        "unifyName": "退税商店资格信息报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000730013000",
+        "rightsId": "207333962fa745f48684defcf7f2c014",
+        "transactLevel": "0",
+        "unifyId": "d3f0b47a681a4fb79c0ed4a2e2afbe29",
+        "unifyName": "纳税信用复评",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 34,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

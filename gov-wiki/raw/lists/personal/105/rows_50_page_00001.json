@@ -1,0 +1,124 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000163001001",
+        "rightsId": "a9d63e75ba7c4a82a7cd72785451a0fc",
+        "transactLevel": "3",
+        "unifyId": "6cL-ngfpToSnCGiDYL0DIQ",
+        "unifyName": "普通护照签发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000163002001",
+        "rightsId": "223e921efa99468fa668641130ff4111",
+        "transactLevel": "3",
+        "unifyId": "V6IE42sPRyCzlQQdXQmlKA",
+        "unifyName": "前往港澳通行证签发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000163002005",
+        "rightsId": "61331fe1c83d4cab922428f5a908cc66",
+        "transactLevel": "3",
+        "unifyId": "36dbb005cf1e4afabe0c8adcdbaa47f8",
+        "unifyName": "往来港澳通行证签发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000163003001",
+        "rightsId": "75ef255c6ea34f21b346701e007f1b79",
+        "transactLevel": "3",
+        "unifyId": "1782d98c5c394327a9634b7a5d0ae45f",
+        "unifyName": "大陆居民往来台湾通行证签发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000163003002",
+        "rightsId": "c891b9c03d6d4a25b7f7da8262683966",
+        "transactLevel": "3",
+        "unifyId": "mbO3V92ETLO04wdLLtNzqQ",
+        "unifyName": "大陆居民往来台湾签注签发",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000163004000",
+        "rightsId": "8794B3AA8CB29492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "SYI0d-U4SbaOxVi9WIkKAw",
+        "unifyName": "港澳居民来往内地通行证签发（内地换、补发申请）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "00016300500Y",
+        "rightsId": "bef41218703045e9a8ea2993f7afca3d",
+        "transactLevel": "3",
+        "unifyId": "SJRum15QSm-BE36m6bZ9sA",
+        "unifyName": "台湾居民来往大陆通行证签发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "00016301400Y",
+        "rightsId": "b01a0b8bd33c41f589880a2e9e66567e",
+        "transactLevel": "3",
+        "unifyId": "5BoREbYtQFO54EVIE8SNVQ",
+        "unifyName": "出入境通行证签发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009124W00",
+        "rightsId": "70F599A55C66ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "3d4c2dcb5fb7472f9aa35f6817cf0469",
+        "unifyName": "外国人口岸签证办理权",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432002001W00",
+        "rightsId": "qQm4bdIsRo2FNF_GR1CMtQ",
+        "transactLevel": "1",
+        "unifyId": "ncD5UAb4S0-pxGtKtMjQAg",
+        "unifyName": "领事认证服务（附加证明书、海牙认证）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432009305W00",
+        "rightsId": "968059BD17E9634EE053671515AC8FFE",
+        "transactLevel": "0",
+        "unifyId": "f7d9cf8268f94d0e8a36c0be982f8840",
+        "unifyName": "无犯罪记录证明",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 11,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

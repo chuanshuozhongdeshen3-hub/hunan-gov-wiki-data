@@ -1,0 +1,304 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105006000",
+        "rightsId": "8794B3AA857C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "218297a644764d059e601ff91f07c1ec",
+        "unifyName": "开办外籍人员子女学校审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000105013001",
+        "rightsId": "84b5de43291d4f7ead39862e7e4a21d7",
+        "transactLevel": "0",
+        "unifyId": "52608d1e597c4767a9912bce0fdd5426",
+        "unifyName": "高等学校教师资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120144000",
+        "rightsId": "8794B3AA885E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "J4C3x6rGTCuzbk-KwvLk-g",
+        "unifyName": "外国人在我国对国家重点保护水生野生动物进行野外考察或者在野外拍摄电影、录像等活动审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000705001000",
+        "rightsId": "8794B3AA8F9E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8c7e3b5ab2d3427388bc875ddf3e8e57",
+        "unifyName": "高校学生跨省转学确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000705002000",
+        "rightsId": "8794B3AA8F9F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "24264aa82cae4fc389b42c728f51180c",
+        "unifyName": "普通话水平测试等级证书核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000705003000",
+        "rightsId": "8794B3AA8FA09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e2ac89ad270e4107a2ad10069c029d3e",
+        "unifyName": "对自考考生免考课程的确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000705004000",
+        "rightsId": "8794B3AA8FA19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "90f7021842f046cfb53f72cb40b9a541",
+        "unifyName": "对自考合格课程跨省转移的确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001005001000",
+        "rightsId": "7afb33c0b84b4a42a04fd3483c7a53ba",
+        "transactLevel": "0",
+        "unifyId": "d30a7af579c342819c90a1a0a9415a77",
+        "unifyName": "对学生申诉的处理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001005002000",
+        "rightsId": "dac968099daa497d9e7d6133f27036b5",
+        "transactLevel": "0",
+        "unifyId": "fe25fd9b67a54c7ab730669cba73fce8",
+        "unifyName": "对教师申诉的处理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430105007W00",
+        "rightsId": "IqGPxRECTH-YQaa_YPxyuw",
+        "transactLevel": "0",
+        "unifyId": "74ba71b5dddb4cc19e01d6e7aaa310d9",
+        "unifyName": "适龄儿童、少年因身体状况需要延缓入学或者休学审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430806006W00",
+        "rightsId": "qhXtVE9iQpa2D-KSub9pdA",
+        "transactLevel": "0",
+        "unifyId": "36b2340158fa43aa84c5b388cff147a0",
+        "unifyName": "授予省科学技术奖",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005001W00",
+        "rightsId": "WaCEKiUvSausjyuRrfgusQ",
+        "transactLevel": "0",
+        "unifyId": "Wh4es6t8Ti6l0aC2iCbZiA",
+        "unifyName": "开具普通话水平等级测试成绩证明服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005102W01",
+        "rightsId": "961D8B9AEAA6EDC0E053681515AC9D19",
+        "transactLevel": "0",
+        "unifyId": "00bc0e231504409aa420876fc0cf5ad8",
+        "unifyName": "开具普通高校招生考试成绩证明服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005102W03",
+        "rightsId": "961D8B9AEAA8EDC0E053681515AC9D19",
+        "transactLevel": "0",
+        "unifyId": "6b8a85c0ae374643916b2ae70ddeb599",
+        "unifyName": "开具普通高中学业水平合格性考试成绩证明服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005102W04",
+        "rightsId": "961D8B9AEAA9EDC0E053681515AC9D19",
+        "transactLevel": "0",
+        "unifyId": "b94797a5fd8b446399415c7b934a2fd8",
+        "unifyName": "开具初中学业水平考试成绩证明服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005205W00",
+        "rightsId": "Pl7d3C8yQOKPwEKwt73faw",
+        "transactLevel": "0",
+        "unifyId": "1c80b8d3f1b5450caeab05937e28760f",
+        "unifyName": "开具普通高中学历证明书服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005206W00",
+        "rightsId": "Glg18gHERreezCZ06tSriA",
+        "transactLevel": "0",
+        "unifyId": "e92534eab8c740a4afe7403107afa933",
+        "unifyName": "开具湖南省高等教育自学考试毕业证明书和毕业生登记表服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005206W00",
+        "rightsId": "Glg18gHERreezCZ06tSriA",
+        "transactLevel": "0",
+        "unifyId": "2343da5014d0424ba6a59f7c974178b5",
+        "unifyName": "开具湖南省高等教育自学考试毕业证明书服务",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005206W00",
+        "rightsId": "Glg18gHERreezCZ06tSriA",
+        "transactLevel": "0",
+        "unifyId": "5740b109c4d04ae4bd53c8ac61465134",
+        "unifyName": "开具湖南省高等教育自学考试毕业生登记表服务",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005207W00",
+        "rightsId": "995738A2A310D4BCE053681515AC4828",
+        "transactLevel": "0",
+        "unifyId": "0926eb4c1daa442ab5bd84d8274379e2",
+        "unifyName": "开具初中及以下毕业证明材料",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005303W00",
+        "rightsId": "961D8B9AEABCEDC0E053681515AC9D19",
+        "transactLevel": "0",
+        "unifyId": "40d6be799234480fbc492bd87d62cf51",
+        "unifyName": "教育援藏援疆政策咨询服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005304W00",
+        "rightsId": "961D8B9AEABDEDC0E053681515AC9D19",
+        "transactLevel": "0",
+        "unifyId": "726ee2d4ecb84282a4b2d9040e86ec1f",
+        "unifyName": "汉语教师志愿者咨询服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005501W00",
+        "rightsId": "961D8B9AEAC7EDC0E053681515AC9D19",
+        "transactLevel": "0",
+        "unifyId": "8767561de78745b29b735939f5df4b21",
+        "unifyName": "教育收费政策咨询服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005601W00",
+        "rightsId": "961D8B9AEAC9EDC0E053681515AC9D19",
+        "transactLevel": "0",
+        "unifyId": "9872ae39b99f4baa908d93a2481e9164",
+        "unifyName": "公派出国留学咨询服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005601W00",
+        "rightsId": "961D8B9AEAC9EDC0E053681515AC9D19",
+        "transactLevel": "0",
+        "unifyId": "56b258980cab4bd9bbaad7e22e44c7ee",
+        "unifyName": "《外国留学人员来华签证申请表》（JW202表）核准",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432006101W00",
+        "rightsId": "98DEF4F23BBAA6C2E053681515AC0784",
+        "transactLevel": "0",
+        "unifyId": "1cf30366daf04d76ba442ec67b622bab",
+        "unifyName": "科技政策咨询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432006102W00",
+        "rightsId": "98DEF4F23BBDA6C2E053681515AC0784",
+        "transactLevel": "0",
+        "unifyId": "419b9aaf05bb45fea7753882bd13281d",
+        "unifyName": "科技查新咨询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432009305W00",
+        "rightsId": "968059BD17E9634EE053671515AC8FFE",
+        "transactLevel": "0",
+        "unifyId": "f7d9cf8268f94d0e8a36c0be982f8840",
+        "unifyName": "无犯罪记录证明",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432018902W00",
+        "rightsId": "9A7017193C46C6C9E053681515ACD5F9",
+        "transactLevel": "0",
+        "unifyId": "qTiOwL5ySp6l6kozLGfWQA",
+        "unifyName": "公路水运工程试验检测专业技术人员职业资格考试",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 29,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

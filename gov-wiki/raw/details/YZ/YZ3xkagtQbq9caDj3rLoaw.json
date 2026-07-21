@@ -1,0 +1,110 @@
+{
+  "code": 0,
+  "data": {
+    "acceptanceCondition": "居民身份证遗失的，可以申请挂失。",
+    "according": "《中华人民共和国居民身份证法》第二条：居住在中华人民共和国境内的年满十六周岁的中国公民，应当依照本法的规定申请领取居民身份证；未满十六周岁的中国公民，可以依照本法的规定申请领取居民身份证。\n第七条：公民应当自年满十六周岁之日起三个月内，向常住户口所在地的公安机关申请领取居民身份证。未满十六周岁的公民，由监护人代为申请领取居民身份证。\n第十一条：国家决定换发新一代居民身份证、居民身份证有效期满、公民姓名变更或者证件严重损坏不能辨认的，公民应当换领新证；居民身份证登记项目出现错误的，公安机关应当及时更正，换发新证；领取新证时，必须交回原证。居民身份证丢失的，应当申请补领。未满十六周岁公民的居民身份证有前款情形的，可以申请换领、换发或者补领新证。公民办理常住户口迁移手续时，公安机关应当在居民身份证的机读项目中记载公民常住户口所在地住址变动的情况，并告知本人。\n第十二条：公民申请领取、换领、补领居民身份证，公安机关应当按照规定及时予以办理。公安机关应当自公民提交《居民身份证申领登记表》之日起六十日内发放居民身份证；交通不便的地区，办理时间可以适当延长，但延长的时间不得超过三十日。公民在申请领取、换领、补领居民身份证期间，急需使用居民身份证的，可以申请领取临时居民身份证，公安机关应当按照规定及时予以办理。具体办法由国务院公安部门规定。\n《中华人民共和国临时居民身份证管理办法》第二条：居住在中华人民共和国境内的中国公民，在申请领取换领、补领居民身份证期间，急需使用居民身份证的，可以申请领取临时居民身份证。\n《关于建立居民身份证异地受理挂失申报和丢失招领制度的意见》（公通字〔2015〕34号）",
+    "applicantDuty": "应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。",
+    "applicantPower": "依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。",
+    "approveLimit": "1",
+    "approveLimitExplain": "公安机关应当核验公民的身份信息，核实的应当当场受理。",
+    "blbm": "县级公安部门",
+    "commitmentLimit": "1",
+    "commitmentLimitExplain": "不含邮寄时间",
+    "deptName": "公安部门",
+    "doScope": "全省",
+    "faqList": [
+      {
+        "createDate": 1760779531000,
+        "faqContent": "居民身份证挂失申报是否可以在线上申请？",
+        "faqId": "79488d0c6bba4f4298f946feb94075d7",
+        "isDelete": "N",
+        "isSzyy": "N",
+        "orderNum": 1.0,
+        "replyContent": "可以线上申请，全程网办，办理结果物可寄递至申请人填写的地址。",
+        "unifyId": "YZ3xkagtQbq9caDj3rLoaw",
+        "updateDate": 1760779531000
+      }
+    ],
+    "isCharge": "否",
+    "isIntermediaryServices": "无",
+    "isSpecialProcedure": "否",
+    "isonline": "是",
+    "lctList": [
+      {
+        "approveCode": "YZ3xkagtQbq9caDj3rLoaw",
+        "approveId": "YZ3xkagtQbq9caDj3rLoaw",
+        "bucketName": "zwfw202510",
+        "createTime": 1760779531000,
+        "flowc": "approve/2025-10-18-17/1760779321750$$挂失.png",
+        "id": "3b294219d9ca4fdcad6a83159808e1d2",
+        "isDelete": "0",
+        "isExchange": "N",
+        "operateFlag": "N",
+        "updateTime": 1760779531000
+      }
+    ],
+    "limitsceneexplain": "全程网办",
+    "materialList": [
+      {
+        "acceptStandard": "证件真实、有效",
+        "bylaw": "《公安部关于印发〈关于建立居民身份证异地受理挂失申报和丢失招领制度的意见〉的通知》（公通字〔2015〕34号）",
+        "commitWay": "网上现场都可提交",
+        "copiesNum": 1.0,
+        "createDate": 1760779531000,
+        "freeSubmission": "无",
+        "isDelete": "N",
+        "isMust": "必要",
+        "materialApproveType": "证照",
+        "materialCode": "M0007091100050201",
+        "materialExplain": "申领人本人户口本或复印件。",
+        "materialId": "b4b85a6d273f4a7583c4cea5ade4a00c",
+        "materialStandard": "纸质",
+        "materialTitle": "居民户口簿",
+        "materialType": "原件",
+        "pageformat": "A4",
+        "sourceChannel": "政府部门核发",
+        "sourceexplain": "公安机关核发",
+        "unifyId": "YZ3xkagtQbq9caDj3rLoaw",
+        "updateDate": 1760779531000
+      }
+    ],
+    "minExplain": "四级标准说明：该事项已经实现全程网办，申请人可以通过网络提交和补正相关申请信息和材料，提交的材料全部为已验证信息，受理通过后直接进入办理程序，申请人可网上查询办理状态、咨询问题，作出审批决定后，申请人可以通过网上缴费后物流递送证书结果。整个办事过程无需到现场办理。",
+    "minSeq": "0",
+    "orgId": "9def3f565034406981bf70f2169e28ef",
+    "orgName": "湖南省公安厅",
+    "processDescript": "申领人本人（未满16周岁公民由监护人陪同）持居民户口簿到身份证受理窗口申报居民身份证挂失。",
+    "quantitativeRestriction": "暂无数量限制",
+    "resultList": [
+      {
+        "approveCode": "YZ3xkagtQbq9caDj3rLoaw",
+        "approveId": "YZ3xkagtQbq9caDj3rLoaw",
+        "bucketName": "zwfw202510",
+        "createTime": 1760779531000,
+        "extend": "png",
+        "fileName": "挂失回执.png",
+        "id": "95e6774174c84c59a513ea286759e362",
+        "isDelete": "0",
+        "isExchange": "N",
+        "isNeed": "N",
+        "operateFlag": "N",
+        "resultChart": "approve/2025-10-18-17/1760779411417$$挂失回执.png",
+        "resultSampleName": "居民身份证挂失申报回执",
+        "updateTime": 1760779531000
+      }
+    ],
+    "resultSampleName": "居民身份证挂失申报回执",
+    "rightsCode": "000709110005",
+    "rightsId": "ee8b64af85204766b852709803f6f876",
+    "schemeLevels": "县",
+    "serveObject": "个人",
+    "transactLevel": "四级标准",
+    "transactionFrom": "窗口办理^网上办理^快递申请",
+    "typeName": "行政确认",
+    "unifyId": "YZ3xkagtQbq9caDj3rLoaw",
+    "unifyName": "居民身份证挂失申报",
+    "ywCode": "02"
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

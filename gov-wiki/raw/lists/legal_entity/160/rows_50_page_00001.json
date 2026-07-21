@@ -1,0 +1,410 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000104006000",
+        "rightsId": "8794B3AA85699492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "oHYaQxgHQeK5z5-rl0-P9Q",
+        "unifyName": "石油天然气管道保护范围内特定施工作业许可",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115036000",
+        "rightsId": "8794B3AA86969492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "465607b320384cbc8e7d651fcb145c2f",
+        "unifyName": "对外提供属于国家秘密的除跨省级行政区域外测绘成果审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115037000",
+        "rightsId": "8794B3AA86979492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "b5c10420f1244bfc9fe70b62d8011032",
+        "unifyName": "法人或者其他组织需要利用属于国家秘密的基础测绘成果审批（省级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115037000",
+        "rightsId": "8794B3AA86979492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "QDJ8XkDJTcyzib8gd8CNTg",
+        "unifyName": "法人或者其他组织需要利用属于国家秘密的基础测绘成果审批（设区的市级权限）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115037000",
+        "rightsId": "8794B3AA86979492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "pJNBVq-cToCEFVhv8XMfBA",
+        "unifyName": "法人或者其他组织需要利用属于国家秘密的基础测绘成果审批（县级权限）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117013000",
+        "rightsId": "8794B3AA86FC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ccc8698e7a384436b07b5cb657f35fab",
+        "unifyName": "从事城市生活垃圾经营性清扫、收集、运输服务审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117013000",
+        "rightsId": "8794B3AA86FC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "byWeUfjGRqeMAx3JGDo-wg",
+        "unifyName": "从事城市生活垃圾经营性处置服务审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117019000",
+        "rightsId": "8794B3AA87029492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9a874054140543ed929f8fe106925b6a",
+        "unifyName": "燃气经营者改动市政燃气设施审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117020000",
+        "rightsId": "8794B3AA87039492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Ylgw2IesTxq--6nxmnT_GA",
+        "unifyName": "占用、挖掘城市道路审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117020000",
+        "rightsId": "8794B3AA87039492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0ZoyK7OaSASlyf15o9rWXQ",
+        "unifyName": "依附于城市道路建设各种管线、杆线等设施审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117020000",
+        "rightsId": "8794B3AA87039492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "eDyK2ssbRamirbgm90Ea5g",
+        "unifyName": "城市桥梁上架设各类市政管线审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117021000",
+        "rightsId": "8794B3AA87049492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fFZYnNKXTMa9u8mLcP7rwQ",
+        "unifyName": "特殊车辆在城市道路上行驶（包括经过城市桥梁）审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117047000",
+        "rightsId": "8794B3AA87219492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bd26fd6ac1994d11aa4d2d7529ae6fa5",
+        "unifyName": "停止供气备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119028000",
+        "rightsId": "693d49c1601c49d08003fc520925d2e3",
+        "transactLevel": "0",
+        "unifyId": "19c21213fffd4576bf151ff7b096806f",
+        "unifyName": "大中型水库移民安置规划（大纲）审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132014000",
+        "rightsId": "8794B3AA8A179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e1e94673c0cf436191b2e45a40478058",
+        "unifyName": "有线广播电视传输覆盖网工程建设及验收审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132015000",
+        "rightsId": "8794B3AA8A189492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a4e0a9e372174968a2a35b4e9fdbd792",
+        "unifyName": "广播电台、电视台设立审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132015000",
+        "rightsId": "8794B3AA8A189492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d08ec46f79e0464183178a8e592c9402",
+        "unifyName": "广播电台、电视台终止审核",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132041000",
+        "rightsId": "8794B3AA8A389492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "acb9f8fe4865493080b7894fd7f7130f",
+        "unifyName": "县级广播电台、电视台变更台名、节目设置范围或节目套数审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000768006000",
+        "rightsId": "8794B3AA91169492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f288eda4cea94028bb1275cc641ff616",
+        "unifyName": "文物认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014009002",
+        "rightsId": "8794B3AA92F49492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "815954d64ea14e4391fc7fbfa628f778",
+        "unifyName": "企业年金方案重要条款变更备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014009003",
+        "rightsId": "8794B3AA92F59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "24148b4203a145c4bfdd0d70e215e08e",
+        "unifyName": "企业年金方案终止备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164003W00",
+        "rightsId": "aP-McVfmRBqOocJmejnFqg",
+        "transactLevel": "0",
+        "unifyId": "441779f9ca6e45a69eec7e21ed66e2a4",
+        "unifyName": "风景名胜区内修建重大建设工程项目选址方案（新办）核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164003W00",
+        "rightsId": "aP-McVfmRBqOocJmejnFqg",
+        "transactLevel": "0",
+        "unifyId": "049d2bceaec3435494f2bae061b8571e",
+        "unifyName": "风景名胜区内修建重大建设工程项目选址方案（变更）核准",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164003W00",
+        "rightsId": "aP-McVfmRBqOocJmejnFqg",
+        "transactLevel": "0",
+        "unifyId": "d1356d77927148909439827479730fd8",
+        "unifyName": "风景名胜区内修建重大建设工程项目选址方案（延期）核准",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164016W00",
+        "rightsId": "S3DPHewNQiuO1n43MUWw5Q",
+        "transactLevel": "0",
+        "unifyId": "vmDIgOLmRhqLV5jwf1MTxw",
+        "unifyName": "崀山风景名胜区非重大建设项目选址方案核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164016W00",
+        "rightsId": "S3DPHewNQiuO1n43MUWw5Q",
+        "transactLevel": "0",
+        "unifyId": "UUoPOS8IS8CIW3EtVkKc_Q",
+        "unifyName": "南岳衡山风景名胜区非重大建设项目选址方案核准",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164016W00",
+        "rightsId": "S3DPHewNQiuO1n43MUWw5Q",
+        "transactLevel": "0",
+        "unifyId": "0d54TS8xSz-4T0QNPS4FVA",
+        "unifyName": "韶山风景名胜区非重大建设项目选址方案核准",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430199005W00",
+        "rightsId": "rTDPc7kxSkKRLipfQhtS7w",
+        "transactLevel": "0",
+        "unifyId": "4941f5e019324ac482ec6dbdc0479ac6",
+        "unifyName": "拆除防空警报通信设施审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430825003W00",
+        "rightsId": "400411b212d44e53a6d3199401ed24c6",
+        "transactLevel": "0",
+        "unifyId": "9FNzrv-BRtikK9V7lESUjQ",
+        "unifyName": "湖南省森林消防先进集体与个人表彰",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018182W00",
+        "rightsId": "Hcjf3khPS92GjvzRwimFOA",
+        "transactLevel": "0",
+        "unifyId": "CiGeeuU6QT--zNMiRJUmVg",
+        "unifyName": "船舶报废",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431019060W00",
+        "rightsId": "SVYlDIivS7uKNdra3s4aRw",
+        "transactLevel": "0",
+        "unifyId": "77pxzC6QTw2rO6LOJQdj0Q",
+        "unifyName": "新建大中型水利水电工程移民安置初验",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431019060W00",
+        "rightsId": "SVYlDIivS7uKNdra3s4aRw",
+        "transactLevel": "0",
+        "unifyId": "x4_rgiqhS2GDuZPuJN1quQ",
+        "unifyName": "新建大中型水利水电工程移民安置终验",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431025001W00",
+        "rightsId": "5L3pUi4UStGTS-8DmwbiNg",
+        "transactLevel": "0",
+        "unifyId": "LIF6tqAsQnic4s9VLbjTUw",
+        "unifyName": "为参与抢险救灾的车辆设置统一的标识或者标志，抢险救灾车辆按照国家和省有关规定免交车辆通行费",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431032044W00",
+        "rightsId": "47df0a53de424787b4ace3dd474a2056",
+        "transactLevel": "0",
+        "unifyId": "f50a44e59ba9458b8c0385f6db529fed",
+        "unifyName": "有线广播电视运营服务的业务种类、服务范围、服务时限、资费标准备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431032049W00",
+        "rightsId": "c91be2fe276c44168704189f8c7a5430",
+        "transactLevel": "0",
+        "unifyId": "a6a26352189e4b76ba68a3e9bdf63a83",
+        "unifyName": "新建广播电视播出、传输、发射系统试播批准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099001W00",
+        "rightsId": "9rZt7lNqS3yzqmNOtk_X0w",
+        "transactLevel": "0",
+        "unifyId": "LSEdvgLNQV2jRUrkCrmybg",
+        "unifyName": "省本级政务信息化项目可行性研究报告审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099001W00",
+        "rightsId": "9rZt7lNqS3yzqmNOtk_X0w",
+        "transactLevel": "0",
+        "unifyId": "L31zZuqURQiBYvF_WUfINg",
+        "unifyName": "省本级政务信息化项目初步设计和投资概算审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "432019104W00",
+        "rightsId": "97D338F503C0FC3BE053681515ACCA9B",
+        "transactLevel": "2",
+        "unifyId": "44f0f2a614de431abf6811cac0d21a8b",
+        "unifyName": "水文资料查询服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "432099002W00",
+        "rightsId": "g-T3Ik4VSlmGKCWzd9PZUA",
+        "transactLevel": "3",
+        "unifyId": "3ddd0074a9ce4b42a9dcf4a496468be1",
+        "unifyName": "有线电视安装费",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 39,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

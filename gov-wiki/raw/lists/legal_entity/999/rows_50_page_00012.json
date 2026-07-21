@@ -1,0 +1,517 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431032047W00",
+        "rightsId": "100eb434ba3346ad93385bf832918d59",
+        "transactLevel": "0",
+        "unifyId": "eb2bd9622a4640f7a3e1f8312798d507",
+        "unifyName": "互联网视听节目服务单位的法人代表变更备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431032047W00",
+        "rightsId": "100eb434ba3346ad93385bf832918d59",
+        "transactLevel": "0",
+        "unifyId": "95280c56a2c74c62ae0fb7216792a8be",
+        "unifyName": "互联网视听节目服务单位的网址网站变更备案",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431064043W00",
+        "rightsId": "A4ObKBs4Sr6h0PaAmE-O6w",
+        "transactLevel": "0",
+        "unifyId": "8e616544566e41fbadfd01e780084c5e",
+        "unifyName": "生产、经营森林植物及其产品的企业备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431064052W00",
+        "rightsId": "8esiX3-yTru32eE82-vqFw",
+        "transactLevel": "0",
+        "unifyId": "7a6c26736a714572a10cb09c4e0a6eb3",
+        "unifyName": "生产、经营应实施检疫的森林植物及其产品的单位和个人备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431064063W00",
+        "rightsId": "70F599A56029ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "2f2a8e3a1fff4a1d822bf752e2c7420b",
+        "unifyName": "林木良种补偿",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068001W00",
+        "rightsId": "g9x6ObxtTQ2y__nibP3N5g",
+        "transactLevel": "0",
+        "unifyId": "7cf12c87f11b407ca4262b9dee6b9aab",
+        "unifyName": "文物商店购销文物的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068001W00",
+        "rightsId": "g9x6ObxtTQ2y__nibP3N5g",
+        "transactLevel": "0",
+        "unifyId": "63a280c6de6c4cb68ffc2fd668ab8db9",
+        "unifyName": "拍卖企业拍卖文物记录的备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068003W00",
+        "rightsId": "BIYQooa_R6SYP4X2WQlQ7g",
+        "transactLevel": "0",
+        "unifyId": "89e0ac62d24540bb9a2bebc25a76dbed",
+        "unifyName": "博物馆陈列展览的备案",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068006W00",
+        "rightsId": "_6k56UX3Spa-paGI9Bys_g",
+        "transactLevel": "0",
+        "unifyId": "943a4ef2280a413085cb58f792b3c6ab",
+        "unifyName": "国有文物收藏单位收藏、保管的文物藏品档案、管理制度备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072001W00",
+        "rightsId": "DQhy2Kn4T7e8lQslaHOwPQ",
+        "transactLevel": "0",
+        "unifyId": "be1fe35f9cdd402fb53f2773cb810a1a",
+        "unifyName": "首次进口药材审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072055W00",
+        "rightsId": "B0aRmSa4TGuC7YQI_x7Q1w",
+        "transactLevel": "0",
+        "unifyId": "956454ed25a647a7adc5fc2347cbd82e",
+        "unifyName": "医疗器械网络销售变更备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099014W00",
+        "rightsId": "hQv3rC4OSP6vaoViSmMUgQ",
+        "transactLevel": "0",
+        "unifyId": "9de8634e8b3a41a4997e34b1c64211fc",
+        "unifyName": "防空警报设施安装竣工验收",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099015W00",
+        "rightsId": "_bFdWRt3Q8GnolcXATNydQ",
+        "transactLevel": "0",
+        "unifyId": "99eXr2_1SNWMSYVf2Z8qtA",
+        "unifyName": "人防工程隶属关系变动备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432004301W00",
+        "rightsId": "975EFBFE6B085CA6E053661515ACC66E",
+        "transactLevel": "0",
+        "unifyId": "aa2ca8bd5dad4e6786703b890887fed3",
+        "unifyName": "市县重点建设项目认定和实施协调",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432004301W00",
+        "rightsId": "975EFBFE6B085CA6E053661515ACC66E",
+        "transactLevel": "0",
+        "unifyId": "qiMpl1_-TJ6XaFNjWufwyA",
+        "unifyName": "省级重点建设项目认定和实施协调",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432006102W00",
+        "rightsId": "98DEF4F23BBDA6C2E053681515AC0784",
+        "transactLevel": "0",
+        "unifyId": "419b9aaf05bb45fea7753882bd13281d",
+        "unifyName": "科技查新咨询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432011103W00",
+        "rightsId": "995738A2A313D4BCE053681515AC4828",
+        "transactLevel": "0",
+        "unifyId": "ba5c1b98eafd4bff96498feefc1a35fa",
+        "unifyName": "养老服务政策咨询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432011401W00",
+        "rightsId": "995738A2A31ED4BCE053681515AC4828",
+        "transactLevel": "0",
+        "unifyId": "97f034795cf946fab59b1f98ad4ffe63",
+        "unifyName": "慈善捐赠咨询服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432011401W00",
+        "rightsId": "995738A2A31ED4BCE053681515AC4828",
+        "transactLevel": "0",
+        "unifyId": "632825b56de048d2869d150ad057e088",
+        "unifyName": "慈善救助咨询服务",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432012002W00",
+        "rightsId": "I-_ADf2iT32AhawOjVD80Q",
+        "transactLevel": "0",
+        "unifyId": "882uBMzJTO2eO7jQkG_Xmw",
+        "unifyName": "知识产权纠纷仲裁申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432014110W00",
+        "rightsId": "vKmhKbQ5SPG_VzylEVdb3g",
+        "transactLevel": "0",
+        "unifyId": "ac6a9c3f093149839dd5338b053d8881",
+        "unifyName": "校园招聘活动补助申领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432014202W00",
+        "rightsId": "LoWMEjdtSOC2JER8rwjcYg",
+        "transactLevel": "0",
+        "unifyId": "4ae3218a9d0c41c8b729ed58c9703667",
+        "unifyName": "职业技能等级认定机构备案申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432014203W00",
+        "rightsId": "Uifk4qfERja735XN2SHHIg",
+        "transactLevel": "0",
+        "unifyId": "3de1617731cf423fbcb1aa49f0dd1fb5",
+        "unifyName": "专项职业能力考核申报",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432014203W00",
+        "rightsId": "Uifk4qfERja735XN2SHHIg",
+        "transactLevel": "0",
+        "unifyId": "0b2892dc39f24cfda61ff7a55be3428b",
+        "unifyName": "专项职业能力证书遗失补发申请",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432014203W00",
+        "rightsId": "Uifk4qfERja735XN2SHHIg",
+        "transactLevel": "0",
+        "unifyId": "767798bce5db412cac90b51824893f1d",
+        "unifyName": "专项职业能力证书信息更正申请",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432015402W00",
+        "rightsId": "968059BD17D6634EE053671515AC8FFE",
+        "transactLevel": "0",
+        "unifyId": "5199b5cee3e04508a4c9519a2388abfc",
+        "unifyName": "建设项目压覆矿产资源查询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "vHVg9eb-TievoGFTMMgQ6A",
+        "unifyName": "完全丧失劳动能力，并与单位终止劳动关系提取住房公积金",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "6c_WxH6QTiO0L0oIYRfzMw",
+        "unifyName": "出境定居提取住房公积金",
+        "ywCode": "13"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "Va7O1TUoSzKfsBhxM1X4Yg",
+        "unifyName": "家庭生活困难提取住房公积金（含低保、疾病、灾害）",
+        "ywCode": "16"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "m7DGLmKCQW-mfiF2WitvLA",
+        "unifyName": "灵活就业人员销户提取住房公积金",
+        "ywCode": "17"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "kD3LtDsXRbiV7Rtf4914hg",
+        "unifyName": "封存满半年未再缴存提取住房公积金",
+        "ywCode": "18"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "U70hdXCyStqDoAue_pMhQg",
+        "unifyName": "建造、翻建、大修自住住房提取公积金",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "BqAFOmutQaGFR6WXua6b9w",
+        "unifyName": "既有住宅加装电梯提取住房公积金",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "432017002W00",
+        "rightsId": "iIMc6BhOTy-jAun10Ix80w",
+        "transactLevel": "1",
+        "unifyId": "bDtPbWVjTI6ct6YHAO69hw",
+        "unifyName": "购买自住住房（含新建、再交易）个人贷款",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017002W00",
+        "rightsId": "iIMc6BhOTy-jAun10Ix80w",
+        "transactLevel": "0",
+        "unifyId": "Irq_oGV3SZy3OZ0SkL-24A",
+        "unifyName": "住房公积金个人住房贷款提前还款",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017002W00",
+        "rightsId": "iIMc6BhOTy-jAun10Ix80w",
+        "transactLevel": "0",
+        "unifyId": "4MRj8oReRfOy7T5sH8ECWg",
+        "unifyName": "住房公积金个人住房贷款还款账户变更",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017002W00",
+        "rightsId": "iIMc6BhOTy-jAun10Ix80w",
+        "transactLevel": "0",
+        "unifyId": "faZtCb_NThKRJDz03v2AuQ",
+        "unifyName": "住房公积金个人住房贷款还款方式变更",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017002W00",
+        "rightsId": "iIMc6BhOTy-jAun10Ix80w",
+        "transactLevel": "0",
+        "unifyId": "tZQbYV1RRY2TUbV6eltlGw",
+        "unifyName": "住房公积金个人住房贷款贷款期限变更",
+        "ywCode": "12"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "432017002W00",
+        "rightsId": "iIMc6BhOTy-jAun10Ix80w",
+        "transactLevel": "1",
+        "unifyId": "YIphvMAnRWGiLg9_FMd5rw",
+        "unifyName": "住房公积金个人住房贷款借款人信息变更",
+        "ywCode": "17"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017002W00",
+        "rightsId": "iIMc6BhOTy-jAun10Ix80w",
+        "transactLevel": "0",
+        "unifyId": "WEw4-KptR4-pRVez5ryE1g",
+        "unifyName": "住房公积金个人住房贷款月对冲还款",
+        "ywCode": "18"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017002W00",
+        "rightsId": "iIMc6BhOTy-jAun10Ix80w",
+        "transactLevel": "0",
+        "unifyId": "8Wu97949TxGqMLpnwg3lcg",
+        "unifyName": "开具住房公积金个人住房贷款全部还清证明",
+        "ywCode": "19"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "432017002W00",
+        "rightsId": "iIMc6BhOTy-jAun10Ix80w",
+        "transactLevel": "1",
+        "unifyId": "IGif68XJTXS9lFukTpaMcw",
+        "unifyName": "银行住房贷款转公积金个人贷款",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017003W00",
+        "rightsId": "mBadMbwtS6y0KGNmgXemjg",
+        "transactLevel": "0",
+        "unifyId": "jXTIWQMuSL2B7pqCItZ70g",
+        "unifyName": "住房公积金个人账户同城转移",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017003W00",
+        "rightsId": "mBadMbwtS6y0KGNmgXemjg",
+        "transactLevel": "0",
+        "unifyId": "uUGKYhESS1yC6EIMyOnUzQ",
+        "unifyName": "住房公积金单位缴存登记注销",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017003W00",
+        "rightsId": "mBadMbwtS6y0KGNmgXemjg",
+        "transactLevel": "0",
+        "unifyId": "OMpLmCQeQGObvm6sVWHJ2Q",
+        "unifyName": "住房公积金个人账户封存",
+        "ywCode": "13"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017003W00",
+        "rightsId": "mBadMbwtS6y0KGNmgXemjg",
+        "transactLevel": "0",
+        "unifyId": "QHJz5V08ThCKmgRwUGEprw",
+        "unifyName": "住房公积金个人账户启封",
+        "ywCode": "14"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017003W00",
+        "rightsId": "mBadMbwtS6y0KGNmgXemjg",
+        "transactLevel": "0",
+        "unifyId": "hdgdHgTIQMCQd3clYDIX5Q",
+        "unifyName": "开具住房公积金单位缴存证明",
+        "ywCode": "18"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017003W00",
+        "rightsId": "mBadMbwtS6y0KGNmgXemjg",
+        "transactLevel": "0",
+        "unifyId": "8YFjYBmlRW2doSTrdTYrmg",
+        "unifyName": "灵活就业人员住房公积金缴存",
+        "ywCode": "19"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017003W00",
+        "rightsId": "mBadMbwtS6y0KGNmgXemjg",
+        "transactLevel": "0",
+        "unifyId": "gr06kwBeRKqiWS2M4-5hUQ",
+        "unifyName": "住房公积金个人账户设立",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017003W00",
+        "rightsId": "mBadMbwtS6y0KGNmgXemjg",
+        "transactLevel": "0",
+        "unifyId": "h5tFd4StRgiXo0NTAnZodA",
+        "unifyName": "住房公积金缴存基数调整",
+        "ywCode": "03"
+      }
+    ],
+    "pageIndex": 12,
+    "pageSize": 50,
+    "total": 616,
+    "totalPage": 13
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

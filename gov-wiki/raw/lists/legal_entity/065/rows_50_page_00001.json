@@ -1,0 +1,168 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120025000",
+        "rightsId": "8794B3AA87E19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7c1859bc6e07456db65bd7667942e9ab",
+        "unifyName": "水产苗种进口审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120025000",
+        "rightsId": "8794B3AA87E19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e02RpRrbSuyhcpkYeDzfRg",
+        "unifyName": "水产苗种出口审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120140000",
+        "rightsId": "8794B3AA885A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "80ad380031fa4bc285d9108297c2cd9c",
+        "unifyName": "食用菌菌种进出口审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120145000",
+        "rightsId": "8794B3AA885F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "A-wVzWjlSYuYyc2byt_IKQ",
+        "unifyName": "出售、购买、利用国家重点保护水生野生动物及其制品（白鱀豚等）和人工繁育国家重点保护水生野生动物（白鱀豚等）的初审",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00012202100Y",
+        "rightsId": "8794B3AA890E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "amirGvkoR3yRj4niq_5VSg",
+        "unifyName": "艺术品进口审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00012202100Y",
+        "rightsId": "8794B3AA890E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ioJUGe28QzSTUJYpJwiyOA",
+        "unifyName": "艺术品出口审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00012202100Y",
+        "rightsId": "8794B3AA890E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "unOSVb2zQB--9kfDKlvu0Q",
+        "unifyName": "涉外营业性艺术品展览活动审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139010000",
+        "rightsId": "8794B3AA8A599492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "46e9d63ae73c42cd8e2d0aa67bba961f",
+        "unifyName": "地方单位订户订购限定发行范围的境外出版物审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139030000",
+        "rightsId": "8794B3AA8A6D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0dff3eb0bed04b4195c3421c2bacf3ca",
+        "unifyName": "进口出版物目录备案核准",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172024000",
+        "rightsId": "8794B3AA8E5F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "332ba44c9ba04c38bf2a3cdb77ec7001",
+        "unifyName": "进口蛋白同化制剂、肽类激素审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172024000",
+        "rightsId": "8794B3AA8E5F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "tV8kIyAPRweh9HE4Ym6zyg",
+        "unifyName": "出口蛋白同化制剂、肽类激素审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000706002000",
+        "rightsId": "8794B3AA8FAA9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "5da928ada1fa4cb18a868e7eaac970df",
+        "unifyName": "省级科技类民办非企业单位进口科教用品免税资格审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430139006W00",
+        "rightsId": "QY6KKC8xTT2JJ_oZgyUc9g",
+        "transactLevel": "0",
+        "unifyId": "ac09ddf820864422a8e78c4cc9754bdd",
+        "unifyName": "出版物进口经营单位拟进口经营的出版物目录备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039063W00",
+        "rightsId": "70F599A56609ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "f87a619afe82494f8735b08252eed245",
+        "unifyName": "进口出版物内容审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072035W00",
+        "rightsId": "70F599A55E82ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "d4320535974040b4a8538cf5c9b0e063",
+        "unifyName": "药品进口备案",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 15,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

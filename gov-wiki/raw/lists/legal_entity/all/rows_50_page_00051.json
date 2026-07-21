@@ -1,0 +1,519 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072056W00",
+        "rightsId": "9CFXaMXYTSq-Y0T9knJWjQ",
+        "transactLevel": "0",
+        "unifyId": "0236f9cf72694502b5813b53b766c203",
+        "unifyName": "第一类医疗器械生产补发备案",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072056W00",
+        "rightsId": "9CFXaMXYTSq-Y0T9knJWjQ",
+        "transactLevel": "0",
+        "unifyId": "9e63f745491044c2b33a1a076f9470f4",
+        "unifyName": "第一类医疗器械委托生产备案",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072056W00",
+        "rightsId": "9CFXaMXYTSq-Y0T9knJWjQ",
+        "transactLevel": "0",
+        "unifyId": "e8f4ba4534b24f3cb932f6b03f26de1f",
+        "unifyName": "第二类医疗器械经营备案变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072056W00",
+        "rightsId": "9CFXaMXYTSq-Y0T9knJWjQ",
+        "transactLevel": "0",
+        "unifyId": "d3c070f875a94841bcaf16143592283e",
+        "unifyName": "第二类医疗器械经营备案凭证补发",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072056W00",
+        "rightsId": "9CFXaMXYTSq-Y0T9knJWjQ",
+        "transactLevel": "0",
+        "unifyId": "245c359314bb4488853b34bc9f127f34",
+        "unifyName": "第二类医疗器械经营备案凭证取消",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072056W00",
+        "rightsId": "9CFXaMXYTSq-Y0T9knJWjQ",
+        "transactLevel": "0",
+        "unifyId": "54c13885670c49f1aaf16f00e7c411e3",
+        "unifyName": "第一类医疗器械产品首次备案",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072056W00",
+        "rightsId": "9CFXaMXYTSq-Y0T9knJWjQ",
+        "transactLevel": "0",
+        "unifyId": "834d22b71b954feaa428ebb8fe0143dd",
+        "unifyName": "第一类医疗器械产品变更备案",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072056W00",
+        "rightsId": "9CFXaMXYTSq-Y0T9knJWjQ",
+        "transactLevel": "0",
+        "unifyId": "bdec056b1d49432cb325c46866d12709",
+        "unifyName": "第一类医疗器械产品补发备案",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072056W00",
+        "rightsId": "9CFXaMXYTSq-Y0T9knJWjQ",
+        "transactLevel": "0",
+        "unifyId": "f14ba45222e24cec88162ab7d47bfd5a",
+        "unifyName": "第一类医疗器械生产首次备案",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072056W00",
+        "rightsId": "9CFXaMXYTSq-Y0T9knJWjQ",
+        "transactLevel": "0",
+        "unifyId": "ef6736081da645cab3b027fb84255d69",
+        "unifyName": "第一类医疗器械生产变更备案",
+        "ywCode": "09"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072057W00",
+        "rightsId": "zd0jA_H_QPaMDqrISVQ2kA",
+        "transactLevel": "0",
+        "unifyId": "201fc778eff842feaa73ca7209e5cf40",
+        "unifyName": "核发麻醉药品、第一类精神药品和第二类精神药品原料药生产计划初审",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099001W00",
+        "rightsId": "9rZt7lNqS3yzqmNOtk_X0w",
+        "transactLevel": "0",
+        "unifyId": "LSEdvgLNQV2jRUrkCrmybg",
+        "unifyName": "省本级政务信息化项目可行性研究报告审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099001W00",
+        "rightsId": "9rZt7lNqS3yzqmNOtk_X0w",
+        "transactLevel": "0",
+        "unifyId": "L31zZuqURQiBYvF_WUfINg",
+        "unifyName": "省本级政务信息化项目初步设计和投资概算审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099014W00",
+        "rightsId": "hQv3rC4OSP6vaoViSmMUgQ",
+        "transactLevel": "0",
+        "unifyId": "9de8634e8b3a41a4997e34b1c64211fc",
+        "unifyName": "防空警报设施安装竣工验收",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099015W00",
+        "rightsId": "_bFdWRt3Q8GnolcXATNydQ",
+        "transactLevel": "0",
+        "unifyId": "99eXr2_1SNWMSYVf2Z8qtA",
+        "unifyName": "人防工程隶属关系变动备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099047W01",
+        "rightsId": "cutVvctPRkS3RIuwqL1TSA",
+        "transactLevel": "0",
+        "unifyId": "cea409ac71604464bfcf5f7aa2954d69",
+        "unifyName": "小额贷款公司设立",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099047W02",
+        "rightsId": "tYmdZIgLT5-0h4AVfWCX0Q",
+        "transactLevel": "0",
+        "unifyId": "7dd7d5253f80438493378cb5ecb3d5bc",
+        "unifyName": "小额贷款公司主要股东或实际控制人变更（含股权变更）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099047W02",
+        "rightsId": "tYmdZIgLT5-0h4AVfWCX0Q",
+        "transactLevel": "0",
+        "unifyId": "26ad474457c9490aa14604cafedafa28",
+        "unifyName": "小额贷款公司减少注册资本金",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099047W02",
+        "rightsId": "tYmdZIgLT5-0h4AVfWCX0Q",
+        "transactLevel": "0",
+        "unifyId": "16271e5747bf4fca94cf77764d9f27a1",
+        "unifyName": "小额贷款公司合并或者分立",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099047W02",
+        "rightsId": "tYmdZIgLT5-0h4AVfWCX0Q",
+        "transactLevel": "0",
+        "unifyId": "81ce4f3108a149f4a54adfa3dc61b31b",
+        "unifyName": "小额贷款公司变更业务范围和经营区域",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432002001W00",
+        "rightsId": "qQm4bdIsRo2FNF_GR1CMtQ",
+        "transactLevel": "1",
+        "unifyId": "ncD5UAb4S0-pxGtKtMjQAg",
+        "unifyName": "领事认证服务（附加证明书、海牙认证）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432004301W00",
+        "rightsId": "975EFBFE6B085CA6E053661515ACC66E",
+        "transactLevel": "0",
+        "unifyId": "aa2ca8bd5dad4e6786703b890887fed3",
+        "unifyName": "市县重点建设项目认定和实施协调",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432004301W00",
+        "rightsId": "975EFBFE6B085CA6E053661515ACC66E",
+        "transactLevel": "0",
+        "unifyId": "qiMpl1_-TJ6XaFNjWufwyA",
+        "unifyName": "省级重点建设项目认定和实施协调",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432006101W00",
+        "rightsId": "98DEF4F23BBAA6C2E053681515AC0784",
+        "transactLevel": "0",
+        "unifyId": "1cf30366daf04d76ba442ec67b622bab",
+        "unifyName": "科技政策咨询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432006102W00",
+        "rightsId": "98DEF4F23BBDA6C2E053681515AC0784",
+        "transactLevel": "0",
+        "unifyId": "419b9aaf05bb45fea7753882bd13281d",
+        "unifyName": "科技查新咨询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432011103W00",
+        "rightsId": "995738A2A313D4BCE053681515AC4828",
+        "transactLevel": "0",
+        "unifyId": "ba5c1b98eafd4bff96498feefc1a35fa",
+        "unifyName": "养老服务政策咨询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432011401W00",
+        "rightsId": "995738A2A31ED4BCE053681515AC4828",
+        "transactLevel": "0",
+        "unifyId": "97f034795cf946fab59b1f98ad4ffe63",
+        "unifyName": "慈善捐赠咨询服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432011401W00",
+        "rightsId": "995738A2A31ED4BCE053681515AC4828",
+        "transactLevel": "0",
+        "unifyId": "632825b56de048d2869d150ad057e088",
+        "unifyName": "慈善救助咨询服务",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432012002W00",
+        "rightsId": "I-_ADf2iT32AhawOjVD80Q",
+        "transactLevel": "0",
+        "unifyId": "882uBMzJTO2eO7jQkG_Xmw",
+        "unifyName": "知识产权纠纷仲裁申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432014001W01",
+        "rightsId": "97D2163705441FADE053681515AC8963",
+        "transactLevel": "0",
+        "unifyId": "CNitJZDoSSyh9Di3aiB_0Q",
+        "unifyName": "企业职工基本养老保险退休人员关系终止及相关待遇申领（丧失国籍）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "43201400EW00",
+        "rightsId": "iByIhXBJTlGdD-cXJ608RQ",
+        "transactLevel": "0",
+        "unifyId": "01a0d1fed0d8476ca5dcac7b4a7acd60",
+        "unifyName": "职业年金记实申请（财政请款）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "43201400EW00",
+        "rightsId": "iByIhXBJTlGdD-cXJ608RQ",
+        "transactLevel": "0",
+        "unifyId": "RjN4SI6QSzeWk2hg4-q8Dg",
+        "unifyName": "职业年金记实申请（税务征收）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "43201400EW00",
+        "rightsId": "iByIhXBJTlGdD-cXJ608RQ",
+        "transactLevel": "0",
+        "unifyId": "HVg5BYDMQD6hr_FlSrXWQw",
+        "unifyName": "财政提前审核职业年金记实人员标识",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "43201400GW00",
+        "rightsId": "t94q3YyMRq-lJuR5_raRxQ",
+        "transactLevel": "0",
+        "unifyId": "0da172a3c07d4559bdaed93eeb1da302",
+        "unifyName": "职业年金补记申请（财政请款）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "43201400GW00",
+        "rightsId": "t94q3YyMRq-lJuR5_raRxQ",
+        "transactLevel": "0",
+        "unifyId": "Rzp1ekfpRzuTVDl6S-iqAQ",
+        "unifyName": "职业年金补记申请（税务征收）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "43201400GW00",
+        "rightsId": "t94q3YyMRq-lJuR5_raRxQ",
+        "transactLevel": "3",
+        "unifyId": "HCgd4m_NTfWJTyfvchcKCw",
+        "unifyName": "职业年金利息补缴",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432014110W00",
+        "rightsId": "vKmhKbQ5SPG_VzylEVdb3g",
+        "transactLevel": "0",
+        "unifyId": "ac6a9c3f093149839dd5338b053d8881",
+        "unifyName": "校园招聘活动补助申领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432014202W00",
+        "rightsId": "LoWMEjdtSOC2JER8rwjcYg",
+        "transactLevel": "0",
+        "unifyId": "4ae3218a9d0c41c8b729ed58c9703667",
+        "unifyName": "职业技能等级认定机构备案申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432014203W00",
+        "rightsId": "Uifk4qfERja735XN2SHHIg",
+        "transactLevel": "0",
+        "unifyId": "3de1617731cf423fbcb1aa49f0dd1fb5",
+        "unifyName": "专项职业能力考核申报",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432014203W00",
+        "rightsId": "Uifk4qfERja735XN2SHHIg",
+        "transactLevel": "0",
+        "unifyId": "0b2892dc39f24cfda61ff7a55be3428b",
+        "unifyName": "专项职业能力证书遗失补发申请",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432014203W00",
+        "rightsId": "Uifk4qfERja735XN2SHHIg",
+        "transactLevel": "0",
+        "unifyId": "767798bce5db412cac90b51824893f1d",
+        "unifyName": "专项职业能力证书信息更正申请",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432015402W00",
+        "rightsId": "968059BD17D6634EE053671515AC8FFE",
+        "transactLevel": "0",
+        "unifyId": "5199b5cee3e04508a4c9519a2388abfc",
+        "unifyName": "建设项目压覆矿产资源查询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432016102W00",
+        "rightsId": "98DD4D7C3F729D1DE053681515AC6F9E",
+        "transactLevel": "0",
+        "unifyId": "9e208294f24c4df2836beb917901030f",
+        "unifyName": "环保设施和城市污水垃圾处理设施向公众开放服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432016103W00",
+        "rightsId": "98DD4D7C3F739D1DE053681515AC6F9E",
+        "transactLevel": "0",
+        "unifyId": "0d7f7cfd5ebf43359b3c31a88f0a3569",
+        "unifyName": "生态环境教育基地创建",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432016104W00",
+        "rightsId": "98DD4D7C3F749D1DE053681515AC6F9E",
+        "transactLevel": "0",
+        "unifyId": "2c9ae71738444dcba91722b724a37321",
+        "unifyName": "主要污染物排污权交易服务（受让）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432016104W00",
+        "rightsId": "98DD4D7C3F749D1DE053681515AC6F9E",
+        "transactLevel": "0",
+        "unifyId": "d0dfdd48057748fcacfe64eae7e090fe",
+        "unifyName": "主要污染物排污权交易服务（转让）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "432016106W00",
+        "rightsId": "98DD4D7C3F769D1DE053681515AC6F9E",
+        "transactLevel": "1",
+        "unifyId": "cb417022c8424b8d918fbcf77ac1ebd3",
+        "unifyName": "放射性废源（物）收贮",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432016205W00",
+        "rightsId": "98DD4D7C3F7B9D1DE053681515AC6F9E",
+        "transactLevel": "0",
+        "unifyId": "bd3838f25e7b47b8a1089d1b9690d0b4",
+        "unifyName": "依申请公开政府环境信息",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "vHVg9eb-TievoGFTMMgQ6A",
+        "unifyName": "完全丧失劳动能力，并与单位终止劳动关系提取住房公积金",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017001W00",
+        "rightsId": "wpGDYzz7RBG7stSQPA4wbA",
+        "transactLevel": "0",
+        "unifyId": "6c_WxH6QTiO0L0oIYRfzMw",
+        "unifyName": "出境定居提取住房公积金",
+        "ywCode": "13"
+      }
+    ],
+    "pageIndex": 51,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

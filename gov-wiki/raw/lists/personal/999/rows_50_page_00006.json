@@ -1,0 +1,516 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000511002000",
+        "rightsId": "8794B3AA8F4F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8afc29a78e074fa79e22bcecaee3ec6f",
+        "unifyName": "临时救助对象认定、救助金给付",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000511011000",
+        "rightsId": "8794B3AA8F589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "762f3e2c325e434886ea6e85414b0857",
+        "unifyName": "老年人福利补贴",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000512001000",
+        "rightsId": "8794B3AA8F599492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3b04976afe4c4625b009b2c784b8d84d",
+        "unifyName": "对公民法律援助申请的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000512002000",
+        "rightsId": "8794B3AA8F5A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9Y5HW6csRHeIiBz-qjW3UQ",
+        "unifyName": "法律援助补贴发放",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000524001000",
+        "rightsId": "8794B3AA8F679492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8471d1a5301e4dcc9613e835638937fd",
+        "unifyName": "退役士兵自主就业一次性经济补助金的给付",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000525003000",
+        "rightsId": "8794B3AA8F809492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2kYXpH7gTR6yrN1Ddb7oUA",
+        "unifyName": "自然灾害救助资金给付",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000706001000",
+        "rightsId": "8794B3AA8FA99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "gh3XHjMZSD6N4Ndl8cneUg",
+        "unifyName": "技术合同认定登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000706003000",
+        "rightsId": "8794B3AA8FAB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "869236b8bc0c4eabb8b27020357a88fa",
+        "unifyName": "省级科技企业孵化器认定",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00070911400Y",
+        "rightsId": "4b2e17a413404ddb9b9d88395bba0005",
+        "transactLevel": "0",
+        "unifyId": "qybd_d3JRgaC8wAh-JV0dg",
+        "unifyName": "国际联网备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000712001000",
+        "rightsId": "8794B3AA8FE59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3cc0c5f227644a218aef1182181b91e3",
+        "unifyName": "公职律师工作证颁发",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000712001000",
+        "rightsId": "8794B3AA8FE59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d77649ff5fea4e228a7eb0fa0310dc73",
+        "unifyName": "公司律师工作证颁发",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d5d1253f0a344bd98a9f379d0c1228f6",
+        "unifyName": "换证登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "aa49a5b27dd24b238620b4c8dd704cc8",
+        "unifyName": "遗失补证登记",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "2885d0bd626d45909b9ce822e44fb11f",
+        "unifyName": "居住权首次登记",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "292df2b79a11416a8b038fb83f44b4a3",
+        "unifyName": "居住权变更登记",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001000",
+        "rightsId": "8794B3AA8FE89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "014360e0311343ebad873fa89f665ad4",
+        "unifyName": "居住权注销登记",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001004",
+        "rightsId": "8794B3AA8FEC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "62ec315f4c374a05a09e1500aae5cd9e",
+        "unifyName": "集体建设用地使用权及建筑物、构筑物所有权首次登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001004",
+        "rightsId": "8794B3AA8FEC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "dbbd079b2b3e4b53a6cdc0fab3f03eb1",
+        "unifyName": "集体建设用地使用权及建筑物、构筑物所有权变更登记",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001004",
+        "rightsId": "8794B3AA8FEC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7ecd35bb9a284d519295c493a5e098d7",
+        "unifyName": "集体建设用地使用权及建筑物、构筑物所有权转移登记",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001004",
+        "rightsId": "8794B3AA8FEC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b156b952357e4dc082b4fde41ae3b957",
+        "unifyName": "集体建设用地使用权及建筑物、构筑物所有权注销登记",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001004",
+        "rightsId": "8794B3AA8FEC9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "f022a6dfc74e4e0796a5e1ce5ee61f4c",
+        "unifyName": "集体土地所有权首次登记",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001004",
+        "rightsId": "8794B3AA8FEC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d4d7a926efc54a17bfeb0570d03f6e33",
+        "unifyName": "集体土地所有权变更登记",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001004",
+        "rightsId": "8794B3AA8FEC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fe5f4ca4794e453aa1d359d8e7afd950",
+        "unifyName": "集体土地所有权转移登记",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001004",
+        "rightsId": "8794B3AA8FEC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "728cd3f5d3c240e299d6eaa69b65e45a",
+        "unifyName": "集体土地所有权注销登记",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001005",
+        "rightsId": "8794B3AA8FED9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "98984c5d77f24b6695532066c728bef0",
+        "unifyName": "国有建设用地使用权首次登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001005",
+        "rightsId": "8794B3AA8FED9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "45968e83bc03452ba46180a4ae271865",
+        "unifyName": "国有建设用地使用权变更登记",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001005",
+        "rightsId": "8794B3AA8FED9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7a5d3a3d6cfd4465bd4cce3b207208c9",
+        "unifyName": "国有建设用地使用权转移登记",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001005",
+        "rightsId": "8794B3AA8FED9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e86cf481ba6e403386b8d5cd9943dbe2",
+        "unifyName": "国有建设用地使用权注销登记",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001006",
+        "rightsId": "8794B3AA8FEE9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "3ed585e295ca4331a402b5e589595798",
+        "unifyName": "宅基地使用权及房屋所有权首次登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001006",
+        "rightsId": "8794B3AA8FEE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "defb12c56fad4545b4a2c75a4d513b14",
+        "unifyName": "宅基地使用权及房屋所有权变更登记",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001006",
+        "rightsId": "8794B3AA8FEE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e16d5eacb60d46a295676189a48c6c2d",
+        "unifyName": "宅基地使用权及房屋所有权转移登记",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001006",
+        "rightsId": "8794B3AA8FEE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0a1ff21dbecf48b19d0e177082bbaa59",
+        "unifyName": "宅基地使用权及房屋所有权注销登记",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001007",
+        "rightsId": "8794B3AA8FEF9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "78793c22968949408df1b8b02fe8a60e",
+        "unifyName": "国有建设用地使用权及房屋所有权首次登记（开发企业）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001007",
+        "rightsId": "8794B3AA8FEF9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "946a8dcbcd3843d3a28f5058f6b555af",
+        "unifyName": "国有建设用地使用权及房屋所有权变更登记",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001007",
+        "rightsId": "8794B3AA8FEF9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9519ff93a1d54deebb2257f8dd08d167",
+        "unifyName": "国有建设用地使用权及房屋所有权注销登记",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001007",
+        "rightsId": "8794B3AA8FEF9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ad856e9ef76e422298fb772e0405fced",
+        "unifyName": "国有建设用地使用权及房屋所有权首次登记（除开发企业以外的法人或非法人组织）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001007",
+        "rightsId": "8794B3AA8FEF9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8dcb74facb8446f085edd2c8c249c2ea",
+        "unifyName": "国有建设用地使用权及房屋所有权首次登记（个人自建）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001007",
+        "rightsId": "8794B3AA8FEF9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "52d4d2a808a8477788c7331c4a0e15d9",
+        "unifyName": "国有建设用地使用权及房屋所有权转移登记",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001008",
+        "rightsId": "8794B3AA8FF09492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "ae60b175bd7d4b839448cac012c79f5c",
+        "unifyName": "林地使用权/林木所有权首次登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001008",
+        "rightsId": "8794B3AA8FF09492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "a2d5b4cd23d14970bcfe9d158b398dd9",
+        "unifyName": "林地经营权/林木所有权或林地经营权/林木使用权首次登记",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001008",
+        "rightsId": "8794B3AA8FF09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4df90d8152234dea90354aff05cef2e7",
+        "unifyName": "林地使用权/林木所有权变更登记",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001008",
+        "rightsId": "8794B3AA8FF09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "671a28dcb52740a5a549521cd23d46f2",
+        "unifyName": "林地经营权/林木所有权或林地经营权/林木使用权变更登记",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001008",
+        "rightsId": "8794B3AA8FF09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ae985f25eec04d5e9a9628f05645148c",
+        "unifyName": "林地使用权/林木所有权转移登记",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001008",
+        "rightsId": "8794B3AA8FF09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "148ae09622f44e1ea0fcb0deeca03f88",
+        "unifyName": "林地经营权/林木所有权或林地经营权/林木使用权转移登记",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001008",
+        "rightsId": "8794B3AA8FF09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7ed9fdab9bbc47c09f12b4377a27ee21",
+        "unifyName": "林地使用权/林木所有权注销登记",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001008",
+        "rightsId": "8794B3AA8FF09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b0d7afe2b1b54961ad5cf945bf872c41",
+        "unifyName": "林地经营权/林木所有权或林地经营权/林木使用权注销登记",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715001009",
+        "rightsId": "8794B3AA8FF19492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "e363d5688bd9494bbc1ebb9d0d3a0b37",
+        "unifyName": "土地承包经营权首次登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001009",
+        "rightsId": "8794B3AA8FF19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "391c75b9a87747b6b9c9af6884c1ecb1",
+        "unifyName": "土地承包经营权变更登记",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001009",
+        "rightsId": "8794B3AA8FF19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8a48f47b2f814c878140a3c83da1bbd2",
+        "unifyName": "土地承包经营权转移登记",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000715001009",
+        "rightsId": "8794B3AA8FF19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e3d028dfc2cd48e7818994738d629cbe",
+        "unifyName": "土地承包经营权注销登记",
+        "ywCode": "04"
+      }
+    ],
+    "pageIndex": 6,
+    "pageSize": 50,
+    "total": 609,
+    "totalPage": 13
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

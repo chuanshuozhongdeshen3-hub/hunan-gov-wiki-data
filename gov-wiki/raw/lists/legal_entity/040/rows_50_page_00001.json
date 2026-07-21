@@ -1,0 +1,514 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ff0e5dfb8dcd4cb491b16beba308ca98",
+        "unifyName": "涉及开荒的农业项目核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1734cf704ad1405ab175882acef1a71a",
+        "unifyName": "黄金采选矿项目核准",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c79db818a962492fa588fef63e642f5c",
+        "unifyName": "6吨/9座及以下通用飞机和3吨及以下直升机制造项目核准",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "639639e190ef4cefaeecd6e8a514f650",
+        "unifyName": "热电站（含自备电站）核准，包括抽凝式燃煤热电燃煤背压热电、垃圾焚烧发电、生物质发电、6MW以上余热余压发电、6MW以上分布式燃气发电项目核准",
+        "ywCode": "12"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b64ec416e8eb4e1fae5f66297b4ff4a4",
+        "unifyName": "火电站（含自备电站）核准（其中燃煤燃气火电项目应列入国家依据总量控制制定的建设规划）项目核准",
+        "ywCode": "13"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "94dcff0a22884162a5f9a1ea0dac9b94",
+        "unifyName": "液化石油气接收、存储设施(不含油气田、炼油厂的配套项目)项目核准",
+        "ywCode": "14"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fbeff164a3574b7c8e49771e7b575155",
+        "unifyName": "非跨境、非跨省(区、市)干线管网项目输油管网(不含油田集输管网)项目核准",
+        "ywCode": "15"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a30d3f4a8a0f46af8235c7fef66829d0",
+        "unifyName": "非跨境、非跨省(区、市)干线输气管网(不含油气田集输管网)项目核准",
+        "ywCode": "16"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "26bbf3c3e71c420888eba03fe0079864",
+        "unifyName": "变性燃料乙醇项目核准",
+        "ywCode": "17"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b710a093c7af42d9acaac5eab1bcbe10",
+        "unifyName": "抽水蓄能电站项目核准（列入国家相关规划）",
+        "ywCode": "18"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "40c25a3b038a445eb1ea3a044f791992",
+        "unifyName": "风电站项目核准",
+        "ywCode": "19"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "71658347f9994c6ebe7d967af85095a2",
+        "unifyName": "非跨界河流、非跨省（区、市）水资源调整项目中10亿立方米以下且移民1万人以下大型水库项目核准(不含10亿立方米、1万人）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "75a652b47540417084014e30138c342c",
+        "unifyName": "新建（含增建）铁路项目核准",
+        "ywCode": "20"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "30a68766d82e4b5bb9b3938e2081673a",
+        "unifyName": "公路项目核准（国家高速公路网和普通国道网项目、地方高速公路项目）",
+        "ywCode": "21"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7761d715ebe648afbbded85ff60ebc2d",
+        "unifyName": "独立公（铁）路桥梁、隧道项目核准。国家批准的相关规划中的项目以及跨大江大河（现状或规划为一级及以上通航段）的独立公路桥梁、隧道项目核准，不含国铁集团为主出资的项目。",
+        "ywCode": "22"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b45f8d5acaaa4d368711832c0ca77976",
+        "unifyName": "水运项目核准",
+        "ywCode": "23"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3285efbc9b944764b305e9570d64e413",
+        "unifyName": "新建通用机场项目核准",
+        "ywCode": "24"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9a0272f2c53f45f093c8bc9fdf34b4c6",
+        "unifyName": "改扩建运输机场（增建跑道除外）项目核准",
+        "ywCode": "25"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "274401580dcf46458cd365585109ba0a",
+        "unifyName": "城市快速轨道交通项目核准",
+        "ywCode": "26"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "65c734c683cf4fe1b3449d85e9c22f95",
+        "unifyName": "《外商投资产业指导目录》中总投资（含增资）3亿美元以下限制类项目核准",
+        "ywCode": "27"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4a79efd9861c4f668e19e1c03f6d9490",
+        "unifyName": "新建（含异地扩建）以外的液化天然气接收、储运设施项目核准",
+        "ywCode": "28"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "13aec0b9a23e4bfc85f97d9ac714e7b5",
+        "unifyName": "跨市州水电站项目核准（列入相关规划）",
+        "ywCode": "29"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c9c8d290a8f9435c8d08bf7c20249e8e",
+        "unifyName": "非跨界河流、非跨省（区、市）水资源调整项目中跨市州水资源配置调整的项目核准",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "558fdf13e6bd4f16bc2e3fdc2be8a150",
+        "unifyName": "炼油项目核准",
+        "ywCode": "30"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1b15482d6b8e44d287feb17b13b6f532",
+        "unifyName": "电网工程核准",
+        "ywCode": "31"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5518838e3e3c41b1a9e84d8b1634efc4",
+        "unifyName": "国家规划矿区内其余煤炭开发项目（含新建、改扩建、技术改造、资源整合）核准",
+        "ywCode": "32"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "97ac18ba83194e3e8d83411d3e107a65",
+        "unifyName": "跨县（市区）调水、库区跨县（市区）的水电站项目核准",
+        "ywCode": "34"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6ccd5c24b42d4147b9b8dd0f242d15a4",
+        "unifyName": "跨县（市区）调水城市供水项目核准",
+        "ywCode": "35"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f05dcf6326ad458498e402e1a688c90b",
+        "unifyName": "跨县（市区）的城市道路桥梁、隧道项目核准",
+        "ywCode": "36"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c247adf379e64e10b3b1050ecbb64030",
+        "unifyName": "6MW以下余热余压发电和分布式燃气发电的热电站项目核准",
+        "ywCode": "37"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bb1002ba250b4b2fa4e514f6324c7566",
+        "unifyName": "沼气发电项目核准",
+        "ywCode": "38"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "148eb524bb85487bb1e1070e0283fc4b",
+        "unifyName": "除中央在湘企业项目或电厂（站）接入国网系统的不涉及跨境、跨省（区、市）输电的±500千伏以下的电网工程项目核准",
+        "ywCode": "39"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bab9f19578b743c5b4fe3cb89d98fd21",
+        "unifyName": "跨省(区、市)或跨市（州）调水城市供水项目核准",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c4d7c6f8fa6e4a7b917f1cd6e7f46c1d",
+        "unifyName": "普通省道网项目核准",
+        "ywCode": "40"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9c0a2fa870d244208acc406442c7cfa7",
+        "unifyName": "500吨级以下通航建筑物项目、千吨级以下港口码头内河航运项目核准",
+        "ywCode": "41"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "661fa8fe40d54644b7286f0f9d43381e",
+        "unifyName": "医疗废弃物处理、危险废物处理项目核准",
+        "ywCode": "42"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ef6078ec4c59468c972bc742c72b4589",
+        "unifyName": "国家级风景名胜区、国家自然保护区、全国重点文物保护单位区域内总投资 5000万元以下旅游开发和资源保护项目、世界自然和文化遗产保护区内总投资3000万元以下项目以及上述区域内限额以上其他旅游投资项目核准",
+        "ywCode": "43"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0c15f994d7184cf4af5ba044dd11ee16",
+        "unifyName": "城镇污水、垃圾处理及再利用项目核准",
+        "ywCode": "44"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0468df3b74464fc6b21c4a9544ab3016",
+        "unifyName": "城镇生活垃圾处理（不含生活垃圾焚烧发电项目）固定投资项目的核准",
+        "ywCode": "45"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fde8136ba32c4507be7dd48491f246f4",
+        "unifyName": "小型水库及县（市区）域内水资源配置调整农业水利项目核准",
+        "ywCode": "46"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6fed5ce67cfd4141bdf3cd690fd114c7",
+        "unifyName": "县（市区）域内调水水电站项目核准",
+        "ywCode": "47"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "669b70909694424cae6fab0bcabe553d",
+        "unifyName": "县（市区）域内其他公路项目核准",
+        "ywCode": "48"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6e13d442f20a4c828c460f73ce3b5e59",
+        "unifyName": "国家级风景名胜区、国家自然保护区、全国重点文物保护单位区域内总投资5000万元及以上旅游开发和资源保护项目，世界自然和文化遗产保护区内总投资3000万元及以上项目核准",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0a02c9ab26dd4c7182221342788325e3",
+        "unifyName": "县（市区）域内城市供水项目核准",
+        "ywCode": "49"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7d4541ca885d430e97408f73d3f0b550",
+        "unifyName": "县（市区）域内独立公（铁）路桥梁、隧道项目核准",
+        "ywCode": "50"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1097aa29fcbc4d859ead9ecf655f7ddf",
+        "unifyName": "县（市区）域内城市道路桥梁、隧道项目核准",
+        "ywCode": "51"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fb064baf477c4d18b4f3a8f8d3b6c0b2",
+        "unifyName": "稀土、铁矿、有色矿山开发项目核准",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9a331ae0c3aa47b1871c7d788ebba8e2",
+        "unifyName": "新建乙烯、对二甲苯（PX）、二苯基甲烷二异氰酸酯（MDI）项目核准",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "132169eedcb141e3a97f47b6661fee1c",
+        "unifyName": "新建煤制烯烃、新建煤制对二甲苯（PX）项目和新建年产超过100万吨的煤制甲醇项目核准",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00010400100Y",
+        "rightsId": "8794B3AA85589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c1d9b2d6068549da9fe863b30b2b53bb",
+        "unifyName": "稀土冶炼分离项目、稀土深加工项目核准",
+        "ywCode": "09"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 106,
+    "totalPage": 3
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

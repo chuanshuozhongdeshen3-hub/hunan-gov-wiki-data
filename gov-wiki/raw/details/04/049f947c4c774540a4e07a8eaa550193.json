@@ -1,0 +1,126 @@
+{
+  "code": 0,
+  "data": {
+    "acceptanceCondition": "已注册登记的机动车被盗抢骗的，车辆管理所应当根据刑侦部门提供的情况，在计算机登记系统内记录，停止办理该车的各项登记和业务。被盗抢骗机动车发还后，车辆管理所应当恢复办理该车的各项登记和业务。",
+    "according": "《机动车登记规定》（（2021年12月17日公安部令第164号）第七十六条）  《机动车登记规定》（2021年12月17日公安部令第164号）第七十六条？ 已注册登记的机动车被盗抢骗的，车辆管理所应当根据刑侦部门提供的情况，在计算机登记系统内记录，停止办理该车的各项登记和业务。被盗抢骗机动车发还后，车辆管理所应当恢复办理该车的各项登记和业务。 \n机动车在被盗抢骗期间，发动机号码、车辆识别代号或者车身颜色被改变的，车辆管理所应当凭有关技术鉴定证明办理变更备案。",
+    "applicantDuty": "应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。",
+    "applicantPower": "依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。",
+    "approveLimit": "1",
+    "approveLimitExplain": "无",
+    "blbm": "市、县级公安部门",
+    "commitmentLimit": "1",
+    "commitmentLimitExplain": "无",
+    "deptName": "公安部门",
+    "doScope": "全省",
+    "faqList": [
+      {
+        "createDate": 1760765261000,
+        "faqContent": "车主已到公安部门报案，还需要到车管所办理被盗抢信息备案吗？",
+        "faqId": "V-W7g38cQ1KDQxHmTVPmyA",
+        "isDelete": "N",
+        "isSzyy": "N",
+        "orderNum": 1.0,
+        "replyContent": "车主到公安部门报案后，要取得机动车被盗抢凭证，从而确认机动车被盗抢信息已录入公安部门业务系统，车辆管理所在公安交管业务系统内通过信息共享核查到机动车被盗抢信息后，自动备案机动车被盗抢记录，停止办理该车的各项登记业务。",
+        "unifyId": "049f947c4c774540a4e07a8eaa550193",
+        "updateDate": 1763606455000
+      }
+    ],
+    "isCharge": "否",
+    "isIntermediaryServices": "无",
+    "isSpecialProcedure": "否",
+    "isonline": "是",
+    "lctList": [
+      {
+        "approveCode": "049f947c4c774540a4e07a8eaa550193",
+        "approveId": "049f947c4c774540a4e07a8eaa550193",
+        "createTime": 1536643822000,
+        "flowc": "approve/2018-09-11/1536643764306$$2.png",
+        "id": "166c737b2e09463f811f86d1040d73e0",
+        "isDelete": "0",
+        "isExchange": "Y",
+        "operateFlag": "N"
+      }
+    ],
+    "materialList": [
+      {
+        "acceptStandard": "符合法定条件",
+        "attachList": [
+          {
+            "attachCode": "000003",
+            "attachId": "0W4zLReTQJKfHGz5UxCmHw",
+            "attachName": "机动车登记证书.docx",
+            "attachPath": "approve/2022-11-28-17/1669626653703$$机动车登记证书.docx",
+            "attachSize": 224132.0,
+            "attachType": ".docx",
+            "bucketName": "zwfw202211",
+            "businessId": "1566e38d059643a08cb78076aa0be5d6",
+            "createTime": 1669626653000,
+            "isDel": "N",
+            "isDelete": "0",
+            "isExchange": "N",
+            "isValid": "Y",
+            "modFlag": "N",
+            "operateFlag": "N",
+            "pdfPath": "N"
+          }
+        ],
+        "bylaw": "《机动车登记规定》第七十六条第一款？ 已注册登记的机动车被盗抢骗的，车辆管理所应当根据刑侦部门提供的情况，在计算机登记系统内记录，停止办理该车的各项登记和业务。被盗抢骗机动车发还后，车辆管理所应当恢复办理该车的各项登记和业务。",
+        "commitWay": "网上现场都可提交",
+        "copiesNum": 1.0,
+        "createDate": 1626761392000,
+        "freeSubmission": "无",
+        "isDelete": "N",
+        "isMust": "必要",
+        "materialApproveType": "其他",
+        "materialCode": "M431009032W000101",
+        "materialExplain": "真实、合法、有效",
+        "materialId": "1566e38d059643a08cb78076aa0be5d6",
+        "materialStandard": "纸质或电子",
+        "materialTitle": "公安刑侦部门提供的车辆被盗抢情况",
+        "materialType": "原件",
+        "pageformat": "暂无纸质材料规格",
+        "sourceChannel": "政府部门核发",
+        "sourceexplain": "公安刑侦部门",
+        "unifyId": "049f947c4c774540a4e07a8eaa550193",
+        "updateDate": 1763606496000
+      }
+    ],
+    "minExplain": "四级标准说明：该事项已经实现全程网办，申请人可以通过网络提交和补正相关申请信息和材料，提交的材料全部为已验证信息，受理通过后直接进入办理程序，申请人可网上查询办理状态、咨询问题，作出审批决定后，申请人可以通过网上缴费后物流递送证书结果。整个办事过程无需到现场办理。",
+    "minSeq": "0",
+    "orgId": "9def3f565034406981bf70f2169e28ef",
+    "orgName": "湖南省公安厅",
+    "processDescript": "一、刑侦部门提供的情况；\n二、车辆管理所在计算机登记系统内记录。",
+    "quantitativeRestriction": "暂无数量限制",
+    "resultList": [
+      {
+        "approveCode": "049f947c4c774540a4e07a8eaa550193",
+        "approveId": "049f947c4c774540a4e07a8eaa550193",
+        "bucketName": "zwfw202107",
+        "createTime": 1626761446000,
+        "extend": "jpg",
+        "fileName": "机动车登记证书.jpg",
+        "id": "61c141ba548246f3aecad430f3a4f6b8",
+        "isDelete": "0",
+        "isExchange": "Y",
+        "isNeed": "N",
+        "operateFlag": "N",
+        "resultChart": "approve/2021-07-20-14/1626761446102$$机动车登记证书.jpg",
+        "resultSampleName": "无"
+      }
+    ],
+    "resultSampleName": "无",
+    "rightsCode": "431009032W00",
+    "rightsId": "SBjN5mvbSZWMSsheS0HsIQ",
+    "schemeLevels": "市、县",
+    "serveObject": "个人/法人",
+    "transactLevel": "四级标准",
+    "transactionFrom": "窗口办理^网上办理",
+    "typeName": "其他行政权力",
+    "unifyId": "049f947c4c774540a4e07a8eaa550193",
+    "unifyName": "被盗抢机动车信息变更备案",
+    "ywCode": "01"
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

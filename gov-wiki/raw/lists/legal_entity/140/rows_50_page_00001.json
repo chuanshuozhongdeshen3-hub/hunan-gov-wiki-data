@@ -1,0 +1,74 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109143005",
+        "rightsId": "4ee641b34a4f42b99da9b128f0007443",
+        "transactLevel": "0",
+        "unifyId": "C7c_r_IYRl6S3pAwOXtlcw",
+        "unifyName": "补领机动车检验合格标志",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120011000",
+        "rightsId": "8794B3AA87D39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "359a20c01aaa460cb02582f4b5fa57c6",
+        "unifyName": "水产苗种产地检疫",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000120172000",
+        "rightsId": "8794B3AA88829492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "LThLEQdQSW68XxAhIBCQxA",
+        "unifyName": "农业植物及其产品调运检疫及植物检疫证书签发（产地检疫）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000120172000",
+        "rightsId": "8794B3AA88829492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "k9SK15VSQgOw1QmqOIx0yw",
+        "unifyName": "农业植物及其产品调运检疫及植物检疫证书签发（调运检疫）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120212000",
+        "rightsId": "8794B3AA88BD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "m9JZ_bb2TXCknl7ONl5Ohg",
+        "unifyName": "动物及动物产品检疫合格证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431020075W00",
+        "rightsId": "70F599A552B8ABCFE053681515ACCFDC",
+        "transactLevel": "2",
+        "unifyId": "ZtVnbxFLSnCBMEnTJpBF7Q",
+        "unifyName": "动物染疫或者疑似染疫的调查核实",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 6,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

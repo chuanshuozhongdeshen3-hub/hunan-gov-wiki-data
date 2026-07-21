@@ -1,0 +1,520 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "a80932d9a0a64338bb715c8cd00fcdb8",
+        "unifyName": "权限内党政机关及所属二级单位事业发展基本建设项目、政法基础设施项目（含省以下法检两院）、党政机关办公用房等项目可行性研究报告审批",
+        "ywCode": "21"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "AW-YwHyPS42XWlnfTtzL6A",
+        "unifyName": "权限内教育、公立医疗卫生机构、文化、民政、体育、退役军人等项目建议书审批",
+        "ywCode": "22"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "Y_IsXY_CSd-2SlXiWho4Eg",
+        "unifyName": "政府投资项目建议书审批",
+        "ywCode": "23"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "dd0baa009f354d4db2d87f50e6c4d732",
+        "unifyName": "新建通用机场项目建议书审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "d304585dde34435abb3b2d8c26e2523f",
+        "unifyName": "新建通用机场项目可行性研究报告审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "7d17fa0965e04443a36db6ee85f5ce5f",
+        "unifyName": "权限内改扩建运输机场（增建跑道除外）项目建议书审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "034d8748cfee4bc2b866124be472c95e",
+        "unifyName": "权限内改扩建运输机场（增建跑道除外）项目可行性研究报告审批",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "050ab43cc3d944c4a652d82c05436bb7",
+        "unifyName": "水运项目审批",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "76e0a6beeb8b49ebb9b28a290f23701f",
+        "unifyName": "权限内新建铁路项目可行性研究报告审批",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "4e4f22877e7c49a7a359b9c49658f735",
+        "unifyName": "权限内新建城市快速轨道交通项目可行性研究报告审批",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004132W00",
+        "rightsId": "f37uaB3xSLGKaaPVoCn4TA",
+        "transactLevel": "0",
+        "unifyId": "57d78ce2305c4d1fa2c00a3518431c97",
+        "unifyName": "借用国际金融组织和外国政府贷款项目可行性研究报告的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431005106W00",
+        "rightsId": "Y1pQUFbOT3iPMpjIMKMffw",
+        "transactLevel": "0",
+        "unifyId": "af6e9e5e3dcd468da28bbcc789045a7d",
+        "unifyName": "中等职业学校招生简章、广告备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431006001W00",
+        "rightsId": "cg80XFpVT_KIA0UeALSBVw",
+        "transactLevel": "0",
+        "unifyId": "d09efe077dea460f8e7be2f4fe60bf31",
+        "unifyName": "实验动物生产许可证年检",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431006001W00",
+        "rightsId": "cg80XFpVT_KIA0UeALSBVw",
+        "transactLevel": "0",
+        "unifyId": "11dc482d42a9413e998cbe20c8360117",
+        "unifyName": "实验动物使用许可证年检",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431007039W00",
+        "rightsId": "70F599A55159ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "bb340eed83c648ac9584200d416c32e7",
+        "unifyName": "销售应当取得型号核准的无线电发射设备的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431007059W00",
+        "rightsId": "6GJix_dMRle-TnUyQs1SDw",
+        "transactLevel": "2",
+        "unifyId": "CGqncxHsRWafCEgNNfkRfQ",
+        "unifyName": "省级制造业创新中心创建",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "431007059W00",
+        "rightsId": "6GJix_dMRle-TnUyQs1SDw",
+        "transactLevel": "2",
+        "unifyId": "4T5odCtwSCaWfcc6rAYUrQ",
+        "unifyName": "省级制造业创新中心认定",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431007059W00",
+        "rightsId": "6GJix_dMRle-TnUyQs1SDw",
+        "transactLevel": "2",
+        "unifyId": "1cFErlqUSMehPIZT4I3jDw",
+        "unifyName": "省级制造业创新中心考评",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431007062W00",
+        "rightsId": "fDnvGAnISSiPOuxgH_nveg",
+        "transactLevel": "0",
+        "unifyId": "P1D0eL71THi2ax-exThvSQ",
+        "unifyName": "处理无线电有害干扰投诉",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431007067W00",
+        "rightsId": "WbHYksECQLK79hJqDdjdpw",
+        "transactLevel": "0",
+        "unifyId": "05d30393616c4f67acb0083945d545f8",
+        "unifyName": "民用爆炸物品安全生产许可（证）年检",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431008001W00",
+        "rightsId": "IH7ddtoDSiW6Dk4lcrDKsw",
+        "transactLevel": "0",
+        "unifyId": "949df5ac294c4f719fab72fdcbfb0478",
+        "unifyName": "宗教教职人员担任宗教活动场所主要教职备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431008001W00",
+        "rightsId": "IH7ddtoDSiW6Dk4lcrDKsw",
+        "transactLevel": "0",
+        "unifyId": "CkJS_GSrTYm7zS7H_G6J1w",
+        "unifyName": "宗教教职人员离任宗教活动场所主要教职备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431008005W00",
+        "rightsId": "pcggXofsR2uRdWdf2Tzqzw",
+        "transactLevel": "0",
+        "unifyId": "3c30d8d829104f31be4a0cd61af47cc5",
+        "unifyName": "宗教教职人员在省内跨行政区域主持宗教活动备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431008006W00",
+        "rightsId": "MAerQ7y-RW-vb1eExnhwlQ",
+        "transactLevel": "0",
+        "unifyId": "831793e68f214c6085d9911ca1ec27b8",
+        "unifyName": "宗教教职人员认定备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431008006W00",
+        "rightsId": "MAerQ7y-RW-vb1eExnhwlQ",
+        "transactLevel": "0",
+        "unifyId": "66c68b805fce4680beb7aa3516368cbe",
+        "unifyName": "宗教教职人员注销备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431008009W00",
+        "rightsId": "12dab3b640f84c22b6b866540f41ee6c",
+        "transactLevel": "0",
+        "unifyId": "42a58a1725a441be8a60a668dfb520de",
+        "unifyName": "民族团体在换届之前的财务审计",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431008009W00",
+        "rightsId": "12dab3b640f84c22b6b866540f41ee6c",
+        "transactLevel": "0",
+        "unifyId": "b3503f441ce2455780084ca9e2fef0c8",
+        "unifyName": "民族团体在更换法定代表人之前的财务审计",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431008009W00",
+        "rightsId": "12dab3b640f84c22b6b866540f41ee6c",
+        "transactLevel": "0",
+        "unifyId": "d316a8f3f4f24346bb9c80803afac678",
+        "unifyName": "宗教团体在换届之前的财务审计",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431008009W00",
+        "rightsId": "12dab3b640f84c22b6b866540f41ee6c",
+        "transactLevel": "0",
+        "unifyId": "7a9214161008449d8823a6d75b011171",
+        "unifyName": "宗教团体在更换法定代表人之前的财务审计",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009031W00",
+        "rightsId": "1yiHQfjdTU2Ly3Iz34e6Fg",
+        "transactLevel": "0",
+        "unifyId": "fb2e3bebe65c400e845f758be4a0e4de",
+        "unifyName": "娱乐场所经营单位备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009031W00",
+        "rightsId": "1yiHQfjdTU2Ly3Iz34e6Fg",
+        "transactLevel": "0",
+        "unifyId": "aadefa0eb9994e87be47d3de44ade0ff",
+        "unifyName": "娱乐场所变更名称",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009031W00",
+        "rightsId": "1yiHQfjdTU2Ly3Iz34e6Fg",
+        "transactLevel": "0",
+        "unifyId": "c8f1461344974abfa36b75d62067575c",
+        "unifyName": "娱乐场所变更经营场所",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009031W00",
+        "rightsId": "1yiHQfjdTU2Ly3Iz34e6Fg",
+        "transactLevel": "0",
+        "unifyId": "3484517b34af4bfaa56ac26fea4e4507",
+        "unifyName": "娱乐场所变更法定代表人和主要负责人",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009031W00",
+        "rightsId": "1yiHQfjdTU2Ly3Iz34e6Fg",
+        "transactLevel": "0",
+        "unifyId": "1dc8859bb49f4882a43d28ac0f5f6739",
+        "unifyName": "娱乐场所变更主要设施设备",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009032W00",
+        "rightsId": "SBjN5mvbSZWMSsheS0HsIQ",
+        "transactLevel": "0",
+        "unifyId": "049f947c4c774540a4e07a8eaa550193",
+        "unifyName": "被盗抢机动车信息变更备案",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009045W00",
+        "rightsId": "2M_1J00mSDWVz69BhbqkZA",
+        "transactLevel": "0",
+        "unifyId": "b6ff1a8e64474b8d9d2c9ae0921e547f",
+        "unifyName": "补领机动车登记证书",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009045W00",
+        "rightsId": "2M_1J00mSDWVz69BhbqkZA",
+        "transactLevel": "0",
+        "unifyId": "a6dcb6590b7d4b2e95386a5dc68a3cc9",
+        "unifyName": "换领机动车登记证书",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009045W00",
+        "rightsId": "2M_1J00mSDWVz69BhbqkZA",
+        "transactLevel": "0",
+        "unifyId": "cREuVODmQt6Y4it1EGj8tw",
+        "unifyName": "申领机动车电子行驶证",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009045W00",
+        "rightsId": "2M_1J00mSDWVz69BhbqkZA",
+        "transactLevel": "0",
+        "unifyId": "0JT7oxC8QHOXkNsn0VxMpg",
+        "unifyName": "补领机动车号牌",
+        "ywCode": "04"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009045W00",
+        "rightsId": "2M_1J00mSDWVz69BhbqkZA",
+        "transactLevel": "0",
+        "unifyId": "9ffsMK86RQiFW6ikmLx9qQ",
+        "unifyName": "换领机动车号牌",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009059W00",
+        "rightsId": "fCfBK-GRTbuVWLINfo0CPg",
+        "transactLevel": "0",
+        "unifyId": "52bfa56bf66c41efbfe87c94fd38a3d7",
+        "unifyName": "道路运输企业聘用机动车驾驶人备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009063W00",
+        "rightsId": "bIr9qkygQFKtIBi856u38A",
+        "transactLevel": "0",
+        "unifyId": "268926be5f774ab88a85da18919da90c",
+        "unifyName": "保安服务公司设立分公司备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009063W00",
+        "rightsId": "bIr9qkygQFKtIBi856u38A",
+        "transactLevel": "0",
+        "unifyId": "0123504aebb3490eaa0708f4320cac72",
+        "unifyName": "自行招用保安员单位备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009063W00",
+        "rightsId": "bIr9qkygQFKtIBi856u38A",
+        "transactLevel": "0",
+        "unifyId": "TB0GCSY6SNeGDl07gFgnTA",
+        "unifyName": "自行招用保安员单位撤销备案",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009063W00",
+        "rightsId": "bIr9qkygQFKtIBi856u38A",
+        "transactLevel": "0",
+        "unifyId": "426b73bc7de8487e996e087c48c665ff",
+        "unifyName": "保安服务公司跨省、自治区、直辖市提供保安服务备案",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009063W00",
+        "rightsId": "bIr9qkygQFKtIBi856u38A",
+        "transactLevel": "0",
+        "unifyId": "8pHxylWCR9SUcJ1vX0sgyQ",
+        "unifyName": "保安培训机构设立备案",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009064W00",
+        "rightsId": "P1Fzil3VRRW6Wm4nfsN9Qw",
+        "transactLevel": "0",
+        "unifyId": "39ff23f21958436fbe30a333e815d772",
+        "unifyName": "经营管理单位改变城市大型建筑用途备案预约",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009066W00",
+        "rightsId": "0GTnNP3mR56Q2RyYXeH4BQ",
+        "transactLevel": "0",
+        "unifyId": "968ebf8dddae4e99a7d6d4a01d00e715",
+        "unifyName": "城市道路沿线的大型建筑以及其他可能影响交通安全的建设项目和城市道路两侧增设或封闭平面交叉口、机动车通道和出入口审核预约",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009085W00",
+        "rightsId": "swecLTyDSoGsG7Bu0esd8w",
+        "transactLevel": "0",
+        "unifyId": "ZhSQXND2SLeZPAZFOu5AqA",
+        "unifyName": "公章刻制备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009134W00",
+        "rightsId": "wPzcEn73ROGuNLMQko3kbw",
+        "transactLevel": "0",
+        "unifyId": "c0f79bf054144f62bb771d7c1a84c586",
+        "unifyName": "废旧金属收购企业和个体工商户备案",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 45,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

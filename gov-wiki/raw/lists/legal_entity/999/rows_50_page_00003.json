@@ -1,0 +1,514 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118035000",
+        "rightsId": "8794B3AA875E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4a9b39a5fa5e44898512dff4d8ec8b26",
+        "unifyName": "收费公路收费站设置审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000118042000",
+        "rightsId": "8794B3AA87659492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "7uvK4u9BQLacXrtPUNVZYA",
+        "unifyName": "载运危险货物和污染危害性货物进出港口审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000118042000",
+        "rightsId": "8794B3AA87659492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "uyD6ZYB7SEWOlmVS18-Mfg",
+        "unifyName": "船舶、船用产品及船运货物集装箱检验和证书核发",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118068000",
+        "rightsId": "8794B3AA87829492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "5pkM-8mUTUClbYNLuIkSGw",
+        "unifyName": "船舶在港口水域外申请从事内河危险货物过驳作业或者海上散装液体污染危害性货物过驳作业审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119004000",
+        "rightsId": "8794B3AA879F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5315c9ba7eb14fc8a69bcbb3f9a8af1b",
+        "unifyName": "农村集体经济组织修建水库审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119021000",
+        "rightsId": "8794B3AA87B89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "g7J0po_xQki2ce-UBm3wDg",
+        "unifyName": "坝顶兼做公路审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119028000",
+        "rightsId": "693d49c1601c49d08003fc520925d2e3",
+        "transactLevel": "0",
+        "unifyId": "19c21213fffd4576bf151ff7b096806f",
+        "unifyName": "大中型水库移民安置规划（大纲）审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120040000",
+        "rightsId": "8794B3AA87F09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1fSuMAxURdyF0Hm7lbjsBg",
+        "unifyName": "省内运输高致病性病原微生物菌（毒）种或者样本许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120077000",
+        "rightsId": "8794B3AA88199492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "oPhWoVu1TDm01G38mq4wAA",
+        "unifyName": "在地方媒体发布兽药广告的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120089000",
+        "rightsId": "8794B3AA88259492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bYchUj7QT_6zXiNbfqi9bg",
+        "unifyName": "从国外引进农业种子、苗木检疫审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120129000",
+        "rightsId": "8794B3AA884F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cRlZSpBPSga48oqSGK2rIg",
+        "unifyName": "出口蚕遗传资源、涉外合作研究利用蚕遗传资源初审",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120130000",
+        "rightsId": "8794B3AA88509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "_qlGM669T-qRe7H9CbhLpw",
+        "unifyName": "畜禽遗传资源进出境和对外合作研究利用初审（进口）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120130000",
+        "rightsId": "8794B3AA88509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Mti7gjpmQ5iAQinW2A5xgg",
+        "unifyName": "畜禽遗传资源进出境和对外合作研究利用初审（出口）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120130000",
+        "rightsId": "8794B3AA88509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "jcs8MmEwTkeIPGUqKPhl_w",
+        "unifyName": "畜禽遗传资源进出境和对外合作研究利用初审（合作利用）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120161000",
+        "rightsId": "8794B3AA88779492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3addd1560a55472b9e0f8cedbb1e2b0e",
+        "unifyName": "限制使用农药经营许可新办",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120161000",
+        "rightsId": "8794B3AA88779492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "57934a37d2974baca5a6d8d491e7da5b",
+        "unifyName": "农药经营许可补证（限制使用农药除外）",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120161000",
+        "rightsId": "8794B3AA88779492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ca4c43e6ef164f11b9b65c26b9f467a0",
+        "unifyName": "农药经营许可注销（限制使用农药除外）",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120161000",
+        "rightsId": "8794B3AA88779492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "FnuIe6avTEGysx6qzhsNmg",
+        "unifyName": "限制使用农药经营许可变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120161000",
+        "rightsId": "8794B3AA88779492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "xUZZQpskRy6wJwbrVV_ADg",
+        "unifyName": "限制使用农药经营许可延续",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120161000",
+        "rightsId": "8794B3AA88779492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "F3oBDVvSTve-Hezbu7Aitg",
+        "unifyName": "限制使用农药经营许可补证",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120161000",
+        "rightsId": "8794B3AA88779492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6ulla8qbTFaywSCcScaeZg",
+        "unifyName": "限制使用农药经营许可注销",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120161000",
+        "rightsId": "8794B3AA88779492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "792f19844a1b4e54ad433aa4df1bca8b",
+        "unifyName": "农药经营许可新办（限制使用农药除外）",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120161000",
+        "rightsId": "8794B3AA88779492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "56358a6e0a1e4f649b67b41c2b4fd196",
+        "unifyName": "农药经营许可变更（限制使用农药除外）",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120161000",
+        "rightsId": "8794B3AA88779492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "79e9b93adc874ad4bb49b3f3c61bdfb6",
+        "unifyName": "农药经营许可延续（限制使用农药除外）",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120163000",
+        "rightsId": "8794B3AA88799492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "WmCmUcTYSGyhtNJzNjGY7w",
+        "unifyName": "农药生产许可（延续）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000120185000",
+        "rightsId": "8794B3AA88939492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "DPeR-QfRRLWR859kfIknIg",
+        "unifyName": "拖拉机和联合收割机注册登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120185000",
+        "rightsId": "8794B3AA88939492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c58da31560d3472cad5b0fd9ed709774",
+        "unifyName": "拖拉机和联合收割机补换领牌证",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000120185000",
+        "rightsId": "8794B3AA88939492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "puPzS49uSDOUw8cgPMzIPw",
+        "unifyName": "拖拉机和联合收割机变更登记",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000120185000",
+        "rightsId": "8794B3AA88939492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "Lcc8Tt5qSrGCCHAqHEAWpQ",
+        "unifyName": "拖拉机、联合收割机转移登记",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000120185000",
+        "rightsId": "8794B3AA88939492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "4e797e20c7fc463cb9d46eeed3bf613e",
+        "unifyName": "拖拉机和联合收割机临时号牌申领",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120185000",
+        "rightsId": "8794B3AA88939492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "eRnpf4tcSqe_WaOcQlgBxw",
+        "unifyName": "拖拉机和联合收割机注销登记",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120198000",
+        "rightsId": "8794B3AA88A69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "db2LMTeJSOeX9VrD3bobVQ",
+        "unifyName": "国家重点保护的天然种质资源的采集、采伐批准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121008000",
+        "rightsId": "8794B3AA88D59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8af08d248e4d4d87aa772c8da8fa43c8",
+        "unifyName": "《成品油零售经营批准证书》遗失、损毁、补发证书申报",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122011000",
+        "rightsId": "8794B3AA89029492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "BM5vL_X8Rli-i4bMDa6bIg",
+        "unifyName": "互联网上网服务营业场所经营单位注销的审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000122012000",
+        "rightsId": "8794B3AA89039492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "d05ad97182274963becd796c8f2e39ce",
+        "unifyName": "营业性演出活动举办的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122012000",
+        "rightsId": "8794B3AA89039492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "EL1ZaP-FS1CgcSJt5hJb9Q",
+        "unifyName": "营业性演出活动取消的审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122013000",
+        "rightsId": "8794B3AA89049492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "vHctGmjhSjSqFy4Wvs3pbA",
+        "unifyName": "游艺娱乐场所从事娱乐场所经营活动注销的审批",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122014000",
+        "rightsId": "8794B3AA89059492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "76OHUU04TAeSnjbYJrTg5A",
+        "unifyName": "外商投资的游艺娱乐场所从事娱乐场所经营活动注销的审批",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122014000",
+        "rightsId": "8794B3AA89059492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "qlpZF1PpR92jWi2YUiU4Pw",
+        "unifyName": "外商投资的歌舞娱乐场所从事娱乐场所经营活动补证的审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122014000",
+        "rightsId": "8794B3AA89059492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "vWHIm-DbRbyuRT2N7QRYjg",
+        "unifyName": "外商投资的歌舞娱乐场所从事娱乐场所经营活动注销的审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122015000",
+        "rightsId": "8794B3AA89069492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c3d14c61590949f396899ec62b7fa600",
+        "unifyName": "文艺表演团体从事营业性演出活动变更的审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122015000",
+        "rightsId": "8794B3AA89069492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3507da25b260489a98efa6b27eb935b9",
+        "unifyName": "文艺表演团体从事营业性演出活动延续的审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122015000",
+        "rightsId": "8794B3AA89069492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "i32c8yvtS-qwIYTXulz3Sw",
+        "unifyName": "文艺表演团体从事营业性演出活动注销的审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122017000",
+        "rightsId": "8794B3AA89089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "BDKnl469QpClNtmaIgOwhQ",
+        "unifyName": "香港特别行政区、澳门特别行政区的投资者在内地投资设立演出场所经营单位从事演出场所经营活动变更的审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122017000",
+        "rightsId": "8794B3AA89089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "doK-rrDNQvysI-HVsNI0fQ",
+        "unifyName": "香港特别行政区、澳门特别行政区的投资者在内地投资设立演出场所经营单位从事演出场所经营活动补证的审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122017000",
+        "rightsId": "8794B3AA89089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "iELwkDgkR5-aigRy9cQhgw",
+        "unifyName": "香港特别行政区、澳门特别行政区的投资者在内地投资设立演出场所经营单位从事演出场所经营活动注销的审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122019000",
+        "rightsId": "8794B3AA890A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ovvtE1q1R1eiiz5R_GSFig",
+        "unifyName": "台湾地区的投资者在内地投资设立演出场所经营单位从事演出场所经营活动注销的审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122031000",
+        "rightsId": "47d2cb6209cb47d68b94a1747e4ef312",
+        "transactLevel": "0",
+        "unifyId": "Eptu684vTZGAnOBq7zyi_g",
+        "unifyName": "中外合资经营、中外合作经营、外商独资经营企业互联网上网服务营业场所经营单位从事互联网上网服务经营活动注销的审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000123004000",
+        "rightsId": "8794B3AA891B9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "resqmwGxQc2Xi-EKY4Segw",
+        "unifyName": "医疗机构执业登记（注销)",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123018000",
+        "rightsId": "8794B3AA892C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0d5e37064cda4568ae946bfd2b6aa2ee",
+        "unifyName": "饮用水供水单位卫生许可（注销）",
+        "ywCode": "03"
+      }
+    ],
+    "pageIndex": 3,
+    "pageSize": 50,
+    "total": 616,
+    "totalPage": 13
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

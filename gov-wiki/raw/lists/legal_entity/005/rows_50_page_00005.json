@@ -1,0 +1,522 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4af65fc28b4f4d3097dcb34ea5a4557d",
+        "unifyName": "分公司变更登记",
+        "ywCode": "12"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "24e2379b4ef847c28b7edbbe6c5f75f6",
+        "unifyName": "非公司企业法人设立登记",
+        "ywCode": "14"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "35b18a647bec423bbef1942ab0c58aec",
+        "unifyName": "非公司企业法人变更登记",
+        "ywCode": "15"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "66b690af6e50406bab9b8be90921293b",
+        "unifyName": "非公司企业法人改制登记",
+        "ywCode": "17"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c46cc6f61c994dbaaa68547e4e77c419",
+        "unifyName": "非公司企业法人分支机构设立登记",
+        "ywCode": "18"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "12967264832843ee8301a661d1b9c38c",
+        "unifyName": "非公司企业法人分支机构变更登记",
+        "ywCode": "19"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9049b567aca54c2f87a428a6b5d7a953",
+        "unifyName": "个人独资企业变更登记",
+        "ywCode": "22"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8b581e16cd724421b709da2a5abde2ba",
+        "unifyName": "个人独资企业分支机构设立登记",
+        "ywCode": "24"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4cd9983e548243039d5906d0628a914d",
+        "unifyName": "个人独资企业分支机构变更登记",
+        "ywCode": "25"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3d14f880fc284f6bbd9aebadc3c9114d",
+        "unifyName": "合伙企业分支机构设立登记",
+        "ywCode": "36"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1db48653460e40598664ba9f1c604b64",
+        "unifyName": "合伙企业分支机构变更登记",
+        "ywCode": "37"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "98352dba8df94a22bae09f7a75cad96e",
+        "unifyName": "合伙企业变更登记",
+        "ywCode": "45"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "oNvqRo8JQnWY-RSifBMfQA",
+        "unifyName": "公司变更登记",
+        "ywCode": "56"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ff1BCfW7TKqR-jZGoEJV6g",
+        "unifyName": "公司设立登记",
+        "ywCode": "62"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "YaN8eWXBRAy3EHR2Ucnfdw",
+        "unifyName": "因公司的股东发生合并（分立）申请变更登记",
+        "ywCode": "63"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "jW-KtxilQA6gHfuoRMghTg",
+        "unifyName": "因公司合并（分立）申请设立登记",
+        "ywCode": "64"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "MCVGcteRR6SHg9GmDLiHcQ",
+        "unifyName": "因公司合并（分立）申请变更登记",
+        "ywCode": "65"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131005000",
+        "rightsId": "8794B3AA89E89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3785d41d6fdb4937b41976ea11bac514",
+        "unifyName": "农民专业合作社（联合社）设立登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131005000",
+        "rightsId": "8794B3AA89E89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8200cc0f5c4d4ac084ff585ca7ada444",
+        "unifyName": "农民专业合作社（联合社）变更登记",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131005000",
+        "rightsId": "8794B3AA89E89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f7501a39c76c44c79571a6b0fcca2e97",
+        "unifyName": "农民专业合作社（联合社）分支机构设立登记",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131005000",
+        "rightsId": "8794B3AA89E89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "76c6c8fd21e64497ada13feb2df3437c",
+        "unifyName": "农民专业合作社（联合社）分支机构变更登记",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131005000",
+        "rightsId": "8794B3AA89E89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7s8dKTlQTzKMPSA8JDeV2A",
+        "unifyName": "因农民专业合作社（联合社）合并（分立）申请设立登记",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131005000",
+        "rightsId": "8794B3AA89E89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "EoBXpN4KRo6WRufStOwL0w",
+        "unifyName": "因农民专业合作社（联合社）合并（分立）申请变更登记",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000131007000",
+        "rightsId": "8794B3AA89EA9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "28cd7ce160a346809fe2c9566ccc9997",
+        "unifyName": "外国企业常驻代表机构设立登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000131007000",
+        "rightsId": "8794B3AA89EA9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "f6f18f57923d40049d525bd0ae6ef130",
+        "unifyName": "外国企业常驻代表机构变更登记",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000131008000",
+        "rightsId": "8794B3AA89EB9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "78d8c31e9a23425bb2dbe5bc4977ece9",
+        "unifyName": "外国（地区）企业在中国境内从事生产经营活动开业登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000131008000",
+        "rightsId": "8794B3AA89EB9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "2b2dacb91d6349b5a579f5134b228850",
+        "unifyName": "外国（地区）企业在中国境内从事生产经营活动变更登记",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131024000",
+        "rightsId": "8794B3AA89FB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ec1f1f52c4d643e193c7ae0eea3a5934",
+        "unifyName": "《食品经营许可证》新办",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131024000",
+        "rightsId": "8794B3AA89FB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e64db333cafd4ef2bb9100888a99c911",
+        "unifyName": "《食品经营许可证》变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131024000",
+        "rightsId": "8794B3AA89FB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "663251390e854ad993dc1ddac69d0f6b",
+        "unifyName": "《食品经营许可证》延续",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131024000",
+        "rightsId": "8794B3AA89FB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "88aa98c796a645eea9804bfe146ea52b",
+        "unifyName": "《食品经营许可证》补办",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131024000",
+        "rightsId": "8794B3AA89FB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8dd651e08fb1413e8dc075c7708d9d4e",
+        "unifyName": "《食品经营许可证》注销",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132015000",
+        "rightsId": "8794B3AA8A189492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a4e0a9e372174968a2a35b4e9fdbd792",
+        "unifyName": "广播电台、电视台设立审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132015000",
+        "rightsId": "8794B3AA8A189492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d08ec46f79e0464183178a8e592c9402",
+        "unifyName": "广播电台、电视台终止审核",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132041000",
+        "rightsId": "8794B3AA8A389492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "78b64c96860a420fb18fc65b7a035fbb",
+        "unifyName": "省级以上广播电台、电视台（含教育电视台）变更台标审核",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132041000",
+        "rightsId": "8794B3AA8A389492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0ad9f20add3249528024240c50db1538",
+        "unifyName": "除县级广播电台、电视台外，其它广播电台、电视台（含教育电视台）变更台名、节目设置范围或节目套数审核",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133002000",
+        "rightsId": "8794B3AA8A449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6cc05cf6d0b44c48b0ed580e3b194f26",
+        "unifyName": "经营高危险性体育项目许可",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133002000",
+        "rightsId": "8794B3AA8A449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "koZkWsK6TnWk8Qh7dyhwlQ",
+        "unifyName": "经营高危险性体育项目许可（延续）",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133002000",
+        "rightsId": "8794B3AA8A449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ltbNin-8Qouu6reQ-Am6qQ",
+        "unifyName": "经营高危险性体育项目许可（变更）",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133002000",
+        "rightsId": "8794B3AA8A449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5W2CdO7tQ8y2LF8cJ2i15Q",
+        "unifyName": "经营高危险性体育项目许可（注销）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "875ef87dbc6246049be7b44c39e783b7",
+        "unifyName": "图书出版单位分立审批的初审",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6ebaf27f5e1544758f68dc822d34666f",
+        "unifyName": "报纸变更名称审批的初审",
+        "ywCode": "13"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "903e2e4777ef45a288ce33b326c0d602",
+        "unifyName": "报纸出版单位自身名称变更审批的初审",
+        "ywCode": "14"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "098c4e325b854335a237892e08acef94",
+        "unifyName": "报纸出版单位变更至既有出版单位审批的初审",
+        "ywCode": "15"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c7a8735b5eeb45b097f7220961fa5528",
+        "unifyName": "报纸变更业务范围审批的初审",
+        "ywCode": "16"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "dd953b8e38a34bd89221cff3a8462040",
+        "unifyName": "报纸变更主办单位名称审批的初审",
+        "ywCode": "17"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "639d0dd752fc49f68ed92d250ccb444b",
+        "unifyName": "报纸变更主办单位主体审批的初审",
+        "ywCode": "18"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8d63e802844d4af0b09218d5fca7b981",
+        "unifyName": "报纸变更主管单位名称审批的初审",
+        "ywCode": "19"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6fad8e2b6fd34da290e0602c0432d4b9",
+        "unifyName": "图书出版单位变更名称审批的初审",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b45d89229eab408fadfe6b389b132d5f",
+        "unifyName": "报纸变更主管单位主体审批的初审",
+        "ywCode": "20"
+      }
+    ],
+    "pageIndex": 5,
+    "pageSize": 50,
+    "total": 417,
+    "totalPage": 9
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

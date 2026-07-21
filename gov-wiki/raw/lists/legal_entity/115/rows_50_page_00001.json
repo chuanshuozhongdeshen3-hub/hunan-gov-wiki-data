@@ -1,0 +1,74 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430706001W00",
+        "rightsId": "NAP5uai8TH6IDzzYbv9lRQ",
+        "transactLevel": "0",
+        "unifyId": "1886316acd614cf981c165faaaba616a",
+        "unifyName": "工程技术研究中心",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430706002W00",
+        "rightsId": "kXeaMpjbRLu6APP0vDID6Q",
+        "transactLevel": "0",
+        "unifyId": "cceae0087b8a4ba1baf8cd7dda2292e3",
+        "unifyName": "重点实验室",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430706009W00",
+        "rightsId": "jYpDHfggQW2JOeJviruZAA",
+        "transactLevel": "0",
+        "unifyId": "6f2b0c3fcb804b418f2e7e60b05e80ba",
+        "unifyName": "省级科学技术普及基地备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430806006W00",
+        "rightsId": "qhXtVE9iQpa2D-KSub9pdA",
+        "transactLevel": "0",
+        "unifyId": "36b2340158fa43aa84c5b388cff147a0",
+        "unifyName": "授予省科学技术奖",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432006101W00",
+        "rightsId": "98DEF4F23BBAA6C2E053681515AC0784",
+        "transactLevel": "0",
+        "unifyId": "1cf30366daf04d76ba442ec67b622bab",
+        "unifyName": "科技政策咨询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432006102W00",
+        "rightsId": "98DEF4F23BBDA6C2E053681515AC0784",
+        "transactLevel": "0",
+        "unifyId": "419b9aaf05bb45fea7753882bd13281d",
+        "unifyName": "科技查新咨询",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 6,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

@@ -1,0 +1,532 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000104003000",
+        "rightsId": "8794B3AA85669492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2e307dacb9f14a488574524af3641fd4",
+        "unifyName": "境外投资项目备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000104003000",
+        "rightsId": "8794B3AA85669492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "593be04b17e54a7cb4d7f713aac42dbf",
+        "unifyName": "境外投资项目变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000104003000",
+        "rightsId": "8794B3AA85669492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5bb25dd0f35b40369bf641fff79d82d9",
+        "unifyName": "境外投资项目延期",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107013000",
+        "rightsId": "8794B3AA85A39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "42740dad1ec54a59ab5626551045799f",
+        "unifyName": "无线电发射设备进关核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107046000",
+        "rightsId": "b276a4b0957c4fc8904f855e7f5ab337",
+        "transactLevel": "0",
+        "unifyId": "mvFDchDuQnS9RVHWVSNjYg",
+        "unifyName": "新申请无线电频率指配审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107046000",
+        "rightsId": "b276a4b0957c4fc8904f855e7f5ab337",
+        "transactLevel": "0",
+        "unifyId": "OlkCMWXPQFys-MKwWvao3Q",
+        "unifyName": "延续无线电频率指配审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107048000",
+        "rightsId": "46e275e793b2463a8b8afcf6790cef3d",
+        "transactLevel": "0",
+        "unifyId": "sz_et7VhRvyjz9UFdfMigQ",
+        "unifyName": "电台呼号指配审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107048000",
+        "rightsId": "46e275e793b2463a8b8afcf6790cef3d",
+        "transactLevel": "0",
+        "unifyId": "SHS78Wo5RTatqAB5CQ1CaA",
+        "unifyName": "注销电台呼号指配审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000109121002",
+        "rightsId": "01dabfd1502e4f4183562201d3544eea",
+        "transactLevel": "3",
+        "unifyId": "ZHayWYz5T42L2yyCxw2VSg",
+        "unifyName": "省级行政区域内跨市级行政区域举行游行示威许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000109121004",
+        "rightsId": "e3a574f0433a4ffbb2400757201cc195",
+        "transactLevel": "3",
+        "unifyId": "qCt2kyQ-SryeqFONugwQ4g",
+        "unifyName": "设区的市级行政区域内跨县级行政区域举行游行示威许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000109121005",
+        "rightsId": "d52d0bec39314e50aee69387e968739e",
+        "transactLevel": "3",
+        "unifyId": "1wfNFTKdTMOVjjR5Q4ZRIg",
+        "unifyName": "县级行政区域内举行集会游行示威许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "00010912100Y",
+        "rightsId": "f235727a260e46b9a2f6a79a0061ac32",
+        "transactLevel": "3",
+        "unifyId": "9aae8b868b734010867d0ca10546db11",
+        "unifyName": "举行集会游行示威许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109123004",
+        "rightsId": "5a95da7c67734109af16a1ae72464272",
+        "transactLevel": "1",
+        "unifyId": "K-Qk0NG6TraOpdI0EjRZ4g",
+        "unifyName": "通过道路运输其他放射性物品许可（设区的市级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109126000",
+        "rightsId": "a67a404888594a9ba2eba9396c45a18b",
+        "transactLevel": "0",
+        "unifyId": "dgoo0B38S5uKPHDEcmAHGA",
+        "unifyName": "公章刻制业备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109141004",
+        "rightsId": "fb10faf253b6439387c5a4347677fda9",
+        "transactLevel": "0",
+        "unifyId": "w6PRz-73SxOY-vHg0lwwtw",
+        "unifyName": "申请新车临时号牌",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109141004",
+        "rightsId": "fb10faf253b6439387c5a4347677fda9",
+        "transactLevel": "0",
+        "unifyId": "BNky_VsAQaSttWX6X0Fy4Q",
+        "unifyName": "申请特型车临时号牌",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109142008",
+        "rightsId": "5b515f8b777c4d188ceeb50240663d54",
+        "transactLevel": "0",
+        "unifyId": "ztRIJ5nCRFyrisdtlXbjCg",
+        "unifyName": "解除机动车抵押登记",
+        "ywCode": "04"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109142008",
+        "rightsId": "5b515f8b777c4d188ceeb50240663d54",
+        "transactLevel": "0",
+        "unifyId": "Twe7KdwiTOqhmQedEuAWUg",
+        "unifyName": "机动车转籍申请",
+        "ywCode": "06"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000109142008",
+        "rightsId": "5b515f8b777c4d188ceeb50240663d54",
+        "transactLevel": "1",
+        "unifyId": "fPyRqx54QNKavrilv726eg",
+        "unifyName": "机动车登记",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109143005",
+        "rightsId": "4ee641b34a4f42b99da9b128f0007443",
+        "transactLevel": "0",
+        "unifyId": "o4aBbF3xTpipvtJbZanJPw",
+        "unifyName": "免检车申领检验合格标志",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109143005",
+        "rightsId": "4ee641b34a4f42b99da9b128f0007443",
+        "transactLevel": "0",
+        "unifyId": "C7c_r_IYRl6S3pAwOXtlcw",
+        "unifyName": "补领机动车检验合格标志",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109144002",
+        "rightsId": "f18a499974e4437d8afa3aa39d74ced5",
+        "transactLevel": "0",
+        "unifyId": "oiZIQf_dSsqsrXBnDtRhig",
+        "unifyName": "非机动车登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000110001000",
+        "rightsId": "8794B3AA86019492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "56d3511dddb140c78b32d7091e18a6bb",
+        "unifyName": "涉及国家安全事项的建设项目许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112001000",
+        "rightsId": "8794B3AA861F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6cfe7a5a40ff4a6fb5699157ce19979b",
+        "unifyName": "律师事务所变更住所备案",
+        "ywCode": "12"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112001000",
+        "rightsId": "8794B3AA861F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9dd2cdd718544128ae8990cab4108800",
+        "unifyName": "省内增加派驻律师",
+        "ywCode": "15"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112001000",
+        "rightsId": "8794B3AA861F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6510b99ba2a840e39c88280053a49dde",
+        "unifyName": "律师事务所执业证书注销",
+        "ywCode": "17"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112001000",
+        "rightsId": "8794B3AA861F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2ce61ec0758147509ce65aa55fd62be2",
+        "unifyName": "省内撤回派驻律师",
+        "ywCode": "19"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112001000",
+        "rightsId": "8794B3AA861F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a860ac6432c84a4180b95a430c975050",
+        "unifyName": "被省外总所增加派驻律师",
+        "ywCode": "20"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112001000",
+        "rightsId": "8794B3AA861F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5e9ef50aef8946c19afb8fb93b8d183f",
+        "unifyName": "被省外总所撤回派驻律师",
+        "ywCode": "21"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112001000",
+        "rightsId": "8794B3AA861F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "81feeafd22f5422e92eee3018036f9b8",
+        "unifyName": "设立律师事务所分所",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112005000",
+        "rightsId": "8794B3AA86239492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "95e1a9ce1b4748409a3c40265c2a345e",
+        "unifyName": "外国律师事务所设立驻华代表机构核准（初审）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112005000",
+        "rightsId": "8794B3AA86239492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "336d36e7336745f6bcd527f317b81e59",
+        "unifyName": "外国律师事务所驻华代表机构变更名称核准（初审）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112005000",
+        "rightsId": "8794B3AA86239492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8be1c5537c834c1e8dea40b00b9fa85e",
+        "unifyName": "外国律师事务所驻华代表机构执业证书注销核准（初审）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112006000",
+        "rightsId": "8794B3AA86249492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "41c93752d5434db3a712258b9c3de9b8",
+        "unifyName": "外国律师事务所驻华代表机构派驻代表执业核准（初审）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112006000",
+        "rightsId": "8794B3AA86249492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "211b8737d9e445208ccf5bf469063bd4",
+        "unifyName": "外国律师事务所驻华代表机构变更派驻代表核准（初审）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112006000",
+        "rightsId": "8794B3AA86249492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6c6f077a317b40aea819099e26c2d228",
+        "unifyName": "外国律师事务所驻华代表机构派驻代表执业证书注销核准（初审）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112007000",
+        "rightsId": "8794B3AA86259492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7b3afbcb67c645c5b97fb80c05fe8ba1",
+        "unifyName": "香港永久性居民中的中国居民申请在内地从事律师职业核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112007000",
+        "rightsId": "8794B3AA86259492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b8445ba3c82f4596b435badc94025248",
+        "unifyName": "澳门永久性居民中的中国居民申请在内地从事律师职业核准",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112008000",
+        "rightsId": "8794B3AA86269492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0060a720944f422db0b1b40235e7cbe2",
+        "unifyName": "台湾居民申请在大陆从事律师职业许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112009000",
+        "rightsId": "8794B3AA86279492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7974ccb1ec74496bb0cb16c39c6cab61",
+        "unifyName": "香港、澳门律师事务所与内地律师事务所非合伙型联营核准",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112013000",
+        "rightsId": "8794B3AA862B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "08ae1d585b2945bab0572f566cc371df",
+        "unifyName": "司法鉴定机构延续登记",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112013000",
+        "rightsId": "8794B3AA862B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cde3f0b871334d4daa449d9f47330bf8",
+        "unifyName": "司法鉴定机构变更负责人",
+        "ywCode": "08"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000113003000",
+        "rightsId": "8794B3AA86319492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1158dbeedf93403b831d44d4805d9878",
+        "unifyName": "中介机构从事代理记账业务审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000115001000",
+        "rightsId": "8794B3AA864D9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "9305064a799146a59e279085157b4eef",
+        "unifyName": "国有建设用地使用权出让后土地使用权分割转让批准（设区的市级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000115001000",
+        "rightsId": "8794B3AA864D9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "rxnjryDaQH-ZGBYpSSIF0A",
+        "unifyName": "国有建设用地使用权出让后土地使用权分割转让批准（县级权限）",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115012000",
+        "rightsId": "8794B3AA865B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Ol502tPsS4WYautfIr8fOg",
+        "unifyName": "建设项目用地预审与选址意见书注销（县级权限）",
+        "ywCode": "10"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115012000",
+        "rightsId": "8794B3AA865B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "foXLwBH0Rhibvs7b-su87A",
+        "unifyName": "建设项目用地预审与选址意见书办理（省级权限）",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115012000",
+        "rightsId": "8794B3AA865B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Jve3n20mSUKCu0FpYO3D8Q",
+        "unifyName": "建设项目用地预审与选址意见书变更（省级权限）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115012000",
+        "rightsId": "8794B3AA865B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "YdjlnuKYQ2C1lglN429THA",
+        "unifyName": "建设项目用地预审与选址意见书注销（省级权限）",
+        "ywCode": "04"
+      },
+      {
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115012000",
+        "rightsId": "8794B3AA865B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "qu9mvyuiQFK_HJTNHi4XIA",
+        "unifyName": "建设项目用地预审与选址意见书办理（设区的市级权限）",
+        "ywCode": "05"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 616,
+    "totalPage": 13
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

@@ -1,0 +1,514 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000106001000",
+        "rightsId": "8794B3AA85929492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "610803c15043438fbb06ad5555147199",
+        "unifyName": "实验动物生产许可证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107002000",
+        "rightsId": "8794B3AA85989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "vbZVhPrTRsW80gffLr-SHQ",
+        "unifyName": "第二、三类监控化学品和第四类监控化学品中含磷、硫、氟的特定有机化学品生产特别许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107003000",
+        "rightsId": "8794B3AA85999492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5b3c9bd18c0e404faa8d3066c753a2e6",
+        "unifyName": "第二类监控化学品经营许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107004000",
+        "rightsId": "8794B3AA859A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f4a8d3d24f424a8585cc1d371d857513",
+        "unifyName": "第二类监控化学品使用许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107005000",
+        "rightsId": "8794B3AA859B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "dd7a899d4ff047208ac1c2026807588e",
+        "unifyName": "改变第二类监控化学品使用目的许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107006000",
+        "rightsId": "8794B3AA859C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "520ad3c52c2247af938b90ada17c5961",
+        "unifyName": "变质或者过期失效的监控化学品处理方案批准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107010000",
+        "rightsId": "8794B3AA85A09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "be6737496b9e4369b449b392c3e68025",
+        "unifyName": "食盐定点生产企业证书核发换发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107010000",
+        "rightsId": "8794B3AA85A09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8b94f035e5614892af0f0968f7460e36",
+        "unifyName": "食盐定点生产企业证书补发",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107010000",
+        "rightsId": "8794B3AA85A09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ed42a139bf244799863efb0c8c2c4866",
+        "unifyName": "食盐定点生产企业证书注销",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107011000",
+        "rightsId": "8794B3AA85A19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "30fa36b1bd4640cd911795cb87773007",
+        "unifyName": "食盐定点批发企业证书核发换发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107011000",
+        "rightsId": "8794B3AA85A19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "170009ccfdd842a592cf5dbf2f742aea",
+        "unifyName": "食盐定点批发企业证书变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107011000",
+        "rightsId": "8794B3AA85A19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4368f2baf09443bfaf23c157c868446d",
+        "unifyName": "食盐定点批发企业证书补发",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107011000",
+        "rightsId": "8794B3AA85A19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1b08dc19d6684626a9409d91a873fa08",
+        "unifyName": "食盐定点批发企业证书注销",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000107043000",
+        "rightsId": "3987b90b21ad4539b397c910751b5b70",
+        "transactLevel": "0",
+        "unifyId": "PuyogVuzSbGwpqxvIhU3CA",
+        "unifyName": "新建、扩建或者改建用于生产第二、三类监控化学品和第四类监控化学品中含磷、硫、氟的特定有机化学品的设施建设初审",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109118000",
+        "rightsId": "9379a6a7eb96432b9eb2a9f517d225c5",
+        "transactLevel": "0",
+        "unifyId": "5748a833b38d4eafa187f00acae8439a",
+        "unifyName": "民用爆炸物品购买许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109122001",
+        "rightsId": "d7f37f7dd0f14d5dbfad5fb477864c2b",
+        "transactLevel": "0",
+        "unifyId": "Y1NrdIcJSaGekIRJBflWsA",
+        "unifyName": "举办Ⅱ级（含）以上大型焰火燃放活动许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109122002",
+        "rightsId": "59fd80af7ac4487ca454cc694ebe5b60",
+        "transactLevel": "0",
+        "unifyId": "fHnRk0kASQGoYXhBC1LUTQ",
+        "unifyName": "举办Ⅲ级（含）以下大型焰火燃放活动许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109123003",
+        "rightsId": "31b4d4b6505942e0a968c09eb769e5e2",
+        "transactLevel": "1",
+        "unifyId": "EBo1a-kGT7KzTXn0yAROLg",
+        "unifyName": "通过道路运输其他放射性物品许可（省级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109124000",
+        "rightsId": "e92901cadfd0465c92486b9da8915d0e",
+        "transactLevel": "0",
+        "unifyId": "_yiO7S-cQouToluUwg9rcw",
+        "unifyName": "烟花爆竹道路运输许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000114006001",
+        "rightsId": "8794B3AA86409492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b476af8ebf8647a1b8ce656b51db93a9",
+        "unifyName": "人力资源服务机构许可审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015001",
+        "rightsId": "8794B3AA865F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2Y-0EiryTlGWdWHjRhbfPg",
+        "unifyName": "地质灾害评估和治理工程勘查设计甲级资质新立申请审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015001",
+        "rightsId": "8794B3AA865F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a9c429b9c6e7462dba008568e5c3d58e",
+        "unifyName": "地质灾害评估和治理工程勘查设计甲级资质延续申请审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015001",
+        "rightsId": "8794B3AA865F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ace6ff9ddd89460eb4eaf06ad3d309e4",
+        "unifyName": "地质灾害评估和治理工程勘查设计甲级资质变更申请审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015001",
+        "rightsId": "8794B3AA865F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cd38d7cf7ee94d3a95a5f3dd5331781a",
+        "unifyName": "地质灾害评估和治理工程勘查设计甲级资质注销申请审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015001",
+        "rightsId": "8794B3AA865F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Ni8nh4O_ReO2I0WIeCmu0w",
+        "unifyName": "地质灾害评估和治理工程勘查设计甲级资质遗失补证申请审批",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015002",
+        "rightsId": "8794B3AA86609492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ea01f31d9bb041a28525ef28ccb035fb",
+        "unifyName": "地质灾害治理工程施工甲级资质新立申请审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015002",
+        "rightsId": "8794B3AA86609492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1dcd18b1f4474bb1942fa15823e1bc51",
+        "unifyName": "地质灾害治理工程施工甲级资质延续申请审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015002",
+        "rightsId": "8794B3AA86609492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "516a2a5971d44ae399159fcfeed563b9",
+        "unifyName": "地质灾害治理工程施工甲级资质变更申请审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015002",
+        "rightsId": "8794B3AA86609492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "99f2e087a35847529b6e2674bb5b838a",
+        "unifyName": "地质灾害治理工程施工甲级资质注销申请审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015002",
+        "rightsId": "8794B3AA86609492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "aa63fd9193284e3a832bb05bfc9ff904",
+        "unifyName": "地质灾害治理工程施工甲级资质遗失补证申请审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015003",
+        "rightsId": "8794B3AA86619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "186b3fb0c6ca47efb91a5d243912e8f4",
+        "unifyName": "地质灾害治理工程监理甲级资质新立申请审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015003",
+        "rightsId": "8794B3AA86619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7056bd2379b54c0a9a797de3c85a6558",
+        "unifyName": "地质灾害治理工程监理甲级资质延续申请审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015003",
+        "rightsId": "8794B3AA86619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "32f765c8ba9a4a52981528a748ce6f94",
+        "unifyName": "地质灾害治理工程监理甲级资质变更申请审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015003",
+        "rightsId": "8794B3AA86619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6db226d05c3345bc953fea707ad59a1a",
+        "unifyName": "地质灾害治理工程监理甲级资质注销申请审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015003",
+        "rightsId": "8794B3AA86619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ab39a1443495424b8350c26f01819718",
+        "unifyName": "地质灾害治理工程监理甲级资质遗失补证申请审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015004",
+        "rightsId": "8794B3AA86629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5e3b82c44f054c5692d163c2806163be",
+        "unifyName": "地质灾害评估和治理工程勘查设计乙级资质新立申请审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015004",
+        "rightsId": "8794B3AA86629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b8a1d9997ed04d37a626a70e14c60de7",
+        "unifyName": "地质灾害评估和治理工程勘查设计乙级资质延续申请审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015004",
+        "rightsId": "8794B3AA86629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "38508c7a01954897ad3d2bc06eea735d",
+        "unifyName": "地质灾害评估和治理工程勘查设计乙级资质变更申请审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015004",
+        "rightsId": "8794B3AA86629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ce3a6ababf964f0ab84fdc2706faea3a",
+        "unifyName": "地质灾害评估和治理工程勘查设计乙级资质注销申请审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015004",
+        "rightsId": "8794B3AA86629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fde8b53b85d149bc8d80fe57857ede36",
+        "unifyName": "地质灾害评估和治理工程勘查设计乙级资质遗失补证申请审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015005",
+        "rightsId": "8794B3AA86639492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ea2c3ab2bfb64aa29bbc76b5a537606f",
+        "unifyName": "地质灾害治理工程施工乙级资质新立申请审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015005",
+        "rightsId": "8794B3AA86639492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0ca7a35dbeba4f10941263226fbe4885",
+        "unifyName": "地质灾害治理工程施工乙级资质延续申请审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015005",
+        "rightsId": "8794B3AA86639492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6fbbc22ff6554140b84c243456f6bd24",
+        "unifyName": "地质灾害治理工程施工乙级资质变更申请审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015005",
+        "rightsId": "8794B3AA86639492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4c21a72ae4b04aca97589530e6cc4ae6",
+        "unifyName": "地质灾害治理工程施工乙级资质注销申请审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015005",
+        "rightsId": "8794B3AA86639492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "76dcecda0f2744d0ae0579d993394cc2",
+        "unifyName": "地质灾害治理工程施工乙级资质遗失补证申请审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015006",
+        "rightsId": "1caff4c9e4ee4e80ac6ea6f8242cf064",
+        "transactLevel": "0",
+        "unifyId": "65613f21aa8b4ad9b4bf358ee1b29669",
+        "unifyName": "地质灾害治理工程监理乙级资质新立申请审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015006",
+        "rightsId": "1caff4c9e4ee4e80ac6ea6f8242cf064",
+        "transactLevel": "0",
+        "unifyId": "1083a680bfbb4546ac78775d2e88fa7c",
+        "unifyName": "地质灾害治理工程监理乙级资质延续申请审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015006",
+        "rightsId": "1caff4c9e4ee4e80ac6ea6f8242cf064",
+        "transactLevel": "0",
+        "unifyId": "6c85f0ca438c4ba799af3ea51d49dcfe",
+        "unifyName": "地质灾害治理工程监理乙级资质变更申请审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015006",
+        "rightsId": "1caff4c9e4ee4e80ac6ea6f8242cf064",
+        "transactLevel": "0",
+        "unifyId": "e9574355bb8c44fdbccaa451873479c5",
+        "unifyName": "地质灾害治理工程监理乙级资质注销申请审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015006",
+        "rightsId": "1caff4c9e4ee4e80ac6ea6f8242cf064",
+        "transactLevel": "0",
+        "unifyId": "aa3ee7b1f0114b3c98805881da89b0be",
+        "unifyName": "地质灾害治理工程监理乙级资质遗失补证申请审批",
+        "ywCode": "06"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 352,
+    "totalPage": 8
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

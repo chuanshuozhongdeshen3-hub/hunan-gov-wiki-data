@@ -1,0 +1,516 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002015001000",
+        "rightsId": "8f2e72cdcd3c406b85faf31dee24c141",
+        "transactLevel": "0",
+        "unifyId": "rFxWBGJGSL-ueGpWW46HOw",
+        "unifyName": "测绘成果目录汇交",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002015002000",
+        "rightsId": "222625ebc6f241d49a6d882c4d220c87",
+        "transactLevel": "0",
+        "unifyId": "JOKLLoRMTcSgQdVR6YZdQQ",
+        "unifyName": "属地办理的不动产登记资料查询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002016003000",
+        "rightsId": "a4023e3615304080a75285fbb4f0f72e",
+        "transactLevel": "0",
+        "unifyId": "YCQSoS-BQZyRCZUTo8UvLg",
+        "unifyName": "放射性同位素异地使用备案（移入）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002016003000",
+        "rightsId": "a4023e3615304080a75285fbb4f0f72e",
+        "transactLevel": "0",
+        "unifyId": "-B7_GwxuTTOC4w6tP4Nv-Q",
+        "unifyName": "放射性同位素异地使用备案（移出）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002016004000",
+        "rightsId": "f073c0b5c8464102b3771af63a2de6d7",
+        "transactLevel": "0",
+        "unifyId": "58797b314d9346f09fc2d0e74abe2bc2",
+        "unifyName": "废旧放射源回收（收贮）备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030003000",
+        "rightsId": "4635739cfc724af0a042dc57ab3420ce",
+        "transactLevel": "0",
+        "unifyId": "1fc4c45d7fa74396bc55a01db712871d",
+        "unifyName": "扣缴义务人报告自然人身份信息",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030004000",
+        "rightsId": "b8c593c2ab824c9d80f19f51c4622612",
+        "transactLevel": "0",
+        "unifyId": "938ff588ce1448d1a3474216db8fbf0b",
+        "unifyName": "解除相关人员关联关系",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030006000",
+        "rightsId": "87962ef9b49b4d2abff0f680ce1c36df",
+        "transactLevel": "0",
+        "unifyId": "59f7480ca4af47c4b41424a51e75bf19",
+        "unifyName": "存款账户账号报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030007000",
+        "rightsId": "6e0bf1acbc14476c8ae73709c468069a",
+        "transactLevel": "0",
+        "unifyId": "0da481707ad34d9791f299fdbddc6ac3",
+        "unifyName": "财务会计制度及核算软件备案报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030008000",
+        "rightsId": "df2675e7d1cd468e8c0e2811dd9f8d3a",
+        "transactLevel": "0",
+        "unifyId": "a0df7b2651da4b41847c2dab372af014",
+        "unifyName": "银税三方（委托）划缴协议",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030009000",
+        "rightsId": "a2e90e630a4849a481168df8e28a45a1",
+        "transactLevel": "0",
+        "unifyId": "ac8774bb2d92443787e7b411228fad3b",
+        "unifyName": "选择按小规模纳税人纳税的情况说明",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030010000",
+        "rightsId": "260c04fb37754689b077ae938469bf42",
+        "transactLevel": "0",
+        "unifyId": "8b4854ff59ee4c06bcb032279e04cc61",
+        "unifyName": "软件和集成电路产业企业所得税优惠事项资料报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030011000",
+        "rightsId": "deb9d65a8e4e4b50a8bd0b05d0a1088e",
+        "transactLevel": "0",
+        "unifyId": "14090f4131ba4d4a807e6b93a2258eee",
+        "unifyName": "软件产品增值税即征即退进项分摊方式资料报送与信息报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030012000",
+        "rightsId": "50092062eedc42d78c601af1680acbb0",
+        "transactLevel": "0",
+        "unifyId": "ac0a606eeb744f67b1eae7084b92f1b7",
+        "unifyName": "欠税人处置不动产或大额资产报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030013000",
+        "rightsId": "b7622e7fbf894e94abc32554ed8ba589",
+        "transactLevel": "0",
+        "unifyId": "60d2b4f04e704aae92a887bef5a88387",
+        "unifyName": "纳税人合并分立情况报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030014000",
+        "rightsId": "a6fe3e8cd767405fa6bb038809519a77",
+        "transactLevel": "0",
+        "unifyId": "775b6a18369941a39cf671b099e1cdb5",
+        "unifyName": "个人所得税递延纳税报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030015000",
+        "rightsId": "b9f65830d32643c3a7b6491468eb15e5",
+        "transactLevel": "0",
+        "unifyId": "0ade04724a0645f18d3be1d68b06c9f4",
+        "unifyName": "科技成果转化暂不征收个人所得税备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030016000",
+        "rightsId": "ce279683fb544bf89654748873dff7d3",
+        "transactLevel": "0",
+        "unifyId": "88e996134176492985d08404e204d93b",
+        "unifyName": "个人所得税分期缴纳报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030017000",
+        "rightsId": "6fa749d53f5d430eb675b76646140f5b",
+        "transactLevel": "0",
+        "unifyId": "c59875ceef9545e4a86e1e1f3f9cddea",
+        "unifyName": "个人所得税抵扣情况报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030018000",
+        "rightsId": "8004773c5e53403da5bbe834bc73fc07",
+        "transactLevel": "0",
+        "unifyId": "7b313c1adf0a4d7ab6758a0843b9f89b",
+        "unifyName": "合伙制创业投资企业单一投资基金核算方式报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030025000",
+        "rightsId": "bf362ecc9a174de3b9b41d3a886e8a7c",
+        "transactLevel": "0",
+        "unifyId": "efbf81b6cf1b47f891813c9403a32999",
+        "unifyName": "税收统计调查数据采集",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030027000",
+        "rightsId": "c56747aa32034dd2bae040cc71f382a4",
+        "transactLevel": "0",
+        "unifyId": "22ac5aa133554512a87c12754ccee198",
+        "unifyName": "增值税税控系统专用设备变更发行",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "002030028000",
+        "rightsId": "ac507274a99b43f4a102b47f079a01b6",
+        "transactLevel": "1",
+        "unifyId": "bc5423d59ffb46dabd817dc860909239",
+        "unifyName": "增值税税控系统专用设备注销发行",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030030000",
+        "rightsId": "341ec842d9c9476db827b47bc6fadebe",
+        "transactLevel": "0",
+        "unifyId": "13cedcb0f44843c193c373a5d4baed2f",
+        "unifyName": "红字增值税专用发票开具申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030031000",
+        "rightsId": "919ad7048f70465fb461cd0316a17716",
+        "transactLevel": "0",
+        "unifyId": "d47f7448150e467095782992480246b0",
+        "unifyName": "发票遗失、损毁报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030032000",
+        "rightsId": "d44912eceea0429bb46ac0fc30420421",
+        "transactLevel": "0",
+        "unifyId": "e59f82bf4d464eb7adfd1bbab4cae0e0",
+        "unifyName": "临时开票权限办理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030033000",
+        "rightsId": "92d0ee9bef7943f5b7b8c228a3cd9e37",
+        "transactLevel": "0",
+        "unifyId": "9051843ee00d48a0877ef9aa1c05d951",
+        "unifyName": "财务会计报告报送",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030034000",
+        "rightsId": "4cca8fe33c824deabc9c1bfad18d6c73",
+        "transactLevel": "0",
+        "unifyId": "7ae1b9bfed1545fb9f7369ea40c0e2b0",
+        "unifyName": "申报错误更正",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030035000",
+        "rightsId": "216702fbfeea41d3b8325e416f0b30ed",
+        "transactLevel": "0",
+        "unifyId": "e1d0734c71fd4a24b799104b5b6413da",
+        "unifyName": "开具税收完税证明",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030037000",
+        "rightsId": "cd39b72048e040f3b04a5c2bddaa2d3e",
+        "transactLevel": "0",
+        "unifyId": "ad551de32f25487590bd2d2b53df9f7e",
+        "unifyName": "转开印花税票销售凭证",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030038000",
+        "rightsId": "6906d69f063c4398ad5d6cd951901c17",
+        "transactLevel": "0",
+        "unifyId": "56f2404a191a4da79908a0d04f91f820",
+        "unifyName": "境内机构和个人发包工程作业或劳务项目备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030039000",
+        "rightsId": "adc49205eb104101bdbc55bba8a3ba48",
+        "transactLevel": "0",
+        "unifyId": "7b3f7fbd6e034ffa956870f47d1a3975",
+        "unifyName": "服务贸易等项目对外支付税务备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030040000",
+        "rightsId": "74536bf690984842b07f0d2147e395c7",
+        "transactLevel": "0",
+        "unifyId": "3df8d7cb2bc3433ba295e38ad52fd9a8",
+        "unifyName": "同期资料报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030041000",
+        "rightsId": "06bbd92695f64ff3b25d05a85df90c59",
+        "transactLevel": "0",
+        "unifyId": "085a69a6e1124c3aae4b513fbc32b4f2",
+        "unifyName": "非居民企业间接转让财产事项报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030042000",
+        "rightsId": "74a8c460a63643a9b8b1678303ec8a5b",
+        "transactLevel": "0",
+        "unifyId": "2358db03c17d4cfab8e02a561702af64",
+        "unifyName": "非居民企业股权转让适用特殊性税务处理的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030043000",
+        "rightsId": "d9b4c8b992dd4556bd3f2febe9969050",
+        "transactLevel": "0",
+        "unifyId": "7f00d9a6d5d2432694cf40422208816e",
+        "unifyName": "中国居民（国民）申请启动税务相互协商程序",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030046000",
+        "rightsId": "5222d527df5848d9867eb95b64c79295",
+        "transactLevel": "0",
+        "unifyId": "842dca4744014674b7de6e9069a636fd",
+        "unifyName": "面对面咨询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030047000",
+        "rightsId": "69e076e5ae21426eba82e8022ed71e60",
+        "transactLevel": "0",
+        "unifyId": "83e3be2925444e908e2fd67851cb5ec5",
+        "unifyName": "社会公众涉税公开信息查询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030048000",
+        "rightsId": "1acff15501e5436d8f4097a0c1e32162",
+        "transactLevel": "0",
+        "unifyId": "eaa050fb9b7f4288baacaa4dc4082f5d",
+        "unifyName": "纳税人涉税信息查询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "002030049000",
+        "rightsId": "7f9283bd4326455cbd0a2790eb52730f",
+        "transactLevel": "1",
+        "unifyId": "ab6b8273272344e48f05fae6656052f2",
+        "unifyName": "第三方涉税保密信息查询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030051000",
+        "rightsId": "3ed1b3ea3b46429a90d9de6ebf358ab7",
+        "transactLevel": "0",
+        "unifyId": "27483aa27bde4b189b04b00a2f20469b",
+        "unifyName": "涉税专业服务机构（人员）信用信息查询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030052000",
+        "rightsId": "c49b87f60dcf40fb9de6f83b2050ac32",
+        "transactLevel": "0",
+        "unifyId": "b5210f078d204f8cb1f3f80a132b912b",
+        "unifyName": "发票领用",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030053000",
+        "rightsId": "468563e9a50e406c9c11a97ee9add596",
+        "transactLevel": "1",
+        "unifyId": "39d42d12bbf3407fa593dbf689b59f52",
+        "unifyName": "发票缴销",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030054000",
+        "rightsId": "c5fb9e54328940a3a2e4fd821ed01399",
+        "transactLevel": "0",
+        "unifyId": "75e7252d977f41deb70d1c8fa5c09c68",
+        "unifyName": "发票验（交）旧",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030055000",
+        "rightsId": "b3c090733ac441cd97a5e0cb9606344d",
+        "transactLevel": "0",
+        "unifyId": "0ca02bfd7411486a9aacea0c874f4fb2",
+        "unifyName": "开具无欠税证明",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002072022000",
+        "rightsId": "8794B3AA93A59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "53e31a49cdc24f3ebdafe4728014b06a",
+        "unifyName": "进口普通化妆品备案",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002072040000",
+        "rightsId": "1cdbdd2d43ba43cd9b4043eeb1e87482",
+        "transactLevel": "0",
+        "unifyId": "b8fe58d8f010457b923b13f635cc7953",
+        "unifyName": "对“药品销售证明书”的出具",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002072041001",
+        "rightsId": "5347848752cf459197a2eab74bb80406",
+        "transactLevel": "0",
+        "unifyId": "pEmfytH_QcWe8CkLcKC95A",
+        "unifyName": "不涉及技术内容的国产药品变更备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002072042001",
+        "rightsId": "3e67b2db6c314553b3cb63fc295844b6",
+        "transactLevel": "0",
+        "unifyId": "Y6Qcd8DdRFKy_jMldeS33A",
+        "unifyName": "进口普通化妆品首次备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002072042002",
+        "rightsId": "ca90430e63c74936ad51eacec5c0670d",
+        "transactLevel": "0",
+        "unifyId": "qKU7qqcYR9aob8-G7mvkeg",
+        "unifyName": "进口普通化妆品变更",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 40,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

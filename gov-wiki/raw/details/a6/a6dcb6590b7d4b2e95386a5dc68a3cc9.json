@@ -1,0 +1,148 @@
+{
+  "code": 0,
+  "data": {
+    "acceptanceCondition": "1.由车主本人确认申请信息；2.属于单位用户的，应开通“交管12123”APP单位用户版，由单位授权的账号使用人确认申请信息；3.用户机动车存在转出、被盗抢、注销、嫌疑车、扣留、达到报废标准、达到报废标准公告牌证作废、事故逃逸、锁定等情形之一的，公安机关交通管理部门不予受理。",
+    "according": "《机动车登记规定》（中华人民共和国公安部令〔2012〕第124号）第四十三条  机动车登记证书灭失、丢失或者损毁的，机动车所有人应当向登记地车辆管理所申请补领、换领。申请时，机动车所有人应当填写申请表并提交身份证明，属于补领机动车登记证书的，还应当交验机动车。车辆管理所应当自受理之日起一日内，确认机动车，审查提交的证明、凭证，补发、换发机动车登记证书。 启用机动车登记证书前已注册登记的机动车未申领机动车登记证书的，机动车所有人可以向登记地车辆管理所申领机动车登记证书。但属于机动车所有人申请变更、转移或者抵押登记的，应当在申请前向车辆管理所申领机动车登记证书。申请时，机动车所有人应当填写申请表，交验机动车并提交身份证明。车辆管理所应当自受理之日起五日内，确认机动车，核对车辆识别代号拓印膜，审查提交的证明、凭证，核发机动车登记证书。",
+    "applicantDuty": "应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。",
+    "applicantPower": "依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。",
+    "approveLimit": "1",
+    "approveLimitExplain": "依据《机动车登记规定》",
+    "blbm": "市、县级公安部门",
+    "chargeList": [
+      {
+        "chargeBylaw": "《关于发布湖南省公安系统行政事业性收费标准的通知》（湘发改价费规[2021]226号）。",
+        "chargeId": "3b2cb780352f41ef9c18c6c0065d02e3",
+        "createDate": 1626768792000,
+        "feename": "机动车登记证书工本费",
+        "feestand": "每本10元",
+        "isDelete": "N",
+        "isMinus": "否",
+        "orderNum": 1.0,
+        "unifyId": "a6dcb6590b7d4b2e95386a5dc68a3cc9",
+        "updateDate": 1761873651000
+      }
+    ],
+    "commitmentLimit": "1",
+    "commitmentLimitExplain": "依据《机动车登记规定》",
+    "deptName": "公安部门",
+    "doScope": "全国",
+    "faqList": [
+      {
+        "createDate": 1626768493000,
+        "faqContent": "网上申请办理换领机动车登记证书业务审核不通过的原因是什么？",
+        "faqId": "7f56bf0191824a16b668241b5ceb28e2",
+        "isDelete": "N",
+        "isSzyy": "Y",
+        "orderNum": 1.0,
+        "replyContent": "存在几种情形，一是申请人应去人身份证明在有效期内且信息未发生变化，二是机动车处于抵押状态",
+        "unifyId": "a6dcb6590b7d4b2e95386a5dc68a3cc9",
+        "updateDate": 1763607825000
+      }
+    ],
+    "isCharge": "是",
+    "isEnterpriseCommitment": "否",
+    "isIntermediaryServices": "无",
+    "isProveCommitment": "否",
+    "isSpecialProcedure": "否",
+    "isonline": "是",
+    "lctList": [
+      {
+        "approveCode": "a6dcb6590b7d4b2e95386a5dc68a3cc9",
+        "approveId": "a6dcb6590b7d4b2e95386a5dc68a3cc9",
+        "bucketName": "zwfw202510",
+        "createTime": 1760774364000,
+        "flowc": "approve/2025-10-18-15/1760774364263$$流程图.jpg",
+        "id": "416B3A84288F32A4E063681515AC55D2",
+        "isDelete": "0",
+        "isExchange": "N",
+        "operateFlag": "N",
+        "updateTime": 1760774364000
+      }
+    ],
+    "materialList": [
+      {
+        "acceptStandard": "符合法律条件",
+        "attachList": [
+          {
+            "attachCode": "000003",
+            "attachId": "11a0a0acd4f4444f9da561dcdd17fc5b",
+            "attachName": "居民身份证.pdf",
+            "attachPath": "approve/2022-11-18-16/1668759664514$$居民身份证.pdf",
+            "attachSize": 43141.0,
+            "attachType": ".pdf",
+            "bucketName": "zwfw202211",
+            "businessId": "6ae809961c1a4211b45806b58ed1de97",
+            "createTime": 1668759664000,
+            "isDel": "N",
+            "isDelete": "0",
+            "isExchange": "N",
+            "isValid": "Y",
+            "modFlag": "N",
+            "operateFlag": "N",
+            "pdfPath": "N"
+          }
+        ],
+        "bylaw": "机动车登记规定》（公安部令第164号）第五十二条  机动车登记证书损毁的，机动车所有人应当向登记地所在地车管所申请换领。申请时，机动车所有人应当确认申请信息并提交身份证明。",
+        "commitWay": "网上现场都可提交",
+        "copiesNum": 1.0,
+        "createDate": 1626768647000,
+        "freeSubmission": "电子证照代替",
+        "isDelete": "N",
+        "isMust": "必要",
+        "materialApproveType": "证照",
+        "materialCode": "M431009045W000201",
+        "materialExplain": "真实、合法、有效",
+        "materialId": "6ae809961c1a4211b45806b58ed1de97",
+        "materialStandard": "纸质或电子",
+        "materialTitle": "中华人民共和国居民身份证",
+        "materialType": "原件",
+        "pageformat": "公安部制定的统一标准",
+        "sourceChannel": "政府部门核发",
+        "sourceexplain": "公安部门核发",
+        "standardMaterialsCode": "L2000016",
+        "standardMaterialsId": "4DED822B3D6AE634153EEB",
+        "standardMaterialsName": "中华人民共和国居民身份证",
+        "standardMaterialsSource": "运维管理",
+        "unifyId": "a6dcb6590b7d4b2e95386a5dc68a3cc9",
+        "updateDate": 1763607893000
+      }
+    ],
+    "minExplain": "四级标准说明：该事项已经实现全程网办，申请人可以通过网络提交和补正相关申请信息和材料，提交的材料全部为已验证信息，受理通过后直接进入办理程序，申请人可网上查询办理状态、咨询问题，作出审批决定后，申请人可以通过网上缴费后物流递送证书结果。整个办事过程无需到现场办理。",
+    "minSeq": "0",
+    "orgId": "9def3f565034406981bf70f2169e28ef",
+    "orgName": "湖南省公安厅",
+    "processDescript": "1、申请人向受理机关提出申请。\n2、受理机关审核。\n3、不符合要求的，一次性告知理由。予以退办，符合规定的，业务办结。",
+    "quantitativeRestriction": "暂无数量限制",
+    "resultList": [
+      {
+        "approveCode": "a6dcb6590b7d4b2e95386a5dc68a3cc9",
+        "approveId": "a6dcb6590b7d4b2e95386a5dc68a3cc9",
+        "bucketName": "zwfw202107",
+        "createTime": 1626768405000,
+        "extend": "jpg",
+        "fileName": "机动车登记证书.jpg",
+        "id": "77db05fed52d430eae28f1a672afa8c6",
+        "isDelete": "0",
+        "isExchange": "Y",
+        "isNeed": "N",
+        "operateFlag": "N",
+        "resultChart": "approve/2021-07-20-16/1626768405817$$机动车登记证书.jpg",
+        "resultSampleName": "机动车登记证书"
+      }
+    ],
+    "resultSampleName": "机动车登记证书",
+    "rightsCode": "431009045W00",
+    "rightsId": "2M_1J00mSDWVz69BhbqkZA",
+    "schemeLevels": "市、县",
+    "serveObject": "个人/法人",
+    "transactLevel": "四级标准",
+    "transactionFrom": "窗口办理^网上办理",
+    "typeName": "其他行政权力",
+    "unifyId": "a6dcb6590b7d4b2e95386a5dc68a3cc9",
+    "unifyName": "换领机动车登记证书",
+    "ywCode": "02"
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

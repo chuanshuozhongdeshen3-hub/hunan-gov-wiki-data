@@ -1,0 +1,164 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431023129W00",
+        "rightsId": "6hDdtoUeSEaNxppIU1vovA",
+        "transactLevel": "0",
+        "unifyId": "95a56982c43d4eb2ad1da86189fc51f4",
+        "unifyName": "抗菌药物备案申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431023130W00",
+        "rightsId": "imaREmH0SfuBy870x5-Q7A",
+        "transactLevel": "0",
+        "unifyId": "ac2a3ddd439b4c03ab2830498b404c0f",
+        "unifyName": "静脉输注核准申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431023133W00",
+        "rightsId": "Nf70ZzJ1TgSjx9udfKJJbg",
+        "transactLevel": "0",
+        "unifyId": "TzuRAFr7QyyWPMusdbKdpw",
+        "unifyName": "与人体健康有关的一、二级病原微生物实验室备案新发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431023133W00",
+        "rightsId": "Nf70ZzJ1TgSjx9udfKJJbg",
+        "transactLevel": "0",
+        "unifyId": "mMuPmnQDQeCZmOT4zin51w",
+        "unifyName": "与人体健康有关的一、二级病原微生物实验室备案核发",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431031104W00",
+        "rightsId": "lDRbFtI4SEaltfTHgB1QGw",
+        "transactLevel": "0",
+        "unifyId": "73258da9f3a14f4a81ae4b53aca746ba",
+        "unifyName": "医疗器械网络交易服务第三方平台备案注销",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431031104W00",
+        "rightsId": "lDRbFtI4SEaltfTHgB1QGw",
+        "transactLevel": "0",
+        "unifyId": "ff9f9e7587b34ecc834994c56f57f539",
+        "unifyName": "医疗器械网络交易服务第三方平台备案核发",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431031104W00",
+        "rightsId": "lDRbFtI4SEaltfTHgB1QGw",
+        "transactLevel": "0",
+        "unifyId": "b7124f6888114f5da67c193d54585361",
+        "unifyName": "医疗器械网络交易服务第三方平台备案变更",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072001W00",
+        "rightsId": "DQhy2Kn4T7e8lQslaHOwPQ",
+        "transactLevel": "0",
+        "unifyId": "be1fe35f9cdd402fb53f2773cb810a1a",
+        "unifyName": "首次进口药材审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072033W00",
+        "rightsId": "70F599A55E9AABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "792e36b8289d49ebb6592b1c9a07d5f7",
+        "unifyName": "医疗器械临床试验备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072035W00",
+        "rightsId": "70F599A55E82ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "d4320535974040b4a8538cf5c9b0e063",
+        "unifyName": "药品进口备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072037W00",
+        "rightsId": "70F599A56120ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "e6f87fa9e54b454b9ffcb9dbce60961d",
+        "unifyName": "医疗机构应用传统工艺配制中药制剂备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072040W00",
+        "rightsId": "70F599A55946ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "60d4318a22b841a6b2eb0da9af3fecd0",
+        "unifyName": "疫苗委托配送备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072049W00",
+        "rightsId": "70F599A566BEABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "9f837d90f37e4a018ff8f283709ff135",
+        "unifyName": "第二类医疗器械说明书变更备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072055W00",
+        "rightsId": "B0aRmSa4TGuC7YQI_x7Q1w",
+        "transactLevel": "0",
+        "unifyId": "3101a18c1c914c64bf800ade534eccd1",
+        "unifyName": "医疗器械网络销售首次备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072055W00",
+        "rightsId": "B0aRmSa4TGuC7YQI_x7Q1w",
+        "transactLevel": "0",
+        "unifyId": "6fafee46eb8f4edba6f069d9a93d0661",
+        "unifyName": "医疗器械网络销售备案注销",
+        "ywCode": "03"
+      }
+    ],
+    "pageIndex": 2,
+    "pageSize": 50,
+    "total": 65,
+    "totalPage": 2
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

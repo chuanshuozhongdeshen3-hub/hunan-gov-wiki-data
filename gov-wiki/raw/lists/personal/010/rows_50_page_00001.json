@@ -1,0 +1,335 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109147002",
+        "rightsId": "e7e9370d2f4d4b81b68353514b587103",
+        "transactLevel": "0",
+        "unifyId": "CwrS2RI4SFSgtdCuxq5-iQ",
+        "unifyName": "户口迁移审批（设区的市级权限）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109147003",
+        "rightsId": "d71991996d984c1eaa46a2988a6d88cb",
+        "transactLevel": "0",
+        "unifyId": "gm6HARDfRMiwMuSPaoFRFA",
+        "unifyName": "户口迁移审批（县级权限）",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109147003",
+        "rightsId": "d71991996d984c1eaa46a2988a6d88cb",
+        "transactLevel": "0",
+        "unifyId": "3cfb79b542aa48b987fa9e8417c7049b",
+        "unifyName": "夫妻投靠户口迁移",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109147003",
+        "rightsId": "d71991996d984c1eaa46a2988a6d88cb",
+        "transactLevel": "0",
+        "unifyId": "h5cE2rxVQKOenhysnKcG6A",
+        "unifyName": "自贸区人才引进落户",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000109147003",
+        "rightsId": "d71991996d984c1eaa46a2988a6d88cb",
+        "transactLevel": "0",
+        "unifyId": "a33b09493ae74f38beae90b09b6c813b",
+        "unifyName": "变更户口婚姻状况",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709105001",
+        "rightsId": "7b304351fa244f07b849df4009a2aea7",
+        "transactLevel": "0",
+        "unifyId": "Ii9wynW_QLqzlqr9OgrLWw",
+        "unifyName": "3周岁内国内出生新生儿上户",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000709105003",
+        "rightsId": "2725edb37d2f4cd091ba26b81acb4089",
+        "transactLevel": "1",
+        "unifyId": "610xq9dNTMeD2TOgLxu8yg",
+        "unifyName": "国外、港澳台回来定居（恢复户口）及加入中国国籍落户",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00070910500Y",
+        "rightsId": "be0156152344436283e3d1074afd0ed8",
+        "transactLevel": "0",
+        "unifyId": "2fo0pKbpTZ6hP15tCwh3RA",
+        "unifyName": "户口登记（退役军人恢复户口）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709106001",
+        "rightsId": "9bfa4a5f340642919473ecb405473e66",
+        "transactLevel": "0",
+        "unifyId": "nVkHM2bwToKid3jPgTZzVw",
+        "unifyName": "死亡人员户口注销",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709106002",
+        "rightsId": "8311d244417446c4b1df7e486d30fc93",
+        "transactLevel": "0",
+        "unifyId": "Nh18Lb_AR3WLOQUk3EkrmA",
+        "unifyName": "出国境定居注销户口",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709106003",
+        "rightsId": "191cf68eebf94f43a717e826db4c90e7",
+        "transactLevel": "0",
+        "unifyId": "0jqF7y5PS6ijB6Sd3yZTRA",
+        "unifyName": "加入外国国籍并自动丧失中国国籍注销户口",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709107002",
+        "rightsId": "bbfcdac76c1d4fbab63321f79ceb0286",
+        "transactLevel": "0",
+        "unifyId": "HpbmMhFRTm-AUPCReDFFiQ",
+        "unifyName": "变更更正姓名",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000709107003",
+        "rightsId": "41f4020f0d5a4e27b4d0574cc1285f79",
+        "transactLevel": "1",
+        "unifyId": "-4Uiy9VOQda9vxVOu7LhbQ",
+        "unifyName": "变更更正性别",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000709107004",
+        "rightsId": "388a61443f8744b580bbad91b5532e8c",
+        "transactLevel": "1",
+        "unifyId": "BFiSaDomTXyYuLFqnn44hg",
+        "unifyName": "更正出生日期",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709107005",
+        "rightsId": "ef973a19e93046bfa67d8bf2cb3a1ff9",
+        "transactLevel": "0",
+        "unifyId": "SSEvStIITgao0SkIIC-WFw",
+        "unifyName": "变更更正民族",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709108003",
+        "rightsId": "da336c99720e4374b79a27f5a1896497",
+        "transactLevel": "0",
+        "unifyId": "XgbWVIvhS8uRzx_IVNI2Hg",
+        "unifyName": "变更更正其他项目",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709108004",
+        "rightsId": "9a86060153114ce4acd31a0a373eac1c",
+        "transactLevel": "0",
+        "unifyId": "3rEXq_RTTvGR1QMZl1ulCA",
+        "unifyName": "户成员关系调整",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709109001",
+        "rightsId": "a0fbbe413f084467a7dc9ebe1f5acf73",
+        "transactLevel": "0",
+        "unifyId": "sFOWCVxYQta3v4UQND5iUw",
+        "unifyName": "开具户籍类证明",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709109002",
+        "rightsId": "367239025bb2425283201a377bfda015",
+        "transactLevel": "0",
+        "unifyId": "g9-SAIyyRfusxhWKeyQZnQ",
+        "unifyName": "户口簿换补领",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430709061W00",
+        "rightsId": "Ev_QswrLSs-IyhsLpIshIA",
+        "transactLevel": "1",
+        "unifyId": "40ccaacf0d354a04bb2ff2c2d1b3a2dd",
+        "unifyName": "年满3周岁从未登记户口公民户口补登",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "430709061W00",
+        "rightsId": "Ev_QswrLSs-IyhsLpIshIA",
+        "transactLevel": "1",
+        "unifyId": "6eef20c1394d4ab39a0082fd1f5896a0",
+        "unifyName": "其他原因造成无户口的公民户口补登或恢复",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "430709061W00",
+        "rightsId": "Ev_QswrLSs-IyhsLpIshIA",
+        "transactLevel": "1",
+        "unifyId": "6a48df3bf7be44e394b5fc66c28313f6",
+        "unifyName": "公民个人依法收养的无户口人员户口补登",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "430709061W00",
+        "rightsId": "Ev_QswrLSs-IyhsLpIshIA",
+        "transactLevel": "1",
+        "unifyId": "d2f797dec55e4d24ac51b6244db7c0e1",
+        "unifyName": "儿童福利机构养育的无户口人员户口补登",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "430709061W00",
+        "rightsId": "Ev_QswrLSs-IyhsLpIshIA",
+        "transactLevel": "1",
+        "unifyId": "9df07ecbe71f4c5e98bf51d6a85bb880",
+        "unifyName": "不能依法办理收养登记或者事实收养公证的无户口人员户口补登",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "430709061W00",
+        "rightsId": "Ev_QswrLSs-IyhsLpIshIA",
+        "transactLevel": "1",
+        "unifyId": "4ea89bfad60b4936b9ae2e9858b159bc",
+        "unifyName": "被人民法院依法宣告失踪或者宣告死亡后户口被注销公民户口恢复",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "430709061W00",
+        "rightsId": "Ev_QswrLSs-IyhsLpIshIA",
+        "transactLevel": "1",
+        "unifyId": "c99d7af186784281aeb8ac8005b588cd",
+        "unifyName": "因婚嫁被注销原籍户口公民户口恢复",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "430709061W00",
+        "rightsId": "Ev_QswrLSs-IyhsLpIshIA",
+        "transactLevel": "1",
+        "unifyId": "fda196b97b664c969f83c908ddbb5513",
+        "unifyName": "户口迁移证件遗失或者超过有效期限造成无户口的公民户口恢复",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "430709061W00",
+        "rightsId": "Ev_QswrLSs-IyhsLpIshIA",
+        "transactLevel": "1",
+        "unifyId": "ae5bc460e5cb4b2ea3b497fbb2da0c6e",
+        "unifyName": "长期滞留在救助管理机构的无法查明身份信息流浪乞讨人员户口补登",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "430709061W00",
+        "rightsId": "Ev_QswrLSs-IyhsLpIshIA",
+        "transactLevel": "1",
+        "unifyId": "ud4RInHCRm2WsVuu5DSDpg",
+        "unifyName": "因弄虚作假非法落户被注销户口公民户口恢复",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432009105W00",
+        "rightsId": "968059BD17DB634EE053671515AC8FFE",
+        "transactLevel": "0",
+        "unifyId": "6dc639173dec4bac81974ac6cd341465",
+        "unifyName": "律师、基层法律服务工作者查询人口信息管理工作服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432009106W00",
+        "rightsId": "968059BD17DC634EE053671515AC8FFE",
+        "transactLevel": "0",
+        "unifyId": "L-pPSzHXQyefHJr8OzHLZA",
+        "unifyName": "户口登记项目变更更正证明",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432009303W00",
+        "rightsId": "968059BD17E7634EE053671515AC8FFE",
+        "transactLevel": "0",
+        "unifyId": "6nvzFcsCTamDVoJw634vRw",
+        "unifyName": "亲属关系证明",
+        "ywCode": "02"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 32,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

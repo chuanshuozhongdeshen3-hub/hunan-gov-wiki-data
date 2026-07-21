@@ -1,0 +1,519 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009134W00",
+        "rightsId": "wPzcEn73ROGuNLMQko3kbw",
+        "transactLevel": "0",
+        "unifyId": "f2ff323ac6df4eab9539edc1f010182c",
+        "unifyName": "废旧金属收购企业和个体工商户变更名称",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009134W00",
+        "rightsId": "wPzcEn73ROGuNLMQko3kbw",
+        "transactLevel": "0",
+        "unifyId": "441ef78f475c45569103273a39e318cc",
+        "unifyName": "废旧金属收购企业和个体工商户变更经营场所",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009134W00",
+        "rightsId": "wPzcEn73ROGuNLMQko3kbw",
+        "transactLevel": "0",
+        "unifyId": "00723597e9214b118ad1329d605bb9ce",
+        "unifyName": "废旧金属收购企业和个体工商户变更法定代表人和主要负责人",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009134W00",
+        "rightsId": "wPzcEn73ROGuNLMQko3kbw",
+        "transactLevel": "0",
+        "unifyId": "6a8W2gqYRaG5LdOF-Fmi5A",
+        "unifyName": "废旧金属收购企业和个体工商户注销备案",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431011006W00",
+        "rightsId": "ittfZ7VDTMyCr6ueViPdow",
+        "transactLevel": "0",
+        "unifyId": "01e11b917e5f439d89a8d7053fbb2754",
+        "unifyName": "慈善捐赠款物的使用",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431011058W00",
+        "rightsId": "C7ys2zqCRTuj8Jl3gi5fzw",
+        "transactLevel": "0",
+        "unifyId": "f5de113768684c62806a6dd4e965b0d5",
+        "unifyName": "基金会印章备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431011058W00",
+        "rightsId": "C7ys2zqCRTuj8Jl3gi5fzw",
+        "transactLevel": "0",
+        "unifyId": "wM1rT5CXT1esVakArAoXyQ",
+        "unifyName": "基金会账户备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431011058W00",
+        "rightsId": "C7ys2zqCRTuj8Jl3gi5fzw",
+        "transactLevel": "0",
+        "unifyId": "O8o9-87cSjiqsI_YVohYgg",
+        "unifyName": "基金会负责人备案",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431011058W00",
+        "rightsId": "C7ys2zqCRTuj8Jl3gi5fzw",
+        "transactLevel": "0",
+        "unifyId": "2IOcsyIhTy2LKrb5cNd6qw",
+        "unifyName": "基金会办事机构备案",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431011058W00",
+        "rightsId": "C7ys2zqCRTuj8Jl3gi5fzw",
+        "transactLevel": "0",
+        "unifyId": "8kNI_CBDQZ2Y4xN7DNVY_Q",
+        "unifyName": "基金会理事备案",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431011062W00",
+        "rightsId": "zL0Md5HNR3qTSEijraYytw",
+        "transactLevel": "0",
+        "unifyId": "3AUwVP-hSFiftXFwOj4DAQ",
+        "unifyName": "社会团体印章备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431011062W00",
+        "rightsId": "zL0Md5HNR3qTSEijraYytw",
+        "transactLevel": "0",
+        "unifyId": "v8fhvZWwS0akDOpb3gYp3w",
+        "unifyName": "社会团体负责人备案",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431011062W00",
+        "rightsId": "zL0Md5HNR3qTSEijraYytw",
+        "transactLevel": "0",
+        "unifyId": "hsJjxDc_RmqRSL46PXMWWg",
+        "unifyName": "社会团体账户备案",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431011062W00",
+        "rightsId": "zL0Md5HNR3qTSEijraYytw",
+        "transactLevel": "0",
+        "unifyId": "SpD9f2OYRDqaV7Vom5Xswg",
+        "unifyName": "社会团体机构备案",
+        "ywCode": "07"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431011075W00",
+        "rightsId": "ICbMaCLFS4iEvBlTRp3LyA",
+        "transactLevel": "0",
+        "unifyId": "dweY4B8ZSOK-uoK9ppAxGw",
+        "unifyName": "民办非企业单位印章备案",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431011075W00",
+        "rightsId": "ICbMaCLFS4iEvBlTRp3LyA",
+        "transactLevel": "0",
+        "unifyId": "Nb0ap6oXRIOduL8_TdQrjw",
+        "unifyName": "民办非企业单位负责人备案",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431011075W00",
+        "rightsId": "ICbMaCLFS4iEvBlTRp3LyA",
+        "transactLevel": "0",
+        "unifyId": "lmArbCsfQCG-KBQ3KuxwRg",
+        "unifyName": "民办非企业单位理事备案",
+        "ywCode": "04"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431011075W00",
+        "rightsId": "ICbMaCLFS4iEvBlTRp3LyA",
+        "transactLevel": "0",
+        "unifyId": "8YtHLHEORfuSwN-VAebCOw",
+        "unifyName": "民办非企业单位账户备案",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012016W00",
+        "rightsId": "Q_hG4O9wTaWiBCWJmXGNlw",
+        "transactLevel": "0",
+        "unifyId": "041764bb057640c19ac8c437599915ed",
+        "unifyName": "律师事务所公章、财务章印模和银行账户备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012045W00",
+        "rightsId": "70F599A5574DABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "3cacdbb8f7f34b7f8a00bccb589d257c",
+        "unifyName": "基层法律服务所年度考核及结果备案、公告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012045W00",
+        "rightsId": "70F599A5574DABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "e368b1fa6b684103978d471f11922a1c",
+        "unifyName": "基层法律服务工作者年度考核及结果备案、公告",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012045W00",
+        "rightsId": "70F599A5574DABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "c672eea66d0c4080b7792f9def1467f0",
+        "unifyName": "律师事务所年度检查考核及结果备案、公告",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012047W00",
+        "rightsId": "70F599A559E7ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "2122888881bd401db052a2a9559239f1",
+        "unifyName": "外国、香港、澳门律师事务所驻内地或大陆代表机构年度检验",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012057W00",
+        "rightsId": "soV8MpUYRgSUvtAEDac4gg",
+        "transactLevel": "0",
+        "unifyId": "f3858d6b4cfc4839aba79708c5cfad2b",
+        "unifyName": "司法鉴定人执业初审",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012057W00",
+        "rightsId": "soV8MpUYRgSUvtAEDac4gg",
+        "transactLevel": "0",
+        "unifyId": "2a050e6632f64484b05cfb77c487a994",
+        "unifyName": "司法鉴定人变更初审",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012057W00",
+        "rightsId": "soV8MpUYRgSUvtAEDac4gg",
+        "transactLevel": "0",
+        "unifyId": "cedb0d50ffc5405e93a3b2d736b7e6bd",
+        "unifyName": "司法鉴定人注销初审",
+        "ywCode": "03"
+      },
+      {
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012057W00",
+        "rightsId": "soV8MpUYRgSUvtAEDac4gg",
+        "transactLevel": "0",
+        "unifyId": "263143e29cef4b7fbf81cae04616c5c1",
+        "unifyName": "司法鉴定人延续初审",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012063W00",
+        "rightsId": "OgvQHGJFSE2ATiFIEcPI7g",
+        "transactLevel": "0",
+        "unifyId": "54fcb6d3eea5429ca7caa20ece58d7e5",
+        "unifyName": "司法鉴定机构及其分支机构设立初审",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012063W00",
+        "rightsId": "OgvQHGJFSE2ATiFIEcPI7g",
+        "transactLevel": "0",
+        "unifyId": "1a3d7db75d4f4fab9a8a04a0eedcabd5",
+        "unifyName": "司法鉴定机构变更住所",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012063W00",
+        "rightsId": "OgvQHGJFSE2ATiFIEcPI7g",
+        "transactLevel": "0",
+        "unifyId": "02abc3b421d5468e9052a34025ff7dd3",
+        "unifyName": "司法鉴定机构延续登记",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012063W00",
+        "rightsId": "OgvQHGJFSE2ATiFIEcPI7g",
+        "transactLevel": "0",
+        "unifyId": "3776c192451a4f798926e0732aec4f11",
+        "unifyName": "司法鉴定机构变更资金数额",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012063W00",
+        "rightsId": "OgvQHGJFSE2ATiFIEcPI7g",
+        "transactLevel": "0",
+        "unifyId": "e49bcfa0ba444424b6598196f99e25a6",
+        "unifyName": "司法鉴定机构变更负责人",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012063W00",
+        "rightsId": "OgvQHGJFSE2ATiFIEcPI7g",
+        "transactLevel": "0",
+        "unifyId": "8ef60f38aa5b482581ed32b26d72e29b",
+        "unifyName": "司法鉴定人市、州内异动",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012063W00",
+        "rightsId": "OgvQHGJFSE2ATiFIEcPI7g",
+        "transactLevel": "0",
+        "unifyId": "9cdf1fb6f87a4da4931a41ada5baa1b4",
+        "unifyName": "司法鉴定人变更职称、姓名、学历、行业资格",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012063W00",
+        "rightsId": "OgvQHGJFSE2ATiFIEcPI7g",
+        "transactLevel": "0",
+        "unifyId": "7c0730b7242c486291fddf92e16d0403",
+        "unifyName": "市、州司法鉴定人延续登记",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012064W00",
+        "rightsId": "1ui656TISOCNujRnGGqlFw",
+        "transactLevel": "0",
+        "unifyId": "5XJGoPc9ReCvJno8w5N8MA",
+        "unifyName": "律师事务所年度检查考核备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012065W00",
+        "rightsId": "lof4ONHfQmiNPuy0JA6FNA",
+        "transactLevel": "0",
+        "unifyId": "BC06XZQtTXyhWFu46kmKcQ",
+        "unifyName": "公证机构设立初审",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012065W00",
+        "rightsId": "lof4ONHfQmiNPuy0JA6FNA",
+        "transactLevel": "0",
+        "unifyId": "Az1wCxMmTL67Z9jEhUIL6w",
+        "unifyName": "公证机构变更初审",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012065W00",
+        "rightsId": "lof4ONHfQmiNPuy0JA6FNA",
+        "transactLevel": "0",
+        "unifyId": "AvdnXXsSSwuS3ZCtLdt8RQ",
+        "unifyName": "公证机构设立审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012065W00",
+        "rightsId": "lof4ONHfQmiNPuy0JA6FNA",
+        "transactLevel": "0",
+        "unifyId": "O4UXoSr2TZ68xNBF8rGa3Q",
+        "unifyName": "公证机构变更审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431013026W00",
+        "rightsId": "70F599A55C8BABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "fc0b6c529bc3439aa1e8646ed5b9a6c7",
+        "unifyName": "会计师事务所年度报备",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431013029W00",
+        "rightsId": "70F599A55C8CABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "jsendeYYR3qww9syLwaisA",
+        "unifyName": "行政事业单位所属企业国有资产评估项目核准备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431013034W00",
+        "rightsId": "70F599A55F28ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "dce5471eedce4d289aac2aabc5e96289",
+        "unifyName": "会计师事务所变更备案和执业许可的注销",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431015107W00",
+        "rightsId": "70F599A55CDAABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "175eb9122193401bad0effc460891390",
+        "unifyName": "重点保护古生物化石档案备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431016001W00",
+        "rightsId": "kbLuMQDET1iN-eUcK3Wb6w",
+        "transactLevel": "0",
+        "unifyId": "d4cdb8bf112f4bf5a8ba2a5c4a89f3a0",
+        "unifyName": "强制性清洁生产（双超双有企业）审核、认证的受理转报",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431016005W00",
+        "rightsId": "ghLS1SNvR5qgDYjgxRn4xg",
+        "transactLevel": "0",
+        "unifyId": "b06e328b775d47fab8d5c80654c9e7db",
+        "unifyName": "危险废物管理计划备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431016030W00",
+        "rightsId": "70F599A5520EABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "f0e683fc445b4079b85b8947924962e0",
+        "unifyName": "放射性物品运输备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431016031W00",
+        "rightsId": "70F599A5521AABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "375b2af6621b41178f0706f5ab5fa0f0",
+        "unifyName": "实施企业环境信用评价",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431016035W00",
+        "rightsId": "70F599A55F82ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "10453160b4fc411989fa49b1dabb8691",
+        "unifyName": "环境污染损害赔偿行政调解",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431016038W00",
+        "rightsId": "70F599A56209ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "7adf50d7da164b259493724dac2778c6",
+        "unifyName": "放射性同位素的转出、转入备案",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 46,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

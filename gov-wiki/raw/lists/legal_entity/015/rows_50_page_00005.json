@@ -1,0 +1,527 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123035000",
+        "rightsId": "8794B3AA893D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "jcwz9DPxRJWGgowsw6D6eA",
+        "unifyName": "乙类大型医用设备配置许可证（许可）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123042002",
+        "rightsId": "fea49730eb914ffc9a3e3411c741a1f9",
+        "transactLevel": "0",
+        "unifyId": "MRz5UbCdR9GaFPd6xUmIhg",
+        "unifyName": "职业卫生技术服务机构资质认可（新发）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123042002",
+        "rightsId": "fea49730eb914ffc9a3e3411c741a1f9",
+        "transactLevel": "0",
+        "unifyId": "XGHVtmY1QHCl1uzAKeOZNA",
+        "unifyName": "职业卫生技术服务机构资质认可（变更）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123042002",
+        "rightsId": "fea49730eb914ffc9a3e3411c741a1f9",
+        "transactLevel": "0",
+        "unifyId": "XwiVqy22S3CLq_iBLjsuyQ",
+        "unifyName": "职业卫生技术服务机构资质认可（延续）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123042002",
+        "rightsId": "fea49730eb914ffc9a3e3411c741a1f9",
+        "transactLevel": "0",
+        "unifyId": "gv0BXwEkT-6dnE7v7IhgsA",
+        "unifyName": "职业卫生技术服务机构资质认可（增加业务范围）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123042002",
+        "rightsId": "fea49730eb914ffc9a3e3411c741a1f9",
+        "transactLevel": "0",
+        "unifyId": "VZ0qkNawQuuTlNmn9b0Www",
+        "unifyName": "职业卫生技术服务机构资质认可（补发）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123042002",
+        "rightsId": "fea49730eb914ffc9a3e3411c741a1f9",
+        "transactLevel": "0",
+        "unifyId": "e-O3ePUjSaO01aX1P-XY-Q",
+        "unifyName": "职业卫生技术服务机构资质认可（注销）",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125031001",
+        "rightsId": "4114737776c34ee287d2b38d0e285b1e",
+        "transactLevel": "0",
+        "unifyId": "itAnQGIiQL6-wAH1Q88eIA",
+        "unifyName": "安全生产检测检验机构资质认可新证",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125031001",
+        "rightsId": "4114737776c34ee287d2b38d0e285b1e",
+        "transactLevel": "0",
+        "unifyId": "jo5loNXVTOmeVB6-ONG8xg",
+        "unifyName": "安全生产检测检验机构资质认可延期",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125031001",
+        "rightsId": "4114737776c34ee287d2b38d0e285b1e",
+        "transactLevel": "0",
+        "unifyId": "76zT7WTIRz6byk4tOU4v-w",
+        "unifyName": "安全生产检测检验机构资质认可变更",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125031001",
+        "rightsId": "4114737776c34ee287d2b38d0e285b1e",
+        "transactLevel": "0",
+        "unifyId": "GzIeU0C1RZ-iAVgHlpasMg",
+        "unifyName": "安全生产检测检验机构资质认可复选延期和变更",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125039000",
+        "rightsId": "8794B3AA897F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8iyV1eE5RMa0Ku57hcFvDQ",
+        "unifyName": "危险化学品生产、储存建设项目安全条件审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125043000",
+        "rightsId": "8794B3AA898A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "O1M7HJvaTwWBmVMsNKUDLw",
+        "unifyName": "第一类非药品类易制毒化学品生产许可初领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125043000",
+        "rightsId": "8794B3AA898A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "LzvS6dUeQi-7lWRNhBaGJA",
+        "unifyName": "第一类非药品类易制毒化学品生产许可延期",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125043000",
+        "rightsId": "8794B3AA898A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Yt8dqvMhRTKOVOYTXb0aPQ",
+        "unifyName": "第一类非药品类易制毒化学品生产许可变更",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125044000",
+        "rightsId": "8794B3AA898B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "eyzjI5_uQuG6kU0rdhRMlw",
+        "unifyName": "第一类非药品类易制毒化学品经营许可初领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125044000",
+        "rightsId": "8794B3AA898B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "FPE0to3ZS-2B55medUf50Q",
+        "unifyName": "第一类非药品类易制毒化学品经营许可延期",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125044000",
+        "rightsId": "8794B3AA898B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "DEAIgyg3T9ypGWVbU4l1-Q",
+        "unifyName": "第一类非药品类易制毒化学品经营许可变更",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131010000",
+        "rightsId": "8794B3AA89ED9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d6f259addd3b4caab81da3eaf90333f5",
+        "unifyName": "特种设备生产单位许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131018000",
+        "rightsId": "8794B3AA89F59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "w6A6AQlKRk6fkKzHIfWXpQ",
+        "unifyName": "检验检测机构资质认定（不含机动车检验领域）",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131018000",
+        "rightsId": "8794B3AA89F59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "-xgdyDQ-Tn-h1TQHMdw_Zw",
+        "unifyName": "检验检测机构资质认定（机动车检验领域）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132005001",
+        "rightsId": "8794B3AA8A099492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5c8b73a89df54b909c2011f480b8e538",
+        "unifyName": "国产电视动画片审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132006000",
+        "rightsId": "8794B3AA8A0C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ed4b667ba38e4a599b86a84880181bb8",
+        "unifyName": "单位设置卫星地面接收设施接收境外电视节目审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132006000",
+        "rightsId": "8794B3AA8A0C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3d41127c81f54b7aaff1f61dfed7dc12",
+        "unifyName": "单位设置卫星地面接收设施接收境内电视节目审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132008002",
+        "rightsId": "8794B3AA8A109492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2ba91c720f7e4341aaa10ac835d0918c",
+        "unifyName": "省级行政区域内经营广播电视节目传送（无线）业务审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132019000",
+        "rightsId": "8794B3AA8A1C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7ec6c1ae74ce4d48aae0624dbf075b89",
+        "unifyName": "举办区域性广播电视节目交流、交易活动审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132020000",
+        "rightsId": "8794B3AA8A1D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "365eb3d8313e43ea881995c917e06267",
+        "unifyName": "卫星电视广播地面接收设施安装许可审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132026000",
+        "rightsId": "8794B3AA8A269492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "146141cc480a486a828b103748b21f54",
+        "unifyName": "广播电台、电视台以卫星等传输方式进口、转播境外广播电视节目审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132027000",
+        "rightsId": "8794B3AA8A279492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e374f7e84d4f45d1a7ec3fe7a2ed864d",
+        "unifyName": "影视节目制作机构与外方合作制作电视剧（含电视动画片）立项",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132032000",
+        "rightsId": "8794B3AA8A2C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "17f0c76a1a9642ce9197b8ee2c2b0232",
+        "unifyName": "广播电视专用频段频率使用许可证（甲类）核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132033000",
+        "rightsId": "8794B3AA8A2D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6a28c013d8de416eb53ff908e592e993",
+        "unifyName": "广播电视专用频段频率使用许可证（乙类）核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132034000",
+        "rightsId": "8794B3AA8A2E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8938cdc5c0504970b2f58de542af84f9",
+        "unifyName": "无线广播电视发射设备（不含小功率无线广播电视发射设备）订购证明核发",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132038000",
+        "rightsId": "8794B3AA8A329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "NAVPL2CNSDmOqXe0VjEg0w",
+        "unifyName": "广播电视节目制作经营单位设立审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132038000",
+        "rightsId": "8794B3AA8A329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7Z9aFCpGTiaxZA4QjyfW3w",
+        "unifyName": "广播电视节目制作经营单位延续（变更）审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132038000",
+        "rightsId": "8794B3AA8A329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "z8tz2aKvQIOjBmZV4Fk9aQ",
+        "unifyName": "广播电视节目制作经营单位注销审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132044000",
+        "rightsId": "8794B3AA8A3B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "946e2dec7c34469f879e7cd482fd4902",
+        "unifyName": "跨省经营广播电视节目传送（有线）业务审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132051000",
+        "rightsId": "8794B3AA8A429492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8557321b423d4ae6b0820e421a658a05",
+        "unifyName": "跨省经营广播电视节目传送（无线）业务审核",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133002000",
+        "rightsId": "8794B3AA8A449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "koZkWsK6TnWk8Qh7dyhwlQ",
+        "unifyName": "经营高危险性体育项目许可（延续）",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133002000",
+        "rightsId": "8794B3AA8A449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ltbNin-8Qouu6reQ-Am6qQ",
+        "unifyName": "经营高危险性体育项目许可（变更）",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133002000",
+        "rightsId": "8794B3AA8A449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5W2CdO7tQ8y2LF8cJ2i15Q",
+        "unifyName": "经营高危险性体育项目许可（注销）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139004000",
+        "rightsId": "8794B3AA8A539492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4a145da6b7fe4c31940a88d9537b30cb",
+        "unifyName": "新闻单位设立驻地方机构审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139005000",
+        "rightsId": "8794B3AA8A549492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e4bd1af38b1f499c9b62df5117d559db",
+        "unifyName": "出版物印刷企业经营许可证核发",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139005000",
+        "rightsId": "8794B3AA8A549492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d1feb2cbc1d848de9991984989d95e98",
+        "unifyName": "包装装潢印刷企业经营许可证核发",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139005000",
+        "rightsId": "8794B3AA8A549492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "db8210d7105041eaa241697f73fd3278",
+        "unifyName": "其他印刷品印刷企业经营许可证核发",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139006000",
+        "rightsId": "8794B3AA8A559492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fab8d95c297c4d25b482f3fcdf9be0fa",
+        "unifyName": "单位内部设立印刷厂登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139012000",
+        "rightsId": "8794B3AA8A5B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ed6b4c19eff94b8fa9988c913f774e62",
+        "unifyName": "中央驻长单位、省直单位申办连续性内部资料性出版物审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139013000",
+        "rightsId": "8794B3AA8A5C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "39c7da0a3e2f47aab517fd71cfff50a0",
+        "unifyName": "设立出版物批发企业审批（内资）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139013000",
+        "rightsId": "8794B3AA8A5C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "056a913e6dd84e67ac0d839b685b9a90",
+        "unifyName": "设立外商投资出版物批发企业审批",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139015000",
+        "rightsId": "8794B3AA8A5E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "10cc12d421b34278bf14cc9a8ad05977",
+        "unifyName": "电子出版物制作单位设立审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139017000",
+        "rightsId": "8794B3AA8A609492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2f96e37f5d6245cab87bc6665e246c9c",
+        "unifyName": "设立中外合资、合作印刷企业审批",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 5,
+    "pageSize": 50,
+    "total": 352,
+    "totalPage": 8
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

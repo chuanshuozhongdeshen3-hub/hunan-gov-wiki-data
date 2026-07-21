@@ -1,0 +1,364 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118001000",
+        "rightsId": "8794B3AA87369492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "XgdEG-L0Tj2Mc9qO5zxttA",
+        "unifyName": "船舶进入或者穿越禁航区许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118005000",
+        "rightsId": "8794B3AA873A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8V3CVxLeSfeaeExHEr9jwA",
+        "unifyName": "专用航标的设置、撤除、位移和其他状况改变审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118009000",
+        "rightsId": "8794B3AA873E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "hfbG33YBTnuh9HIRfUjuJg",
+        "unifyName": "在公路、公路用地及公路附属设施上设置非公路标志及非交通工程设施审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118009000",
+        "rightsId": "8794B3AA873E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "rQsQSX2ES6WuOtA8YkoJKw",
+        "unifyName": "利用跨越公路的设施悬挂非公路标志许可",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118023000",
+        "rightsId": "8794B3AA87529492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "508593f3705d40a8a29b69154ac0f5e5",
+        "unifyName": "巡游出租汽车道路运输证核发",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000118042000",
+        "rightsId": "8794B3AA87659492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "7uvK4u9BQLacXrtPUNVZYA",
+        "unifyName": "载运危险货物和污染危害性货物进出港口审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000118042000",
+        "rightsId": "8794B3AA87659492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "uyD6ZYB7SEWOlmVS18-Mfg",
+        "unifyName": "船舶、船用产品及船运货物集装箱检验和证书核发",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118056000",
+        "rightsId": "8794B3AA87769492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "q-B8EZEITmWQha0PZXO0vw",
+        "unifyName": "危险货物道路运输从业人员资格核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118056000",
+        "rightsId": "8794B3AA87769492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1XxhdgYwRM61Zrs7l1Uucg",
+        "unifyName": "危险货物道路运输从业人员资格换发",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118056000",
+        "rightsId": "8794B3AA87769492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "eifNxxRIRwyLZJQY8K8BRg",
+        "unifyName": "危险货物道路运输从业人员资格注销",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118056000",
+        "rightsId": "8794B3AA87769492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "HPGwTnU-Sau_ei797q-QYw",
+        "unifyName": "危险货物道路运输从业人员资格补发",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118068000",
+        "rightsId": "8794B3AA87829492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "5pkM-8mUTUClbYNLuIkSGw",
+        "unifyName": "船舶在港口水域外申请从事内河危险货物过驳作业或者海上散装液体污染危害性货物过驳作业审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718008000",
+        "rightsId": "8794B3AA90349492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Uc70RZg3Stuk6T_jlK5IQw",
+        "unifyName": "船舶进出港报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000718014000",
+        "rightsId": "8794B3AA903A9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "NpTaCMkkQDmgBgj__ZZcUw",
+        "unifyName": "船舶名称核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001018001000",
+        "rightsId": "bf05eb18a98d4c2bb0b88a5cbbb02426",
+        "transactLevel": "0",
+        "unifyId": "S0nl2T6zSbufYrspIkaONw",
+        "unifyName": "航行通（警）告办理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "001018002000",
+        "rightsId": "5b0041f9cfb74b758de8363b26699347",
+        "transactLevel": "1",
+        "unifyId": "EMlKIjVzQ3aFMsRt1IUW_g",
+        "unifyName": "船舶文书签注（《航海（行）日志》《轮机日志》《车钟记录簿》《垃圾记录簿》《货物记录簿》《油类记录簿》《货物系固手册》）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001018005000",
+        "rightsId": "ccc33f7c70ef4d10904ca9d33db5d89f",
+        "transactLevel": "0",
+        "unifyId": "m5wy7hRcTt6m7jzBrrgnvA",
+        "unifyName": "危险货物安全适运报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "001018007000",
+        "rightsId": "95da78f93651451fb9fdb90d8025516d",
+        "transactLevel": "1",
+        "unifyId": "1AkwUg0lTD-Uie5x8YM3Tw",
+        "unifyName": "船舶防污染作业报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430118134W00",
+        "rightsId": "D3A1373FRcyVEBtDNV9nZQ",
+        "transactLevel": "0",
+        "unifyId": "AH4iU35ORAa_jmdRvvRaLw",
+        "unifyName": "经营性道路旅客运输驾驶员从业资格证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430118134W00",
+        "rightsId": "D3A1373FRcyVEBtDNV9nZQ",
+        "transactLevel": "0",
+        "unifyId": "Q7hdH-znQdmjrrwFZoBUFQ",
+        "unifyName": "出租汽车驾驶员从业资格证补发",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430118134W00",
+        "rightsId": "D3A1373FRcyVEBtDNV9nZQ",
+        "transactLevel": "0",
+        "unifyId": "Y470Ib37SLe16ldhPdUq1g",
+        "unifyName": "出租汽车驾驶员从业资格证变更",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430118134W00",
+        "rightsId": "D3A1373FRcyVEBtDNV9nZQ",
+        "transactLevel": "0",
+        "unifyId": "zXJF8NxoSDiYnybMdMTCmg",
+        "unifyName": "经营性道路旅客货物运输驾驶员从业资格证换发",
+        "ywCode": "12"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430118134W00",
+        "rightsId": "D3A1373FRcyVEBtDNV9nZQ",
+        "transactLevel": "0",
+        "unifyId": "pSTnK1kxTYClvdzb-xW3Mg",
+        "unifyName": "经营性道路旅客货物运输驾驶员从业资格证补发",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430118134W00",
+        "rightsId": "D3A1373FRcyVEBtDNV9nZQ",
+        "transactLevel": "0",
+        "unifyId": "bW-CySYzQeShaBlDRuv94Q",
+        "unifyName": "经营性道路旅客货物运输驾驶员从业资格证注销",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430118134W00",
+        "rightsId": "D3A1373FRcyVEBtDNV9nZQ",
+        "transactLevel": "0",
+        "unifyId": "dHnyKtxPSd-YYwuRp4VuPg",
+        "unifyName": "经营性道路旅客货物运输驾驶员从业资格证变更",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430118134W00",
+        "rightsId": "D3A1373FRcyVEBtDNV9nZQ",
+        "transactLevel": "0",
+        "unifyId": "XDUcEOXQRH-EuGEAJY-oYA",
+        "unifyName": "经营性道路货物运输驾驶员从业资格证核发",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430118134W00",
+        "rightsId": "D3A1373FRcyVEBtDNV9nZQ",
+        "transactLevel": "0",
+        "unifyId": "mbwAMicYQCeetNiGsy2N2g",
+        "unifyName": "巡游出租汽车驾驶员从业资格核发",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430118134W00",
+        "rightsId": "D3A1373FRcyVEBtDNV9nZQ",
+        "transactLevel": "0",
+        "unifyId": "23EYuGiTS7iWhP7_9coWPg",
+        "unifyName": "网络预约出租汽车驾驶员从业资格核发",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430118134W00",
+        "rightsId": "D3A1373FRcyVEBtDNV9nZQ",
+        "transactLevel": "0",
+        "unifyId": "zwLh4e97RbG0YjF7AZcZCA",
+        "unifyName": "出租汽车驾驶员从业资格证换发",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430118134W00",
+        "rightsId": "D3A1373FRcyVEBtDNV9nZQ",
+        "transactLevel": "0",
+        "unifyId": "Jbsigm7eRsmQ4rjj7_MFog",
+        "unifyName": "出租汽车驾驶员从业资格证注销",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009105W00",
+        "rightsId": "Gt94ij6hSEW8abRxTO9DzQ",
+        "transactLevel": "0",
+        "unifyId": "ace0cac5d0374b94b90269aa04cb756c",
+        "unifyName": "交通违法：12分（不含）以下的非现场简易程序违法行为处理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018103W00",
+        "rightsId": "84aJ-joeRaGzVLbWH6FUzA",
+        "transactLevel": "0",
+        "unifyId": "B5SeYSEqTjyxSVX5b-BrMg",
+        "unifyName": "经营性道路客货运输驾驶员（含危货）从业资格转籍核准（转入）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018103W00",
+        "rightsId": "84aJ-joeRaGzVLbWH6FUzA",
+        "transactLevel": "0",
+        "unifyId": "rlfH3l4FRLmL0LBqjHevaw",
+        "unifyName": "经营性道路客货运输驾驶员（含危货）从业资格转籍核准（转出）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018126W00",
+        "rightsId": "70F599A55215ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "4khc-gg3Qcyx4LiWJCElPA",
+        "unifyName": "出租汽车驾驶员继续教育的确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018182W00",
+        "rightsId": "Hcjf3khPS92GjvzRwimFOA",
+        "transactLevel": "0",
+        "unifyId": "CiGeeuU6QT--zNMiRJUmVg",
+        "unifyName": "船舶报废",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 35,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

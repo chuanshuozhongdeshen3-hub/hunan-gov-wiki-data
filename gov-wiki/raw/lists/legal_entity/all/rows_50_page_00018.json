@@ -1,0 +1,514 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122015000",
+        "rightsId": "8794B3AA89069492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ef8aac1ffdb144dab37117952ea47cc2",
+        "unifyName": "文艺表演团体从事营业性演出活动补证的审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122015000",
+        "rightsId": "8794B3AA89069492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "i32c8yvtS-qwIYTXulz3Sw",
+        "unifyName": "文艺表演团体从事营业性演出活动注销的审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122016000",
+        "rightsId": "8794B3AA89079492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a6329ed2adfd423699a681479eb1df75",
+        "unifyName": "香港特别行政区、澳门特别行政区的投资者在内地投资设立演出经纪机构从事营业性演出经营活动设立的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122016000",
+        "rightsId": "8794B3AA89079492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "02b28a673d9a4e7c8841c4ad879c92f4",
+        "unifyName": "香港特别行政区、澳门特别行政区的投资者在内地投资设立演出经纪机构从事营业性演出经营活动变更的审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122016000",
+        "rightsId": "8794B3AA89079492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bf2e370ae22b4aa180af0f38b625a7a5",
+        "unifyName": "香港特别行政区、澳门特别行政区的投资者在内地投资设立演出经纪机构从事营业性演出经营活动延续的审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122016000",
+        "rightsId": "8794B3AA89079492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4a3a6da1649b4859bdcb8624ac7ec0f4",
+        "unifyName": "香港特别行政区、澳门特别行政区的投资者在内地投资设立演出经纪机构从事营业性演出经营活动补证的审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122016000",
+        "rightsId": "8794B3AA89079492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "11bfa3f0df4a442f8493ebcc4ee63a63",
+        "unifyName": "香港特别行政区、澳门特别行政区的投资者在内地投资设立演出经纪机构从事营业性演出经营活动注销的审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122017000",
+        "rightsId": "8794B3AA89089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "MuHcaefHRNi4dm5yK7sxnw",
+        "unifyName": "香港特别行政区、澳门特别行政区的投资者在内地投资设立演出场所经营单位从事演出场所经营活动设立的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122017000",
+        "rightsId": "8794B3AA89089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "BDKnl469QpClNtmaIgOwhQ",
+        "unifyName": "香港特别行政区、澳门特别行政区的投资者在内地投资设立演出场所经营单位从事演出场所经营活动变更的审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122017000",
+        "rightsId": "8794B3AA89089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "doK-rrDNQvysI-HVsNI0fQ",
+        "unifyName": "香港特别行政区、澳门特别行政区的投资者在内地投资设立演出场所经营单位从事演出场所经营活动补证的审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122017000",
+        "rightsId": "8794B3AA89089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "iELwkDgkR5-aigRy9cQhgw",
+        "unifyName": "香港特别行政区、澳门特别行政区的投资者在内地投资设立演出场所经营单位从事演出场所经营活动注销的审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122018000",
+        "rightsId": "8794B3AA89099492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0e6970d7ae494f3a94dbca6dafbbcdc2",
+        "unifyName": "台湾地区的投资者在内地投资设立演出经纪机构从事营业性演出经营活动设立的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122018000",
+        "rightsId": "8794B3AA89099492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f6f686cc468e49818090e3419e51df8d",
+        "unifyName": "台湾地区的投资者在内地投资设立演出经纪机构从事营业性演出经营活动变更的审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122018000",
+        "rightsId": "8794B3AA89099492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "65b1fd533a944d9b84ee0e58d5e94960",
+        "unifyName": "台湾地区的投资者在内地投资设立演出经纪机构从事营业性演出经营活动延续的审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122018000",
+        "rightsId": "8794B3AA89099492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ad66e9839e7440a987cbdec09bc62163",
+        "unifyName": "台湾地区的投资者在内地投资设立演出经纪机构从事营业性演出经营活动补证的审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122018000",
+        "rightsId": "8794B3AA89099492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "288616fcd0a54121bb7ec7fc87d351e9",
+        "unifyName": "台湾地区的投资者在内地投资设立演出经纪机构从事营业性演出经营活动注销的审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122019000",
+        "rightsId": "8794B3AA890A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "82UPMeFQTTGS4NDa4B8wDg",
+        "unifyName": "台湾地区的投资者在内地投资设立演出场所经营单位从事演出场所经营活动设立的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122019000",
+        "rightsId": "8794B3AA890A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ptgjdAd8Tk-8d9vszE9Edg",
+        "unifyName": "台湾地区的投资者在内地投资设立演出场所经营单位从事演出场所经营活动变更的审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122019000",
+        "rightsId": "8794B3AA890A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "lEY05_S6R0y-F3s4e4PB7w",
+        "unifyName": "台湾地区的投资者在内地投资设立演出场所经营单位从事演出场所经营活动补证的审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122019000",
+        "rightsId": "8794B3AA890A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ovvtE1q1R1eiiz5R_GSFig",
+        "unifyName": "台湾地区的投资者在内地投资设立演出场所经营单位从事演出场所经营活动注销的审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122020000",
+        "rightsId": "8794B3AA890B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "00a92b62bfed47e39f74dfb9bd72efc0",
+        "unifyName": "演出经纪机构从事营业性演出经营活动设立的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122020000",
+        "rightsId": "8794B3AA890B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ab46c40d2bac49edb956ed1ce5e1bf31",
+        "unifyName": "演出经纪机构从事营业性演出经营活动变更的审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122020000",
+        "rightsId": "8794B3AA890B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7abe46649e724276bcbd60a7da853e86",
+        "unifyName": "演出经纪机构从事营业性演出经营活动延续的审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122020000",
+        "rightsId": "8794B3AA890B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1557dc5b83a44437be7adcb97fe15029",
+        "unifyName": "演出经纪机构从事营业性演出经营活动补证的审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122020000",
+        "rightsId": "8794B3AA890B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9bdda27cf8dc4573b310649761f0d597",
+        "unifyName": "演出经纪机构从事营业性演出经营活动注销的审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00012202100Y",
+        "rightsId": "8794B3AA890E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "amirGvkoR3yRj4niq_5VSg",
+        "unifyName": "艺术品进口审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00012202100Y",
+        "rightsId": "8794B3AA890E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ioJUGe28QzSTUJYpJwiyOA",
+        "unifyName": "艺术品出口审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00012202100Y",
+        "rightsId": "8794B3AA890E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "unOSVb2zQB--9kfDKlvu0Q",
+        "unifyName": "涉外营业性艺术品展览活动审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000122022000",
+        "rightsId": "8794B3AA890F9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "7141c9fb1024496186e648c7afd5fbb1",
+        "unifyName": "举办香港特别行政区、澳门特别行政区的文艺表演团体、个人参加的营业性演出审批活动",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122022000",
+        "rightsId": "8794B3AA890F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f727e11345e04559b0a866565e4f216e",
+        "unifyName": "举办香港特别行政区、澳门特别行政区的文艺表演团体、个人参加的营业性演出变更审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122022000",
+        "rightsId": "8794B3AA890F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "672ff7e06513427e947a28c7b8e8a3f2",
+        "unifyName": "举办香港特别行政区、澳门特别行政区的文艺表演团体、个人参加的营业性演出取消审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122022000",
+        "rightsId": "8794B3AA890F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3jIatacMSAq3W9sqsyeTrg",
+        "unifyName": "举办香港特别行政区、澳门特别行政区的文艺表演团体、个人参加的营业性演出增加演出地备案审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000122023000",
+        "rightsId": "8794B3AA89109492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "0391d9e8ab6c4dec9bd4407ae2f09dfa",
+        "unifyName": "举办外国的文艺表演团体、个人参加的营业性演出审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122023000",
+        "rightsId": "8794B3AA89109492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e06d724414084a2dae38d51764262dac",
+        "unifyName": "举办外国的文艺表演团体、个人参加的营业性演出变更审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122023000",
+        "rightsId": "8794B3AA89109492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6b0d2f1eef3d4969a75ddbc85ea57c59",
+        "unifyName": "举办外国的文艺表演团体、个人参加的营业性演出取消审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122023000",
+        "rightsId": "8794B3AA89109492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "97-1w2_NS-Cuxsc_YBvUjA",
+        "unifyName": "举办外国的文艺表演团体、个人参加的营业性演出增加演出地备案审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000122024000",
+        "rightsId": "8794B3AA89119492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "209038410dce47cbaac5ee96111d043c",
+        "unifyName": "举办台湾地区的文艺表演团体、个人参加的营业性演出审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122024000",
+        "rightsId": "8794B3AA89119492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "806e72d936b3485abad13a88bfefc6e2",
+        "unifyName": "举办台湾地区的文艺表演团体、个人参加的营业性演出变更审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122024000",
+        "rightsId": "8794B3AA89119492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a8842920fb9b4e41a840bb21b4439c05",
+        "unifyName": "举办台湾地区的文艺表演团体、个人参加的营业性演出取消审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122024000",
+        "rightsId": "8794B3AA89119492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "JH2_9j-cTTqgQc8GmzcVbA",
+        "unifyName": "举办台湾地区的文艺表演团体、个人参加的营业性演出增加演出地备案审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122030000",
+        "rightsId": "8794B3AA89179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "df6ed9e665a74c86977d12dfa4df98f4",
+        "unifyName": "香港特别行政区、澳门特别行政区服务提供者在内地设立内地方控股的合资文艺表演团体从事营业性演出活动设立的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122030000",
+        "rightsId": "8794B3AA89179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e55bf72d556849d883e329486b12d420",
+        "unifyName": "香港特别行政区、澳门特别行政区服务提供者在内地设立内地方控股的合资文艺表演团体从事营业性演出活动变更的审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122030000",
+        "rightsId": "8794B3AA89179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7362a7b0f9d744fcbf7597ebd0719242",
+        "unifyName": "香港特别行政区、澳门特别行政区服务提供者在内地设立内地方控股的合资文艺表演团体从事营业性演出活动延续的审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122030000",
+        "rightsId": "8794B3AA89179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "df7163c3ccf44e07a6c06018f47ad223",
+        "unifyName": "香港特别行政区、澳门特别行政区服务提供者在内地设立内地方控股的合资文艺表演团体从事营业性演出活动补证的审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122030000",
+        "rightsId": "8794B3AA89179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "22cb08df7dc64095aac34eae24618af8",
+        "unifyName": "香港特别行政区、澳门特别行政区服务提供者在内地设立内地方控股的合资文艺表演团体从事营业性演出活动注销的审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122031000",
+        "rightsId": "47d2cb6209cb47d68b94a1747e4ef312",
+        "transactLevel": "0",
+        "unifyId": "RfvtLVhTTgudzTw6aUJfaA",
+        "unifyName": "中外合资经营、中外合作经营、外商独资经营企业互联网上网服务营业场所经营单位从事互联网上网服务经营活动设立的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122031000",
+        "rightsId": "47d2cb6209cb47d68b94a1747e4ef312",
+        "transactLevel": "0",
+        "unifyId": "6ge4NUm8REaa3R6slxl6Ww",
+        "unifyName": "中外合资经营、中外合作经营、外商独资经营企业互联网上网服务营业场所经营单位从事互联网上网服务经营活动变更的审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122031000",
+        "rightsId": "47d2cb6209cb47d68b94a1747e4ef312",
+        "transactLevel": "0",
+        "unifyId": "wy9UOj2gRGS2bNbujyav8w",
+        "unifyName": "中外合资经营、中外合作经营、外商独资经营企业互联网上网服务营业场所经营单位从事互联网上网服务经营活动补证的审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122031000",
+        "rightsId": "47d2cb6209cb47d68b94a1747e4ef312",
+        "transactLevel": "0",
+        "unifyId": "Eptu684vTZGAnOBq7zyi_g",
+        "unifyName": "中外合资经营、中外合作经营、外商独资经营企业互联网上网服务营业场所经营单位从事互联网上网服务经营活动注销的审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123001000",
+        "rightsId": "8794B3AA89189492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b2ac6f53ce044442b2a70eeaf2346690",
+        "unifyName": "母婴保健技术服务机构执业许可（新发）",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 18,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

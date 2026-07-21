@@ -1,0 +1,535 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015002",
+        "rightsId": "8794B3AA86609492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ea01f31d9bb041a28525ef28ccb035fb",
+        "unifyName": "地质灾害治理工程施工甲级资质新立申请审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015002",
+        "rightsId": "8794B3AA86609492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1dcd18b1f4474bb1942fa15823e1bc51",
+        "unifyName": "地质灾害治理工程施工甲级资质延续申请审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015002",
+        "rightsId": "8794B3AA86609492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "516a2a5971d44ae399159fcfeed563b9",
+        "unifyName": "地质灾害治理工程施工甲级资质变更申请审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015002",
+        "rightsId": "8794B3AA86609492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "99f2e087a35847529b6e2674bb5b838a",
+        "unifyName": "地质灾害治理工程施工甲级资质注销申请审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015002",
+        "rightsId": "8794B3AA86609492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "aa63fd9193284e3a832bb05bfc9ff904",
+        "unifyName": "地质灾害治理工程施工甲级资质遗失补证申请审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015003",
+        "rightsId": "8794B3AA86619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "186b3fb0c6ca47efb91a5d243912e8f4",
+        "unifyName": "地质灾害治理工程监理甲级资质新立申请审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015003",
+        "rightsId": "8794B3AA86619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7056bd2379b54c0a9a797de3c85a6558",
+        "unifyName": "地质灾害治理工程监理甲级资质延续申请审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015003",
+        "rightsId": "8794B3AA86619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "32f765c8ba9a4a52981528a748ce6f94",
+        "unifyName": "地质灾害治理工程监理甲级资质变更申请审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015003",
+        "rightsId": "8794B3AA86619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6db226d05c3345bc953fea707ad59a1a",
+        "unifyName": "地质灾害治理工程监理甲级资质注销申请审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015003",
+        "rightsId": "8794B3AA86619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ab39a1443495424b8350c26f01819718",
+        "unifyName": "地质灾害治理工程监理甲级资质遗失补证申请审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015004",
+        "rightsId": "8794B3AA86629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5e3b82c44f054c5692d163c2806163be",
+        "unifyName": "地质灾害评估和治理工程勘查设计乙级资质新立申请审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015004",
+        "rightsId": "8794B3AA86629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b8a1d9997ed04d37a626a70e14c60de7",
+        "unifyName": "地质灾害评估和治理工程勘查设计乙级资质延续申请审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015004",
+        "rightsId": "8794B3AA86629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "38508c7a01954897ad3d2bc06eea735d",
+        "unifyName": "地质灾害评估和治理工程勘查设计乙级资质变更申请审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015004",
+        "rightsId": "8794B3AA86629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ce3a6ababf964f0ab84fdc2706faea3a",
+        "unifyName": "地质灾害评估和治理工程勘查设计乙级资质注销申请审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015004",
+        "rightsId": "8794B3AA86629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fde8b53b85d149bc8d80fe57857ede36",
+        "unifyName": "地质灾害评估和治理工程勘查设计乙级资质遗失补证申请审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015005",
+        "rightsId": "8794B3AA86639492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ea2c3ab2bfb64aa29bbc76b5a537606f",
+        "unifyName": "地质灾害治理工程施工乙级资质新立申请审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015005",
+        "rightsId": "8794B3AA86639492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0ca7a35dbeba4f10941263226fbe4885",
+        "unifyName": "地质灾害治理工程施工乙级资质延续申请审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015005",
+        "rightsId": "8794B3AA86639492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6fbbc22ff6554140b84c243456f6bd24",
+        "unifyName": "地质灾害治理工程施工乙级资质变更申请审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015005",
+        "rightsId": "8794B3AA86639492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4c21a72ae4b04aca97589530e6cc4ae6",
+        "unifyName": "地质灾害治理工程施工乙级资质注销申请审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015005",
+        "rightsId": "8794B3AA86639492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "76dcecda0f2744d0ae0579d993394cc2",
+        "unifyName": "地质灾害治理工程施工乙级资质遗失补证申请审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015006",
+        "rightsId": "1caff4c9e4ee4e80ac6ea6f8242cf064",
+        "transactLevel": "0",
+        "unifyId": "65613f21aa8b4ad9b4bf358ee1b29669",
+        "unifyName": "地质灾害治理工程监理乙级资质新立申请审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015006",
+        "rightsId": "1caff4c9e4ee4e80ac6ea6f8242cf064",
+        "transactLevel": "0",
+        "unifyId": "1083a680bfbb4546ac78775d2e88fa7c",
+        "unifyName": "地质灾害治理工程监理乙级资质延续申请审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015006",
+        "rightsId": "1caff4c9e4ee4e80ac6ea6f8242cf064",
+        "transactLevel": "0",
+        "unifyId": "6c85f0ca438c4ba799af3ea51d49dcfe",
+        "unifyName": "地质灾害治理工程监理乙级资质变更申请审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015006",
+        "rightsId": "1caff4c9e4ee4e80ac6ea6f8242cf064",
+        "transactLevel": "0",
+        "unifyId": "e9574355bb8c44fdbccaa451873479c5",
+        "unifyName": "地质灾害治理工程监理乙级资质注销申请审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115015006",
+        "rightsId": "1caff4c9e4ee4e80ac6ea6f8242cf064",
+        "transactLevel": "0",
+        "unifyId": "aa3ee7b1f0114b3c98805881da89b0be",
+        "unifyName": "地质灾害治理工程监理乙级资质遗失补证申请审批",
+        "ywCode": "06"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115016002",
+        "rightsId": "8794B3AA86679492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "qpDa6MrSTp-CvAlGk2h4Ug",
+        "unifyName": "采矿许可延续申请（省级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115016002",
+        "rightsId": "8794B3AA86679492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "VaPNbmxUTo2Y6G8f8aDUYg",
+        "unifyName": "采矿许可延续申请（设区的市级权限）",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115016003",
+        "rightsId": "8794B3AA86689492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "jHgw8a7TTkCJNSwo-6eTdQ",
+        "unifyName": "采矿许可变更申请（省级权限）",
+        "ywCode": "04"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115016003",
+        "rightsId": "8794B3AA86689492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Qz8_dDrtSGKOBg7t8rbmkQ",
+        "unifyName": "采矿许可变更申请（设区的市级权限）",
+        "ywCode": "06"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115016004",
+        "rightsId": "8794B3AA86699492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bf17023fc3334d68b087afe736559878",
+        "unifyName": "采矿许可注销申请（省级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115016004",
+        "rightsId": "8794B3AA86699492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fkcP3ro2TuuTB0CyL_hFdA",
+        "unifyName": "采矿许可注销申请（设区的市级权限）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115016006",
+        "rightsId": "c297f560e1424344af9abf2c1f34855f",
+        "transactLevel": "0",
+        "unifyId": "z22kZqi5Q0SFnlAWw0lZ-Q",
+        "unifyName": "采矿许可首次申请（省级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115016006",
+        "rightsId": "c297f560e1424344af9abf2c1f34855f",
+        "transactLevel": "0",
+        "unifyId": "cLBSgRxwSYG79mXTvRzuxw",
+        "unifyName": "采矿许可首次申请（设区的市级权限）",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115017002",
+        "rightsId": "8794B3AA866E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0101d0891355470aaee7d7db3fe41dd4",
+        "unifyName": "探矿许可延续申请",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115017004",
+        "rightsId": "8794B3AA86709492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3d6cf727fe354a2c93bb791dabd9b2e8",
+        "unifyName": "探矿许可注销申请",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115017005",
+        "rightsId": "8794B3AA86719492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "TfCV_CbHRxSjPHJ43H23ug",
+        "unifyName": "探矿许可变更申请",
+        "ywCode": "04"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115017007",
+        "rightsId": "0f76b5d84dfe4a0bb67416df18f6d1ef",
+        "transactLevel": "0",
+        "unifyId": "bnepIE_QQ26iZFuoMHnx-A",
+        "unifyName": "探矿许可首次申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Qc393PQmRUSxJqcwtNuGeg",
+        "unifyName": "从事导航电子地图制作的单位乙级测绘资质审批",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "CzEisbwrTJ2VFdxn2j0itQ",
+        "unifyName": "从事海洋测绘的单位甲级测绘资质审批",
+        "ywCode": "11"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5Ew3bqZRTHCtzHSOHB-IKA",
+        "unifyName": "从事海洋测绘的单位乙级测绘资质审批",
+        "ywCode": "12"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0b1W04dESUGC9UQBdF8lhA",
+        "unifyName": "从事界线与不动产测绘的单位甲级测绘资质审批",
+        "ywCode": "13"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "siqV6qG2TZmWH1xHq3jJ4Q",
+        "unifyName": "从事界线与不动产测绘的单位乙级测绘资质审批",
+        "ywCode": "14"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "LyDv2nh-Tz-chvZiyn9esw",
+        "unifyName": "从事地理信息系统工程的单位甲级测绘资质审批",
+        "ywCode": "15"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ydpVL0o9QreU5i-tYpAGrw",
+        "unifyName": "从事地理信息系统工程的单位乙级测绘资质审批",
+        "ywCode": "16"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2Rm6ONWiS5aD4E4ajSkvmw",
+        "unifyName": "从事地图编制的单位甲级测绘资质审批",
+        "ywCode": "17"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "GBO2tpgiSUy-iIwT--Gdkw",
+        "unifyName": "从事地图编制的单位乙级测绘资质审批",
+        "ywCode": "18"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "_emMsyR4QAiC_FinIs9qiA",
+        "unifyName": "从事互联网地图服务的单位甲级测绘资质审批",
+        "ywCode": "19"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "x04yBTKrQa2JFGxyBAqmLw",
+        "unifyName": "从事互联网地图服务的单位乙级测绘资质审批",
+        "ywCode": "20"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3gcvsBaeQiClDxVSSf-b_A",
+        "unifyName": "从事大地测量的单位甲级测绘资质审批",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000115030002",
+        "rightsId": "8794B3AA868F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "OPaa-rvaTnKq-eYnkPSEbw",
+        "unifyName": "从事大地测量的单位乙级测绘资质审批",
+        "ywCode": "04"
+      }
+    ],
+    "pageIndex": 7,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

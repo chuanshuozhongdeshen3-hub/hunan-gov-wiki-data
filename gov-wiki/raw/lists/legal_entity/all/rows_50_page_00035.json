@@ -1,0 +1,516 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000730016000",
+        "rightsId": "4e577e01fc5e477e9cd668c3d9a540a7",
+        "transactLevel": "0",
+        "unifyId": "b4007b10dd1c42fbba86c73d40082dbf",
+        "unifyName": "纳税信用修复",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000730017000",
+        "rightsId": "83e6d62fabad4334adabb9604b60d0d8",
+        "transactLevel": "0",
+        "unifyId": "039b8b9e148849a296ce463c0853bd29",
+        "unifyName": "纳税信用复核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000731002000",
+        "rightsId": "8794B3AA90D09492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "a617edc0cd844e939328c2a72f378923",
+        "unifyName": "股权出质设立登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000731002000",
+        "rightsId": "8794B3AA90D09492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "806a7cfb7c184393ae1c4aeb052a6a81",
+        "unifyName": "股权出质变更登记",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000731002000",
+        "rightsId": "8794B3AA90D09492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "c10ca5039a164146883a6d061bd94f38",
+        "unifyName": "股权出质注销登记",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000731002000",
+        "rightsId": "8794B3AA90D09492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "569433b60b674bd1857963e64ebb5f86",
+        "unifyName": "股权出质撤销登记",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000731010000",
+        "rightsId": "8794B3AA90D89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "36e9c0dc7f134f1aaf1a910bfd7ee949",
+        "unifyName": "免予办理强制性产品认证证明",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000739001000",
+        "rightsId": "8794B3AA90E29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "375c48e93a384698a4bf80563017ce65",
+        "unifyName": "作品自愿登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000739002000",
+        "rightsId": "8794B3AA90E39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "360623881d904604a611b73b43d935e9",
+        "unifyName": "出版外国图书合同登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000764023000",
+        "rightsId": "152ae5700a984a97b57e84b517919543",
+        "transactLevel": "0",
+        "unifyId": "98fd38a66d5849cb8b3978c9d0d6c764",
+        "unifyName": "省级主要林木品种审定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000768001000",
+        "rightsId": "8794B3AA91119492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4d287083d883475d9683e514b85d75c6",
+        "unifyName": "文博单位二、三级风险等级认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000768003000",
+        "rightsId": "8794B3AA91139492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "33c087a4ade744f286d4fa9390a61bdd",
+        "unifyName": "全国重点文物保护单位、省级文物保护单位保护范围及建设控制地带的划定并公布",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000768003000",
+        "rightsId": "8794B3AA91139492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f61fd5b8be234f808a1c13d90742db5c",
+        "unifyName": "市级文物保护单位、省级文物保护单位保护范围及建设控制地带的划定并公布",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000768003000",
+        "rightsId": "8794B3AA91139492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f9efe8ffa3344159b6013a549f50988d",
+        "unifyName": "县级文物保护单位保护范围的划定、标志说明和记录档案",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000768004000",
+        "rightsId": "8794B3AA91149492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fbde3d87066c4d32969eded718084cf5",
+        "unifyName": "有争议不可移动文物的裁定、特定文物的认定及文物级别的确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000768004000",
+        "rightsId": "8794B3AA91149492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "23c3440848444a9ba92bebcee9a4210f",
+        "unifyName": "有争议可移动文物的裁定",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000768006000",
+        "rightsId": "8794B3AA91169492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f288eda4cea94028bb1275cc641ff616",
+        "unifyName": "文物认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000768007000",
+        "rightsId": "8794B3AA91179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "df90f0a4e8a34bd1a162af59835eff1f",
+        "unifyName": "全国重点文物保护单位、省级及以下文物保护单位（含省级水下文物保护单位、水下文物保护区）的认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000788002000",
+        "rightsId": "f47abd7edf0e45c1963009064cd85ccd",
+        "transactLevel": "0",
+        "unifyId": "pDHW1RKFRWuig_WGKvOrHw",
+        "unifyName": "全国残疾人按比例就业情况联网认证",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000812001000",
+        "rightsId": "8794B3AA914B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b9651b2c94824c71b62f50cb9bf61270",
+        "unifyName": "对在法律援助工作中作出突出贡献的组织进行表彰奖励",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000812002000",
+        "rightsId": "8794B3AA914C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "04b8baa6b17f4111887277f37813a4c7",
+        "unifyName": "对人民调解委员会和调解员进行表彰奖励",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000812003000",
+        "rightsId": "8794B3AA914D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2a8a364563b245f4888b81bfaa3e3bfd",
+        "unifyName": "对基层法律服务所、基层法律服务工作者进行表彰奖励",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000818001000",
+        "rightsId": "8794B3AA91679492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "nm7xPhMcTe-H0Na1ZnbcPw",
+        "unifyName": "对保护航标单位和个人的奖励",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000818002000",
+        "rightsId": "8794B3AA91689492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "p7hLGKbNTFu2AFtaSyACfg",
+        "unifyName": "对出租汽车经营者和驾驶员先进事迹的表彰和奖励",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000822001000",
+        "rightsId": "8794B3AA91829492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "qUrO6WbaRGO93nkyr3aAxw",
+        "unifyName": "对在艺术档案工作中做出显著成绩的单位和个人的表彰和奖励",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000822002000",
+        "rightsId": "8794B3AA91839492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "avgFeJL4RBGPwJxs6WaUPQ",
+        "unifyName": "对在公共文化体育设施的建设、管理和保护工作中做出突出贡献的单位和个人给与奖励",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000822005000",
+        "rightsId": "8794B3AA91869492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Zg9R2xr_SGehvcR53h2D4Q",
+        "unifyName": "对在农村、工矿企业进行演出以及为少年儿童提供免费或者优惠演出表现突出的文艺表演团体、演员的表彰",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000831011000",
+        "rightsId": "def2765771d24993bf4734354bf8c24d",
+        "transactLevel": "3",
+        "unifyId": "M-QOD8SsRA2TvCkK1wb60Q",
+        "unifyName": "对传销行为举报的奖励",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000875001000",
+        "rightsId": "8794B3AA91DD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "28ad49e761b4486f92e420d2fb48ed25",
+        "unifyName": "对在档案工作中做出显著成绩的单位和个人的表彰或者奖励",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000913001000",
+        "rightsId": "8794B3AA91E39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "mqNn85l9S5KZZ9gobGXpfQ",
+        "unifyName": "政府采购投诉处理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000915002000",
+        "rightsId": "8794B3AA91E59492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "ebdc54ede6d34ab6a8a5f2cf19f9d8c0",
+        "unifyName": "土地权属争议行政调处",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000915002000",
+        "rightsId": "8794B3AA91E59492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "92pMMEaeQeC8odyXRQYSzA",
+        "unifyName": "林木林地权属争议调处",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000915004000",
+        "rightsId": "8794B3AA91E79492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "4261a5c9b97643cdaa4cb01f6436476a",
+        "unifyName": "探矿权属争议调处",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000915005000",
+        "rightsId": "8794B3AA91E89492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "49c622c01f77486898762837f636a3b0",
+        "unifyName": "探矿权人和采矿权人对勘查作业区范围和矿区范围争议的调处",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000918001000",
+        "rightsId": "8794B3AA91EE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "xsX9I5I4RYae18BTFm7wIQ",
+        "unifyName": "裁决客运经营者发车时间安排纠纷",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000923001000",
+        "rightsId": "8794B3AA91F19492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "51dd88baf533433b8407c0a360924764",
+        "unifyName": "医疗机构名称裁定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000931001000",
+        "rightsId": "8794B3AA91F29492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "26f43b6c94a542978f310da6723bad47",
+        "unifyName": "对企业名称争议的裁决",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000931002000",
+        "rightsId": "8794B3AA91F39492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "Ej9ieYZzT9ujXgozNICjzg",
+        "unifyName": "对计量纠纷的调解和仲裁检定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000939001000",
+        "rightsId": "8794B3AA91F69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "74efe423d04d483991371a6383908960",
+        "unifyName": "对图书质量复检异议的裁决",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "001011002000",
+        "rightsId": "8794B3AA91FE9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "350e2f575596437db4d1bf53077a2cd7",
+        "unifyName": "慈善信托备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001011003000",
+        "rightsId": "8794B3AA91FF9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "742ebabd52e841349c929a5b9910325a",
+        "unifyName": "养老机构备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001011016000",
+        "rightsId": "47185b43091d4852be73edc44824afae",
+        "transactLevel": "0",
+        "unifyId": "b4DuLs25TT-8loSApyQWUg",
+        "unifyName": "地名命名、更名审批或审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001013001000",
+        "rightsId": "8794B3AA92009492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2dbjXodCQq6Oo4VM6ec8Bw",
+        "unifyName": "资产评估机构以及分支机构的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "001015002000",
+        "rightsId": "8794B3AA92029492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "uuTB4JPaS3eu_Xtvyjo2Rg",
+        "unifyName": "土地复垦验收确认",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001015005000",
+        "rightsId": "8794B3AA92059492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "58688ed5ce6246a59d4a1bbbebf8f2be",
+        "unifyName": "卫星导航定位基准站建设备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001015006000",
+        "rightsId": "8794B3AA92069492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3f45268575784a1a8bd9e41c748e081b",
+        "unifyName": "测绘作业证办理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001015008000",
+        "rightsId": "a0152ee2b3134df492c65afa4001513f",
+        "transactLevel": "0",
+        "unifyId": "ulWYmZZ5SqStDTmmKoU8jA",
+        "unifyName": "重要地理信息数据审核公布",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017001000",
+        "rightsId": "8794B3AA92089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "69f6d914ae314672bd6a9db2bf3fe970",
+        "unifyName": "房地产估价机构备案登记-备案标注等级",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "001017001000",
+        "rightsId": "8794B3AA92089492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "9add2e4ea45c4539bff53b90371cab4f",
+        "unifyName": "房地产估价机构备案证书-注销",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017001000",
+        "rightsId": "8794B3AA92089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "NOIF-EwkRJ2bATk_12j5XA",
+        "unifyName": "房地产估价机构备案证书-注册地址、注册资金、企业名称变更",
+        "ywCode": "03"
+      }
+    ],
+    "pageIndex": 35,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

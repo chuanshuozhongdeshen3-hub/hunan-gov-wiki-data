@@ -1,0 +1,514 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000104002000",
+        "rightsId": "8794B3AA85659492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8429b6f7ed40446f8b314fc2fa5e665f",
+        "unifyName": "固定资产投资项目节能审查和碳排放评价",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000104008000",
+        "rightsId": "8794B3AA856B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d0b71350294c4a2994bfe9f47dc98999",
+        "unifyName": "大中型水利工程移民安置规划审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000104008000",
+        "rightsId": "8794B3AA856B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8eb3f88581e7460c95d5893cc2f0d457",
+        "unifyName": "大中型水电工程移民安置规划审核",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119002000",
+        "rightsId": "8794B3AA879D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "032158bf9e4a4c458b8e1dc16e87da33",
+        "unifyName": "新建水库初步设计审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119002000",
+        "rightsId": "8794B3AA879D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9f369395698a47c7b61700ee4a972b49",
+        "unifyName": "病险水库、病险水闸除险加固初步设计文件审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119002000",
+        "rightsId": "8794B3AA879D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e92a395a1d84412caa911fbc16be4277",
+        "unifyName": "堤防工程初步设计文件审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000160001000",
+        "rightsId": "8794B3AA8C4A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "10e6e25ce5e8406f866986c8e431e4be",
+        "unifyName": "煤矿建设项目初步设计文件审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000721001000",
+        "rightsId": "8794B3AA90629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2d96a9113efd40d0832d70541c431e81",
+        "unifyName": "台湾投资者经第三地转投资认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000721004000",
+        "rightsId": "8794B3AA90659492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4d12c01ab7d1486fb5aeafe78ceb135b",
+        "unifyName": "鼓励类外商投资项目进口设备减免税确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014005001",
+        "rightsId": "8794B3AA92B39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9247a46b770d468aa9a174cdffdb154e",
+        "unifyName": "企业职工养老保险单位参保证明查询打印",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004004W00",
+        "rightsId": "2ynMIOJtTi21goDIFW3Q3Q",
+        "transactLevel": "0",
+        "unifyId": "fn6cLCErTtC_bEM60xoX_A",
+        "unifyName": "企业投资项目备案（汽车整车（含专用汽车）投资项目除外）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004004W00",
+        "rightsId": "2ynMIOJtTi21goDIFW3Q3Q",
+        "transactLevel": "0",
+        "unifyId": "KKfPYUpMTrC3JNBVf1fS_A",
+        "unifyName": "汽车整车（含专用汽车）投资项目备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004067W00",
+        "rightsId": "I0UVIYHFSRe0lKkVvRqXHA",
+        "transactLevel": "0",
+        "unifyId": "adedf46bb510474c98222116ce616700",
+        "unifyName": "市县级政府出资资金申请报告审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004067W00",
+        "rightsId": "I0UVIYHFSRe0lKkVvRqXHA",
+        "transactLevel": "0",
+        "unifyId": "6V7i4y9USWCzjTh0ukiAcA",
+        "unifyName": "省级政府出资资金申请报告审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004083W00",
+        "rightsId": "1ukEIMcGTjyNkEaCMAs6Pg",
+        "transactLevel": "0",
+        "unifyId": "6OZ0fxr2R9qe79Qxn9Cjag",
+        "unifyName": "权限内省预算内基建投资及专项资金安排",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004110W00",
+        "rightsId": "70F599A56158ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "29c3be9982d5419f8a2ab9377becf503",
+        "unifyName": "权限内市政基础设施项目概算审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004110W00",
+        "rightsId": "70F599A56158ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "c22086b4d8754da0855f49f7710eaf50",
+        "unifyName": "权限内政府投资林业项目概算审查",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004110W00",
+        "rightsId": "70F599A56158ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "b8f2bf0420c744fc97ca3cdff98a3c96",
+        "unifyName": "权限内教育、公立医疗卫生机构、文化、民政、体育、退役军人等投资项目概算审查",
+        "ywCode": "12"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004110W00",
+        "rightsId": "70F599A56158ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "dd3e4b8a9e77406994186465f3410a42",
+        "unifyName": "权限内新建公路项目概算审查",
+        "ywCode": "13"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004110W00",
+        "rightsId": "70F599A56158ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "a6071825ce0c4416b01afd773b87877d",
+        "unifyName": "权限内党政机关及所属二级单位事业发展基本建设项目、政法基础设施项目（含省以下法检两院）、党政机关办公用房等项目概算审查",
+        "ywCode": "14"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004110W00",
+        "rightsId": "70F599A56158ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "930416f445744d5986dcb83f99a76ee7",
+        "unifyName": "权限内新建水运项目概算审查",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004110W00",
+        "rightsId": "70F599A56158ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "9e406218dae24338af4d6d1e8b602405",
+        "unifyName": "权限内新建铁路项目概算审查",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004110W00",
+        "rightsId": "70F599A56158ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "8202a66aba73480aaff4a478466c4051",
+        "unifyName": "权限内新建城市快速轨道交通项目概算审查",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004110W00",
+        "rightsId": "70F599A56158ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "9cec1d20f7c24d84a68e8a9792221cad",
+        "unifyName": "权限内新建通用机场项目概算审查",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004110W00",
+        "rightsId": "70F599A56158ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "2d5561e627eb4bfab1af3e761330d066",
+        "unifyName": "权限内农村电网巩固提升项目概算审查",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004110W00",
+        "rightsId": "70F599A56158ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "38ae7b7b8b154e76ada75ddc67dbb446",
+        "unifyName": "权限内改扩建运输机场（增建跑道除外）项目概算审查",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004110W00",
+        "rightsId": "70F599A56158ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "d0a86b701bad4409a79af9c01b222573",
+        "unifyName": "权限内政府投资水利项目概算审查",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004110W00",
+        "rightsId": "70F599A56158ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "962e8f942cc148799035931e451182d5",
+        "unifyName": "权限内政府投资农业项目概算审查",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "4aab7984f4e345eabfa1a6a13af1430c",
+        "unifyName": "权限内市政基础设施项目建议书审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "857ba929005c4be197d49817ed8a183f",
+        "unifyName": "权限内政府投资水利项目建议书审批",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "eb8b768ea5544566bcc14f19b9000076",
+        "unifyName": "权限内政府投资水利项目可行性研究报告审批",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "5216a5eaddfd4c3ea68da3682f3e75fa",
+        "unifyName": "权限内政府投资农业项目建议书审批",
+        "ywCode": "12"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "88db50175da64514bba1aebc91136d63",
+        "unifyName": "权限内政府投资农业项目可行性研究报告审批",
+        "ywCode": "13"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "7d704922e5f24b1a8a83bae7c8d410bb",
+        "unifyName": "权限内政府投资林业项目建议书审批",
+        "ywCode": "14"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "fb1389b9473b48649014a302db68ba3a",
+        "unifyName": "权限内政府投资林业项目可行性研究报告审批",
+        "ywCode": "15"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "237b8e8949a6462792bd3a24eb60efef",
+        "unifyName": "权限内教育、公立医疗卫生机构、文化、民政、体育、退役军人等投资项目可行性研究报告审批",
+        "ywCode": "16"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "0e02240bd1ac486dbfcdbcab80113793",
+        "unifyName": "农村电网巩固提升工程可行性研究报告审批",
+        "ywCode": "17"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "8b404493576d442cb65c9addc04210b8",
+        "unifyName": "权限内新建公路项目可行性研究报告审批",
+        "ywCode": "18"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "66fc64ddceb84cd8a0dd6a28d60bfd09",
+        "unifyName": "权限内市政基础设施项目可行性研究报告审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "5e4567a1e3464d6d9138d0f7d15bcfab",
+        "unifyName": "权限内党政机关及所属二级单位事业发展基本建设项目、政法基础设施项目（含省以下法检两院）、党政机关办公用房等项目建议书审批",
+        "ywCode": "20"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "a80932d9a0a64338bb715c8cd00fcdb8",
+        "unifyName": "权限内党政机关及所属二级单位事业发展基本建设项目、政法基础设施项目（含省以下法检两院）、党政机关办公用房等项目可行性研究报告审批",
+        "ywCode": "21"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "AW-YwHyPS42XWlnfTtzL6A",
+        "unifyName": "权限内教育、公立医疗卫生机构、文化、民政、体育、退役军人等项目建议书审批",
+        "ywCode": "22"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "Y_IsXY_CSd-2SlXiWho4Eg",
+        "unifyName": "政府投资项目建议书审批",
+        "ywCode": "23"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "dd0baa009f354d4db2d87f50e6c4d732",
+        "unifyName": "新建通用机场项目建议书审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "d304585dde34435abb3b2d8c26e2523f",
+        "unifyName": "新建通用机场项目可行性研究报告审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "7d17fa0965e04443a36db6ee85f5ce5f",
+        "unifyName": "权限内改扩建运输机场（增建跑道除外）项目建议书审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "034d8748cfee4bc2b866124be472c95e",
+        "unifyName": "权限内改扩建运输机场（增建跑道除外）项目可行性研究报告审批",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "050ab43cc3d944c4a652d82c05436bb7",
+        "unifyName": "水运项目审批",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "76e0a6beeb8b49ebb9b28a290f23701f",
+        "unifyName": "权限内新建铁路项目可行性研究报告审批",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431004129W00",
+        "rightsId": "25BabG8BS1adtCC0o3LVIQ",
+        "transactLevel": "0",
+        "unifyId": "4e4f22877e7c49a7a359b9c49658f735",
+        "unifyName": "权限内新建城市快速轨道交通项目可行性研究报告审批",
+        "ywCode": "09"
+      }
+    ],
+    "pageIndex": 2,
+    "pageSize": 50,
+    "total": 106,
+    "totalPage": 3
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

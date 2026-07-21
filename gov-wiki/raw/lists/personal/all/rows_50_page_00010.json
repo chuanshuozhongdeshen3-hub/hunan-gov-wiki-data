@@ -1,0 +1,518 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6A3Nqn3SSp2hevBBEJFSOg",
+        "unifyName": "公共场所卫生许可（补办）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0035618e34d44e49b3aa1e550c4cc34b",
+        "unifyName": "公共场所卫生许可（注销）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4478a42c6ed548e684772636c05e394e",
+        "unifyName": "公共场所卫生许可-告知承诺",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123025000",
+        "rightsId": "8794B3AA89339492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "C74Hu-2fRnSkVmkMXWqZ_A",
+        "unifyName": "职业病诊断资格证书核发（新发）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123025000",
+        "rightsId": "8794B3AA89339492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "k1r7Zg90QruKNavtjDrpKQ",
+        "unifyName": "职业病诊断资格证书核发（增加业务范围）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123026000",
+        "rightsId": "8794B3AA89349492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1f7b127747a64ad19bb2bf1e2dea096a",
+        "unifyName": "乡村医生执业注册",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123026000",
+        "rightsId": "8794B3AA89349492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ZaMEpw5CTZ2x7HGkaZJisA",
+        "unifyName": "乡村医生执业变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123026000",
+        "rightsId": "8794B3AA89349492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "CdCWmSYgTvavuIocTKiPqA",
+        "unifyName": "乡村医生执业再注册",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000123039000",
+        "rightsId": "8794B3AA89419492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "WPn_t0HaS6OQycquwbcJjA",
+        "unifyName": "对中医（专长）医师的资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125041001",
+        "rightsId": "94af9607ce914e2b80743fee538d5678",
+        "transactLevel": "0",
+        "unifyId": "aXJhbu_kTsG6xwdGrlkjFw",
+        "unifyName": "煤矿特种作业人员（含煤矿矿井使用的特种设备作业人员）操作资格认定初领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125041001",
+        "rightsId": "94af9607ce914e2b80743fee538d5678",
+        "transactLevel": "0",
+        "unifyId": "g6CpW6aqT4WcxSUC9hQHew",
+        "unifyName": "煤矿特种作业人员（含煤矿矿井使用的特种设备作业人员）操作资格认定复审",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125041001",
+        "rightsId": "94af9607ce914e2b80743fee538d5678",
+        "transactLevel": "0",
+        "unifyId": "eloAeJHAQCKJNdWdcJH2tw",
+        "unifyName": "煤矿特种作业人员（含煤矿矿井使用的特种设备作业人员）操作资格认定换证",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125041002",
+        "rightsId": "8794B3AA89879492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a9-9Jr_dQpqEqjL98Y-eDw",
+        "unifyName": "特种作业人员特种操作证初领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125041002",
+        "rightsId": "8794B3AA89879492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "gYSzvPKnTb2IKdGQda1kxg",
+        "unifyName": "特种作业人员特种操作证复审",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125041002",
+        "rightsId": "8794B3AA89879492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a-jWWdo9RCGLwQbkQWpF-g",
+        "unifyName": "特种作业人员特种操作证换证",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125046002",
+        "rightsId": "8794B3AA898E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "qbKtyQtbQw-hcboBgHqL3Q",
+        "unifyName": "烟花爆竹经营（零售）许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125046002",
+        "rightsId": "8794B3AA898E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "By-NGtP-QI-vdqV3bnsVAA",
+        "unifyName": "烟花爆竹经营（零售）变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125046002",
+        "rightsId": "8794B3AA898E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "VQeYI4B0RamZ16o7TSLeYg",
+        "unifyName": "烟花爆竹经营（零售）延期",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125047002",
+        "rightsId": "321b644f9f1e4b34ba8b37a30597e12f",
+        "transactLevel": "0",
+        "unifyId": "f725e1b6eab347afa30bcfe14a451b75",
+        "unifyName": "一级注册消防工程师初始注册审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125047002",
+        "rightsId": "321b644f9f1e4b34ba8b37a30597e12f",
+        "transactLevel": "0",
+        "unifyId": "4abbed2b0ff34bc99d97400ae425a68d",
+        "unifyName": "一级注册消防工程师变更注册审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125047002",
+        "rightsId": "321b644f9f1e4b34ba8b37a30597e12f",
+        "transactLevel": "0",
+        "unifyId": "445610bd98c44000afd7ef8fc9af0fbe",
+        "unifyName": "一级注册消防工程师注销注册审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125047002",
+        "rightsId": "321b644f9f1e4b34ba8b37a30597e12f",
+        "transactLevel": "0",
+        "unifyId": "5064ebcf0aa244fd828f14babdccf9fb",
+        "unifyName": "一级注册消防工程师延续注册审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125047002",
+        "rightsId": "321b644f9f1e4b34ba8b37a30597e12f",
+        "transactLevel": "0",
+        "unifyId": "f57ffe11f329451cb3151d822220bc3c",
+        "unifyName": "一级注册消防工程师证章补办/更换",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125049000",
+        "rightsId": "8794B3AA89939492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "99f103485468485ba9b62f9b04de95bf",
+        "unifyName": "公众聚集场所投入使用、营业前消防安全检查（一般流程）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125049000",
+        "rightsId": "8794B3AA89939492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ad8127c644af4a91bca66c688bbae0a5",
+        "unifyName": "公众聚集场所投入使用、营业前消防安全检查（告知承诺制流程）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b788452f2bf64bfeac939abcbcd572a1",
+        "unifyName": "个人独资企业设立登记",
+        "ywCode": "21"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ff1BCfW7TKqR-jZGoEJV6g",
+        "unifyName": "公司设立登记",
+        "ywCode": "62"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131004000",
+        "rightsId": "8794B3AA89E79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b2efac1cd2b94187a0b7599a8bbd2961",
+        "unifyName": "个体工商户设立登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131004000",
+        "rightsId": "8794B3AA89E79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "385f9a98d3f24c29af66d0c04fe2704f",
+        "unifyName": "个体工商户变更登记",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131004000",
+        "rightsId": "8794B3AA89E79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4a961bc800b14a4b9e6cf69fd78b0540",
+        "unifyName": "个体工商户注销登记",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131005000",
+        "rightsId": "8794B3AA89E89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3785d41d6fdb4937b41976ea11bac514",
+        "unifyName": "农民专业合作社（联合社）设立登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131009000",
+        "rightsId": "8794B3AA89EC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e1284941cf5644749fef22559e1ea16a",
+        "unifyName": "《特种设备检验、检测人员资格认定》新办",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131009000",
+        "rightsId": "8794B3AA89EC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f003ce6f39a94b2db86e922bec234394",
+        "unifyName": "《特种设备检验、检测人员资格认定》延续",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131009000",
+        "rightsId": "8794B3AA89EC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "635594e425064b558f27b1bb58396b1b",
+        "unifyName": "《特种设备检验、检测人员资格认定》补考或补证",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131009000",
+        "rightsId": "8794B3AA89EC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "84fce71cb7b34c1e9f5820610841d533",
+        "unifyName": "《特种设备检验、检测人员资格认定》注销",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131011000",
+        "rightsId": "8794B3AA89EE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f3142d73af784e038b6c747e7a4eca96",
+        "unifyName": "《特种设备使用登记》新办",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131011000",
+        "rightsId": "8794B3AA89EE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "24f5983f8b4647dd956ee83fea0ef2ee",
+        "unifyName": "《特种设备使用登记》补证登记",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131026000",
+        "rightsId": "8794B3AA89FD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1039420480d04100944ad22bd8912127",
+        "unifyName": "保健食品广告审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131027000",
+        "rightsId": "8794B3AA89FE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "87c74aeb9e1341b5a5d0701dadfe8535",
+        "unifyName": "特殊医学用途配方食品广告审查",
+        "ywCode": "01"
+      },
+      {
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131033000",
+        "rightsId": "2007b48644614cd3b7711b4e9bc3ff65",
+        "transactLevel": "0",
+        "unifyId": "47j4Qkt9QeO12uFllAPMqA",
+        "unifyName": "特种设备作业人员新办",
+        "ywCode": "01"
+      },
+      {
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131033000",
+        "rightsId": "2007b48644614cd3b7711b4e9bc3ff65",
+        "transactLevel": "0",
+        "unifyId": "MK0gzScoR7CalAdFB-B7vQ",
+        "unifyName": "特种设备作业人员延续",
+        "ywCode": "02"
+      },
+      {
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131033000",
+        "rightsId": "2007b48644614cd3b7711b4e9bc3ff65",
+        "transactLevel": "0",
+        "unifyId": "ALcD4V0gR7az0B528UBRLw",
+        "unifyName": "特种设备作业人员补证",
+        "ywCode": "03"
+      },
+      {
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131033000",
+        "rightsId": "2007b48644614cd3b7711b4e9bc3ff65",
+        "transactLevel": "0",
+        "unifyId": "ESLYzf_yQLGSjHCIWA7ySg",
+        "unifyName": "特种设备安全管理人员和作业人员注销",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131034000",
+        "rightsId": "5f1a16ee59d74bac9652cac2d57d6417",
+        "transactLevel": "0",
+        "unifyId": "eXL1fiCcQRiSYKHJPS6ujQ",
+        "unifyName": "药品广告审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131036000",
+        "rightsId": "2aa67820741444658459ebb3cb39f6e9",
+        "transactLevel": "0",
+        "unifyId": "bChcd_jkRx-9x3fffB86Xg",
+        "unifyName": "医疗器械广告审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131039000",
+        "rightsId": "fd2a6ca7f1704739b8f4651ff2b7294c",
+        "transactLevel": "0",
+        "unifyId": "vFK7EeeLRTehJ_I4iBzA8Q",
+        "unifyName": "注册计量师初始注册",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131039000",
+        "rightsId": "fd2a6ca7f1704739b8f4651ff2b7294c",
+        "transactLevel": "0",
+        "unifyId": "hRKQDObQRwKM5x6p3o57Nw",
+        "unifyName": "注册计量师延续注册",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131039000",
+        "rightsId": "fd2a6ca7f1704739b8f4651ff2b7294c",
+        "transactLevel": "0",
+        "unifyId": "RP8powCsTXSCQmrLUGdCIQ",
+        "unifyName": "注册计量师变更注册",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131039000",
+        "rightsId": "fd2a6ca7f1704739b8f4651ff2b7294c",
+        "transactLevel": "0",
+        "unifyId": "jsXburMPR9q5iJhIAHadjQ",
+        "unifyName": "注册计量师注销",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131039000",
+        "rightsId": "fd2a6ca7f1704739b8f4651ff2b7294c",
+        "transactLevel": "0",
+        "unifyId": "NKxE2tw_TK6n7JWHMcBw6A",
+        "unifyName": "注册计量师补证",
+        "ywCode": "05"
+      }
+    ],
+    "pageIndex": 10,
+    "pageSize": 50,
+    "total": 1343,
+    "totalPage": 27
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

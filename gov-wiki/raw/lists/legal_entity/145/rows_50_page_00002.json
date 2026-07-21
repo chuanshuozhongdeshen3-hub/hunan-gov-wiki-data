@@ -1,0 +1,164 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001025006000",
+        "rightsId": "39d8a766acce4975bc245b3eaa2323ce",
+        "transactLevel": "0",
+        "unifyId": "pp2LJa1TS9iW_FfWK5hHzQ",
+        "unifyName": "第二类非药品类易制毒化学品生产备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430104001W00",
+        "rightsId": "-tLZIuf2QU6Vo9s7JXUWOg",
+        "transactLevel": "0",
+        "unifyId": "74eaf35ad205428780c11b1c9773d0fb",
+        "unifyName": "电力设施保护区内作业审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430825003W00",
+        "rightsId": "400411b212d44e53a6d3199401ed24c6",
+        "transactLevel": "0",
+        "unifyId": "9FNzrv-BRtikK9V7lESUjQ",
+        "unifyName": "湖南省森林消防先进集体与个人表彰",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017112W00",
+        "rightsId": "DFxXC_BtTDqGbAgt-W_g5Q",
+        "transactLevel": "0",
+        "unifyId": "1a71e718f44d41c2998baff9301ba138",
+        "unifyName": "建筑起重机械设备产权备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018100W00",
+        "rightsId": "ljNbpF2rSiWzmK27c0bHfw",
+        "transactLevel": "1",
+        "unifyId": "TqMrkzXtRoqsyyX0TgnSng",
+        "unifyName": "危险货物港口重大事故隐患的排查和处理情况备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018173W00",
+        "rightsId": "VnlbeQZKS_m8ls7cuAy07A",
+        "transactLevel": "1",
+        "unifyId": "1Hs88myAQhufgPRSMof8pA",
+        "unifyName": "船舶污染物接收港口服务、港口设施、设备和港口机械的租赁维修业务备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018174W00",
+        "rightsId": "4bnxMuMtStaP73UU9YGp-g",
+        "transactLevel": "1",
+        "unifyId": "bDLbP7EFTMSpfytfX7VWEA",
+        "unifyName": "危险货物港口经营单位应急预案及其修订情况备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018183W00",
+        "rightsId": "NE5w2rXaRUqU8NZRSgOFSg",
+        "transactLevel": "1",
+        "unifyId": "uKC3apf4Qvi0tlWDkrf3Cw",
+        "unifyName": "危险货物港口经营单位重大危险源情况变化备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018184W00",
+        "rightsId": "KrKVCCG1Slin_Nezln5cQA",
+        "transactLevel": "0",
+        "unifyId": "oO7wINERSoKO0e8cwoVOdw",
+        "unifyName": "剧毒化学品以及储存数量构成重大危险源的其他危险货物的储存数量、储存地点以及管理措施、管理人员等情况备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018185W00",
+        "rightsId": "dnhUDKvYQNmI75ue8972Dg",
+        "transactLevel": "1",
+        "unifyId": "mxKHPzqsQ9-CEkLLHHXTmA",
+        "unifyName": "危险货物港口经营单位安全评价报告以及落实情况备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431020080W00",
+        "rightsId": "70F599A55D5AABCFE053681515ACCFDC",
+        "transactLevel": "2",
+        "unifyId": "iLI6WL0bQuSzXq8CFHY1dA",
+        "unifyName": "渔业水域污染事故的调查处理和纠纷调解",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431025002W00",
+        "rightsId": "4de0a0a4e32346b5896e245abca0efdb",
+        "transactLevel": "0",
+        "unifyId": "0kzpx8HXS9GMCazPreDn1Q",
+        "unifyName": "安全评价检测检验机构开展业务书面告知",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431025004W00",
+        "rightsId": "01caa22bb9d84346936f2735eec61b23",
+        "transactLevel": "0",
+        "unifyId": "7iC2WhRaRUeZbP5DDzomfA",
+        "unifyName": "危险化学品重大危险源备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431025008W00",
+        "rightsId": "6d06b73b2ea442e9bb5b3d8cc4b3842d",
+        "transactLevel": "0",
+        "unifyId": "7rVQHS6KQA-A4cmdL97-lA",
+        "unifyName": "生产经营单位应急预案备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431025012W00",
+        "rightsId": "a0fbdeafe62d44f595cd15b550fd00bb",
+        "transactLevel": "0",
+        "unifyId": "b_RkemuPRcCUI_eS16xWEQ",
+        "unifyName": "储存危险化学品的单位对剧毒化学品以及储存数量构成重大危险源的其他危险化学品将其储存数量、储存地点以及管理人员的情况进行备案",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 2,
+    "pageSize": 50,
+    "total": 65,
+    "totalPage": 2
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

@@ -1,0 +1,417 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000104004000",
+        "rightsId": "8794B3AA85679492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ad6349803df24860af7fe33b949bd547",
+        "unifyName": "国家重点建设水电站项目和国家核准（审批）水电站项目竣工验收",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131012000",
+        "rightsId": "8794B3AA89EF9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "JQOGNlEhT561_haXR4hlog",
+        "unifyName": "计量标准首次申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131012000",
+        "rightsId": "8794B3AA89EF9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "BVqZpqn8RcmP421x2NSHcg",
+        "unifyName": "计量标准复查",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131012000",
+        "rightsId": "8794B3AA89EF9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "IHQuPcmrSOCpUrs3l-hBhA",
+        "unifyName": "计量标准变更",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131012000",
+        "rightsId": "8794B3AA89EF9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "RW_2WQjNT0up6m1tN6DDOg",
+        "unifyName": "计量标准补证",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131012000",
+        "rightsId": "8794B3AA89EF9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5Vs7Ff_lSP6VGCp7115ddQ",
+        "unifyName": "计量标准注销",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131013000",
+        "rightsId": "8794B3AA89F09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6tODVlTTR261w4CCxdYllA",
+        "unifyName": "计量器具型式批准申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131013000",
+        "rightsId": "8794B3AA89F09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bopzRq6OSgCblr1PS4dJ9Q",
+        "unifyName": "计量器具型式批准补证",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131013000",
+        "rightsId": "8794B3AA89F09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "WfDOvmeaSc-NhXtAym2lfQ",
+        "unifyName": "计量器具型式批准注销",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131013000",
+        "rightsId": "8794B3AA89F09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "nsq1lJwYSnaMlJRIpB2t1w",
+        "unifyName": "计量器具型式批准变更",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131015000",
+        "rightsId": "8794B3AA89F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cYt9xVg_SDaWpBCZUEWaEQ",
+        "unifyName": "承担国家法定计量检定机构任务授权",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131015000",
+        "rightsId": "8794B3AA89F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "rLQQ-jcbT2mrSmCSkkmBxQ",
+        "unifyName": "法定计量检定机构补证",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131015000",
+        "rightsId": "8794B3AA89F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "EYgUYuOdSjO03qk4uaMTRw",
+        "unifyName": "法定计量检定机构变更",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131015000",
+        "rightsId": "8794B3AA89F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "FZbGXgbvSxitIAhs57Ovlg",
+        "unifyName": "法定计量检定机构注销",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131018000",
+        "rightsId": "8794B3AA89F59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "w6A6AQlKRk6fkKzHIfWXpQ",
+        "unifyName": "检验检测机构资质认定（不含机动车检验领域）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131039000",
+        "rightsId": "fd2a6ca7f1704739b8f4651ff2b7294c",
+        "transactLevel": "0",
+        "unifyId": "vFK7EeeLRTehJ_I4iBzA8Q",
+        "unifyName": "注册计量师初始注册",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131039000",
+        "rightsId": "fd2a6ca7f1704739b8f4651ff2b7294c",
+        "transactLevel": "0",
+        "unifyId": "hRKQDObQRwKM5x6p3o57Nw",
+        "unifyName": "注册计量师延续注册",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131039000",
+        "rightsId": "fd2a6ca7f1704739b8f4651ff2b7294c",
+        "transactLevel": "0",
+        "unifyId": "RP8powCsTXSCQmrLUGdCIQ",
+        "unifyName": "注册计量师变更注册",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131039000",
+        "rightsId": "fd2a6ca7f1704739b8f4651ff2b7294c",
+        "transactLevel": "0",
+        "unifyId": "jsXburMPR9q5iJhIAHadjQ",
+        "unifyName": "注册计量师注销",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131039000",
+        "rightsId": "fd2a6ca7f1704739b8f4651ff2b7294c",
+        "transactLevel": "0",
+        "unifyId": "NKxE2tw_TK6n7JWHMcBw6A",
+        "unifyName": "注册计量师补证",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168001000",
+        "rightsId": "8794B3AA8DB89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "64c3839e9568492896109b593804fe48",
+        "unifyName": "文物拍卖标的审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172002000",
+        "rightsId": "8794B3AA8E499492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "17c9b5b8c00040e59333951aca2f2a62",
+        "unifyName": "国家药监局规定的特殊制剂以外的制剂在本省行政区域内调剂使用审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172002000",
+        "rightsId": "8794B3AA8E499492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "732aa20c00f242989380babbee2423b2",
+        "unifyName": "医疗机构配制制剂品种补充申请",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172004000",
+        "rightsId": "8794B3AA8E4B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f88ae95c09ca4d45a2c6773f6fb24843",
+        "unifyName": "药品批发企业经营许可证补发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000931002000",
+        "rightsId": "8794B3AA91F39492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "Ej9ieYZzT9ujXgozNICjzg",
+        "unifyName": "对计量纠纷的调解和仲裁检定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017001000",
+        "rightsId": "8794B3AA92089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "69f6d914ae314672bd6a9db2bf3fe970",
+        "unifyName": "房地产估价机构备案登记-备案标注等级",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "001017001000",
+        "rightsId": "8794B3AA92089492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "9add2e4ea45c4539bff53b90371cab4f",
+        "unifyName": "房地产估价机构备案证书-注销",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017001000",
+        "rightsId": "8794B3AA92089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "NOIF-EwkRJ2bATk_12j5XA",
+        "unifyName": "房地产估价机构备案证书-注册地址、注册资金、企业名称变更",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017001000",
+        "rightsId": "8794B3AA92089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "QzQHO8ScRE6pFLZPPyIydg",
+        "unifyName": "房地产估价机构备案证书-法定代表人变更",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001021001000",
+        "rightsId": "8794B3AA92179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Vo2u25NySfWNJCxAyov-Mw",
+        "unifyName": "对协议国家的纺织品出口原产地证核发",
+        "ywCode": "01"
+      },
+      {
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430707001W00",
+        "rightsId": "il_fOxNVRe2IY6CQ8-ETuw",
+        "transactLevel": "0",
+        "unifyId": "hjwCi8O_SbC0oZPtcws_qg",
+        "unifyName": "新型墙体材料产品首次认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430707001W00",
+        "rightsId": "il_fOxNVRe2IY6CQ8-ETuw",
+        "transactLevel": "0",
+        "unifyId": "VzMs9GH3RTyJ6xe7TP2PTA",
+        "unifyName": "新型墙体材料产品非首次认定",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430719003W00",
+        "rightsId": "10wgp2bsQeObe3L4OfGILQ",
+        "transactLevel": "0",
+        "unifyId": "6e85125eec4e420a9a81cded9638714a",
+        "unifyName": "水利工程项目划分确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "430831001W00",
+        "rightsId": "8NUhQpOLTx-VD66i2MMHSQ",
+        "transactLevel": "3",
+        "unifyId": "7kPSJ8TKRP-nIrfVTbxsNg",
+        "unifyName": "湖南省省长质量奖",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431019063W00",
+        "rightsId": "oCD-mts-Sp248M_ycED24A",
+        "transactLevel": "0",
+        "unifyId": "3ee3660ecac14252ac8f4d302195ca42",
+        "unifyName": "水利工程质量监督申报手续办理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431019065W00",
+        "rightsId": "tTYAe504QKaqHu0DY_zJfg",
+        "transactLevel": "0",
+        "unifyId": "22bb3cd1fb304f5da526195b0aeebbd8",
+        "unifyName": "水利工程质量监督手续与质量结论登记备案（单位工程）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431019065W00",
+        "rightsId": "tTYAe504QKaqHu0DY_zJfg",
+        "transactLevel": "0",
+        "unifyId": "Tl6ySZ1wRT61dDpX2E5LvQ",
+        "unifyName": "水利工程质量监督手续与质量结论登记备案（分部工程）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068010W00",
+        "rightsId": "961d1da6dd55409c9481ba2852d2d72c",
+        "transactLevel": "0",
+        "unifyId": "e2d43d1425744f629f1b94a65a9dc198",
+        "unifyName": "省级及以上文物保护单位日常保养维护工程备案",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072042W00",
+        "rightsId": "70F599A5595AABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "d2dba38ef4cf44168eb092a16601f858",
+        "unifyName": "非药品生产企业需要使用第二类精神药品原料药（使用咖啡因除外）备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "432031105W00",
+        "rightsId": "972172B56AD88461E053681515ACEDAA",
+        "transactLevel": "3",
+        "unifyId": "ad90948cc44b43b8a10c3b9e3842d165",
+        "unifyName": "标准信息技术服务",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 40,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

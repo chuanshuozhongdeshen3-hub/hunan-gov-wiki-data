@@ -1,0 +1,514 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "639d0dd752fc49f68ed92d250ccb444b",
+        "unifyName": "报纸变更主办单位主体审批的初审",
+        "ywCode": "18"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8d63e802844d4af0b09218d5fca7b981",
+        "unifyName": "报纸变更主管单位名称审批的初审",
+        "ywCode": "19"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6fad8e2b6fd34da290e0602c0432d4b9",
+        "unifyName": "图书出版单位变更名称审批的初审",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b45d89229eab408fadfe6b389b132d5f",
+        "unifyName": "报纸变更主管单位主体审批的初审",
+        "ywCode": "20"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "72067c14aa2e47a4bc2526c6a2868a8b",
+        "unifyName": "创办期刊审批的初审",
+        "ywCode": "21"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b04f09acf90245e68d11eca7d60b8e75",
+        "unifyName": "设立期刊出版单位审批的初审",
+        "ywCode": "22"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "dbc9830e142b489fa8a0e5b26b976032",
+        "unifyName": "期刊变更名称审批的初审",
+        "ywCode": "23"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "def55bcafdfc497e8f969a0c31afc911",
+        "unifyName": "期刊出版单位变更审批的初审",
+        "ywCode": "24"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c8752687f75a4b05a839b24cb2edd101",
+        "unifyName": "期刊变更业务范围审批的初审",
+        "ywCode": "25"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ff23ffbe5b134625937c52f59165888e",
+        "unifyName": "期刊变更主办单位审批的初审",
+        "ywCode": "26"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b3fc000b73e54f489b0839cea079430f",
+        "unifyName": "期刊变更主管单位审批的初审",
+        "ywCode": "27"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "21a743df6d8945cdb7974b99a38d9c20",
+        "unifyName": "设立音像出版单位审批的初审",
+        "ywCode": "28"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "86a338d700c344cf9b1d81fc0d24e4c0",
+        "unifyName": "音像出版单位变更名称审批的初审",
+        "ywCode": "29"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "04508682406f40ed998ac519bdc68c02",
+        "unifyName": "图书出版单位变更业务范围审批的初审",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "12fbf75fc9ac4d68be100748de9a5352",
+        "unifyName": "音像出版单位变更业务范围审批的初审",
+        "ywCode": "30"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a5e35bac81834c7d977ae36e63c051fd",
+        "unifyName": "音像出版单位变更主办单位名称审批的初审",
+        "ywCode": "31"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e525cbd990834262930f95e51d242dd5",
+        "unifyName": "音像出版单位变更主办单位主体审批的初审",
+        "ywCode": "32"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d88291f050a94bb895aee232502dc529",
+        "unifyName": "音像出版单位变更主管单位名称审批的初审",
+        "ywCode": "33"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "23d95555721e4a7d91851712dfcf73d5",
+        "unifyName": "音像出版单位变更主管单位主体审批的初审",
+        "ywCode": "34"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "79a4d90017184f72b079f34efa23bdbe",
+        "unifyName": "音像出版单位合并后不设立新的音像出版单位合并审批的初审",
+        "ywCode": "35"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1d51ca466f5944a29833d5ba4a0d3baf",
+        "unifyName": "音像出版单位合并后设立新的音像出版单位合并审批的初审",
+        "ywCode": "36"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1f8a02fc3c984f88a919613daa4181a4",
+        "unifyName": "音像出版单位分立审批的初审",
+        "ywCode": "37"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2a5d3dc93a5241ceb862bb54885644be",
+        "unifyName": "设立电子出版物出版单位审批的初审",
+        "ywCode": "38"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "36968438ef7640c2b03edae6dbc64151",
+        "unifyName": "电子出版物出版单位变更名称审批的初审",
+        "ywCode": "39"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "63572258622641f1b015da8647a1cba2",
+        "unifyName": "图书出版单位变更主办单位审批（主体变更）的初审",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0235d1a0ff414fbeb45580d748543283",
+        "unifyName": "电子出版物出版单位变更业务范围审批的初审",
+        "ywCode": "40"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d1429f6c84e74ee0b3b94957bb2c7ba8",
+        "unifyName": "电子出版物出版单位变更主办单位名称审批的初审",
+        "ywCode": "41"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "58e649ffc24e47bc93a12055e2cb9590",
+        "unifyName": "电子出版物出版单位变更主办单位主体审批的初审",
+        "ywCode": "42"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d69ca8ebcb0649b1bcfc930fabe423b6",
+        "unifyName": "电子出版物出版单位变更主管单位名称审批的初审",
+        "ywCode": "43"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "66465c301f4c46b2bd4f764642c4e51d",
+        "unifyName": "电子出版物出版单位变更主管单位主体审批的初审",
+        "ywCode": "44"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4471091006ab46fbb0db465f2c0f9e4a",
+        "unifyName": "电子出版物出版单位合并后不设立新的电子出版物出版单位合并审批的初审",
+        "ywCode": "45"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f6b6dc7c1fe847c4a708a59909a3f069",
+        "unifyName": "电子出版物出版单位合并后设立新的电子出版物出版单位合并审批的初审",
+        "ywCode": "46"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7cae65c5546748dc966de2ec1d7e9c00",
+        "unifyName": "电子出版物出版单位分立审批的初审",
+        "ywCode": "47"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c4d0dacb2cab44319fa8ce050f19075e",
+        "unifyName": "出版连续型电子出版物审批的初审",
+        "ywCode": "48"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d5255a07ac844ac1a8ab3d69cbea4d6f",
+        "unifyName": "变更连续型电子出版物审批的初审",
+        "ywCode": "49"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5083b145b4db4bd3a6a97cbb2469f013",
+        "unifyName": "图书出版单位变更主办单位审批（名称变更）的初审",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3959d9c8b12a4c9e9827b64631178180",
+        "unifyName": "设立网络出版服务单位审批的初审",
+        "ywCode": "50"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bd8f35d4271e4636a615e6f17e762119",
+        "unifyName": "图书出版单位申请网络出版服务许可的初审",
+        "ywCode": "51"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2cea97bdd2b348bc9fb956cbae6354a9",
+        "unifyName": "报纸出版单位申请网络出版服务许可的初审",
+        "ywCode": "52"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1f80f1c165394473b9c719c1d13ea0f8",
+        "unifyName": "期刊出版单位申请网络出版服务许可的初审",
+        "ywCode": "53"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9b8fcead66a44b66968f1f15dd748005",
+        "unifyName": "音像出版单位申请网络出版服务许可的初审",
+        "ywCode": "54"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "099bb1dafb25405fbdc24add173cf607",
+        "unifyName": "电子出版物出版单位申请网络出版服务许可的初审",
+        "ywCode": "55"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fb88402d8d2949189da0a7e9d698ca90",
+        "unifyName": "网络出版服务机构变更名称审批的初审",
+        "ywCode": "56"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0f57d39742ab4e54a022d40e4c65986a",
+        "unifyName": "网络出版服务机构变更业务范围审批的初审",
+        "ywCode": "57"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1d691c5d007249119f33034abb2e2a99",
+        "unifyName": "图书出版单位变更资本结构审批的初审",
+        "ywCode": "58"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "80f7a0cd259e4df4ae0596e7c0942600",
+        "unifyName": "报纸出版单位变更资本结构审批的初审",
+        "ywCode": "59"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "51fdc24dff914013a3600461a47be0e4",
+        "unifyName": "图书出版单位变更主管单位审批（主体变更）的初审",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1356cd4adeb04e9087c5cb2b57080e68",
+        "unifyName": "期刊出版单位变更资本结构审批的初审",
+        "ywCode": "60"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b1a1d10e306448f69ce4cde0dfbcaee3",
+        "unifyName": "电子出版物出版单位变更资本结构审批的初审",
+        "ywCode": "61"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8a99bf4858fe406896b92420f8f14f64",
+        "unifyName": "网络出版服务单位变更资本结构审批的初审",
+        "ywCode": "62"
+      }
+    ],
+    "pageIndex": 25,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

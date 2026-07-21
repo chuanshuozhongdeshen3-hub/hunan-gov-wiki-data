@@ -1,0 +1,265 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017195W00",
+        "rightsId": "MO1NdZELQrSlCy1iNUJ_bg",
+        "transactLevel": "0",
+        "unifyId": "Z5N9QOEsRnCH8wS8F7sMOA",
+        "unifyName": "白蚁预防证明文件核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431017203W00",
+        "rightsId": "Fj6UWrMbSM-EZziJVhRQ_g",
+        "transactLevel": "2",
+        "unifyId": "dJYqbLhMR8iFUL5V4wmgiQ",
+        "unifyName": "燃气经营企业停业、歇业审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432014001W01",
+        "rightsId": "97D2163705441FADE053681515AC8963",
+        "transactLevel": "0",
+        "unifyId": "CNitJZDoSSyh9Di3aiB_0Q",
+        "unifyName": "企业职工基本养老保险退休人员关系终止及相关待遇申领（丧失国籍）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "43201400EW00",
+        "rightsId": "iByIhXBJTlGdD-cXJ608RQ",
+        "transactLevel": "0",
+        "unifyId": "01a0d1fed0d8476ca5dcac7b4a7acd60",
+        "unifyName": "职业年金记实申请（财政请款）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "43201400EW00",
+        "rightsId": "iByIhXBJTlGdD-cXJ608RQ",
+        "transactLevel": "0",
+        "unifyId": "RjN4SI6QSzeWk2hg4-q8Dg",
+        "unifyName": "职业年金记实申请（税务征收）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "43201400EW00",
+        "rightsId": "iByIhXBJTlGdD-cXJ608RQ",
+        "transactLevel": "0",
+        "unifyId": "HVg5BYDMQD6hr_FlSrXWQw",
+        "unifyName": "财政提前审核职业年金记实人员标识",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "43201400GW00",
+        "rightsId": "t94q3YyMRq-lJuR5_raRxQ",
+        "transactLevel": "0",
+        "unifyId": "0da172a3c07d4559bdaed93eeb1da302",
+        "unifyName": "职业年金补记申请（财政请款）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "43201400GW00",
+        "rightsId": "t94q3YyMRq-lJuR5_raRxQ",
+        "transactLevel": "0",
+        "unifyId": "Rzp1ekfpRzuTVDl6S-iqAQ",
+        "unifyName": "职业年金补记申请（税务征收）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "43201400GW00",
+        "rightsId": "t94q3YyMRq-lJuR5_raRxQ",
+        "transactLevel": "3",
+        "unifyId": "HCgd4m_NTfWJTyfvchcKCw",
+        "unifyName": "职业年金利息补缴",
+        "ywCode": "03"
+      },
+      {
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036002W02",
+        "rightsId": "h2FQeOAFTbiD3E0bTmmHmA",
+        "transactLevel": "0",
+        "unifyId": "dqtcqfELQ06JurYI66C6Gg",
+        "unifyName": "生育津贴支付",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036002W03",
+        "rightsId": "Nvb6T7ebRz2UCsf1QIFrOA",
+        "transactLevel": "0",
+        "unifyId": "HxiYfRVKQTGjVdGHAl8Ljw",
+        "unifyName": "生育医疗待遇支付",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036003W01",
+        "rightsId": "9737EDC65341FE39E053681515ACF127",
+        "transactLevel": "0",
+        "unifyId": "WuYKgub_Q2STHjzgPdexmA",
+        "unifyName": "参保单位参保信息查询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W01",
+        "rightsId": "98230378981C4362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "tz3ob_olQwmmtVYfHJajaw",
+        "unifyName": "单位参保登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W01",
+        "rightsId": "98230378981C4362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "w6bUXPtGQnGnVYrePKdsMQ",
+        "unifyName": "单位注销登记",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W02",
+        "rightsId": "98230378981D4362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "tK6dAbgjQSqzYBgvZaSNZg",
+        "unifyName": "职工增加登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W02",
+        "rightsId": "98230378981D4362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "x9XF5SnMTEeESPm7RWzE_g",
+        "unifyName": "职工减少登记（暂停参保）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W02",
+        "rightsId": "98230378981D4362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "LKU-lEobSo6mTClVGR7_Rg",
+        "unifyName": "在职转退休",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W02",
+        "rightsId": "98230378981D4362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "vvwxFe4ASNmBtS0J6pgOpw",
+        "unifyName": "职工减少登记（终止参保）",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W04",
+        "rightsId": "xb5DFRe_RqeHaYPO_P8a_g",
+        "transactLevel": "0",
+        "unifyId": "MvhqnjfaT-u0-Nw-52ZOLg",
+        "unifyName": "职工参保信息变更登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W05",
+        "rightsId": "ulEbSwbmRleyKMAj0oHabQ",
+        "transactLevel": "0",
+        "unifyId": "6iN0h2nTQZqzjc4HyQ9BBg",
+        "unifyName": "单位参保信息变更登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036006W08",
+        "rightsId": "3EALYXqkSzC_jFWky8ZIUw",
+        "transactLevel": "0",
+        "unifyId": "11WTqDUyTGqenwPodiDVig",
+        "unifyName": "法定断档补缴",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036009W01",
+        "rightsId": "9823037898294362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "01795fa9f4024378ba082a13e687b587",
+        "unifyName": "医疗机构申请定点协议管理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432036009W02",
+        "rightsId": "98230378982A4362E053681515ACD02D",
+        "transactLevel": "0",
+        "unifyId": "fe9971525833420198b00f88ef76b782",
+        "unifyName": "零售药店申请定点协议管理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "432036011W07",
+        "rightsId": "PkiGC1yIQR-05HxResuLVQ",
+        "transactLevel": "2",
+        "unifyId": "R_J9nkj6Te-nUDH2k6b30A",
+        "unifyName": "住院费用报销",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "432036011W08",
+        "rightsId": "BE7eVzQFTYyN2y0w3MobAg",
+        "transactLevel": "2",
+        "unifyId": "5W4Sy1iESzaI7nY2GrfMFg",
+        "unifyName": "门诊费用报销",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 3,
+    "pageSize": 50,
+    "total": 125,
+    "totalPage": 3
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

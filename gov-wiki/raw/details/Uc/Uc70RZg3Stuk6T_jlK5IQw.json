@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "data": {
+    "acceptanceCondition": "船舶进出港口前报告",
+    "according": "（一）《中华人民共和国港口法》第三十四条第一款：船舶进出港口，应当依照有关水上交通安全的法律、行政法规的规定向海事管理机构报告。海事管理机构接到报告后，应当及时通报港口行政管理部门。\n（二）《中华人民共和国内河交通安全管理条例》第十八条：船舶进出内河港口，应当向海事管理机构报告船舶的航次计划、适航状态、船员配备和载货载客等情况。\n（三）《中华人民共和国船舶安全监督规则》第十条中国籍船舶在我国管辖水域内航行应当按照规定实施船舶进出港报告。\n第十一条船舶应当在预计离港或者抵港4小时前向将要离泊或者抵达港口的海事管理机构报告进出港信息。航程不足4小时的，在驶离上一港口时报告。\n船舶在固定航线航行且单次航程不超过2小时的，可以每天至少报告一次进出港信息。\n船舶应当对报告的完整性和真实性负责。\n第十二条船舶报告的进出港信息应当包括航次动态、在船人员信息、客货载运信息、拟抵离时间和地点等。\n第十三条船舶可以通过互联网、传真、短信等方式报告船舶进出港信息，并在船舶航海或者航行日志内作相应的记载。\n（四）《中华人民共和国高速客船安全管理规则》第二十六条：高速客船应当按规定办理进出港口手续。国内航行的高速客船应当按规定办理进出港报告手续。国际航行的高速客船可申请不超过7天的定期进出口岸许可证。",
+    "applicantDuty": "应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。",
+    "applicantPower": "依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。",
+    "approveLimit": "1",
+    "approveLimitExplain": "无",
+    "blbm": "省、市级交通运输部门",
+    "commitmentLimit": "1",
+    "commitmentLimitExplain": "无",
+    "deptName": "交通运输部门",
+    "doScope": "全市",
+    "isCharge": "否",
+    "isIntermediaryServices": "无",
+    "isSpecialProcedure": "否",
+    "isonline": "是",
+    "lctList": [
+      {
+        "approveCode": "Uc70RZg3Stuk6T_jlK5IQw",
+        "approveId": "Uc70RZg3Stuk6T_jlK5IQw",
+        "createTime": 1569481225000,
+        "flowc": "approve/2019-09-26/1569481225520$$船舶进出港口报告流程图.png",
+        "id": "2ff50ad2d925470a895b28af00012198",
+        "isDelete": "0",
+        "isExchange": "Y",
+        "operateFlag": "N"
+      }
+    ],
+    "materialList": [
+      {
+        "acceptStandard": "真实有效",
+        "bylaw": "中华人民共和国内河安全管理条例",
+        "commitWay": "网上提交",
+        "copiesNum": 1.0,
+        "createDate": 1626311303000,
+        "freeSubmission": "无",
+        "isDelete": "N",
+        "isMust": "必要",
+        "materialApproveType": "其他",
+        "materialCode": "M0007180080000101",
+        "materialExplain": "填写船舶名称、身份证明、手机号码、营运证信息（如有）",
+        "materialId": "7d47d99c21f34a579d9bb2810f3de157",
+        "materialStandard": "电子",
+        "materialTitle": "船舶注册资料",
+        "materialType": "原件",
+        "pageformat": "A4",
+        "sourceChannel": "政府部门核发",
+        "sourceexplain": "政府网站、自行下载APP",
+        "unifyId": "Uc70RZg3Stuk6T_jlK5IQw",
+        "updateDate": 1668659565000
+      }
+    ],
+    "minExplain": "四级标准说明：该事项已经实现全程网办，申请人可以通过网络提交和补正相关申请信息和材料，提交的材料全部为已验证信息，受理通过后直接进入办理程序，申请人可网上查询办理状态、咨询问题，作出审批决定后，申请人可以通过网上缴费后物流递送证书结果。整个办事过程无需到现场办理。",
+    "minSeq": "0",
+    "orgId": "9a3c0b9b8fc446bba5f536dcada7dc23",
+    "orgName": "湖南省交通运输厅",
+    "processDescript": "无",
+    "quantitativeRestriction": "暂无数量限制",
+    "resultList": [
+      {
+        "approveCode": "Uc70RZg3Stuk6T_jlK5IQw",
+        "approveId": "Uc70RZg3Stuk6T_jlK5IQw",
+        "bucketName": "zwfw202111",
+        "createTime": 1637032007000,
+        "extend": "png",
+        "fileName": "船舶进出港报告.png",
+        "id": "D0E0374BFF3A7CCEE053681515ACF071",
+        "isDelete": "0",
+        "isExchange": "Y",
+        "isNeed": "N",
+        "operateFlag": "N",
+        "resultChart": "approve/2021-11-16-11/1637032007542$$船舶进出港报告.png",
+        "resultSampleName": "出港报告"
+      }
+    ],
+    "resultSampleName": "出港报告",
+    "rightsCode": "000718008000",
+    "rightsId": "8794B3AA90349492E053681515ACDDA6",
+    "schemeLevels": "省、市",
+    "serveObject": "个人/法人",
+    "transactLevel": "四级标准",
+    "transactionFrom": "网上办理",
+    "typeName": "行政确认",
+    "unifyId": "Uc70RZg3Stuk6T_jlK5IQw",
+    "unifyName": "船舶进出港报告",
+    "ywCode": "01"
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

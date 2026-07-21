@@ -1,0 +1,518 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000114008001",
+        "rightsId": "8794B3AA86449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8e633ca52f4c4f68a568bc95386f3b96",
+        "unifyName": "劳务派遣经营许可（市^部分县、部分国家级园区）",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000114008001",
+        "rightsId": "8794B3AA86449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "15cee52cc2814d7aaafcbac485cf2a75",
+        "unifyName": "劳务派遣变更、延续、注销许可（市^部分县、部分国家级园区）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000117014000",
+        "rightsId": "8794B3AA86FD9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "5a5e8ab688e44a6486f685bdadf2f57b",
+        "unifyName": "城市建筑垃圾运输核准首次申请",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117014000",
+        "rightsId": "8794B3AA86FD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "023d6f9ad45340c58ceddbabbc36d51a",
+        "unifyName": "城市建筑垃圾运输核准有效期届满申请延续",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117014000",
+        "rightsId": "8794B3AA86FD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c303933d9ae74159a7ae7a174c99773c",
+        "unifyName": "城市建筑垃圾运输核准申请变更企业名称、法定代表人、注册地址、经营范围",
+        "ywCode": "12"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117014000",
+        "rightsId": "8794B3AA86FD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cf9662802e1e41b3a4963ca1ee9c3d55",
+        "unifyName": "城市建筑垃圾运输核准申请变更运输工具数量及标识号",
+        "ywCode": "13"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000117014000",
+        "rightsId": "8794B3AA86FD9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "0b0c262a3fb1446983aac550abbadbb5",
+        "unifyName": "城市建筑垃圾处置核准首次申请",
+        "ywCode": "14"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117014000",
+        "rightsId": "8794B3AA86FD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "74477cef12704e79a3920dde4dd6ed5e",
+        "unifyName": "城市建筑垃圾处置核准有效期届满申请延续",
+        "ywCode": "15"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117014000",
+        "rightsId": "8794B3AA86FD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fe6809de1fa84ed0a0232fc0cabd9f4e",
+        "unifyName": "城市建筑垃圾处置核准申请变更经营主体、法定代表人、注册地址",
+        "ywCode": "16"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117014000",
+        "rightsId": "8794B3AA86FD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3f6182fff0aa484b8f31879bf26b69bb",
+        "unifyName": "城市建筑垃圾处置核准申请变更处理内容",
+        "ywCode": "17"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000117014000",
+        "rightsId": "8794B3AA86FD9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "26268c2dd1584025afc0fa4807df75f1",
+        "unifyName": "城市建筑垃圾产生核准首次申请",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117014000",
+        "rightsId": "8794B3AA86FD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f0a9b918f5ee4193b82c1a3ee342c8ae",
+        "unifyName": "城市建筑垃圾产生核准有效期届满申请延续",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117014000",
+        "rightsId": "8794B3AA86FD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ecee47a3ab7640e4a45703d6983418c2",
+        "unifyName": "城市建筑垃圾产生核准申请变更产生种类及数量",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117014000",
+        "rightsId": "8794B3AA86FD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "322540b8f739422ab59cde18d7bab1bb",
+        "unifyName": "城市建筑垃圾产生核准申请变更产生周期",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117014000",
+        "rightsId": "8794B3AA86FD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "91234624f16541b8954a7fa3df0b36b6",
+        "unifyName": "城市建筑垃圾产生核准申请变更运输单位及运输车辆",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117014000",
+        "rightsId": "8794B3AA86FD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "511b059a8da047dc8ef5ac980edc4182",
+        "unifyName": "城市建筑垃圾产生核准申请变更处理设施",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117019000",
+        "rightsId": "8794B3AA87029492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9a874054140543ed929f8fe106925b6a",
+        "unifyName": "燃气经营者改动市政燃气设施审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117022000",
+        "rightsId": "8794B3AA87059492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "pQkWA6kjSziojTovEoLRiQ",
+        "unifyName": "临时性建筑物搭建、堆放物料、占道施工审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117047000",
+        "rightsId": "8794B3AA87219492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bd26fd6ac1994d11aa4d2d7529ae6fa5",
+        "unifyName": "停止供气备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120191000",
+        "rightsId": "8794B3AA88999492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "931e4fe933fb44ccb75b69fecdb4f890",
+        "unifyName": "部级权限内肥料产品续展登记初审",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014001001",
+        "rightsId": "8794B3AA929E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "439e4ebf41c5431ea09a8fe8c06c6cfe",
+        "unifyName": "企业用人单位社会保险参保（补充）登记（申报登记方式）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014001003",
+        "rightsId": "8794B3AA92A09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d339d41c70d843dba8835c8ff6857ed7",
+        "unifyName": "工程建设项目办理工伤保险参保登记（补充）登记（申报登记方式）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014001004",
+        "rightsId": "8794B3AA92A19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6482e3c87f534679bdc3359a26cf5254",
+        "unifyName": "参保单位注销",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014001005",
+        "rightsId": "8794B3AA92A29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "724831032c2f45c18c9d45a9eb169401",
+        "unifyName": "企业单位职工参保登记（新增、续保）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014001005",
+        "rightsId": "8794B3AA92A29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2dcbcc8595e04509bcc0d905ee1b0425",
+        "unifyName": "机关事业单位工作人员养老保险参保登记（新增、续保）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014002001",
+        "rightsId": "8794B3AA92A59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ff38d30cd2f844f6845647a2526e154c",
+        "unifyName": "社会保险企业单位基本信息变更（申报变更方式）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014002001",
+        "rightsId": "8794B3AA92A59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "392d5d1b3c0f44d89cf2b6567084c54c",
+        "unifyName": "社会保险机关事业单位基本信息变更（申报变更方式）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014002001",
+        "rightsId": "8794B3AA92A59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "20kfCHDNSEK9pYATvJKQ8A",
+        "unifyName": "工伤保险工程建设项目基本信息变更（申报变更方式）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014002001",
+        "rightsId": "8794B3AA92A59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "AjzbH8y7TMeh_qO062SJgA",
+        "unifyName": "企业划型变更",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014002002",
+        "rightsId": "8794B3AA92A69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "FiMy-5arSjmrBXBwWcAUqg",
+        "unifyName": "职工停保原因变更申请（单位）",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014003001",
+        "rightsId": "8794B3AA92AB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b2bbd3d6deac497fbf06f9877cff6fbf",
+        "unifyName": "企业单位职工参保登记（停保）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014003001",
+        "rightsId": "8794B3AA92AB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "10dafe7188ac4467b7bc3537999f9b2d",
+        "unifyName": "参保人员续保申报",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014003004",
+        "rightsId": "8794B3AA92AE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0f0d3b4aa73b4779b2be60e48ab05904",
+        "unifyName": "企业单位社会保险费断缴补缴申报",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014003004",
+        "rightsId": "8794B3AA92AE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "VFlQk-VLReyuE6IMW-vzNQ",
+        "unifyName": "机关事业单位养老保险编制类型变更及征缴",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014003004",
+        "rightsId": "8794B3AA92AE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "dcc062517c204f198dd1f9fe921a77bf",
+        "unifyName": "机关事业单位养老保险费断缴补缴申报",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014003004",
+        "rightsId": "8794B3AA92AE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "MxWgCpSyRS6ck8lsMTlsxA",
+        "unifyName": "社会保险统筹补缴申请",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "002014003004",
+        "rightsId": "8794B3AA92AE9492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "sp5dvoshRPGUrr8iPA7EHA",
+        "unifyName": "多退费追回申请",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014003004",
+        "rightsId": "8794B3AA92AE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "AK1yK1coT12dl2ljNBwsMA",
+        "unifyName": "机关事业单位退休人员养老保险（职业年金）一次性缴费",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014003004",
+        "rightsId": "8794B3AA92AE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "J1Nkc8z1TyeX8VP6GKStcg",
+        "unifyName": "机关事业单位养老保险政策性补缴",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014003005",
+        "rightsId": "8794B3AA92AF9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a4e57e87265d48da94d3aa4bd42a690a",
+        "unifyName": "社会保险费欠费补缴",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014003005",
+        "rightsId": "8794B3AA92AF9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "JsMdyOQyRsmWWYx6fMB5yw",
+        "unifyName": "社会保险职工缴费基数调整申请",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014003005",
+        "rightsId": "8794B3AA92AF9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "RTUEqQjXQoKf2HoqjZKuaA",
+        "unifyName": "社会保险缴费核定取消申请",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014005001",
+        "rightsId": "8794B3AA92B39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9247a46b770d468aa9a174cdffdb154e",
+        "unifyName": "企业职工养老保险单位参保证明查询打印",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014005001",
+        "rightsId": "8794B3AA92B39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fc6d0a30496e4a74a2f299ba6a0783d0",
+        "unifyName": "机关事业单位养老保险单位参保证明查询打印",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014005002",
+        "rightsId": "8794B3AA92B49492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "958683319d15466e9308b720b1329352",
+        "unifyName": "机关事业单位养老保险个人权益记录查询打印",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014005002",
+        "rightsId": "8794B3AA92B49492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "96b2a9727b1c4982b6d82653dfc9560a",
+        "unifyName": "城乡居民养老保险个人权益记录查询打印",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014005002",
+        "rightsId": "8794B3AA92B49492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cY3Wg_zxRtyRp8OQiTr06A",
+        "unifyName": "企业职工养老保险个人权益查询单查询打印",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "002014006001",
+        "rightsId": "8794B3AA92B69492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "ece0cdb617d744e5b8616447cf8f4a04",
+        "unifyName": "档案预审申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014006001",
+        "rightsId": "8794B3AA92B69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Voeklrt7Q5uudvavaTKd2w",
+        "unifyName": "企业职工基本养老保险养老金申领",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014006005",
+        "rightsId": "8794B3AA92BA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "963369ef49df466b9f838c3f92f90927",
+        "unifyName": "暂停社会保险定期待遇申请（企保）",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 125,
+    "totalPage": 3
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

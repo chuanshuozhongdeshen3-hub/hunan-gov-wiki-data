@@ -1,0 +1,520 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6625fbdc6b664c00958f650a468a6acb",
+        "unifyName": "设立报纸出版单位审批的初审",
+        "ywCode": "12"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "72067c14aa2e47a4bc2526c6a2868a8b",
+        "unifyName": "创办期刊审批的初审",
+        "ywCode": "21"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b04f09acf90245e68d11eca7d60b8e75",
+        "unifyName": "设立期刊出版单位审批的初审",
+        "ywCode": "22"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "21a743df6d8945cdb7974b99a38d9c20",
+        "unifyName": "设立音像出版单位审批的初审",
+        "ywCode": "28"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2a5d3dc93a5241ceb862bb54885644be",
+        "unifyName": "设立电子出版物出版单位审批的初审",
+        "ywCode": "38"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c4d0dacb2cab44319fa8ce050f19075e",
+        "unifyName": "出版连续型电子出版物审批的初审",
+        "ywCode": "48"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3959d9c8b12a4c9e9827b64631178180",
+        "unifyName": "设立网络出版服务单位审批的初审",
+        "ywCode": "50"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bd8f35d4271e4636a615e6f17e762119",
+        "unifyName": "图书出版单位申请网络出版服务许可的初审",
+        "ywCode": "51"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2cea97bdd2b348bc9fb956cbae6354a9",
+        "unifyName": "报纸出版单位申请网络出版服务许可的初审",
+        "ywCode": "52"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1f80f1c165394473b9c719c1d13ea0f8",
+        "unifyName": "期刊出版单位申请网络出版服务许可的初审",
+        "ywCode": "53"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9b8fcead66a44b66968f1f15dd748005",
+        "unifyName": "音像出版单位申请网络出版服务许可的初审",
+        "ywCode": "54"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139001000",
+        "rightsId": "8794B3AA8A509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "099bb1dafb25405fbdc24add173cf607",
+        "unifyName": "电子出版物出版单位申请网络出版服务许可的初审",
+        "ywCode": "55"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139003000",
+        "rightsId": "8794B3AA8A529492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "362ce16117e142c78a0b1ab5599132ec",
+        "unifyName": "设立音像制品或电子出版物复制单位审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139005000",
+        "rightsId": "8794B3AA8A549492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e4bd1af38b1f499c9b62df5117d559db",
+        "unifyName": "出版物印刷企业经营许可证核发",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139005000",
+        "rightsId": "8794B3AA8A549492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d1feb2cbc1d848de9991984989d95e98",
+        "unifyName": "包装装潢印刷企业经营许可证核发",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139005000",
+        "rightsId": "8794B3AA8A549492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "db8210d7105041eaa241697f73fd3278",
+        "unifyName": "其他印刷品印刷企业经营许可证核发",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139007000",
+        "rightsId": "8794B3AA8A569492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9baf40c9e26b41c0a6415511a21f3f9e",
+        "unifyName": "印刷宗教用品审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139008000",
+        "rightsId": "8794B3AA8A579492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a5696953df9f4d56a61222d9b819a340",
+        "unifyName": "音像复制单位接收委托复制境外音像制品许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139008000",
+        "rightsId": "8794B3AA8A579492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "42b77152c1a4455b95764dcdb7e065ea",
+        "unifyName": "电子出版物复制单位接收委托复制境外电子出版物许可",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139009000",
+        "rightsId": "8794B3AA8A589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9c0902b7b2434abc909ad976e8242c04",
+        "unifyName": "省内印刷委托书备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139009000",
+        "rightsId": "8794B3AA8A589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d3e5dff514e949979d4183dc46e97bd6",
+        "unifyName": "省外入湘印刷委托书备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139011000",
+        "rightsId": "8794B3AA8A5A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "727215368b9e460f9a7e4770b0869886",
+        "unifyName": "印刷企业接受委托印刷境外出版物审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139012000",
+        "rightsId": "8794B3AA8A5B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "89384366d70a45208d67cb7dcf1214e2",
+        "unifyName": "中央驻长单位、省直单位申办一次性内部资料性出版物审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139012000",
+        "rightsId": "8794B3AA8A5B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ed6b4c19eff94b8fa9988c913f774e62",
+        "unifyName": "中央驻长单位、省直单位申办连续性内部资料性出版物审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139012000",
+        "rightsId": "8794B3AA8A5B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2039a98a5d8b40f98547aa62124cf50d",
+        "unifyName": "市级连续性内部资料性出版物审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139012000",
+        "rightsId": "8794B3AA8A5B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cd286ccf63824fdaa9b4cb70673cdba5",
+        "unifyName": "含有宗教内容的一次性内部资料性出版物准印证核发",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139012000",
+        "rightsId": "8794B3AA8A5B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8259e89ba3b0412c88b94c45543677ce",
+        "unifyName": "不含宗教内容的一次性内部资料性出版物准印证核发",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139012000",
+        "rightsId": "8794B3AA8A5B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3dd9c3feb47d479e8aed8d43918167a8",
+        "unifyName": "印数3000册以上的一次性内部资料性出版物准印证核发",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139012000",
+        "rightsId": "8794B3AA8A5B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ce45b3894080405d99a136e3c9b38dc2",
+        "unifyName": "跨市州的一次性内部资料性出版物准印证核发",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139013000",
+        "rightsId": "8794B3AA8A5C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "056a913e6dd84e67ac0d839b685b9a90",
+        "unifyName": "设立外商投资出版物批发企业审批",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139014000",
+        "rightsId": "8794B3AA8A5D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0e65ad0124a74cc3bf2687ae9b13be06",
+        "unifyName": "设立出版物零售企业和个体工商户审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139015000",
+        "rightsId": "8794B3AA8A5E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "10cc12d421b34278bf14cc9a8ad05977",
+        "unifyName": "电子出版物制作单位设立审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139017000",
+        "rightsId": "8794B3AA8A609492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2f96e37f5d6245cab87bc6665e246c9c",
+        "unifyName": "设立中外合资、合作印刷企业审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139017000",
+        "rightsId": "8794B3AA8A609492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a2a900b894574e5b891ace3f765a1af9",
+        "unifyName": "设立外商独资包装装潢印刷企业审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139018000",
+        "rightsId": "8794B3AA8A619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "65ef5337401546969b9ca9ffaa575be6",
+        "unifyName": "报纸出版增期审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139019000",
+        "rightsId": "8794B3AA8A629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a4932882a2e642ca9b552567962f19dd",
+        "unifyName": "对新闻出版广电总局负责的订户订购境外出版物审批的初审",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139020000",
+        "rightsId": "8794B3AA8A639492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e7828a5b59ef4bfa9cfcde24b1555243",
+        "unifyName": "省内图书、期刊印制委托书备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139020000",
+        "rightsId": "8794B3AA8A639492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5bd92aa2aab64faba261e4608bfe7b72",
+        "unifyName": "省外入湘图书、期刊印制委托书备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139021000",
+        "rightsId": "8794B3AA8A649492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bbd0134359d9495a90196ccd9c695c73",
+        "unifyName": "承印加工境外包装装潢和其他印刷品备案核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139040000",
+        "rightsId": "8794B3AA8A779492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d4838520ed764d1f900e621ee71f44e0",
+        "unifyName": "加工贸易项下光盘进出口审批",
+        "ywCode": "01"
+      },
+      {
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000155002000",
+        "rightsId": "8794B3AA8AAC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "_FpJ-pFpSASqgZb9o3arlA",
+        "unifyName": "融资担保公司设立",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162001000",
+        "rightsId": "8794B3AA8C959492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6fd126659ac241c4a3e81172f147018c",
+        "unifyName": "烟草专卖批发企业许可证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162004000",
+        "rightsId": "8794B3AA8C989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b1202da61d684a70bf1038948b27ce88",
+        "unifyName": "烟草专卖零售许可证新办办理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162004000",
+        "rightsId": "8794B3AA8C989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "59eb28aaa76b457f9e5d463cf2a3bd64",
+        "unifyName": "烟草专卖零售许可证变更办理",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162004000",
+        "rightsId": "8794B3AA8C989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f48787ef53f344fc8550bd7134f19ff0",
+        "unifyName": "烟草专卖零售许可证延续办理",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162004000",
+        "rightsId": "8794B3AA8C989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "68510d31c4a84de59947824129c1acb5",
+        "unifyName": "烟草专卖零售许可证补办办理",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162004000",
+        "rightsId": "8794B3AA8C989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b4f82728ec29404bbdeb501c64a72f53",
+        "unifyName": "烟草专卖零售许可证停业办理",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162004000",
+        "rightsId": "8794B3AA8C989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5a28163de08b41d8ab6cc776e19cc96f",
+        "unifyName": "烟草专卖零售许可证恢复营业办理",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000162004000",
+        "rightsId": "8794B3AA8C989492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "dbc02953cbc34f75b4a027ebd81a8b08",
+        "unifyName": "烟草专卖零售许可证歇业办理",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000167003000",
+        "rightsId": "8794B3AA8DB29492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "SbC-uWJ6SDu1B9h7pz6j1w",
+        "unifyName": "快递业务经营许可",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 7,
+    "pageSize": 50,
+    "total": 503,
+    "totalPage": 11
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

@@ -1,0 +1,536 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139017000",
+        "rightsId": "8794B3AA8A609492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a2a900b894574e5b891ace3f765a1af9",
+        "unifyName": "设立外商独资包装装潢印刷企业审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139030000",
+        "rightsId": "8794B3AA8A6D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0dff3eb0bed04b4195c3421c2bacf3ca",
+        "unifyName": "进口出版物目录备案核准",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000154002000",
+        "rightsId": "dbea19aa1492454fbece3cb241beb946",
+        "transactLevel": "0",
+        "unifyId": "C0w4AELTSUCgkrgNMMaAOA",
+        "unifyName": "除电力、通信以外的雷电防护装置检测资质单位认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164156001",
+        "rightsId": "b3fdd5c772494fdda0495045e434a7aa",
+        "transactLevel": "0",
+        "unifyId": "59047a5f7daa4cf58b44508f171dfb01",
+        "unifyName": "省际间调运林草植物检疫证书核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164156002",
+        "rightsId": "f6ef9136e99946f98be824d6f121b419",
+        "transactLevel": "0",
+        "unifyId": "a17f493723c74030ad9eadcb3f5a553b",
+        "unifyName": "省内调运林草植物检疫证书核发（ 设区的市级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164156003",
+        "rightsId": "224a12dca3a649528e4a3c067d5792d4",
+        "transactLevel": "0",
+        "unifyId": "a4079a92d9114f9ab4c1b119b78b1154",
+        "unifyName": "林草植物产地检疫证书核发（ 设区的市级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168017000",
+        "rightsId": "8794B3AA8DE99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2c8ba36758c64e89aafc92ede700dd92",
+        "unifyName": "拍卖企业经营文物拍卖许可",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172001000",
+        "rightsId": "8794B3AA8E489492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "91174703a51647d89662533651331448",
+        "unifyName": "化妆品生产许可证注销（依申请注销）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172001000",
+        "rightsId": "8794B3AA8E489492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "37fbae08140a4e8e839447d3222944b2",
+        "unifyName": "化妆品生产许可证补发",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172001000",
+        "rightsId": "8794B3AA8E489492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1450ec16dc664f32b0cdc74f47c16f51",
+        "unifyName": "化妆品生产变更许可",
+        "ywCode": "04"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172001000",
+        "rightsId": "8794B3AA8E489492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "dba037cb04d648a9baf69da0fa52bd3f",
+        "unifyName": "化妆品生产延续许可",
+        "ywCode": "05"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172001000",
+        "rightsId": "8794B3AA8E489492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e4f3f1136a76497dad040fa94b280bc1",
+        "unifyName": "化妆品生产首次许可",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172002000",
+        "rightsId": "8794B3AA8E499492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4a4f05f7045c4b249be83be57e9e1065",
+        "unifyName": "医疗机构配制制剂品种再注册",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172004000",
+        "rightsId": "8794B3AA8E4B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "yntj84lqRQyxLTwUiOCSQg",
+        "unifyName": "《药品经营许可证》（零售连锁总部）许可事项变更",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172004000",
+        "rightsId": "8794B3AA8E4B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "jMqVumo8TguWCc5iuUydXQ",
+        "unifyName": "《药品经营许可证》（零售连锁总部）注销（依申请注销）",
+        "ywCode": "12"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172004000",
+        "rightsId": "8794B3AA8E4B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1584eb289bc047db9770d08abc742e6b",
+        "unifyName": "《药品经营许可证》（批发）核发",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172004000",
+        "rightsId": "8794B3AA8E4B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b0c5d5ac2df242f1be805f84a6785308",
+        "unifyName": "《药品经营许可证》（批发）许可事项变更",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172004000",
+        "rightsId": "8794B3AA8E4B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3d12860d74ae42cf83be8216e80e3236",
+        "unifyName": "《药品经营许可证》（批发）换发",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172004000",
+        "rightsId": "8794B3AA8E4B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2GkClFx8Qw-DgWst3z28LA",
+        "unifyName": "《药品经营许可证》（批发）注销(依申请注销)",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172004000",
+        "rightsId": "8794B3AA8E4B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "GpUa7nvfTl29FLY4ryfWeA",
+        "unifyName": "《药品经营许可证》（零售连锁总部）核发",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172004000",
+        "rightsId": "8794B3AA8E4B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "uoIe732TQMepTj9VrBtsdg",
+        "unifyName": "《药品经营许可证》（零售连锁总部）换发",
+        "ywCode": "09"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172006000",
+        "rightsId": "8794B3AA8E4D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5781895acb344e8b854c5ff62c7b55ba",
+        "unifyName": "《医疗机构制剂许可证》换发",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172006000",
+        "rightsId": "8794B3AA8E4D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "07ca3e1c52aa4b7cbd7acef8b2fbdc41",
+        "unifyName": "《医疗机构制剂许可证》核发",
+        "ywCode": "04"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172006000",
+        "rightsId": "8794B3AA8E4D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Q14L5s9aSkSxVNhAVJvxhg",
+        "unifyName": "《医疗机构制剂许可证》注销(依申请注销）",
+        "ywCode": "06"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172013000",
+        "rightsId": "8794B3AA8E549492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "w0hz0gyfTpyYoMOhnDGINQ",
+        "unifyName": "科研和教学用毒性药品购买审批(省级)",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172016000",
+        "rightsId": "8794B3AA8E579492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "r3ZtBrfpQXemz46o6ipLxw",
+        "unifyName": "企业从事麻醉药品、第一类精神药品区域性批发审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172016000",
+        "rightsId": "8794B3AA8E579492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "40f92d5f2e5c4c1d8d171e2d1581c407",
+        "unifyName": "企业专门从事第二类精神药品批发审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172020000",
+        "rightsId": "8794B3AA8E5B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "42d856318ee24bb1b8085c76422fbb91",
+        "unifyName": "麻醉药品和第一类精神药品运输证明核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172020000",
+        "rightsId": "8794B3AA8E5B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "rO0qn-yzR761XaS9XMoxYQ",
+        "unifyName": "麻醉药品和第一类精神药品运输证明核发（补办）",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172021000",
+        "rightsId": "8794B3AA8E5C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "236e8cb1d95a4c1ea56457d612fa8c4f",
+        "unifyName": "非药品生产企业购买咖啡因审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172021000",
+        "rightsId": "8794B3AA8E5C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5244f12443ff44818f439cc029d28c1d",
+        "unifyName": "购买科研和教学用麻醉药品、精神药品审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172025000",
+        "rightsId": "8794B3AA8E609492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c6c813593ec44c60a3bf68758ae1a2b0",
+        "unifyName": "药品批发企业经营蛋白同化制剂、肽类激素审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172027000",
+        "rightsId": "8794B3AA8E629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "337e73e934cf4fb699703b47ca42fc9c",
+        "unifyName": "第二、三类医疗器械生产许可事项变更许可",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172028000",
+        "rightsId": "8794B3AA8E639492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "35b200e025b8415aacf21a138817daa8",
+        "unifyName": "第三类医疗器械经营许可延续",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172028000",
+        "rightsId": "8794B3AA8E639492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "10a293d2a1db436b8f9896aacc7a3d9a",
+        "unifyName": "第三类医疗器械经营许可补发",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172052008",
+        "rightsId": "31cd28587d284fceb0b216ae3f48661a",
+        "transactLevel": "0",
+        "unifyId": "dJmQ8yKnS6yTkfib3sFClw",
+        "unifyName": "境内生产药品再注册",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000706001000",
+        "rightsId": "8794B3AA8FA99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "gh3XHjMZSD6N4Ndl8cneUg",
+        "unifyName": "技术合同认定登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709101000",
+        "rightsId": "ea4530f1bd25433789b00f1fa814916d",
+        "transactLevel": "0",
+        "unifyId": "vm5n1oJySDiT8Yx4eNrqGg",
+        "unifyName": "大型焰火燃放作业单位资质证明核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709101000",
+        "rightsId": "ea4530f1bd25433789b00f1fa814916d",
+        "transactLevel": "0",
+        "unifyId": "mjdySSdUTjuMv-ueacGMVA",
+        "unifyName": "大型焰火燃放作业单位变更法定代表人",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709101000",
+        "rightsId": "ea4530f1bd25433789b00f1fa814916d",
+        "transactLevel": "0",
+        "unifyId": "UeDskjrDThesnvL5U8B9Dw",
+        "unifyName": "大型焰火燃放作业单位变更技术负责人",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709101000",
+        "rightsId": "ea4530f1bd25433789b00f1fa814916d",
+        "transactLevel": "0",
+        "unifyId": "2xPTwJwBQuy9o-pdPblwOw",
+        "unifyName": "大型焰火燃放作业单位变更单位名称",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709101000",
+        "rightsId": "ea4530f1bd25433789b00f1fa814916d",
+        "transactLevel": "0",
+        "unifyId": "Z-ER44C7T9yjk8i-d3TUNQ",
+        "unifyName": "大型焰火燃放作业单位变更单位地址",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709101000",
+        "rightsId": "ea4530f1bd25433789b00f1fa814916d",
+        "transactLevel": "0",
+        "unifyId": "r4ljIxT5TZ6K0aHa_1E32A",
+        "unifyName": "大型焰火燃放作业单位资质证明到期换证、资质升级",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709102000",
+        "rightsId": "c17c5a49890a41578bcbf43a01c6475f",
+        "transactLevel": "1",
+        "unifyId": "SVyDLnGARA6TzajCWQcXlA",
+        "unifyName": "大型焰火燃放作业人员资格证明核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709102000",
+        "rightsId": "c17c5a49890a41578bcbf43a01c6475f",
+        "transactLevel": "0",
+        "unifyId": "8BGsmpSdS6mWxRIaJ_YBIg",
+        "unifyName": "大型焰火燃放作业人员资格证明变更所在单位",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000711017000",
+        "rightsId": "8794B3AA8FE49492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "60fbc147300c4b1b9055e40af4d15d5c",
+        "unifyName": "慈善组织认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718005000",
+        "rightsId": "8794B3AA90319492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0GgMG7F1TjS_UF84bjQKkg",
+        "unifyName": "客运站站级核定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000721001000",
+        "rightsId": "8794B3AA90629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2d96a9113efd40d0832d70541c431e81",
+        "unifyName": "台湾投资者经第三地转投资认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000721003000",
+        "rightsId": "8794B3AA90649492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "4d1cc744f8334e128ab59879c50b5886",
+        "unifyName": "外资研发中心采购设备免、退税资格审核认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000722003000",
+        "rightsId": "8794B3AA90699492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "P5dEW3m6SMi0uSCy4mmSlQ",
+        "unifyName": "对非物质文化遗产代表性项目的组织推荐评审认定",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 6,
+    "pageSize": 50,
+    "total": 352,
+    "totalPage": 8
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

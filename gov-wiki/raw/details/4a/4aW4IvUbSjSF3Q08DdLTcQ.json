@@ -1,0 +1,123 @@
+{
+  "code": 0,
+  "data": {
+    "acceptanceCondition": "居民身份证丢失的，应当申请补领。",
+    "according": "《中华人民共和国居民身份证法》第二条：居住在中华人民共和国境内的年满十六周岁的中国公民，应当依照本法的规定申请领取居民身份证；未满十六周岁的中国公民，可以依照本法的规定申请领取居民身份证。\n第七条：公民应当自年满十六周岁之日起三个月内，向常住户口所在地的公安机关申请领取居民身份证。未满十六周岁的公民，由监护人代为申请领取居民身份证。\n第十一条：国家决定换发新一代居民身份证、居民身份证有效期满、公民姓名变更或者证件严重损坏不能辨认的，公民应当换领新证；居民身份证登记项目出现错误的，公安机关应当及时更正，换发新证；领取新证时，必须交回原证。居民身份证丢失的，应当申请补领。未满十六周岁公民的居民身份证有前款情形的，可以申请换领、换发或者补领新证。公民办理常住户口迁移手续时，公安机关应当在居民身份证的机读项目中记载公民常住户口所在地住址变动的情况，并告知本人。\n第十二条：公民申请领取、换领、补领居民身份证，公安机关应当按照规定及时予以办理。公安机关应当自公民提交《居民身份证申领登记表》之日起六十日内发放居民身份证；交通不便的地区，办理时间可以适当延长，但延长的时间不得超过三十日。公民在申请领取、换领、补领居民身份证期间，急需使用居民身份证的，可以申请领取临时居民身份证，公安机关应当按照规定及时予以办理。具体办法由国务院公安部门规定。\n《中华人民共和国临时居民身份证管理办法》第二条：居住在中华人民共和国境内的中国公民，在申请领取换领、补领居民身份证期间，急需使用居民身份证的，可以申请领取临时居民身份证。\n《关于建立居民身份证异地受理挂失申报和丢失招领制度的意见》（公通字〔2015〕34号）",
+    "applicantDuty": "应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。",
+    "applicantPower": "依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。",
+    "approveLimit": "60",
+    "approveLimitExplain": "公民申请领取、换领、补领居民身份证，公安机关应当按照规定及时予以办理。公安机关应当自公民提交《居民身份证申领登记表》之日起六十日内发放居民身份证；交通不便的地区，办理时间可以适当延长，但延长的时间不得超过三十日。",
+    "blbm": "县级公安部门",
+    "chargeList": [
+      {
+        "chargeBylaw": "湖南省发展和改革委员会、湖南省财政厅关于发布湖南省公安系统行政事业性收费标准的通知（湘发改价费规[2021]226号）",
+        "chargeId": "b90ab37f4d1c4aa289f2254def3b3a3b",
+        "createDate": 1760933459000,
+        "feename": "居民身份证丢失补领/损坏换领工本费",
+        "feestand": "40元/证",
+        "isDelete": "N",
+        "orderNum": 1.0,
+        "unifyId": "4aW4IvUbSjSF3Q08DdLTcQ",
+        "updateDate": 1760933459000
+      }
+    ],
+    "commitmentLimit": "15",
+    "commitmentLimitExplain": "自受理之日起15工作日至身份证受理窗口领取；",
+    "deptName": "公安部门",
+    "doScope": "全省",
+    "faqList": [
+      {
+        "createDate": 1760933459000,
+        "faqContent": "居民身份证换领是否可以在线上申请？",
+        "faqId": "cd073417a3db4a4b953148cdb4ac8085",
+        "isDelete": "N",
+        "isSzyy": "N",
+        "orderNum": 1.0,
+        "replyContent": "可以线上申请，全程网办，办理结果物可寄递至申请人填写的地址。",
+        "unifyId": "4aW4IvUbSjSF3Q08DdLTcQ",
+        "updateDate": 1760933459000
+      }
+    ],
+    "isCharge": "是",
+    "isIntermediaryServices": "无",
+    "isSpecialProcedure": "否",
+    "isonline": "是",
+    "lctList": [
+      {
+        "approveCode": "4aW4IvUbSjSF3Q08DdLTcQ",
+        "approveId": "4aW4IvUbSjSF3Q08DdLTcQ",
+        "bucketName": "zwfw202510",
+        "createTime": 1760933459000,
+        "flowc": "approve/2025-10-18-17/1760778593658$$省内本地居民身份证损坏换领.png",
+        "id": "202dd99df32d4d4b80fc2cbe01d25242",
+        "isDelete": "0",
+        "isExchange": "N",
+        "operateFlag": "N",
+        "updateTime": 1760933459000
+      }
+    ],
+    "limitsceneexplain": "全程网办",
+    "materialList": [
+      {
+        "acceptStandard": "证件真实、有效。",
+        "bylaw": "《中华人民共和国居民身份证法》第十一条。",
+        "commitWay": "网上现场都可提交",
+        "copiesNum": 1.0,
+        "createDate": 1760933459000,
+        "freeSubmission": "无",
+        "isDelete": "N",
+        "isMust": "必要",
+        "materialApproveType": "证照",
+        "materialCode": "M0007091100030202",
+        "materialExplain": "申领人本人户口簿内页",
+        "materialId": "7844d28a8426432d84a4df37b71bbd75",
+        "materialStandard": "电子",
+        "materialTitle": "居民户口簿",
+        "materialType": "原件",
+        "pageformat": "A4",
+        "sourceChannel": "政府部门核发",
+        "sourceexplain": "公安派出所",
+        "unifyId": "4aW4IvUbSjSF3Q08DdLTcQ",
+        "updateDate": 1777002257000
+      }
+    ],
+    "minExplain": "四级标准说明：该事项已经实现全程网办，申请人可以通过网络提交和补正相关申请信息和材料，提交的材料全部为已验证信息，受理通过后直接进入办理程序，申请人可网上查询办理状态、咨询问题，作出审批决定后，申请人可以通过网上缴费后物流递送证书结果。整个办事过程无需到现场办理。",
+    "minSeq": "0",
+    "orgId": "9def3f565034406981bf70f2169e28ef",
+    "orgName": "湖南省公安厅",
+    "processDescript": "\"（一）申领人本人持居民户口簿到身份证受理窗口进行资质审查。\n（二）照相室照相。\n（三）身份证窗口受理和登记指纹信息。\n（四）申领人核对有关信息。\n（五）在《居民身份证申领登记表》上签名确认。\"",
+    "quantitativeRestriction": "暂无数量限制",
+    "resultList": [
+      {
+        "approveCode": "4aW4IvUbSjSF3Q08DdLTcQ",
+        "approveId": "4aW4IvUbSjSF3Q08DdLTcQ",
+        "bucketName": "zwfw202211",
+        "createTime": 1760933459000,
+        "extend": "jpg",
+        "fileName": "居民身份证.jpg",
+        "id": "400058c58cd64811b0165bf28e1d24ea",
+        "isDelete": "0",
+        "isExchange": "N",
+        "isNeed": "N",
+        "operateFlag": "N",
+        "resultChart": "approve/2022-11-24-15/1669274270325$$居民身份证.jpg",
+        "resultSampleName": "居民身份证",
+        "updateTime": 1760933459000
+      }
+    ],
+    "resultSampleName": "居民身份证",
+    "rightsCode": "000709110003",
+    "rightsId": "38f586283733438c9f3582384d42c830",
+    "schemeLevels": "县",
+    "serveObject": "个人",
+    "transactLevel": "四级标准",
+    "transactionFrom": "窗口办理^网上办理^快递申请",
+    "typeName": "行政确认",
+    "unifyId": "4aW4IvUbSjSF3Q08DdLTcQ",
+    "unifyName": "居民身份证补领",
+    "ywCode": "02"
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

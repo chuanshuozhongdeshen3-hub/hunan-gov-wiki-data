@@ -1,0 +1,90 @@
+{
+  "code": 0,
+  "data": {
+    "acceptanceCondition": "应当提出明确的慈善咨询诉求。",
+    "according": "《中华人民共和国慈善法》（中华人民共和国主席令第43号）第六条  国务院民政部门主管全国慈善工作，县级以上地方各级人民政府民政部门主管本行政区域内的慈善工作；县级以上人民政府有关部门依照本法和其他有关法律法规，在各自的职责范围内做好相关工作。第九十二条  县级以上人民政府民政部门应当依法履行职责，对慈善活动进行监督检查，对慈善行业组织进行指导。",
+    "applicantDuty": "应当依法提出明确的政策咨询要求。",
+    "applicantPower": "依法享有获取政策信息及解读的权利。",
+    "approveLimit": "5",
+    "approveLimitExplain": "5个工作日办结",
+    "blbm": "省、市、县级民政部门",
+    "commitmentLimit": "5",
+    "commitmentLimitExplain": "即办",
+    "deptName": "民政部门",
+    "doScope": "全省",
+    "faqList": [
+      {
+        "createDate": 1690614334000,
+        "faqContent": "慈善捐赠是指什么？",
+        "faqId": "32a7f9dfb7724458b597027acfc23f6a",
+        "isDelete": "N",
+        "isSzyy": "Y",
+        "orderNum": 1.0,
+        "replyContent": "慈善捐赠是指自然人、法人和其他组织基于慈善目的，自愿、无偿赠与财产的活动。",
+        "unifyId": "632825b56de048d2869d150ad057e088",
+        "updateDate": 1690614334000
+      }
+    ],
+    "isCharge": "否",
+    "isIntermediaryServices": "无",
+    "isSpecialProcedure": "否",
+    "isonline": "是",
+    "lctList": [
+      {
+        "approveCode": "632825b56de048d2869d150ad057e088",
+        "approveId": "632825b56de048d2869d150ad057e088",
+        "createTime": 1577067880000,
+        "flowc": "approve/2019-12-23/1577067880346$$流程图1.png",
+        "id": "1db092f73a3347c4bd1d1cf524ba5899",
+        "isDelete": "0",
+        "isExchange": "Y",
+        "operateFlag": "N"
+      }
+    ],
+    "limitsceneexplain": "需现场核实材料和身份等信息",
+    "materialList": [
+      {
+        "acceptStandard": "暂无受理标准",
+        "bylaw": "无",
+        "commitWay": "网上现场都可提交",
+        "copiesNum": 1.0,
+        "createDate": 1691112595000,
+        "freeSubmission": "无",
+        "isDelete": "N",
+        "isMust": "非必要",
+        "materialApproveType": "其他",
+        "materialCode": "M432011401W000201",
+        "materialExplain": "暂无填报须知",
+        "materialId": "e5a0a5d937d4401181c06fb9c2ecd984",
+        "materialStandard": "纸质和电子",
+        "materialTitle": "申请事项单",
+        "materialType": "原件和复印件",
+        "pageformat": "暂无纸质材料规格",
+        "sourceChannel": "申请人自备",
+        "sourceexplain": "暂无来源渠道说明",
+        "unifyId": "632825b56de048d2869d150ad057e088",
+        "updateDate": 1691112595000
+      }
+    ],
+    "minExplain": "四级标准说明：该事项已经实现全程网办，申请人可以通过网络提交和补正相关申请信息和材料，提交的材料全部为已验证信息，受理通过后直接进入办理程序，申请人可网上查询办理状态、咨询问题，作出审批决定后，申请人可以通过网上缴费后物流递送证书结果。整个办事过程无需到现场办理。",
+    "minSeq": "0",
+    "orgId": "0ebc13dbe7324ffebc8cf13f7b7eb5d7",
+    "orgName": "湖南省民政厅",
+    "processDescript": "受理问题—及时回复—长效机制",
+    "quantitativeRestriction": "不限咨询数量，有咨询就回复",
+    "resultSampleName": "无",
+    "rightsCode": "432011401W00",
+    "rightsId": "995738A2A31ED4BCE053681515AC4828",
+    "schemeLevels": "省、市、县",
+    "serveObject": "个人/法人",
+    "transactLevel": "四级标准",
+    "transactionFrom": "窗口办理^网上办理",
+    "typeName": "公共服务",
+    "unifyId": "632825b56de048d2869d150ad057e088",
+    "unifyName": "慈善救助咨询服务",
+    "ywCode": "02"
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

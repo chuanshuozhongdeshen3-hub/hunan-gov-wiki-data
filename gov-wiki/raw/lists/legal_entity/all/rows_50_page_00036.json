@@ -1,0 +1,514 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017001000",
+        "rightsId": "8794B3AA92089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "QzQHO8ScRE6pFLZPPyIydg",
+        "unifyName": "房地产估价机构备案证书-法定代表人变更",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017002002",
+        "rightsId": "8794B3AA920A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ecdf59418efb4f7caaff3381c7b6f005",
+        "unifyName": "二级注册建筑师-初始注册",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017002002",
+        "rightsId": "8794B3AA920A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "kVVoC3cFTEClPvKIRTG9ww",
+        "unifyName": "二级注册建筑师-延续注册",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017002002",
+        "rightsId": "8794B3AA920A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "BV2-NsmIT8aWqroR25QAtQ",
+        "unifyName": "二级注册建筑师-变更注册",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017002002",
+        "rightsId": "8794B3AA920A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "h11P203FQomgCwWhzIKZMw",
+        "unifyName": "二级注册建筑师-注销注册",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017003000",
+        "rightsId": "8794B3AA920C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "j6vhwtkeSSuiei-UzjxMwg",
+        "unifyName": "新建商品房（预售）买卖合同网签备案（变更、注销）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017003000",
+        "rightsId": "8794B3AA920C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "UJj8_4KyTeCvzgJ_FKcvxQ",
+        "unifyName": "新建商品房（现售）买卖合同网签备案（变更、注销）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017003000",
+        "rightsId": "8794B3AA920C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "DEK00lKRRLme3iM5aN8Fqg",
+        "unifyName": "新建商品房（预售）抵押合同网签备案（变更、注销）",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "001017003000",
+        "rightsId": "8794B3AA920C9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "cRo4cg0FSYi1y9La6vnS1w",
+        "unifyName": "存量房买卖合同网签备案（变更、注销）",
+        "ywCode": "25"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017003000",
+        "rightsId": "8794B3AA920C9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "vKWPtDiARaCVrnVNW8l0nw",
+        "unifyName": "存量房抵押合同备案（变更、注销）",
+        "ywCode": "34"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "001017005000",
+        "rightsId": "8794B3AA920E9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "WkxE5VsqQ4-4twOlvbJQAw",
+        "unifyName": "房地产经纪机构备案、变更、注销",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017006000",
+        "rightsId": "8794B3AA920F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6fd8b4d27e9d41908201d7588543b7b2",
+        "unifyName": "城镇排水与污水处理设施竣工验收备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017007000",
+        "rightsId": "8794B3AA92109492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "032050b7af89415196ac7494e864ffa6",
+        "unifyName": "房屋建筑和市政基础设施工程施工图审查备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001018001000",
+        "rightsId": "bf05eb18a98d4c2bb0b88a5cbbb02426",
+        "transactLevel": "0",
+        "unifyId": "S0nl2T6zSbufYrspIkaONw",
+        "unifyName": "航行通（警）告办理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "001018002000",
+        "rightsId": "5b0041f9cfb74b758de8363b26699347",
+        "transactLevel": "1",
+        "unifyId": "EMlKIjVzQ3aFMsRt1IUW_g",
+        "unifyName": "船舶文书签注（《航海（行）日志》《轮机日志》《车钟记录簿》《垃圾记录簿》《货物记录簿》《油类记录簿》《货物系固手册》）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "001018003000",
+        "rightsId": "0f5cbeda9fc8499a9e9244865dfd5267",
+        "transactLevel": "1",
+        "unifyId": "t0HHta4pQyi-M0h0ykFgpg",
+        "unifyName": "船舶载运固体散装货物（A组和C组）的报告（船舶和货物托运人）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001018004000",
+        "rightsId": "4de1e0eabd5145c1a331017f15290b55",
+        "transactLevel": "1",
+        "unifyId": "Y8JDXBYnRIikAZJ2UvIo1g",
+        "unifyName": "船舶防污染证书、文书签注（《程序与布置手册》《船舶垃圾管理计划》《过驳作业计划》《挥发性有机化合物管理计划》《消耗臭氧物质记录簿》》》",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001018005000",
+        "rightsId": "ccc33f7c70ef4d10904ca9d33db5d89f",
+        "transactLevel": "0",
+        "unifyId": "m5wy7hRcTt6m7jzBrrgnvA",
+        "unifyName": "危险货物安全适运报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "001018007000",
+        "rightsId": "95da78f93651451fb9fdb90d8025516d",
+        "transactLevel": "1",
+        "unifyId": "1AkwUg0lTD-Uie5x8YM3Tw",
+        "unifyName": "船舶防污染作业报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001019005000",
+        "rightsId": "dd96a886a16a46088192b7096a634478",
+        "transactLevel": "0",
+        "unifyId": "6a26ccc97d274442a8aebc5c182e260c",
+        "unifyName": "水利工程建设项目阶段验收",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001019005000",
+        "rightsId": "dd96a886a16a46088192b7096a634478",
+        "transactLevel": "0",
+        "unifyId": "29f5c99559b04c1794eca23592869b10",
+        "unifyName": "水利工程建设项目竣工验收",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001019009000",
+        "rightsId": "accbb6dbef4d447d93fa28e2f5322942",
+        "transactLevel": "0",
+        "unifyId": "4f542bdd9fb34010b2e55df98bd0ad32",
+        "unifyName": "取水许可证变更",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001019009000",
+        "rightsId": "accbb6dbef4d447d93fa28e2f5322942",
+        "transactLevel": "0",
+        "unifyId": "62f5fb80a52841db870027a409d8a884",
+        "unifyName": "取水许可证注销",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001020003000",
+        "rightsId": "8794B3AA92159492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "qULtFwcCRVmxsxcyu_jM2Q",
+        "unifyName": "农业机械鉴定证书（延续）",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001020003000",
+        "rightsId": "8794B3AA92159492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bdcd053e181843b6ad064ef85267f703",
+        "unifyName": "农业机械推广鉴定（新办）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001020003000",
+        "rightsId": "8794B3AA92159492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "232bc71e1ea64010b286a97f2756b9fe",
+        "unifyName": "农业机械推广鉴定(变更)",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001020003000",
+        "rightsId": "8794B3AA92159492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "G5C5ik2PTcSY1lwJ2cKhgA",
+        "unifyName": "农业机械推广鉴定(注销)",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001020003000",
+        "rightsId": "8794B3AA92159492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9d39bce9c77940bfbbce6c0348e508b1",
+        "unifyName": "农业机械专项鉴定（新办）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001020003000",
+        "rightsId": "8794B3AA92159492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4ae3f969de6c48cdad85bd08f4fea8e8",
+        "unifyName": "农业机械专项鉴定(变更)",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001020003000",
+        "rightsId": "8794B3AA92159492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "BNovI_8lT2OHEiS0M1wPBw",
+        "unifyName": "农业机械专项鉴定(注销)",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001021001000",
+        "rightsId": "8794B3AA92179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Vo2u25NySfWNJCxAyov-Mw",
+        "unifyName": "对协议国家的纺织品出口原产地证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001021005000",
+        "rightsId": "99121a152d274bd4b0197bcc07de4c61",
+        "transactLevel": "0",
+        "unifyId": "IKs0MDAdQKaszYb4qxHMFg",
+        "unifyName": "国际货运代理企业备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001025003000",
+        "rightsId": "d14e42371d514e10810450971c3f90a9",
+        "transactLevel": "0",
+        "unifyId": "PwHWq8hiTbGDhCwUKDiLqQ",
+        "unifyName": "第三类非药品类易制毒化学品经营备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001025004000",
+        "rightsId": "87817b3b997a40edafde5e3194c1f6a2",
+        "transactLevel": "0",
+        "unifyId": "VuGi7S5_QV6G-DwoZTfeyA",
+        "unifyName": "第二类非药品类易制毒化学品经营备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001025005000",
+        "rightsId": "84285555bc8944cb9c26ae1c43ff6b76",
+        "transactLevel": "0",
+        "unifyId": "VMbzkPOLSlOFcGfsqVdr8w",
+        "unifyName": "第三类非药品类易制毒化学品生产备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001025006000",
+        "rightsId": "39d8a766acce4975bc245b3eaa2323ce",
+        "transactLevel": "0",
+        "unifyId": "pp2LJa1TS9iW_FfWK5hHzQ",
+        "unifyName": "第二类非药品类易制毒化学品生产备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001030031000",
+        "rightsId": "53261517b01148e1990bc66e098f25c9",
+        "transactLevel": "0",
+        "unifyId": "8d19122be046469798741bb90fe391cc",
+        "unifyName": "一照一码户登记信息确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001030032000",
+        "rightsId": "b71670dae3b244b6993fc290083fbe23",
+        "transactLevel": "0",
+        "unifyId": "6801a2ce0324458197408a4f62103738",
+        "unifyName": "两证整合个体工商户登记信息确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001030033000",
+        "rightsId": "0e8b24ab74224d139a65ac13ebd55298",
+        "transactLevel": "0",
+        "unifyId": "d15e5c0099f74b40b9026a85f316b699",
+        "unifyName": "一照一码户信息变更",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001030034000",
+        "rightsId": "0c198e931f184844b7f112d2f63238cb",
+        "transactLevel": "0",
+        "unifyId": "cda172bf48fe41a1abc757a54608555a",
+        "unifyName": "两证整合个体工商户信息变更",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001030035000",
+        "rightsId": "28867ef30c36408d90c05e19f901468c",
+        "transactLevel": "0",
+        "unifyId": "30b98ae6bb244fe4b2d370634d44d27c",
+        "unifyName": "纳税人（扣缴义务人）身份信息报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001030036000",
+        "rightsId": "65176674dccb4cf88942883d17233415",
+        "transactLevel": "0",
+        "unifyId": "0c5dee29a7fc4d4d8b85fae9a14eca02",
+        "unifyName": "跨区域涉税事项报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001030037000",
+        "rightsId": "35b4d1c159bf4be4b87d8404e21c150d",
+        "transactLevel": "0",
+        "unifyId": "02d802ecc5ad46738e9814434ba22897",
+        "unifyName": "跨区域涉税事项报验",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001030038000",
+        "rightsId": "f59049c0c150429ea31532945037acff",
+        "transactLevel": "0",
+        "unifyId": "1455477e79f142caacff0b02ec749db2",
+        "unifyName": "跨区域涉税事项信息反馈",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001030039000",
+        "rightsId": "d1a7316ac81e46fe883579985abd9b7d",
+        "transactLevel": "0",
+        "unifyId": "89fb59025a294e659f5e820b063a598a",
+        "unifyName": "增值税一般纳税人登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001030041000",
+        "rightsId": "0429e1f64227473fab44471c8ae511ab",
+        "transactLevel": "0",
+        "unifyId": "0622a5908c5149bf84878d3ce54d5719",
+        "unifyName": "货物运输业小规模纳税人异地代开增值税专用发票备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001030042000",
+        "rightsId": "6faf770b69e5490e899480a6b3e671c2",
+        "transactLevel": "0",
+        "unifyId": "ed4e86e366f04556b0d70defcae0fa69",
+        "unifyName": "停业登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001030043000",
+        "rightsId": "b5387bda45d1461abbcc52a511c20c41",
+        "transactLevel": "0",
+        "unifyId": "697d3bf0af314cbbb8070385434e73dd",
+        "unifyName": "复业登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001030044000",
+        "rightsId": "b17719bd896443679bb6c15d844ac31a",
+        "transactLevel": "0",
+        "unifyId": "ed7e1b513e084e43b70774e2d55df88f",
+        "unifyName": "代开增值税专用发票",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001030045000",
+        "rightsId": "5bbdf343918c4a3bb49ed3487afdf771",
+        "transactLevel": "0",
+        "unifyId": "9975ab6811ca47dfb936f83d4bc682fa",
+        "unifyName": "代开增值税普通发票",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 36,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

@@ -1,0 +1,118 @@
+{
+  "code": 0,
+  "data": {
+    "acceptanceCondition": "符合条件的农村流动数字电影放映队",
+    "according": "《湖南省农村公益数字电影放映管理实施细则》（湘广影字〔2011〕39号）第三条：“农村公益数字电影放映分为两部分：一部分是在各行政村放映点开展的流动放映，原则上按每村每月放映一场数字电影的要求确定，各地可结合农忙农闲时间，适当调节放映场次。另一部分是在县城及县以下广场上露天放映的流动数字电影，由县级电影主管部门在年初确定放映场次、计划，经市级电影主管部门报省广电局核准后纳入年度放映和补贴计划”。",
+    "applicantDuty": "应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。",
+    "applicantPower": "依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。",
+    "approveLimit": "20",
+    "approveLimitExplain": "无",
+    "blbm": "市、县级新闻出版",
+    "commitmentLimit": "12",
+    "commitmentLimitExplain": "无",
+    "deptName": "新闻出版",
+    "doScope": "全市",
+    "faqList": [
+      {
+        "createDate": 1626053330000,
+        "faqContent": "公益电影放映场次的确认由谁提出申请？",
+        "faqId": "CcfMdx01SACiqIAAGrOZfQ",
+        "isDelete": "N",
+        "isSzyy": "N",
+        "orderNum": 1.0,
+        "replyContent": "由负责放映的农村数字电影放映队或放映单位。",
+        "unifyId": "9ee60ca97a8b4a8cb53e504980037202",
+        "updateDate": 1668659564000
+      },
+      {
+        "createDate": 1626053354000,
+        "faqContent": "公益电影放映场次数据来自哪里？",
+        "faqId": "QBQJQZPUS9aA2CmS7UW92g",
+        "isDelete": "N",
+        "isSzyy": "N",
+        "orderNum": 2.0,
+        "replyContent": "场次数据均以全省统一的湖南农村电影流动放映监管平台为准。",
+        "unifyId": "9ee60ca97a8b4a8cb53e504980037202",
+        "updateDate": 1668659564000
+      }
+    ],
+    "isCharge": "否",
+    "isIntermediaryServices": "无",
+    "isSpecialProcedure": "否",
+    "isonline": "是",
+    "lctList": [
+      {
+        "approveCode": "9ee60ca97a8b4a8cb53e504980037202",
+        "approveId": "9ee60ca97a8b4a8cb53e504980037202",
+        "bucketName": "zwfw202106",
+        "createTime": 1624585348000,
+        "flowc": "approve/2021-06-25-09/1624585347995$$公益电影放映场次确认流程图.png",
+        "id": "C58E4093BE02A94AE053661515AC18C3",
+        "isDelete": "0",
+        "isExchange": "Y",
+        "operateFlag": "N"
+      }
+    ],
+    "materialList": [
+      {
+        "acceptStandard": "字迹清晰，加盖单位公章",
+        "bylaw": "《湖南省农村公益数字电影放映管理实施细则》（湘广影字〔2011〕39号）",
+        "commitWay": "网上现场都可提交",
+        "copiesNum": 1.0,
+        "createDate": 1624349657000,
+        "freeSubmission": "无",
+        "isDelete": "N",
+        "isMust": "必要",
+        "materialApproveType": "其他",
+        "materialCode": "M430739004W000201",
+        "materialExplain": "所提材料应真实有效，符合法律法规的相关规定",
+        "materialId": "uvdLrxhUT4OTNkt-bt-8nA",
+        "materialStandard": "纸质和电子",
+        "materialTitle": "关于确认公益电影放映场次的请示",
+        "materialType": "原件",
+        "pageformat": "A4纸",
+        "sourceChannel": "申请人自备",
+        "sourceexplain": "电影单位自拟",
+        "unifyId": "9ee60ca97a8b4a8cb53e504980037202",
+        "updateDate": 1668659565000
+      }
+    ],
+    "minExplain": "四级标准说明：该事项已经实现全程网办，申请人可以通过网络提交和补正相关申请信息和材料，提交的材料全部为已验证信息，受理通过后直接进入办理程序，申请人可网上查询办理状态、咨询问题，作出审批决定后，申请人可以通过网上缴费后物流递送证书结果。整个办事过程无需到现场办理。",
+    "minSeq": "0",
+    "orgId": "zX2jV3bibQFKfK9OJ0uO7Vw",
+    "orgName": "湖南省新闻出版局、省电影局",
+    "processDescript": "无",
+    "quantitativeRestriction": "暂无数量限制",
+    "resultList": [
+      {
+        "approveCode": "9ee60ca97a8b4a8cb53e504980037202",
+        "approveId": "9ee60ca97a8b4a8cb53e504980037202",
+        "bucketName": "zwfw202106",
+        "createTime": 1624349428000,
+        "extend": "png",
+        "fileName": "关于确认公益电影放映场次的批复.png",
+        "id": "C55752AD2F880E45E053651515AC08DA",
+        "isDelete": "0",
+        "isExchange": "Y",
+        "isNeed": "N",
+        "operateFlag": "N",
+        "resultChart": "approve/2021-06-22-16/1624349428444$$关于确认公益电影放映场次的批复.png",
+        "resultSampleName": "关于确认公益电影放映场次的批复"
+      }
+    ],
+    "resultSampleName": "关于确认公益电影放映场次的批复",
+    "rightsCode": "430739004W00",
+    "rightsId": "74bd5edfb2fb4c5881117791feeccb4f",
+    "schemeLevels": "市、县",
+    "serveObject": "法人",
+    "transactLevel": "四级标准",
+    "transactionFrom": "窗口办理^网上办理^快递申请",
+    "typeName": "行政确认",
+    "unifyId": "9ee60ca97a8b4a8cb53e504980037202",
+    "unifyName": "公益电影放映场次确认",
+    "ywCode": "02"
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

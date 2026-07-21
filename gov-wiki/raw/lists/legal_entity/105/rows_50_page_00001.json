@@ -1,0 +1,465 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117016000",
+        "rightsId": "8794B3AA86FF9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "HJXbeHF8QPKy6RK2mCxWYg",
+        "unifyName": "因工程建设需要拆除、改动、迁移供水设施审核",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117047000",
+        "rightsId": "8794B3AA87219492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "goVo-xmNQH642gSnWc_OMg",
+        "unifyName": "停止供水、改（迁、拆）公共供水的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119002000",
+        "rightsId": "8794B3AA879D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bcf8bf7122d04869a8c17c02cd9a622c",
+        "unifyName": "其他水利基建项目初步设计文件审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119002000",
+        "rightsId": "8794B3AA879D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "032158bf9e4a4c458b8e1dc16e87da33",
+        "unifyName": "新建水库初步设计审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119002000",
+        "rightsId": "8794B3AA879D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9f369395698a47c7b61700ee4a972b49",
+        "unifyName": "病险水库、病险水闸除险加固初步设计文件审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119002000",
+        "rightsId": "8794B3AA879D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e92a395a1d84412caa911fbc16be4277",
+        "unifyName": "堤防工程初步设计文件审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119003000",
+        "rightsId": "8794B3AA879E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b13f9528fbc64a299ace8501c7002b5c",
+        "unifyName": "水工程建设规划同意书审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119005000",
+        "rightsId": "8794B3AA87A09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2d3f77866acc4ad099afc563038aed2f",
+        "unifyName": "河道采砂许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119005000",
+        "rightsId": "8794B3AA87A09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "317e12ad9b7044b6a5f0c4ebd667ed21",
+        "unifyName": "长江河道采砂许可",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119007000",
+        "rightsId": "8794B3AA87A29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "65ae7c7b2c1748acb03f3edc2c3e967b",
+        "unifyName": "不同行政区域边界水工程批准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119008000",
+        "rightsId": "8794B3AA87A39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8fba3f83157a493190479dad6432d247",
+        "unifyName": "河道管理范围内建设项目工程建设方案审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119008000",
+        "rightsId": "8794B3AA87A39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "qMfepQhaSuOzYTJN6poFOQ",
+        "unifyName": "洪水影响评价审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119009000",
+        "rightsId": "8794B3AA87A49492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2NKWsk00SSeHNol6fmn9PA",
+        "unifyName": "河道管理范围内有关活动（不含河道采砂）审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119010000",
+        "rightsId": "8794B3AA87A59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2d92112207554f65a33e56a95529b7ed",
+        "unifyName": "洪泛区、蓄滞洪区非防洪建设项目洪水影响评价报告审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119010000",
+        "rightsId": "8794B3AA87A59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "yfwFGMRuQ9OUVV4-riQBDg",
+        "unifyName": "洪水影响评价审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000119011000",
+        "rightsId": "8794B3AA87A69492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "aspaiLYqSzSFgS-fSryOhA",
+        "unifyName": "城市建设填堵水域、废除围堤审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000119012000",
+        "rightsId": "8794B3AA87A79492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "bc70da8f576c489db2192a983546c677",
+        "unifyName": "生产建设项目水土保持方案审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000119012000",
+        "rightsId": "8794B3AA87A79492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "bc0eddfba0b74e6d87a3b7916f95244f",
+        "unifyName": "生产建设项目水土保持方案审批（承诺制类）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119013000",
+        "rightsId": "8794B3AA87A89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "498b2b91704d4a2783c7dd1b7c644936",
+        "unifyName": "专用水文测站的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119014000",
+        "rightsId": "8794B3AA87A99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0db969270e9d438f9e85e16770cef3e6",
+        "unifyName": "国家基本水文测站上下游建设影响水文监测工程的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119014000",
+        "rightsId": "8794B3AA87A99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "esdUjpiYQrWtLglWWA9SPA",
+        "unifyName": "洪水影响评价审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119015000",
+        "rightsId": "8794B3AA87AA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "eb39c7a98443412e9052891068be2500",
+        "unifyName": "国家基本水文测站设立和调整审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119017000",
+        "rightsId": "8794B3AA87AC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c0TSsM0zSXaU9ZWGUWfsXA",
+        "unifyName": "利用堤顶、戗台兼做公路审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000119020000",
+        "rightsId": "8794B3AA87B79492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "2778239497e5450f94c858b7a5e9ac73",
+        "unifyName": "水利工程质量检测单位资质（乙级）申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000119020000",
+        "rightsId": "8794B3AA87B79492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "b1adc28768af437d90bbe8c437b228fa",
+        "unifyName": "水利工程质量检测单位资质（乙级）延续",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000119020000",
+        "rightsId": "8794B3AA87B79492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "16e5db972adc47de886ec9c2ea89a03e",
+        "unifyName": "水利工程质量检测单位资质（乙级）变更（单位名称变更）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000119020000",
+        "rightsId": "8794B3AA87B79492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "21b0e605350b4ca88edf16b0f5132408",
+        "unifyName": "水利工程质量检测单位资质（乙级）变更（法定代表人变更）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000119020000",
+        "rightsId": "8794B3AA87B79492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "0d068b84f85049a791c24688535a4f7c",
+        "unifyName": "水利工程质量检测单位资质（乙级）变更（技术负责人变更）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000119020000",
+        "rightsId": "8794B3AA87B79492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "afbd2d08586145f3a75ef7cd6643fee6",
+        "unifyName": "水利工程质量检测单位资质（乙级）变更（地址变更）",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119022000",
+        "rightsId": "8794B3AA87B99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0eec2919ce094f859188076ac959c2e1",
+        "unifyName": "在大坝管理和保护范围内修建码头、渔塘许可",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000154003000",
+        "rightsId": "b0e5140a4ab74805bdf4b59ca812443a",
+        "transactLevel": "0",
+        "unifyId": "_iANejtMQKei89asxCfFMg",
+        "unifyName": "气象台站迁建审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000154004000",
+        "rightsId": "8794B3AA8AA69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3126a730965243d4aa1b20653299cf57",
+        "unifyName": "新建、扩建、改建建设工程避免危害气象探测环境审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001019005000",
+        "rightsId": "dd96a886a16a46088192b7096a634478",
+        "transactLevel": "0",
+        "unifyId": "6a26ccc97d274442a8aebc5c182e260c",
+        "unifyName": "水利工程建设项目阶段验收",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001019005000",
+        "rightsId": "dd96a886a16a46088192b7096a634478",
+        "transactLevel": "0",
+        "unifyId": "29f5c99559b04c1794eca23592869b10",
+        "unifyName": "水利工程建设项目竣工验收",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430119003W00",
+        "rightsId": "TTSJW7zFQoqKKMFn4Pw3uQ128",
+        "transactLevel": "0",
+        "unifyId": "caa469c7711d4be083924ec106b17fc1",
+        "unifyName": "权限内水库大坝注册登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430719003W00",
+        "rightsId": "10wgp2bsQeObe3L4OfGILQ",
+        "transactLevel": "0",
+        "unifyId": "6e85125eec4e420a9a81cded9638714a",
+        "unifyName": "水利工程项目划分确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430825003W00",
+        "rightsId": "400411b212d44e53a6d3199401ed24c6",
+        "transactLevel": "0",
+        "unifyId": "9FNzrv-BRtikK9V7lESUjQ",
+        "unifyName": "湖南省森林消防先进集体与个人表彰",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431019063W00",
+        "rightsId": "oCD-mts-Sp248M_ycED24A",
+        "transactLevel": "0",
+        "unifyId": "3ee3660ecac14252ac8f4d302195ca42",
+        "unifyName": "水利工程质量监督申报手续办理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431019064W00",
+        "rightsId": "5GOwtCqVS06UvKlptlSvoA",
+        "transactLevel": "2",
+        "unifyId": "0c694f089eda42ffb9e2522d1b9b0710",
+        "unifyName": "水利工程建设项目安全生产措施方案备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431019065W00",
+        "rightsId": "tTYAe504QKaqHu0DY_zJfg",
+        "transactLevel": "0",
+        "unifyId": "22bb3cd1fb304f5da526195b0aeebbd8",
+        "unifyName": "水利工程质量监督手续与质量结论登记备案（单位工程）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431019065W00",
+        "rightsId": "tTYAe504QKaqHu0DY_zJfg",
+        "transactLevel": "0",
+        "unifyId": "Tl6ySZ1wRT61dDpX2E5LvQ",
+        "unifyName": "水利工程质量监督手续与质量结论登记备案（分部工程）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "432019104W00",
+        "rightsId": "97D338F503C0FC3BE053681515ACCA9B",
+        "transactLevel": "2",
+        "unifyId": "44f0f2a614de431abf6811cac0d21a8b",
+        "unifyName": "水文资料查询服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "432019105W00",
+        "rightsId": "97D338F503C1FC3BE053681515ACCA9B",
+        "transactLevel": "2",
+        "unifyId": "1f3d6da61d5a4e2aaaefa76dd8a84e16",
+        "unifyName": "水利工程建设项目招投标活动投诉处理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432019110W00",
+        "rightsId": "97D338F503C6FC3BE053681515ACCA9B",
+        "transactLevel": "0",
+        "unifyId": "2558573b6edb4c5f84271173f8187464",
+        "unifyName": "水利科技项目申报信息服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432019120W00",
+        "rightsId": "97D338F503D0FC3BE053681515ACCA9B",
+        "transactLevel": "0",
+        "unifyId": "bc0f8234af8844a88dbc50503945db1f",
+        "unifyName": "湖南省水利水电工程设计概（估）算编制规定咨询",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 45,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

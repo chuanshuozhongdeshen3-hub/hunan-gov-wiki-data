@@ -1,0 +1,514 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208002",
+        "rightsId": "8794B3AA93469492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f9ae569cea7a42868cbf4caead76e0ed",
+        "unifyName": "注册建筑师考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208003",
+        "rightsId": "8794B3AA93479492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "678cfd85bcc54ae899ff5bbfc5c0de45",
+        "unifyName": "监理工程师考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208004",
+        "rightsId": "8794B3AA93489492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f067a1c973ee490aa33c26b84859e9ed",
+        "unifyName": "环境影响评价工程师考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208005",
+        "rightsId": "8794B3AA93499492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2fe9ab1d791a4cebbfdbf94d6a5c8655",
+        "unifyName": "翻译专业资格（笔译、口译）考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208006",
+        "rightsId": "8794B3AA934A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6944a3ee2c394f8daf3a3fdeac60d398",
+        "unifyName": "助理社会工作师、社会工作师、高级社会工作师考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208007",
+        "rightsId": "8794B3AA934B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d231e594bffe4c0b90f334256a0bf57f",
+        "unifyName": "一级注册计量师、二级注册计量师考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208009",
+        "rightsId": "8794B3AA934D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "83ede39a5c3d445084bd149f77eda7ef",
+        "unifyName": "注册设备监理师考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208010",
+        "rightsId": "8794B3AA934F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e603abc5f53f49fd96e9f97b1fa45f88",
+        "unifyName": "注册测绘师考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208011",
+        "rightsId": "8794B3AA93509492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0765db8d806a45bca393fc7c8a34f51a",
+        "unifyName": "建造师考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208012",
+        "rightsId": "8794B3AA93519492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b01ec00f86194178bd703312d60ea8a4",
+        "unifyName": "出版专业技术人员职业资格（初级、中级）考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208013",
+        "rightsId": "8794B3AA93529492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e57ecf17467b43498469b7f8855d875a",
+        "unifyName": "执业药师（药学、中药学）考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208014",
+        "rightsId": "8794B3AA93539492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5f11c2c225db4238b7d5b4cb4852cece",
+        "unifyName": "注册城乡规划师考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208015",
+        "rightsId": "8794B3AA93549492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b4841125cd104af19199c893089aabc0",
+        "unifyName": "勘察设计注册工程师考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208016",
+        "rightsId": "8794B3AA93559492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "469b18f663024063a64254f52b2347f9",
+        "unifyName": "一级造价工程师考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208017",
+        "rightsId": "8794B3AA93569492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "00ec7f7f52f244c09674c2fb8701a548",
+        "unifyName": "注册安全工程师考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208018",
+        "rightsId": "8794B3AA93579492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a5ab5909b2ef4a89ba6208761660f0d0",
+        "unifyName": "经济专业技术资格（初级、中级）考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014208019",
+        "rightsId": "8794B3AA93589492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e3b4f9946859454a8666f301016e33b4",
+        "unifyName": "一级注册消防工程师考试报名",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014209001",
+        "rightsId": "8794B3AA935A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9c31af313f3049d3abc4751a029c50d5",
+        "unifyName": "专业技术人员职业资格证书查询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014302001",
+        "rightsId": "8794B3AA93619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ebd5ed9cc74247e882ff928da552f81e",
+        "unifyName": "劳动人事争议调解申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014302002",
+        "rightsId": "8794B3AA93629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "aYcZ8ELbR56Me61a8eSG0A",
+        "unifyName": "劳动人事争议仲裁申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002015002000",
+        "rightsId": "222625ebc6f241d49a6d882c4d220c87",
+        "transactLevel": "0",
+        "unifyId": "JOKLLoRMTcSgQdVR6YZdQQ",
+        "unifyName": "属地办理的不动产登记资料查询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002022001000",
+        "rightsId": "c908ca22c0bb4deab1f93631a516ce2d",
+        "transactLevel": "0",
+        "unifyId": "7C8c-m0gTBeVjMIW01LWJw",
+        "unifyName": "出境旅游组团社签证专办员管理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030002000",
+        "rightsId": "90e3bbbdcd464352a9fdd66be13d4eae",
+        "transactLevel": "0",
+        "unifyId": "4bff5d50df9a4640b65007b08bb36f37",
+        "unifyName": "自然人自主报告身份信息",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030004000",
+        "rightsId": "b8c593c2ab824c9d80f19f51c4622612",
+        "transactLevel": "0",
+        "unifyId": "938ff588ce1448d1a3474216db8fbf0b",
+        "unifyName": "解除相关人员关联关系",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030008000",
+        "rightsId": "df2675e7d1cd468e8c0e2811dd9f8d3a",
+        "transactLevel": "0",
+        "unifyId": "a0df7b2651da4b41847c2dab372af014",
+        "unifyName": "银税三方（委托）划缴协议",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030012000",
+        "rightsId": "50092062eedc42d78c601af1680acbb0",
+        "transactLevel": "0",
+        "unifyId": "ac0a606eeb744f67b1eae7084b92f1b7",
+        "unifyName": "欠税人处置不动产或大额资产报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030014000",
+        "rightsId": "a6fe3e8cd767405fa6bb038809519a77",
+        "transactLevel": "0",
+        "unifyId": "775b6a18369941a39cf671b099e1cdb5",
+        "unifyName": "个人所得税递延纳税报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030015000",
+        "rightsId": "b9f65830d32643c3a7b6491468eb15e5",
+        "transactLevel": "0",
+        "unifyId": "0ade04724a0645f18d3be1d68b06c9f4",
+        "unifyName": "科技成果转化暂不征收个人所得税备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030016000",
+        "rightsId": "ce279683fb544bf89654748873dff7d3",
+        "transactLevel": "0",
+        "unifyId": "88e996134176492985d08404e204d93b",
+        "unifyName": "个人所得税分期缴纳报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030017000",
+        "rightsId": "6fa749d53f5d430eb675b76646140f5b",
+        "transactLevel": "0",
+        "unifyId": "c59875ceef9545e4a86e1e1f3f9cddea",
+        "unifyName": "个人所得税抵扣情况报告",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030034000",
+        "rightsId": "4cca8fe33c824deabc9c1bfad18d6c73",
+        "transactLevel": "0",
+        "unifyId": "7ae1b9bfed1545fb9f7369ea40c0e2b0",
+        "unifyName": "申报错误更正",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030035000",
+        "rightsId": "216702fbfeea41d3b8325e416f0b30ed",
+        "transactLevel": "0",
+        "unifyId": "e1d0734c71fd4a24b799104b5b6413da",
+        "unifyName": "开具税收完税证明",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030036000",
+        "rightsId": "264f5b6c8228411b9b21234fa01da1cf",
+        "transactLevel": "0",
+        "unifyId": "cbf9acb610bf499e93be02af0b0e2f23",
+        "unifyName": "开具个人所得税纳税记录",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030037000",
+        "rightsId": "cd39b72048e040f3b04a5c2bddaa2d3e",
+        "transactLevel": "0",
+        "unifyId": "ad551de32f25487590bd2d2b53df9f7e",
+        "unifyName": "转开印花税票销售凭证",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030038000",
+        "rightsId": "6906d69f063c4398ad5d6cd951901c17",
+        "transactLevel": "0",
+        "unifyId": "56f2404a191a4da79908a0d04f91f820",
+        "unifyName": "境内机构和个人发包工程作业或劳务项目备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030039000",
+        "rightsId": "adc49205eb104101bdbc55bba8a3ba48",
+        "transactLevel": "0",
+        "unifyId": "7b3f7fbd6e034ffa956870f47d1a3975",
+        "unifyName": "服务贸易等项目对外支付税务备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030043000",
+        "rightsId": "d9b4c8b992dd4556bd3f2febe9969050",
+        "transactLevel": "0",
+        "unifyId": "7f00d9a6d5d2432694cf40422208816e",
+        "unifyName": "中国居民（国民）申请启动税务相互协商程序",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030046000",
+        "rightsId": "5222d527df5848d9867eb95b64c79295",
+        "transactLevel": "0",
+        "unifyId": "842dca4744014674b7de6e9069a636fd",
+        "unifyName": "面对面咨询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030047000",
+        "rightsId": "69e076e5ae21426eba82e8022ed71e60",
+        "transactLevel": "0",
+        "unifyId": "83e3be2925444e908e2fd67851cb5ec5",
+        "unifyName": "社会公众涉税公开信息查询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030048000",
+        "rightsId": "1acff15501e5436d8f4097a0c1e32162",
+        "transactLevel": "0",
+        "unifyId": "eaa050fb9b7f4288baacaa4dc4082f5d",
+        "unifyName": "纳税人涉税信息查询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "002030049000",
+        "rightsId": "7f9283bd4326455cbd0a2790eb52730f",
+        "transactLevel": "1",
+        "unifyId": "ab6b8273272344e48f05fae6656052f2",
+        "unifyName": "第三方涉税保密信息查询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030051000",
+        "rightsId": "3ed1b3ea3b46429a90d9de6ebf358ab7",
+        "transactLevel": "0",
+        "unifyId": "27483aa27bde4b189b04b00a2f20469b",
+        "unifyName": "涉税专业服务机构（人员）信用信息查询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002030055000",
+        "rightsId": "b3c090733ac441cd97a5e0cb9606344d",
+        "transactLevel": "0",
+        "unifyId": "0ca02bfd7411486a9aacea0c874f4fb2",
+        "unifyName": "开具无欠税证明",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430105007W00",
+        "rightsId": "IqGPxRECTH-YQaa_YPxyuw",
+        "transactLevel": "0",
+        "unifyId": "74ba71b5dddb4cc19e01d6e7aaa310d9",
+        "unifyName": "适龄儿童、少年因身体状况需要延缓入学或者休学审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430112012W00",
+        "rightsId": "51RQi0Q0TkqqCeMCglPKmw",
+        "transactLevel": "0",
+        "unifyId": "cb19ec617f1742ebbba647e02daaf72e",
+        "unifyName": "基层法律服务所名称变更核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430112012W00",
+        "rightsId": "51RQi0Q0TkqqCeMCglPKmw",
+        "transactLevel": "0",
+        "unifyId": "0ed96b9e56524ea0ad9f01c27b5bf74a",
+        "unifyName": "基层法律服务所负责人变更核准",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430112012W00",
+        "rightsId": "51RQi0Q0TkqqCeMCglPKmw",
+        "transactLevel": "0",
+        "unifyId": "23ee7dbb02e643f880acea87431dadc8",
+        "unifyName": "基层法律服务所合伙人变更核准",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430112012W00",
+        "rightsId": "51RQi0Q0TkqqCeMCglPKmw",
+        "transactLevel": "0",
+        "unifyId": "a580950e328f42f187fee7678a4f5d71",
+        "unifyName": "基层法律服务所住所变更核准",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430112012W00",
+        "rightsId": "51RQi0Q0TkqqCeMCglPKmw",
+        "transactLevel": "0",
+        "unifyId": "65ba4e201ab04ded8c11750043db0946",
+        "unifyName": "基层法律服务所修改章程核准",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430112012W00",
+        "rightsId": "51RQi0Q0TkqqCeMCglPKmw",
+        "transactLevel": "0",
+        "unifyId": "cf2361b996e345c08c4351e9c7eff6ab",
+        "unifyName": "基层法律服务所执业证书注销核准",
+        "ywCode": "06"
+      }
+    ],
+    "pageIndex": 20,
+    "pageSize": 50,
+    "total": 1343,
+    "totalPage": 27
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

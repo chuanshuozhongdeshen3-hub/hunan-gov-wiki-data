@@ -1,0 +1,232 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000114007001",
+        "rightsId": "8794B3AA86429492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b3edff78eff4444984aa8edd48144c62",
+        "unifyName": "企业实行不定时工作制和综合计算工时工作制审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000114007001",
+        "rightsId": "8794B3AA86429492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d01e36d8aa5c4509a097d2695472ca09",
+        "unifyName": "企业实行不定时工作制和综合计算工时工作制审批续期",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000114008001",
+        "rightsId": "8794B3AA86449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8e633ca52f4c4f68a568bc95386f3b96",
+        "unifyName": "劳务派遣经营许可（市^部分县、部分国家级园区）",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000114008001",
+        "rightsId": "8794B3AA86449492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "15cee52cc2814d7aaafcbac485cf2a75",
+        "unifyName": "劳务派遣变更、延续、注销许可（市^部分县、部分国家级园区）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709102000",
+        "rightsId": "c17c5a49890a41578bcbf43a01c6475f",
+        "transactLevel": "1",
+        "unifyId": "SVyDLnGARA6TzajCWQcXlA",
+        "unifyName": "大型焰火燃放作业人员资格证明核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709102000",
+        "rightsId": "c17c5a49890a41578bcbf43a01c6475f",
+        "transactLevel": "0",
+        "unifyId": "8BGsmpSdS6mWxRIaJ_YBIg",
+        "unifyName": "大型焰火燃放作业人员资格证明变更所在单位",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "002014006001",
+        "rightsId": "8794B3AA92B69492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "ece0cdb617d744e5b8616447cf8f4a04",
+        "unifyName": "档案预审申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014006001",
+        "rightsId": "8794B3AA92B69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Voeklrt7Q5uudvavaTKd2w",
+        "unifyName": "企业职工基本养老保险养老金申领",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014006005",
+        "rightsId": "8794B3AA92BA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "963369ef49df466b9f838c3f92f90927",
+        "unifyName": "暂停社会保险定期待遇申请（企保）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014006006",
+        "rightsId": "8794B3AA92BB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3fdac40486dc464fb324311c79875272",
+        "unifyName": "恢复社会保险定期待遇申请（企保）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014203001",
+        "rightsId": "8794B3AA93289492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0558097c887242ab95cd84b54f67a1f7",
+        "unifyName": "事业单位岗位设置方案备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014203002",
+        "rightsId": "8794B3AA93299492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d20170d2adf84bedac77e7f70f812e1a",
+        "unifyName": "事业单位公开招聘工作方案、招聘信息审核备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014203003",
+        "rightsId": "8794B3AA932A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bc4dd97e50d94506b0fad4d97db6f3f6",
+        "unifyName": "事业单位拟聘人员备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "002014204004",
+        "rightsId": "8794B3AA93309492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "ca70a12db99d4d5eb22c6a1d95dd1d69",
+        "unifyName": "为符合相关规定的单位提供档案查阅服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014204004",
+        "rightsId": "8794B3AA93309492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ENeUxiB_SfKTUm9ksfiGww",
+        "unifyName": "为符合相关规定的单位提供档案借阅服务",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014204006",
+        "rightsId": "8794B3AA93329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "48e137621c3f442a8ece8d0e3eb9b172",
+        "unifyName": "为相关单位提供政审（考察）服务",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "002014207001",
+        "rightsId": "8794B3AA933E9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "9170d42b9be24411b83c7492ddaf6787",
+        "unifyName": "博士后创新创业实践基地设站申报（市县）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "002014207003",
+        "rightsId": "8794B3AA93409492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "2db2d44b15474184949acfcc84272f1b",
+        "unifyName": "职称证书信息修改申请",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "002014207003",
+        "rightsId": "8794B3AA93409492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "5b193146f8f243649455823a6fd8625a",
+        "unifyName": "职称证书遗失补办申请",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "002014207004",
+        "rightsId": "8794B3AA93419492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "aea6a7d6e2174d71bbac80a84fc1e894",
+        "unifyName": "职称评审委员会备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430825003W00",
+        "rightsId": "400411b212d44e53a6d3199401ed24c6",
+        "transactLevel": "0",
+        "unifyId": "9FNzrv-BRtikK9V7lESUjQ",
+        "unifyName": "湖南省森林消防先进集体与个人表彰",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 21,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

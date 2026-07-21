@@ -1,0 +1,517 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119016000",
+        "rightsId": "8794B3AA87AB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3406d3ebf83b4839bc734743f9dbc097",
+        "unifyName": "占用农业灌溉水源、灌排工程设施审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119017000",
+        "rightsId": "8794B3AA87AC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c0TSsM0zSXaU9ZWGUWfsXA",
+        "unifyName": "利用堤顶、戗台兼做公路审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000119020000",
+        "rightsId": "8794B3AA87B79492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "2778239497e5450f94c858b7a5e9ac73",
+        "unifyName": "水利工程质量检测单位资质（乙级）申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000119020000",
+        "rightsId": "8794B3AA87B79492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "b1adc28768af437d90bbe8c437b228fa",
+        "unifyName": "水利工程质量检测单位资质（乙级）延续",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000119020000",
+        "rightsId": "8794B3AA87B79492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "16e5db972adc47de886ec9c2ea89a03e",
+        "unifyName": "水利工程质量检测单位资质（乙级）变更（单位名称变更）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000119020000",
+        "rightsId": "8794B3AA87B79492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "21b0e605350b4ca88edf16b0f5132408",
+        "unifyName": "水利工程质量检测单位资质（乙级）变更（法定代表人变更）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000119020000",
+        "rightsId": "8794B3AA87B79492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "0d068b84f85049a791c24688535a4f7c",
+        "unifyName": "水利工程质量检测单位资质（乙级）变更（技术负责人变更）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "000119020000",
+        "rightsId": "8794B3AA87B79492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "afbd2d08586145f3a75ef7cd6643fee6",
+        "unifyName": "水利工程质量检测单位资质（乙级）变更（地址变更）",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119021000",
+        "rightsId": "8794B3AA87B89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "g7J0po_xQki2ce-UBm3wDg",
+        "unifyName": "坝顶兼做公路审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119022000",
+        "rightsId": "8794B3AA87B99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0eec2919ce094f859188076ac959c2e1",
+        "unifyName": "在大坝管理和保护范围内修建码头、渔塘许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119028000",
+        "rightsId": "693d49c1601c49d08003fc520925d2e3",
+        "transactLevel": "0",
+        "unifyId": "19c21213fffd4576bf151ff7b096806f",
+        "unifyName": "大中型水库移民安置规划（大纲）审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120011000",
+        "rightsId": "8794B3AA87D39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "359a20c01aaa460cb02582f4b5fa57c6",
+        "unifyName": "水产苗种产地检疫",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120025000",
+        "rightsId": "8794B3AA87E19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7c1859bc6e07456db65bd7667942e9ab",
+        "unifyName": "水产苗种进口审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120025000",
+        "rightsId": "8794B3AA87E19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e02RpRrbSuyhcpkYeDzfRg",
+        "unifyName": "水产苗种出口审批",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120029000",
+        "rightsId": "8794B3AA87E59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b6ae84a2b8a441568c17923170ca0b52",
+        "unifyName": "水产苗种生产审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120029000",
+        "rightsId": "8794B3AA87E59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8UAutoIJSM-xqilxNo0qNQ",
+        "unifyName": "鱼类杂交制种许可证核发",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120031000",
+        "rightsId": "8794B3AA87E79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "53bab26355a04b4cb1939fc4b8c18829",
+        "unifyName": "水域滩涂养殖证的审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120036000",
+        "rightsId": "8794B3AA87EC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d2321e1fcf4740678aad5ddf394191a9",
+        "unifyName": "水产原种场的水产苗种生产许可证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120040000",
+        "rightsId": "8794B3AA87F09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1fSuMAxURdyF0Hm7lbjsBg",
+        "unifyName": "省内运输高致病性病原微生物菌（毒）种或者样本许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a750f13b96d544c591e5ca79b6f71339",
+        "unifyName": "浓缩饲料、配合饲料、精料补充料生产许可证核发（设立、续展、迁址）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0N-q3KGxTbKeUoBXbfYY-g",
+        "unifyName": "宠物配合饲料生产许可证核发（增加或更换生产线）",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "LSrhgXe0QAqCI0Maa8026g",
+        "unifyName": "宠物配合饲料生产许可证核发（变更）",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ZkAOn0HKTO6PG85rogcOzQ",
+        "unifyName": "浓缩饲料、配合饲料、精料补充料生产许可证核发（变更）",
+        "ywCode": "13"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Fo33AlNJQq6CVmUkIu90Ww",
+        "unifyName": "浓缩饲料、配合饲料、精料补充料生产许可证核发（增加或更换生产线）",
+        "ywCode": "12"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "WgBnqcRHTsqin6pYC6UzKw",
+        "unifyName": "浓缩饲料、配合饲料、精料补充料生产许可证核发（增加产品品种）",
+        "ywCode": "14"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "DOk6UdUmTFypD_PdCwl9xA",
+        "unifyName": "单一饲料生产许可证核发（增加产品品种)",
+        "ywCode": "15"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "T0dyeq91QKO35kFlrP9PWA",
+        "unifyName": "宠物配合饲料生产许可证核发（增加产品品种）",
+        "ywCode": "16"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "sc1qeGKJTdqzHH6pOIvW7g",
+        "unifyName": "饲料添加剂生产许可证核发（变更）",
+        "ywCode": "17"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "PeLgziRJRBGzpoVzR_nEaA",
+        "unifyName": "混合型饲料添加剂生产许可证核发（增加或更换生产线）",
+        "ywCode": "18"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "m38CyRrxQ7aP8iULBZ_81w",
+        "unifyName": "混合型饲料添加剂生产许可核发（变更）",
+        "ywCode": "19"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "170f4adafc3e458d861b8f390fdc1026",
+        "unifyName": "单一饲料生产许可证核发(设立、续展、迁址)",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "N3BsyviISfCJ1-ci20Ld3A",
+        "unifyName": "添加剂预混合饲料生产许可证核发（变更）",
+        "ywCode": "20"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "TGmkFUKZRxGSl2WhBgjFhw",
+        "unifyName": "宠物添加剂预混合饲料生产许可证核发（增加或更换生产线）",
+        "ywCode": "21"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0HSrFqpcT5GzYJP9hUZ6nA",
+        "unifyName": "宠物添加剂预混合饲料生产许可证核发（变更）",
+        "ywCode": "22"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "rIWTHDd5QTOpyjDg3km2Fg",
+        "unifyName": "添加剂预混合饲料生产许可证核发（增加或更换生产线）",
+        "ywCode": "23"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "iSAU7oIeTHqyy6A7lpuHBg",
+        "unifyName": "饲料添加剂生产许可证核发（增加或更换生产线）",
+        "ywCode": "24"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "kBLP9bPlROm4Rmt6-cEk5A",
+        "unifyName": "混合型饲料添加剂生产许可证核发（增加产品品种）",
+        "ywCode": "25"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "rw4Xu74-QHeROC5ntpVOXQ",
+        "unifyName": "添加剂预混合饲料生产许可证核发（增加产品品种或产品系列）",
+        "ywCode": "26"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "YEBJV82WQZSE-HQYblqRCg",
+        "unifyName": "宠物添加剂预混合饲料生产许可证核发（增加产品品种）",
+        "ywCode": "27"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f1RxiEO4Try9tJyAe1sJdA",
+        "unifyName": "饲料和饲料添加剂生产许可证注销",
+        "ywCode": "28"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a667e4accde84172a13d98be3e72427e",
+        "unifyName": "宠物配合饲料生产许可证核发（设立、续展、迁址）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b819a39bcf554bbf9d00f2741c2fcb97",
+        "unifyName": "饲料添加剂生产许可证核发（设立、续展、迁址、增加产品品种）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "99e65160ffb84cbabe8ed30413b502ed",
+        "unifyName": "混合型饲料添加剂生产许可证核发（设立、续展、迁址）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1c63d4e4e459465d8193f3c66a0d9a09",
+        "unifyName": "添加剂预混合饲料生产许可证核发（设立、续展、迁址）",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "292bcb7b5176419eb007e7283cc723d4",
+        "unifyName": "宠物添加剂预混合饲料生产许可证核发（设立、续展、迁址）",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "z5WyV9u-RJCD-G_RssrFqg",
+        "unifyName": "单一饲料生产许可证核发(增加或更换生产线）",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120042000",
+        "rightsId": "8794B3AA87F29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4AolbRwSRWqKaCXH-zvCrg",
+        "unifyName": "单一饲料生产许可证核发(变更）",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120057000",
+        "rightsId": "8794B3AA88019492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0keJbG6KSmKttFVoprDd1Q",
+        "unifyName": "采集国家一级保护野生植物（农业类）审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120071000",
+        "rightsId": "8794B3AA88139492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2bc2e8af61784aaaa8567d41eb23f058",
+        "unifyName": "生猪定点屠宰厂（场）设置审查",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120071000",
+        "rightsId": "8794B3AA88139492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ff2d4797c0a6488296725ae3d338cce0",
+        "unifyName": "小型生猪屠宰场点设置审查",
+        "ywCode": "02"
+      }
+    ],
+    "pageIndex": 14,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

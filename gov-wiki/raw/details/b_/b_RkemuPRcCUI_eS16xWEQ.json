@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "data": {
+    "acceptanceCondition": "《危险化学品安全管理条例》第二十五条　储存危险化学品的单位应当建立危险化学品出入库核查、登记制度。对剧毒化学品以及储存数量构成重大危险源的其他危险化学品，储存单位应当将其储存数量、储存地点以及管理人员的情况，报所在地县级人民政府安全生产监督管理部门（在港区内储存的，报港口行政管理部门）和公安机关备案。",
+    "according": "《危险化学品安全管理条例》（中华人民共和国国务院令第344号公布，据2013年12月4日《国务院关于修改部分行政法规的决定》修订）第二十五条　储存危险化学品的单位应当建立危险化学品出入库核查、登记制度。对剧毒化学品以及储存数量构成重大危险源的其他危险化学品，储存单位应当将其储存数量、储存地点以及管理人员的情况，报所在地县级人民政府安全生产监督管理部门（在港区内储存的，报港口行政管理部门）和公安机关备案。",
+    "applicantDuty": "应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。",
+    "applicantPower": "依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。",
+    "approveLimit": "10",
+    "approveLimitExplain": "按相关法律规定办理",
+    "blbm": "市、县级应急管理部门",
+    "commitmentLimit": "6",
+    "commitmentLimitExplain": "根据实际情况办理",
+    "deptName": "应急管理部门",
+    "doScope": "全国",
+    "faqList": [
+      {
+        "createDate": 1626856547000,
+        "faqContent": "不及时备案应急管理部门会进行处罚吗?",
+        "faqId": "9ffd5658f69b48f38aa05eb638820f34",
+        "isDelete": "N",
+        "isSzyy": "Y",
+        "orderNum": 1.0,
+        "replyContent": "会的",
+        "unifyId": "b_RkemuPRcCUI_eS16xWEQ",
+        "updateDate": 1668659564000
+      }
+    ],
+    "isCharge": "否",
+    "isIntermediaryServices": "无",
+    "isSpecialProcedure": "否",
+    "isonline": "是",
+    "lctList": [
+      {
+        "approveCode": "b_RkemuPRcCUI_eS16xWEQ",
+        "approveId": "b_RkemuPRcCUI_eS16xWEQ",
+        "bucketName": "zwfw202401",
+        "createTime": 1704880574000,
+        "flowc": "approve/2024-01-10-17/1704880574434$$图片9.png",
+        "id": "0E957106CD362499E063651515AC3B26",
+        "isDelete": "0",
+        "isExchange": "N",
+        "operateFlag": "N",
+        "updateTime": 1704880574000
+      }
+    ],
+    "limitsceneexplain": "需现场核实材料和身份等信息",
+    "materialList": [
+      {
+        "acceptStandard": "填写必须真实、齐全，法人或公民签字，单位盖公章",
+        "bylaw": "《行政许可法》第三十条",
+        "commitWay": "网上现场都可提交",
+        "copiesNum": 1.0,
+        "createDate": 1626856547000,
+        "freeSubmission": "无",
+        "isDelete": "N",
+        "isMust": "必要",
+        "materialApproveType": "其他",
+        "materialCode": "M431025012W000101",
+        "materialExplain": "按照应急管理部门要求填报",
+        "materialId": "00c23f3d335845498e0dc36122b840b4",
+        "materialStandard": "纸质和电子",
+        "materialTitle": "对剧毒化学品以及储存数量构成重大危险源的危险化学品，储存单位应当将其储存数量、储存地点以及管理人员的情况的资料",
+        "materialType": "复印件",
+        "pageformat": "A4",
+        "sourceChannel": "申请人自备",
+        "sourceexplain": "企业自备",
+        "unifyId": "b_RkemuPRcCUI_eS16xWEQ",
+        "updateDate": 1677053368000
+      }
+    ],
+    "minExplain": "四级标准说明：该事项已经实现全程网办，申请人可以通过网络提交和补正相关申请信息和材料，提交的材料全部为已验证信息，受理通过后直接进入办理程序，申请人可网上查询办理状态、咨询问题，作出审批决定后，申请人可以通过网上缴费后物流递送证书结果。整个办事过程无需到现场办理。",
+    "minSeq": "0",
+    "orgId": "62bab4bfbbc142a5bb4e2f61c68accb7",
+    "orgName": "湖南省应急管理厅",
+    "processDescript": "按流程图办理",
+    "quantitativeRestriction": "暂无数量限制",
+    "resultList": [
+      {
+        "approveCode": "b_RkemuPRcCUI_eS16xWEQ",
+        "approveId": "b_RkemuPRcCUI_eS16xWEQ",
+        "bucketName": "zwfw202107",
+        "createTime": 1626856589000,
+        "extend": "jpg",
+        "fileName": "无.jpg",
+        "id": "31764df1239144e9886343a04dd4a650",
+        "isDelete": "0",
+        "isExchange": "Y",
+        "isNeed": "N",
+        "operateFlag": "N",
+        "resultChart": "approve/2021-07-21-16/1626856589320$$无.jpg",
+        "resultSampleName": "暂无"
+      }
+    ],
+    "resultSampleName": "暂无",
+    "rightsCode": "431025012W00",
+    "rightsId": "a0fbdeafe62d44f595cd15b550fd00bb",
+    "schemeLevels": "市、县",
+    "serveObject": "法人",
+    "transactLevel": "四级标准",
+    "transactionFrom": "网上办理",
+    "typeName": "其他行政权力",
+    "unifyId": "b_RkemuPRcCUI_eS16xWEQ",
+    "unifyName": "储存危险化学品的单位对剧毒化学品以及储存数量构成重大危险源的其他危险化学品将其储存数量、储存地点以及管理人员的情况进行备案",
+    "ywCode": "01"
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

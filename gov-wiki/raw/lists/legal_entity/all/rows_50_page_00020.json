@@ -1,0 +1,516 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123021000",
+        "rightsId": "8794B3AA892F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "128a0317e42c4e40bed97d3f431c3e85",
+        "unifyName": "个人剂量监测、放射防护器材和含放射性产品检测机构、医疗机构放射性危害评价机构认定（变更）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123021000",
+        "rightsId": "8794B3AA892F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "25f656e283144e2f82cfe3ba78a8839f",
+        "unifyName": "个人剂量监测、放射防护器材和含放射性产品检测机构、医疗机构放射性危害评价机构认定（补发）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123021000",
+        "rightsId": "8794B3AA892F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "39a23d9e583d4df1a68d59505ed614ee",
+        "unifyName": "个人剂量监测、放射防护器材和含放射性产品检测机构、医疗机构放射性危害评价机构认定（注销）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123021000",
+        "rightsId": "8794B3AA892F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4a01f15368654ffd9d074b0c5c6a7d32",
+        "unifyName": "个人剂量监测、放射防护器材和含放射性产品检测机构、医疗机构放射性危害评价机构认定（新发）",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123021000",
+        "rightsId": "8794B3AA892F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "JxNCqhzbRWeP555_fte1LA",
+        "unifyName": "个人剂量监测、放射防护器材和含放射性产品检测机构、医疗机构放射性危害评价机构认定（增项）",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123022000",
+        "rightsId": "8794B3AA89309492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "36f729d9f9214c348753048f3cf63003",
+        "unifyName": "放射源诊疗技术和医用辐射机构许可（新发）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123022000",
+        "rightsId": "8794B3AA89309492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e907f769f7264abda31adcd2f790bf33",
+        "unifyName": "放射源诊疗技术和医用辐射机构许可（变更）",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123022000",
+        "rightsId": "8794B3AA89309492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "89d12b1e9e1e435faa877401e6cd7a0f",
+        "unifyName": "放射源诊疗技术和医用辐射机构许可（校验）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123022000",
+        "rightsId": "8794B3AA89309492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7adec4024af64312baf69d954bacc53b",
+        "unifyName": "放射源诊疗技术和医用辐射机构许可（注销）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123022000",
+        "rightsId": "8794B3AA89309492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5e8ad198c9b046f9bf33e1f3ac95d856",
+        "unifyName": "放射源诊疗技术和医用辐射机构许可（增项）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123022000",
+        "rightsId": "8794B3AA89309492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "14cbcd66b9e44d1f860fc36e3abf0692",
+        "unifyName": "放射源诊疗技术和医用辐射机构许可（补办）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123023000",
+        "rightsId": "8794B3AA89319492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "937d14e9be6c4d6e92aba4c7d2d93f78",
+        "unifyName": "医疗机构放射性职业病危害建设项目预评价报告审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123024000",
+        "rightsId": "8794B3AA89329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1882dd71462844df852ca60be6b608d9",
+        "unifyName": "职业病诊断机构备案（新发）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123024000",
+        "rightsId": "8794B3AA89329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4628cf9c94cc44e592192df3bca344de",
+        "unifyName": "职业健康检查机构备案（增项）",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123024000",
+        "rightsId": "8794B3AA89329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9h4LpH53Trm4KMmfn_ce5w",
+        "unifyName": "职业健康检查机构备案（注销）",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123024000",
+        "rightsId": "8794B3AA89329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4da0d5f03da44ab292b1fa489ecd4908",
+        "unifyName": "职业健康检查机构备案（补发）",
+        "ywCode": "12"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123024000",
+        "rightsId": "8794B3AA89329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5320cfba70404f5a89c2b385f477d7a6",
+        "unifyName": "职业病诊断机构备案（延续）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123024000",
+        "rightsId": "8794B3AA89329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ad-1E1KSRIeDtMMnFg64sQ",
+        "unifyName": "职业病诊断机构备案（变更）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123024000",
+        "rightsId": "8794B3AA89329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6695d994d0ec47e49bfd40ec1f1f2b8c",
+        "unifyName": "职业病诊断机构备案（注销）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123024000",
+        "rightsId": "8794B3AA89329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "j0Fhp587Q36BipDDxcpczA",
+        "unifyName": "职业病诊断机构备案（补发）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123024000",
+        "rightsId": "8794B3AA89329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7f58cbb9d3324f65b4c3573e82b9cb97",
+        "unifyName": "职业病诊断机构备案（增项）",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123024000",
+        "rightsId": "8794B3AA89329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "94180e6c4d094722b52a0671289cdb0f",
+        "unifyName": "职业健康检查机构备案（新发）",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123024000",
+        "rightsId": "8794B3AA89329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d5749691242446758d1f424ae877912c",
+        "unifyName": "职业健康检查机构备案（延续）",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123024000",
+        "rightsId": "8794B3AA89329492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0d11d7275fdc4b64819ac1caf61816e0",
+        "unifyName": "职业健康检查机构备案（变更）",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123027000",
+        "rightsId": "8794B3AA89359492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "nlZuFgF4TRSoU-3PWdhCPQ",
+        "unifyName": "高致病性病原微生物菌（毒）种或样本运输审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123028000",
+        "rightsId": "8794B3AA89369492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b3a9UrYjSUC2WBQkS0jxTg",
+        "unifyName": "高致病性或疑似高致病性病原微生物实验活动审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123029000",
+        "rightsId": "8794B3AA89379492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3301c446ba5246f08f636ed070cea55a",
+        "unifyName": "医疗机构放射性职业病危害建设项目竣工验收",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123035000",
+        "rightsId": "8794B3AA893D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6ec9935e3a5442398e593c18aa442dff",
+        "unifyName": "乙类大型医用设备配置许可证（核发）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123035000",
+        "rightsId": "8794B3AA893D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "yuaPUkMIR1Kje0BdEMu22w",
+        "unifyName": "乙类大型医用设备配置许可证（变更）",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123035000",
+        "rightsId": "8794B3AA893D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "wAoaL2F5RZu2gQWm9S7ULA",
+        "unifyName": "乙类大型医用设备配置许可证（社会办医疗机构）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123035000",
+        "rightsId": "8794B3AA893D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "jcwz9DPxRJWGgowsw6D6eA",
+        "unifyName": "乙类大型医用设备配置许可证（许可）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123042002",
+        "rightsId": "fea49730eb914ffc9a3e3411c741a1f9",
+        "transactLevel": "0",
+        "unifyId": "MRz5UbCdR9GaFPd6xUmIhg",
+        "unifyName": "职业卫生技术服务机构资质认可（新发）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123042002",
+        "rightsId": "fea49730eb914ffc9a3e3411c741a1f9",
+        "transactLevel": "0",
+        "unifyId": "XGHVtmY1QHCl1uzAKeOZNA",
+        "unifyName": "职业卫生技术服务机构资质认可（变更）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123042002",
+        "rightsId": "fea49730eb914ffc9a3e3411c741a1f9",
+        "transactLevel": "0",
+        "unifyId": "XwiVqy22S3CLq_iBLjsuyQ",
+        "unifyName": "职业卫生技术服务机构资质认可（延续）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123042002",
+        "rightsId": "fea49730eb914ffc9a3e3411c741a1f9",
+        "transactLevel": "0",
+        "unifyId": "gv0BXwEkT-6dnE7v7IhgsA",
+        "unifyName": "职业卫生技术服务机构资质认可（增加业务范围）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123042002",
+        "rightsId": "fea49730eb914ffc9a3e3411c741a1f9",
+        "transactLevel": "0",
+        "unifyId": "VZ0qkNawQuuTlNmn9b0Www",
+        "unifyName": "职业卫生技术服务机构资质认可（补发）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123042002",
+        "rightsId": "fea49730eb914ffc9a3e3411c741a1f9",
+        "transactLevel": "0",
+        "unifyId": "e-O3ePUjSaO01aX1P-XY-Q",
+        "unifyName": "职业卫生技术服务机构资质认可（注销）",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123043000",
+        "rightsId": "d0b54eae73b14ba0b1da931ded41f886",
+        "transactLevel": "0",
+        "unifyId": "w5eHY3oASFOAThPBB97TUQ",
+        "unifyName": "中医医疗广告发布审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000123044000",
+        "rightsId": "502747b7254042cd983ab72b41716580",
+        "transactLevel": "1",
+        "unifyId": "879c34bbf4c74f5ba7cdd12fb59875f3",
+        "unifyName": "义诊活动备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125031001",
+        "rightsId": "4114737776c34ee287d2b38d0e285b1e",
+        "transactLevel": "0",
+        "unifyId": "itAnQGIiQL6-wAH1Q88eIA",
+        "unifyName": "安全生产检测检验机构资质认可新证",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125031001",
+        "rightsId": "4114737776c34ee287d2b38d0e285b1e",
+        "transactLevel": "0",
+        "unifyId": "jo5loNXVTOmeVB6-ONG8xg",
+        "unifyName": "安全生产检测检验机构资质认可延期",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125031001",
+        "rightsId": "4114737776c34ee287d2b38d0e285b1e",
+        "transactLevel": "0",
+        "unifyId": "76zT7WTIRz6byk4tOU4v-w",
+        "unifyName": "安全生产检测检验机构资质认可变更",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125031001",
+        "rightsId": "4114737776c34ee287d2b38d0e285b1e",
+        "transactLevel": "0",
+        "unifyId": "GzIeU0C1RZ-iAVgHlpasMg",
+        "unifyName": "安全生产检测检验机构资质认可复选延期和变更",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125031002",
+        "rightsId": "6799484a5288458284bc3bfe8b8859cc",
+        "transactLevel": "0",
+        "unifyId": "ZDOf2rZ-RHmNvefHRDoLUg",
+        "unifyName": "安全评价机构资质认可新证",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125031002",
+        "rightsId": "6799484a5288458284bc3bfe8b8859cc",
+        "transactLevel": "0",
+        "unifyId": "G-9DYkwYRku54BoH-knnEA",
+        "unifyName": "安全评价机构资质认可延期",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125031002",
+        "rightsId": "6799484a5288458284bc3bfe8b8859cc",
+        "transactLevel": "0",
+        "unifyId": "raFijW21T629f9vZCcaLpA",
+        "unifyName": "安全评价机构资质认可变更",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125031002",
+        "rightsId": "6799484a5288458284bc3bfe8b8859cc",
+        "transactLevel": "0",
+        "unifyId": "Zm_jVHbGSNul7baKZujuNg",
+        "unifyName": "安全评价机构资质认可复选延期和变更",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125036004",
+        "rightsId": "8794B3AA896D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "l34xlZwdTTmi8jw36o_Miw",
+        "unifyName": "非煤矿山企业安全生产许可初领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125036004",
+        "rightsId": "8794B3AA896D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "AwMCv4RXTVuGZA_Ah3O7UQ",
+        "unifyName": "非煤矿山企业安全生产许可延期",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125036004",
+        "rightsId": "8794B3AA896D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f905a0c17705423f99da69db9cbcb132",
+        "unifyName": "非煤矿山企业安全生产许可变更",
+        "ywCode": "03"
+      }
+    ],
+    "pageIndex": 20,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

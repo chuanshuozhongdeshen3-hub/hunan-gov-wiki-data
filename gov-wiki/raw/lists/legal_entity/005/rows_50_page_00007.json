@@ -1,0 +1,522 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000155001000",
+        "rightsId": "8794B3AA8AAB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "62708aca61484d9fa7749f732403d9f8",
+        "unifyName": "典当行设立",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000155001000",
+        "rightsId": "8794B3AA8AAB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ff06f475bb2646bcb79257d30c17ee64",
+        "unifyName": "典当行合并、分立",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000155001000",
+        "rightsId": "8794B3AA8AAB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0a80a746663d4a06a505fdbaba389ee3",
+        "unifyName": "典当行变更业务范围或经营区域",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000155001000",
+        "rightsId": "8794B3AA8AAB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5244921a97a5464aa94215801316dbe0",
+        "unifyName": "典当行减少注册资本",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000155001000",
+        "rightsId": "8794B3AA8AAB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c02e3fee0a574d33a94161444511f447",
+        "unifyName": "典当行变更控股股东、实际控制人",
+        "ywCode": "07"
+      },
+      {
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000155002000",
+        "rightsId": "8794B3AA8AAC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "_FpJ-pFpSASqgZb9o3arlA",
+        "unifyName": "融资担保公司设立",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000155002000",
+        "rightsId": "8794B3AA8AAC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Y3KEe8_NSTuqlyDkcBturQ",
+        "unifyName": "融资担保公司分立",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000155002000",
+        "rightsId": "8794B3AA8AAC9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "XOpiwrORSVW1wjwcy5767w",
+        "unifyName": "融资担保公司减少注册资本",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "000162005000",
+        "rightsId": "8794B3AA8C999492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "be33b0f38dd244c992c76d69e40eeb87",
+        "unifyName": "设立烟叶收购站（点）审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168004000",
+        "rightsId": "8794B3AA8DC19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d9b22aa9a18a44c391a45c04b6f99395",
+        "unifyName": "设立文物商店审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172001000",
+        "rightsId": "8794B3AA8E489492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c7121ee510ce40e29a010172599b620e",
+        "unifyName": "化妆品生产许可证登记变更",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172003000",
+        "rightsId": "8794B3AA8E4A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0509e54492b1413a8ce6e72a05c38834",
+        "unifyName": "药品生产许可登记事项变更",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172004000",
+        "rightsId": "8794B3AA8E4B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "P_LM7zAaTgutWsRQ9pcI3A",
+        "unifyName": "《药品经营许可证》（零售连锁总部）登记事项变更",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172004000",
+        "rightsId": "8794B3AA8E4B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d6b2ca0be76a4b8c9e72872a17bd90ec",
+        "unifyName": "《药品经营许可证》（批发）登记事项变更",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172005000",
+        "rightsId": "8794B3AA8E4C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "af1282985ad74eaa9a56d57cf8f3019e",
+        "unifyName": "药品零售经营许可证补发",
+        "ywCode": "04"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172013000",
+        "rightsId": "8794B3AA8E549492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5b22e2bafdea4eb2984275acc33772c2",
+        "unifyName": "购买麻醉药品和精神药品标准品、对照品审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172020000",
+        "rightsId": "8794B3AA8E5B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "42d856318ee24bb1b8085c76422fbb91",
+        "unifyName": "麻醉药品和第一类精神药品运输证明核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172020000",
+        "rightsId": "8794B3AA8E5B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "rO0qn-yzR761XaS9XMoxYQ",
+        "unifyName": "麻醉药品和第一类精神药品运输证明核发（补办）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172026000",
+        "rightsId": "8794B3AA8E619492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cc0d20d01cc040c39ca926ee29e2fe08",
+        "unifyName": "国产第二类医疗器械首次注册",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172027000",
+        "rightsId": "8794B3AA8E629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c3a7a728f85045d4a89bb309abb1ef53",
+        "unifyName": "第二、三类医疗器械生产首次许可",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172027000",
+        "rightsId": "8794B3AA8E629492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "aV75zGhjTw63u1OZQB_aKA",
+        "unifyName": "第二、三类医疗器械生产许可证注销（依申请注销）",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172052005",
+        "rightsId": "1845657c37b2443e8795f45f0c4a0326",
+        "transactLevel": "0",
+        "unifyId": "JqrmituSSTOvXvhDCTqNqg",
+        "unifyName": "从国外进口实施审批管理的药材",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172052005",
+        "rightsId": "1845657c37b2443e8795f45f0c4a0326",
+        "transactLevel": "0",
+        "unifyId": "d2b66UqwSz-u1ijDHEdlaw",
+        "unifyName": "一次性进口药品",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172052006",
+        "rightsId": "b93f57e2dbc0421ab9ba341dacdbd90f",
+        "transactLevel": "0",
+        "unifyId": "mVFFQExrS2m9iRBxUqv9bw",
+        "unifyName": "从港澳台进口实施审批管理的药材",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000172052006",
+        "rightsId": "b93f57e2dbc0421ab9ba341dacdbd90f",
+        "transactLevel": "0",
+        "unifyId": "NwDfTWG4TsuGoprX6IcbAQ",
+        "unifyName": "港澳台医药产品一次性进口",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709101000",
+        "rightsId": "ea4530f1bd25433789b00f1fa814916d",
+        "transactLevel": "0",
+        "unifyId": "mjdySSdUTjuMv-ueacGMVA",
+        "unifyName": "大型焰火燃放作业单位变更法定代表人",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709101000",
+        "rightsId": "ea4530f1bd25433789b00f1fa814916d",
+        "transactLevel": "0",
+        "unifyId": "UeDskjrDThesnvL5U8B9Dw",
+        "unifyName": "大型焰火燃放作业单位变更技术负责人",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709101000",
+        "rightsId": "ea4530f1bd25433789b00f1fa814916d",
+        "transactLevel": "0",
+        "unifyId": "2xPTwJwBQuy9o-pdPblwOw",
+        "unifyName": "大型焰火燃放作业单位变更单位名称",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709101000",
+        "rightsId": "ea4530f1bd25433789b00f1fa814916d",
+        "transactLevel": "0",
+        "unifyId": "Z-ER44C7T9yjk8i-d3TUNQ",
+        "unifyName": "大型焰火燃放作业单位变更单位地址",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000709102000",
+        "rightsId": "c17c5a49890a41578bcbf43a01c6475f",
+        "transactLevel": "0",
+        "unifyId": "8BGsmpSdS6mWxRIaJ_YBIg",
+        "unifyName": "大型焰火燃放作业人员资格证明变更所在单位",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715006000",
+        "rightsId": "8794B3AA90009492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "72d214e0b51849a08ec2b1e3a60db15e",
+        "unifyName": "矿产资源储量评审备案（省级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715006000",
+        "rightsId": "8794B3AA90009492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "U5bR6D95SRCZbUt30Vu9oQ",
+        "unifyName": "矿产资源储量评审备案（设区的市级权限）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000723009000",
+        "rightsId": "8794B3AA907A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3673910aa26f48359176e9b088b7bec3",
+        "unifyName": "全省新生儿疾病筛查中心资格的指定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001011003000",
+        "rightsId": "8794B3AA91FF9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "742ebabd52e841349c929a5b9910325a",
+        "unifyName": "养老机构备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001013001000",
+        "rightsId": "8794B3AA92009492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2dbjXodCQq6Oo4VM6ec8Bw",
+        "unifyName": "资产评估机构以及分支机构的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001031005000",
+        "rightsId": "50807b167357456282466b2166a65dea",
+        "transactLevel": "0",
+        "unifyId": "OmWUVO8lRP6wSwDHlWgrAA",
+        "unifyName": "仅销售预包装食品经营者备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001031005000",
+        "rightsId": "50807b167357456282466b2166a65dea",
+        "transactLevel": "0",
+        "unifyId": "aVCA8lY1QYSya-dAG_cI7Q",
+        "unifyName": "仅销售预包装食品经营者备案变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001031005000",
+        "rightsId": "50807b167357456282466b2166a65dea",
+        "transactLevel": "0",
+        "unifyId": "9coAruGPSVWYw1D3klAjkg",
+        "unifyName": "仅销售预包装食品经营者备案注销",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001031006000",
+        "rightsId": "a3f1647e2a6f4639b04bd374e9442513",
+        "transactLevel": "0",
+        "unifyId": "6xdWzO1jQLWMwz8h4dcuig",
+        "unifyName": "从事对温度、湿度等有特殊要求的食品贮存业务的非食品生产经营者备案变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001031006000",
+        "rightsId": "a3f1647e2a6f4639b04bd374e9442513",
+        "transactLevel": "0",
+        "unifyId": "FETJzxoRRzKtDa4GOeQuow",
+        "unifyName": "从事对温度、湿度等有特殊要求的食品贮存业务的非食品生产经营者备案注销",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001033001000",
+        "rightsId": "8794B3AA92819492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7b5ac291633247fba5193f25e0500d38",
+        "unifyName": "体育类民办非企业单位申请登记审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014005001",
+        "rightsId": "8794B3AA92B39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9247a46b770d468aa9a174cdffdb154e",
+        "unifyName": "企业职工养老保险单位参保证明查询打印",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430112012W00",
+        "rightsId": "51RQi0Q0TkqqCeMCglPKmw",
+        "transactLevel": "0",
+        "unifyId": "cb19ec617f1742ebbba647e02daaf72e",
+        "unifyName": "基层法律服务所名称变更核准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430112012W00",
+        "rightsId": "51RQi0Q0TkqqCeMCglPKmw",
+        "transactLevel": "0",
+        "unifyId": "0ed96b9e56524ea0ad9f01c27b5bf74a",
+        "unifyName": "基层法律服务所负责人变更核准",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430112012W00",
+        "rightsId": "51RQi0Q0TkqqCeMCglPKmw",
+        "transactLevel": "0",
+        "unifyId": "23ee7dbb02e643f880acea87431dadc8",
+        "unifyName": "基层法律服务所合伙人变更核准",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430112012W00",
+        "rightsId": "51RQi0Q0TkqqCeMCglPKmw",
+        "transactLevel": "0",
+        "unifyId": "a580950e328f42f187fee7678a4f5d71",
+        "unifyName": "基层法律服务所住所变更核准",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430112012W00",
+        "rightsId": "51RQi0Q0TkqqCeMCglPKmw",
+        "transactLevel": "0",
+        "unifyId": "65ba4e201ab04ded8c11750043db0946",
+        "unifyName": "基层法律服务所修改章程核准",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430112012W00",
+        "rightsId": "51RQi0Q0TkqqCeMCglPKmw",
+        "transactLevel": "0",
+        "unifyId": "cf2361b996e345c08c4351e9c7eff6ab",
+        "unifyName": "基层法律服务所执业证书注销核准",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430113001W00",
+        "rightsId": "B-e0L5yOQzGwd6NNNfQ9Jw",
+        "transactLevel": "0",
+        "unifyId": "F9EyCLHfTMK3gYFKNceKTA",
+        "unifyName": "会计师事务所及其分支机构设立审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430116036W00",
+        "rightsId": "585efb0108dc4625b5649939f500f6e1",
+        "transactLevel": "0",
+        "unifyId": "867ccb80f69b408495b0d29add90d496",
+        "unifyName": "权限内入河排污口（新建、改建、扩大）审批",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 7,
+    "pageSize": 50,
+    "total": 417,
+    "totalPage": 9
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

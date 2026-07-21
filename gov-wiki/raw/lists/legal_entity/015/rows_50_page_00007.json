@@ -1,0 +1,519 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000723002000",
+        "rightsId": "8794B3AA90739492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "dpLnvFTIS9-6RlYXCxMG0A",
+        "unifyName": "对传染病病人尸体或者疑似传染病病人的尸体进行解剖查验的批准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000723004000",
+        "rightsId": "8794B3AA90759492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "EOHGPBErTSm7C_GXf4KkgQ",
+        "unifyName": "承担预防接种工作的医疗卫生机构（接种单位）的确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000723009000",
+        "rightsId": "8794B3AA907A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3673910aa26f48359176e9b088b7bec3",
+        "unifyName": "全省新生儿疾病筛查中心资格的指定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000739002000",
+        "rightsId": "8794B3AA90E39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "360623881d904604a611b73b43d935e9",
+        "unifyName": "出版外国图书合同登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017002002",
+        "rightsId": "8794B3AA920A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ecdf59418efb4f7caaff3381c7b6f005",
+        "unifyName": "二级注册建筑师-初始注册",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017002002",
+        "rightsId": "8794B3AA920A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "kVVoC3cFTEClPvKIRTG9ww",
+        "unifyName": "二级注册建筑师-延续注册",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017002002",
+        "rightsId": "8794B3AA920A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "BV2-NsmIT8aWqroR25QAtQ",
+        "unifyName": "二级注册建筑师-变更注册",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001017002002",
+        "rightsId": "8794B3AA920A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "h11P203FQomgCwWhzIKZMw",
+        "unifyName": "二级注册建筑师-注销注册",
+        "ywCode": "04"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001072001000",
+        "rightsId": "8794B3AA929B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "53da3fdaf1804ab3bc6610e04dd0c3ca",
+        "unifyName": "医疗机构制备正电子类放射性药品备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001072001000",
+        "rightsId": "8794B3AA929B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "wIlZu57pSpum0SQQEAJGJA",
+        "unifyName": "医疗用毒性药品收购企业许可",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001072001000",
+        "rightsId": "8794B3AA929B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "MUxhresdTEqBlQk3Z-rCXg",
+        "unifyName": "医疗用毒性药品批发企业许可",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014005001",
+        "rightsId": "8794B3AA92B39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9247a46b770d468aa9a174cdffdb154e",
+        "unifyName": "企业职工养老保险单位参保证明查询打印",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014009002",
+        "rightsId": "8794B3AA92F49492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "815954d64ea14e4391fc7fbfa628f778",
+        "unifyName": "企业年金方案重要条款变更备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014009003",
+        "rightsId": "8794B3AA92F59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "24148b4203a145c4bfdd0d70e215e08e",
+        "unifyName": "企业年金方案终止备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "002014207003",
+        "rightsId": "8794B3AA93409492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "2db2d44b15474184949acfcc84272f1b",
+        "unifyName": "职称证书信息修改申请",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "002014207003",
+        "rightsId": "8794B3AA93409492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "5b193146f8f243649455823a6fd8625a",
+        "unifyName": "职称证书遗失补办申请",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "002014207004",
+        "rightsId": "8794B3AA93419492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "aea6a7d6e2174d71bbac80a84fc1e894",
+        "unifyName": "职称评审委员会备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430119003W00",
+        "rightsId": "TTSJW7zFQoqKKMFn4Pw3uQ128",
+        "transactLevel": "0",
+        "unifyId": "caa469c7711d4be083924ec106b17fc1",
+        "unifyName": "权限内水库大坝注册登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430139006W00",
+        "rightsId": "QY6KKC8xTT2JJ_oZgyUc9g",
+        "transactLevel": "0",
+        "unifyId": "ac09ddf820864422a8e78c4cc9754bdd",
+        "unifyName": "出版物进口经营单位拟进口经营的出版物目录备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430139013W01",
+        "rightsId": "b6370fbf7e994d76a6592045441cbef8",
+        "transactLevel": "0",
+        "unifyId": "b4f70148a1614c65bf0b5640ec176f6b",
+        "unifyName": "境外委托印刷的出版物内容审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430139013W01",
+        "rightsId": "b6370fbf7e994d76a6592045441cbef8",
+        "transactLevel": "0",
+        "unifyId": "1b9918195f864f7e93da456b53c2a464",
+        "unifyName": "境外委托复制的出版物内容审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430139013W02",
+        "rightsId": "21aa38df1d3e4419a9d338dbb3b7d1b2",
+        "transactLevel": "0",
+        "unifyId": "a6365a47ff314c03b6752cf693af5c3a",
+        "unifyName": "境外委托印刷、复制出版物的著作权人授权书登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430172051W00",
+        "rightsId": "8083d537cef94e80b6f635f94487f28a",
+        "transactLevel": "0",
+        "unifyId": "fed523461dea408eb98a743d2e0e7b22",
+        "unifyName": "药品类易制毒化学品购用证明",
+        "ywCode": "01"
+      },
+      {
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430707001W00",
+        "rightsId": "il_fOxNVRe2IY6CQ8-ETuw",
+        "transactLevel": "0",
+        "unifyId": "hjwCi8O_SbC0oZPtcws_qg",
+        "unifyName": "新型墙体材料产品首次认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430707001W00",
+        "rightsId": "il_fOxNVRe2IY6CQ8-ETuw",
+        "transactLevel": "0",
+        "unifyId": "VzMs9GH3RTyJ6xe7TP2PTA",
+        "unifyName": "新型墙体材料产品非首次认定",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430719007W00",
+        "rightsId": "70F599A55B7AABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "0dc92338eebe454089e10a86034f7420",
+        "unifyName": "权限内水库大坝、水闸安全鉴定的审定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430720060W00",
+        "rightsId": "70F599A56594ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "q8ses3ExRgCfI9kwj4jjPg",
+        "unifyName": "农村土地承包合同调整审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431007059W00",
+        "rightsId": "6GJix_dMRle-TnUyQs1SDw",
+        "transactLevel": "2",
+        "unifyId": "CGqncxHsRWafCEgNNfkRfQ",
+        "unifyName": "省级制造业创新中心创建",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "2",
+        "rightsCode": "431007059W00",
+        "rightsId": "6GJix_dMRle-TnUyQs1SDw",
+        "transactLevel": "2",
+        "unifyId": "4T5odCtwSCaWfcc6rAYUrQ",
+        "unifyName": "省级制造业创新中心认定",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012063W00",
+        "rightsId": "OgvQHGJFSE2ATiFIEcPI7g",
+        "transactLevel": "0",
+        "unifyId": "8ef60f38aa5b482581ed32b26d72e29b",
+        "unifyName": "司法鉴定人市、州内异动",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012063W00",
+        "rightsId": "OgvQHGJFSE2ATiFIEcPI7g",
+        "transactLevel": "0",
+        "unifyId": "9cdf1fb6f87a4da4931a41ada5baa1b4",
+        "unifyName": "司法鉴定人变更职称、姓名、学历、行业资格",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012063W00",
+        "rightsId": "OgvQHGJFSE2ATiFIEcPI7g",
+        "transactLevel": "0",
+        "unifyId": "7c0730b7242c486291fddf92e16d0403",
+        "unifyName": "市、州司法鉴定人延续登记",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017154W00",
+        "rightsId": "9vc3xOMRQwSR2jmLwfNlYA",
+        "transactLevel": "0",
+        "unifyId": "q2AElXzjTle8KNmWmcKbeA",
+        "unifyName": "城市照明设施移交",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431017203W00",
+        "rightsId": "Fj6UWrMbSM-EZziJVhRQ_g",
+        "transactLevel": "2",
+        "unifyId": "dJYqbLhMR8iFUL5V4wmgiQ",
+        "unifyName": "燃气经营企业停业、歇业审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017297W00",
+        "rightsId": "70F599A55A9AABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "73opLV9iR-msrS0KcsKtjw",
+        "unifyName": "已入湘企业变更",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017297W00",
+        "rightsId": "70F599A55A9AABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "VhBY4b2KTzyeONC_dwQ6Gw",
+        "unifyName": "已入湘企业注销",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018068W00",
+        "rightsId": "ly8mMHgkTsWo4DeygOX8KA",
+        "transactLevel": "0",
+        "unifyId": "m4DCGmXuRfeYt_ZxZ9fa8g",
+        "unifyName": "对公路工程参建单位的信用考核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018188W00",
+        "rightsId": "RAbKPegtQE-W4sEdrdsiTw",
+        "transactLevel": "1",
+        "unifyId": "0rRVp9BcT2O8VzUY4Ar_7g",
+        "unifyName": "船舶代理、水路旅客运输代理以及水路货物运输代理业务经营企业（经营者）信息备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431020048W00",
+        "rightsId": "xmiotpVXSh2yaTYX6eQwcQ",
+        "transactLevel": "0",
+        "unifyId": "aIFWmWdZQ_SpHdrvKeZY5w",
+        "unifyName": "种子经营者设立分支机构备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431023094W00",
+        "rightsId": "70F599A555EDABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "948143a006af4e0292aa46578abe229e",
+        "unifyName": "对供水单位、城市公共饮用水项目选址和设计卫生验收",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431023133W00",
+        "rightsId": "Nf70ZzJ1TgSjx9udfKJJbg",
+        "transactLevel": "0",
+        "unifyId": "TzuRAFr7QyyWPMusdbKdpw",
+        "unifyName": "与人体健康有关的一、二级病原微生物实验室备案新发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431023133W00",
+        "rightsId": "Nf70ZzJ1TgSjx9udfKJJbg",
+        "transactLevel": "0",
+        "unifyId": "mMuPmnQDQeCZmOT4zin51w",
+        "unifyName": "与人体健康有关的一、二级病原微生物实验室备案核发",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431025006W00",
+        "rightsId": "e50ed602972c433196f8d20bb982d555",
+        "transactLevel": "0",
+        "unifyId": "nwDRKLLxT2-X7GRGcK_1vQ",
+        "unifyName": "危险化学品处置方案备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431032045W00",
+        "rightsId": "84674505baf84a278d74ae9020e35387",
+        "transactLevel": "0",
+        "unifyId": "d67b42337f4341d68583a9133c20bf45",
+        "unifyName": "制作机构拍摄制作电视剧的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431032046W00",
+        "rightsId": "e1fb21afaf864cedb2c6b8efe5d61544",
+        "transactLevel": "0",
+        "unifyId": "5c3a545375ca44cdabbfeeb96ee35e1a",
+        "unifyName": "例行检修需要停播（传）广播电视节目时间备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039068W00",
+        "rightsId": "4nzDUHp0Sb2wtch3HhN9oQ",
+        "transactLevel": "0",
+        "unifyId": "c0597b0bc6b2485c97039ac1feab56ad",
+        "unifyName": "设立临时零售点开展其业务范围内的出版物销售活动备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039071W00",
+        "rightsId": "790442c7a6824ef09ccf9a043f73a3ed",
+        "transactLevel": "0",
+        "unifyId": "9d5332d193c94431941d8d419337f8be",
+        "unifyName": "单位、个人从事出版物出租业务的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431064001W00",
+        "rightsId": "hYSebEvQTDSMlRscoK3X1Q",
+        "transactLevel": "0",
+        "unifyId": "d1091c1cf6d7470999382a3800975ae1",
+        "unifyName": "在风景名胜区内从事建设、设置广告、举办大型游乐活动以及其他影响生态和景观活动许可",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431072031W00",
+        "rightsId": "70F599A55BD5ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "2bb0e3bb88cc4aabba6cb0681e61b701",
+        "unifyName": "医院类别医疗机构申请中药制剂委托配制备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432017605W00",
+        "rightsId": "9996B2A4F6C49A68E053671515ACBE47",
+        "transactLevel": "0",
+        "unifyId": "78c0a55cf1f546519987efcccaaab061",
+        "unifyName": "燃气经营企业从业人员专业考核报名",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 7,
+    "pageSize": 50,
+    "total": 352,
+    "totalPage": 8
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

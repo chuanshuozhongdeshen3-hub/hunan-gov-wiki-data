@@ -1,0 +1,112 @@
+{
+  "code": 0,
+  "data": {
+    "acceptanceCondition": "《基层法律服务所管理办法》（中华人民共和国司法部令〔2017〕137号）第三十三条 省、自治区、直辖市司法行政机关应当建立基层法律服务所和基层法律服务工作者信息管理系统，按照有关规定向社会公开基层法律服务所、基层法律服务工作者基本信息和年度考核结果、奖惩情况，并将基层法律服务所、基层法律服务工作者信用记录纳入本省、自治区、直辖市信用信息共享平台。",
+    "according": "《基层法律服务所管理办法》（中华人民共和国司法部令〔2017〕137号）第三十三条 省、自治区、直辖市司法行政机关应当建立基层法律服务所和基层法律服务工作者信息管理系统，按照有关规定向社会公开基层法律服务所、基层法律服务工作者基本信息和年度考核结果、奖惩情况，并将基层法律服务所、基层法律服务工作者信用记录纳入本省、自治区、直辖市信用信息共享平台。",
+    "applicantDuty": "应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。",
+    "applicantPower": "依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。",
+    "approveLimit": "120",
+    "approveLimitExplain": "《基层法律服务工作者管理办法》",
+    "blbm": "湖南省司法厅",
+    "commitmentLimit": "120",
+    "commitmentLimitExplain": "承诺时间",
+    "deptName": "司法行政部门",
+    "doScope": "全省",
+    "faqList": [
+      {
+        "createDate": 1628476074000,
+        "faqContent": "符合什么条件的人员，可以申请基层法律服务工作者执业核准，领取《法律服务工作者执业证》？",
+        "faqId": "9c6daa7033824342b8c26d234cacaec7",
+        "isDelete": "N",
+        "isSzyy": "N",
+        "orderNum": 1.0,
+        "replyContent": "（1）拥护宪法，遵守法律，有选举权和被选举权；\n（2）品行良好；\n（3）身体健康；\n（4）具有法学本科以上学历，或者具有法学专业大专学历，并从事法学教育、研究或者在国家机关专职从事法制工作满二年，或者具有非法学专业大专以上学历，并从事法学教育、研究或者在国家机关专职从事法制工作满五年；\n（5）参加省基层法律服务工作者协会上岗培训并考核合格；\n（6）在基层法律服务所实习满规定时间，并经所在市州基层法律服务行业组织考核合格。\n具备律师资格、法律职业资格、公证员资格或者企业法律顾问资格的人员，也可以申请从事基层法律服务工作。",
+        "unifyId": "e368b1fa6b684103978d471f11922a1c",
+        "updateDate": 1668659564000
+      }
+    ],
+    "isCharge": "否",
+    "isIntermediaryServices": "无",
+    "isSpecialProcedure": "否",
+    "isonline": "是",
+    "lctList": [
+      {
+        "approveCode": "e368b1fa6b684103978d471f11922a1c",
+        "approveId": "e368b1fa6b684103978d471f11922a1c",
+        "bucketName": "zwfw202406",
+        "createTime": 1719386542000,
+        "flowc": "approve/2024-06-26-15/1719386541829$$流程图基层法律服务工作者年度考核及结果备案、公告.jpg",
+        "id": "1BC6E013C737759CE063651515AC23C1",
+        "isDelete": "0",
+        "isExchange": "N",
+        "operateFlag": "N",
+        "updateTime": 1719386542000
+      }
+    ],
+    "materialList": [
+      {
+        "acceptStandard": "材料齐全",
+        "attachList": [
+          {
+            "attachCode": "000002",
+            "attachId": "yqYI_iPeQrmJT9rVIyATMQ",
+            "attachName": "基层法律服务工作者年度考核登记表.docx",
+            "attachPath": "approve/2024-06-26-15/1719387939657$$基层法律服务工作者年度考核登记表.docx",
+            "attachSize": 21515.0,
+            "attachType": ".docx",
+            "bucketName": "zwfw202406",
+            "businessId": "-bbkAwsAQr62L5JvuJflYQ",
+            "createTime": 1719387939000,
+            "isDel": "N",
+            "isDelete": "0",
+            "isExchange": "N",
+            "isValid": "Y",
+            "modFlag": "N",
+            "operateFlag": "N",
+            "pdfPath": "N",
+            "updateTime": 1719387939000
+          }
+        ],
+        "bylaw": "按照法律法规规定应提交的材料",
+        "commitWay": "网上现场都可提交",
+        "copiesNum": 3.0,
+        "createDate": 1719387939000,
+        "freeSubmission": "无",
+        "isDelete": "N",
+        "isMust": "必要",
+        "materialApproveType": "证明材料",
+        "materialCode": "M431012045W000202",
+        "materialExplain": "按照法律法规规定应提交的材料",
+        "materialId": "-bbkAwsAQr62L5JvuJflYQ",
+        "materialStandard": "纸质",
+        "materialTitle": "基层法律服务工作者年度考核表",
+        "materialType": "原件",
+        "pageformat": "A4",
+        "sourceChannel": "申请人自备",
+        "sourceexplain": "申请人自备",
+        "unifyId": "e368b1fa6b684103978d471f11922a1c",
+        "updateDate": 1760596781000
+      }
+    ],
+    "minExplain": "四级标准说明：该事项已经实现全程网办，申请人可以通过网络提交和补正相关申请信息和材料，提交的材料全部为已验证信息，受理通过后直接进入办理程序，申请人可网上查询办理状态、咨询问题，作出审批决定后，申请人可以通过网上缴费后物流递送证书结果。整个办事过程无需到现场办理。",
+    "minSeq": "0",
+    "orgId": "29ce4122acdf4e998a9def4d6dea7e30",
+    "orgName": "湖南省司法厅",
+    "processDescript": "1、申请\n2、受理\n3、审核\n4、决定",
+    "quantitativeRestriction": "无数量限制",
+    "resultSampleName": "无",
+    "rightsCode": "431012045W00",
+    "rightsId": "70F599A5574DABCFE053681515ACCFDC",
+    "schemeLevels": "省",
+    "serveObject": "法人",
+    "transactLevel": "四级标准",
+    "transactionFrom": "网上办理",
+    "typeName": "其他行政权力",
+    "unifyId": "e368b1fa6b684103978d471f11922a1c",
+    "unifyName": "基层法律服务工作者年度考核及结果备案、公告",
+    "ywCode": "02"
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

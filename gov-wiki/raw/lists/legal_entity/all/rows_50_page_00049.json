@@ -1,0 +1,522 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431030001W00",
+        "rightsId": "71gDorwLReq4cg8mpVZWAg",
+        "transactLevel": "0",
+        "unifyId": "75d7647f4f6640b4a4564fee92207732",
+        "unifyName": "企业纳税缴税情况信息核查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431031082W00",
+        "rightsId": "Yb9ggdkhRjuQfbHj57QE9A",
+        "transactLevel": "0",
+        "unifyId": "5e03e0bd0b8044c59ae1f54dd8ce1e2c",
+        "unifyName": "企业（包括个体工商户、农民专业合作社）自主申报名称",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431031090W01",
+        "rightsId": "cxHITCT0QcC-b7cm_fG9Jw",
+        "transactLevel": "0",
+        "unifyId": "sTns3hfbQGWNGbrjm-F5Zw",
+        "unifyName": "证照遗失补领、换发申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431031090W02",
+        "rightsId": "VqEr3sM2S1WLUnXG-1lq_A",
+        "transactLevel": "0",
+        "unifyId": "cPnE-gauQ5aoAZQYe3pSVQ",
+        "unifyName": "申请增加、减少证照",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431031090W0Y",
+        "rightsId": "b15e95ac3895465a8a333556a38c51c9",
+        "transactLevel": "0",
+        "unifyId": "YbT4nEyASfyk1djYqMa1wg",
+        "unifyName": "经营主体迁移调档",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "431031097W00",
+        "rightsId": "67744bb21bf0421497fee90f0c1844d7",
+        "transactLevel": "3",
+        "unifyId": "c8d84bc0ede1417598c9acba90915717",
+        "unifyName": "辖区内地理标志产品保护申请资料的初审及转报",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "431031097W00",
+        "rightsId": "67744bb21bf0421497fee90f0c1844d7",
+        "transactLevel": "3",
+        "unifyId": "FhJlOjU_RqC16Nca3q1ygQ",
+        "unifyName": "辖区内地理标志产品专用标志使用注册登记申请资料的初审及转报",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "431031103W00",
+        "rightsId": "7fa09be9f17e42bab1ec223846d40628",
+        "transactLevel": "3",
+        "unifyId": "Q7Apo1JLQj-FodfybcHULw",
+        "unifyName": "专利纠纷行政调解",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431031104W00",
+        "rightsId": "lDRbFtI4SEaltfTHgB1QGw",
+        "transactLevel": "0",
+        "unifyId": "73258da9f3a14f4a81ae4b53aca746ba",
+        "unifyName": "医疗器械网络交易服务第三方平台备案注销",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431031104W00",
+        "rightsId": "lDRbFtI4SEaltfTHgB1QGw",
+        "transactLevel": "0",
+        "unifyId": "ff9f9e7587b34ecc834994c56f57f539",
+        "unifyName": "医疗器械网络交易服务第三方平台备案核发",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431031104W00",
+        "rightsId": "lDRbFtI4SEaltfTHgB1QGw",
+        "transactLevel": "0",
+        "unifyId": "b7124f6888114f5da67c193d54585361",
+        "unifyName": "医疗器械网络交易服务第三方平台备案变更",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431031105W00",
+        "rightsId": "f6jrdSSiSGqAHTC6_TSyVA",
+        "transactLevel": "0",
+        "unifyId": "5c8f20e3558b4201991dfba07c770d9b",
+        "unifyName": "网络食品交易第三方平台首次备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431031105W00",
+        "rightsId": "f6jrdSSiSGqAHTC6_TSyVA",
+        "transactLevel": "0",
+        "unifyId": "8faa11630f584f19a8c216423948f24f",
+        "unifyName": "网络食品交易第三方平台备案变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431031105W00",
+        "rightsId": "f6jrdSSiSGqAHTC6_TSyVA",
+        "transactLevel": "0",
+        "unifyId": "f66e696c86e64b7595e9179acf7521b1",
+        "unifyName": "网络食品交易第三方平台备案注销",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431031105W00",
+        "rightsId": "f6jrdSSiSGqAHTC6_TSyVA",
+        "transactLevel": "0",
+        "unifyId": "621a1f48fbfb48b2a599a084499b289b",
+        "unifyName": "自建网站首次备案",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431031105W00",
+        "rightsId": "f6jrdSSiSGqAHTC6_TSyVA",
+        "transactLevel": "0",
+        "unifyId": "06e54b19978041f69fb2630c9275daa8",
+        "unifyName": "自建网站备案变更",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431031105W00",
+        "rightsId": "f6jrdSSiSGqAHTC6_TSyVA",
+        "transactLevel": "0",
+        "unifyId": "c4b51ea0baec41d8a2c0690d685d84dc",
+        "unifyName": "自建网站备案注销",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431032003W00",
+        "rightsId": "Wzu9nW4_R2ydok764wdlfQ",
+        "transactLevel": "0",
+        "unifyId": "c5b84138426949feb037e85d2b111a45",
+        "unifyName": "广播电视安全播出应急预案、运行保障工作方案、统计报表备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431032043W00",
+        "rightsId": "ec1764a8ded644dcb1657b88490d81ce",
+        "transactLevel": "0",
+        "unifyId": "3be61e94c2bb44a6bc5b0a4fbaccd67e",
+        "unifyName": "地（市）级以上广播电台、电视台从事互联网视听节目转播类服务备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431032044W00",
+        "rightsId": "47df0a53de424787b4ace3dd474a2056",
+        "transactLevel": "0",
+        "unifyId": "f50a44e59ba9458b8c0385f6db529fed",
+        "unifyName": "有线广播电视运营服务的业务种类、服务范围、服务时限、资费标准备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431032045W00",
+        "rightsId": "84674505baf84a278d74ae9020e35387",
+        "transactLevel": "0",
+        "unifyId": "d67b42337f4341d68583a9133c20bf45",
+        "unifyName": "制作机构拍摄制作电视剧的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431032046W00",
+        "rightsId": "e1fb21afaf864cedb2c6b8efe5d61544",
+        "transactLevel": "0",
+        "unifyId": "5c3a545375ca44cdabbfeeb96ee35e1a",
+        "unifyName": "例行检修需要停播（传）广播电视节目时间备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431032047W00",
+        "rightsId": "100eb434ba3346ad93385bf832918d59",
+        "transactLevel": "0",
+        "unifyId": "31f215f8eb5942e1abd2eee6b9d79d35",
+        "unifyName": "互联网视听节目服务单位的办公场所变更备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431032047W00",
+        "rightsId": "100eb434ba3346ad93385bf832918d59",
+        "transactLevel": "0",
+        "unifyId": "eb2bd9622a4640f7a3e1f8312798d507",
+        "unifyName": "互联网视听节目服务单位的法人代表变更备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431032047W00",
+        "rightsId": "100eb434ba3346ad93385bf832918d59",
+        "transactLevel": "0",
+        "unifyId": "95280c56a2c74c62ae0fb7216792a8be",
+        "unifyName": "互联网视听节目服务单位的网址网站变更备案",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431032049W00",
+        "rightsId": "c91be2fe276c44168704189f8c7a5430",
+        "transactLevel": "0",
+        "unifyId": "a6a26352189e4b76ba68a3e9bdf63a83",
+        "unifyName": "新建广播电视播出、传输、发射系统试播批准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039013W00",
+        "rightsId": "70F599A55B37ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "fe1cf1b558a34d8dbcb972475c62e37c",
+        "unifyName": "报纸出版号外备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039017W00",
+        "rightsId": "70F599A55B4DABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "c12cc7c33dbf418f9a59e10e4316f540",
+        "unifyName": "建立发行出版物的网络交易平台备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039018W00",
+        "rightsId": "7237C1B1275FF589E053681515AC14A3",
+        "transactLevel": "0",
+        "unifyId": "53d0ce10ce034ea99bc0441a74b69247",
+        "unifyName": "出版物印刷企业年度核验",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039019W00",
+        "rightsId": "70F599A56073ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "09736d81b0ca4c8cbe15033a408ba7e8",
+        "unifyName": "只读类光盘设备投产验收",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039024W00",
+        "rightsId": "70F599A55DD4ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "8ca807a4d37c4abfa4fae054dc1448ca",
+        "unifyName": "新闻记者证年度核验",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039037W00",
+        "rightsId": "70F599A5532AABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "04d8a616ae6047548bfd14a856dcecd3",
+        "unifyName": "著作权纠纷调解　",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039039W00",
+        "rightsId": "73D929B050C8D82DE053681515AC07F5",
+        "transactLevel": "0",
+        "unifyId": "d9fc654f34c148ce93458d4f9bbe8d45",
+        "unifyName": "电影放映单位电影放映经营许可证年检",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039039W00",
+        "rightsId": "73D929B050C8D82DE053681515AC07F5",
+        "transactLevel": "0",
+        "unifyId": "991e9c589a4940b5a7f0dc96bcb73ed5",
+        "unifyName": "外商投资电影院电影放映经营许可证年检",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039039W00",
+        "rightsId": "73D929B050C8D82DE053681515AC07F5",
+        "transactLevel": "0",
+        "unifyId": "9a0fb54b603746d6b63608ff65de0a8e",
+        "unifyName": "点播影院电影放映经营许可证年检",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039039W00",
+        "rightsId": "73D929B050C8D82DE053681515AC07F5",
+        "transactLevel": "0",
+        "unifyId": "NNQFM-vDTMGxHA3ZkAqUlg",
+        "unifyName": "外资点播影院电影放映经营许可证年检",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039053W00",
+        "rightsId": "70F599A565ECABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "2053e3a84aab44848cc40fca1872c188",
+        "unifyName": "音像制品版号发放",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039056W00",
+        "rightsId": "70F599A56601ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "ccfc031eaea44900be803b7baffe83a3",
+        "unifyName": "电影发行单位变更名称备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039056W00",
+        "rightsId": "70F599A56601ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "c3a743dc708347cfae69bf8065ac72e7",
+        "unifyName": "电影发行单位变更地址备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039056W00",
+        "rightsId": "70F599A56601ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "8555e186088947cf9a41e7648c216b58",
+        "unifyName": "电影发行单位变更法定代表人（主要负责人）备案",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039056W00",
+        "rightsId": "70F599A56601ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "a5146cad60004d10a08f3c5a7aad999d",
+        "unifyName": "电影发行单位终止电影发行活动备案",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039060W00",
+        "rightsId": "70F599A56067ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "888201ddf476412fb01c7bdaa3292738",
+        "unifyName": "新闻机构驻地方机构工作人员变更备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039063W00",
+        "rightsId": "70F599A56609ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "f87a619afe82494f8735b08252eed245",
+        "unifyName": "进口出版物内容审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039064W00",
+        "rightsId": "70F599A5589EABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "df84e2ac82f84822b894e94d1a918cfc",
+        "unifyName": "报刊休刊备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039068W00",
+        "rightsId": "4nzDUHp0Sb2wtch3HhN9oQ",
+        "transactLevel": "0",
+        "unifyId": "c0597b0bc6b2485c97039ac1feab56ad",
+        "unifyName": "设立临时零售点开展其业务范围内的出版物销售活动备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039069W00",
+        "rightsId": "oW7krvOsS5KoA2jgeyQowg",
+        "transactLevel": "0",
+        "unifyId": "c745e8aa10b94f4ea4761cc832dd01b7",
+        "unifyName": "广播电视、报社等编辑记者执业资格管理（含培训）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039071W00",
+        "rightsId": "790442c7a6824ef09ccf9a043f73a3ed",
+        "transactLevel": "0",
+        "unifyId": "9d5332d193c94431941d8d419337f8be",
+        "unifyName": "单位、个人从事出版物出租业务的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039072W00",
+        "rightsId": "e135aabbfd3c49068cc3bbb505d88b4e",
+        "transactLevel": "0",
+        "unifyId": "9e939b6a7b36408c9769966717ba71c5",
+        "unifyName": "期刊出版增刊备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039073W00",
+        "rightsId": "bce6f2f513f14e419046e106c15fd013",
+        "transactLevel": "0",
+        "unifyId": "3ef14558724742eb93ad76d7f574eab1",
+        "unifyName": "对包装装潢印刷品印刷企业的年度核验",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039073W00",
+        "rightsId": "bce6f2f513f14e419046e106c15fd013",
+        "transactLevel": "0",
+        "unifyId": "407cbdb15aef4761b059378ab207ba3e",
+        "unifyName": "对其他印刷品印刷企业的年度核验",
+        "ywCode": "02"
+      }
+    ],
+    "pageIndex": 49,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

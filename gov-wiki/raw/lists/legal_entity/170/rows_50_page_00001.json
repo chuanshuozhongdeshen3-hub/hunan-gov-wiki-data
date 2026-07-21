@@ -1,0 +1,354 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168002002",
+        "rightsId": "8794B3AA8DBB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f40d76fb59dd4e8ea060b9753ef53514",
+        "unifyName": "馆藏二、三级文物的修复、复制、拓印许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "00016800300Y",
+        "rightsId": "8794B3AA8DC09492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "_zyZObHWRLK63zzDtGDMWg",
+        "unifyName": "非国有文物收藏单位和其他单位借用国有文物收藏单位馆藏文物审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168005000",
+        "rightsId": "8794B3AA8DC29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "683383866c644f9e8ae9dc33b84b9f88",
+        "unifyName": "考古发掘单位保留少量出土文物作为科研标本许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168006004",
+        "rightsId": "8794B3AA8DC79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5716f5610f2b4d37b65374521b38aca5",
+        "unifyName": "省级文物保护单位修缮审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168007000",
+        "rightsId": "8794B3AA8DC99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fbcc2fe0792b4e5faeff4a8086255acf",
+        "unifyName": "省级文物保护单位改变用途审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168007000",
+        "rightsId": "8794B3AA8DC99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f741a96f47bb4af2b6fd9b2606c28747",
+        "unifyName": "国有未核定为文物保护单位的不可移动文物改变用途审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168008000",
+        "rightsId": "8794B3AA8DCA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "da49a614600149e2ba918c7bbdd704d9",
+        "unifyName": "大型基本建设工程文物考古调查、勘探审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168009002",
+        "rightsId": "8794B3AA8DCD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b07b88aba46841e8bef51cce6e8b656a",
+        "unifyName": "市县级以下文物保护单位的迁移或拆除审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168009002",
+        "rightsId": "8794B3AA8DCD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "df673ce7524240a8897aa5428b2ab823",
+        "unifyName": "省级文物保护单位的迁移、拆除或者不可移动文物的原址重建审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168009002",
+        "rightsId": "8794B3AA8DCD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7f89fde41210476f83da00391692eb84",
+        "unifyName": "市、县级文物保护单位的迁移、拆除或者不可移动文物的原址重建审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168010002",
+        "rightsId": "8794B3AA8DD19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f3e57af7462546d7ac152549127460e3",
+        "unifyName": "市级文物保护单位保护范围内其他建设工程或者爆破、钻探、挖掘等作业审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168012002",
+        "rightsId": "8794B3AA8DDB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "01aaf434f22b405db6c01aed3eebc06d",
+        "unifyName": "县级文物保护单位实施原址保护措施审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168012004",
+        "rightsId": "8794B3AA8DDD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "dc39e84245964065b398813eef031584",
+        "unifyName": "省级文物保护单位原址保护措施审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168013000",
+        "rightsId": "8794B3AA8DDF9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cb5f47758e1f42dd835279d746213680",
+        "unifyName": "已经建立馆藏文物档案的国有文物收藏单位交换馆藏文物审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168014002",
+        "rightsId": "8794B3AA8DE29492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "839c23044cd64c058960e482267ce962",
+        "unifyName": "博物馆二级以下藏品取样分析许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168015002",
+        "rightsId": "8794B3AA8DE69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9001474d3003456fa175eabfdaa6f49c",
+        "unifyName": "文物保护工程资质（勘察设计乙丙级、施工资质二三级、监理资质乙丙级）证书核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168015002",
+        "rightsId": "8794B3AA8DE69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "de14fe7fa88c4e1999574c0459da2cb6",
+        "unifyName": "文物保护工程资质（勘察设计乙丙级、施工资质二三级、监理资质乙丙级）信息变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168018000",
+        "rightsId": "8794B3AA8DEA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "242da9be6b9b47b883f45d5ddf435b06",
+        "unifyName": "外国公民、组织和国际组织参观未开放的文物点和考古发掘现场审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000168021000",
+        "rightsId": "8794B3AA8DF49492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "66605181ea0a4097ae647946d334d035",
+        "unifyName": "馆藏文物修复、复制、拓印单位资质认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000768004000",
+        "rightsId": "8794B3AA91149492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fbde3d87066c4d32969eded718084cf5",
+        "unifyName": "有争议不可移动文物的裁定、特定文物的认定及文物级别的确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000768004000",
+        "rightsId": "8794B3AA91149492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "23c3440848444a9ba92bebcee9a4210f",
+        "unifyName": "有争议可移动文物的裁定",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000768007000",
+        "rightsId": "8794B3AA91179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "df90f0a4e8a34bd1a162af59835eff1f",
+        "unifyName": "全国重点文物保护单位、省级及以下文物保护单位（含省级水下文物保护单位、水下文物保护区）的认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000875001000",
+        "rightsId": "8794B3AA91DD9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "28ad49e761b4486f92e420d2fb48ed25",
+        "unifyName": "对在档案工作中做出显著成绩的单位和个人的表彰或者奖励",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430168003W00",
+        "rightsId": "uIwbceyDQvSmaNwDOOJPUw",
+        "transactLevel": "0",
+        "unifyId": "71e3ce40162a444689b5abb3a9102f40",
+        "unifyName": "建设工程文物保护和考古许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431015107W00",
+        "rightsId": "70F599A55CDAABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "175eb9122193401bad0effc460891390",
+        "unifyName": "重点保护古生物化石档案备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068001W00",
+        "rightsId": "g9x6ObxtTQ2y__nibP3N5g",
+        "transactLevel": "0",
+        "unifyId": "7cf12c87f11b407ca4262b9dee6b9aab",
+        "unifyName": "文物商店购销文物的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068001W00",
+        "rightsId": "g9x6ObxtTQ2y__nibP3N5g",
+        "transactLevel": "0",
+        "unifyId": "63a280c6de6c4cb68ffc2fd668ab8db9",
+        "unifyName": "拍卖企业拍卖文物记录的备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068003W00",
+        "rightsId": "BIYQooa_R6SYP4X2WQlQ7g",
+        "transactLevel": "0",
+        "unifyId": "89e0ac62d24540bb9a2bebc25a76dbed",
+        "unifyName": "博物馆陈列展览的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068004W00",
+        "rightsId": "78c2d58de5d54273852e7e83a8355f39",
+        "transactLevel": "0",
+        "unifyId": "867548ea76154987aaeda4b71bf1dd4e",
+        "unifyName": "文物保护工程验收",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068005W00",
+        "rightsId": "cc70de565ced4c53b5086da15852aa90",
+        "transactLevel": "0",
+        "unifyId": "1fed73c13b4e4b02b9c1e7c7b4ec905e",
+        "unifyName": "国有文物收藏单位之间借出二级（含）以下馆藏文物备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068007W00",
+        "rightsId": "228f97dd483649feb21bfaeaae49acc9",
+        "transactLevel": "0",
+        "unifyId": "89e01bda7ace429cab443c82b06789ab",
+        "unifyName": "世界文化遗产日常监测",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068011W00",
+        "rightsId": "cagntOrySQmKjxbfUH3yLA",
+        "transactLevel": "0",
+        "unifyId": "1bc3622920124858aa883e1eed0f2651",
+        "unifyName": "调拨国有文物收藏单位馆藏文物",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068012W00",
+        "rightsId": "cwCZ-LovTs63lI223p7wmw",
+        "transactLevel": "0",
+        "unifyId": "3de77d2f7bee4f1e8822b4978949eba6",
+        "unifyName": "博物馆设立备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068012W00",
+        "rightsId": "cwCZ-LovTs63lI223p7wmw",
+        "transactLevel": "0",
+        "unifyId": "42e4ac760bb4447cbb347abdb798aea0",
+        "unifyName": "博物馆终止备案",
+        "ywCode": "03"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 34,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

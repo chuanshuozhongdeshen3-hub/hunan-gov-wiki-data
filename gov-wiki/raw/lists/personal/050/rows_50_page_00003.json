@@ -1,0 +1,64 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432019101W02",
+        "rightsId": "97D338F503BCFC3BE053681515ACCA9B",
+        "transactLevel": "0",
+        "unifyId": "BRcHiXubQT2LRGPeJJFQvw",
+        "unifyName": "水利水电工程施工企业主要负责人、项目负责人和专职安全生产管理人员考核管理（人员单位变更申请）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432019101W02",
+        "rightsId": "97D338F503BCFC3BE053681515ACCA9B",
+        "transactLevel": "0",
+        "unifyId": "V5bNNLJIR3imvL6bqK0ZNw",
+        "unifyName": "水利水电工程施工企业主要负责人、项目负责人和专职安全生产管理人员考核管理（水利部/外省证书转入申请）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432019101W03",
+        "rightsId": "97D338F503BDFC3BE053681515ACCA9B",
+        "transactLevel": "0",
+        "unifyId": "0f800402ae944f06820f12f618349634",
+        "unifyName": "水利水电工程施工企业主要负责人、项目负责人和专职安全生产管理人员考核管理（延期申请）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432019101W04",
+        "rightsId": "V4KYTQhKRXWulYNtO3Sx8Q",
+        "transactLevel": "0",
+        "unifyId": "JoIddOF9QnKTiaf5wbbI2g",
+        "unifyName": "水利水电工程施工企业主要负责人、项目负责人和专职安全生产管理人员考核（注销申请）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432088009W00",
+        "rightsId": "rIe_nurrRjO_eX6KSGV8Rw",
+        "transactLevel": "0",
+        "unifyId": "Ds7bB8ImRmi169pG4cSP-g",
+        "unifyName": "残疾人就业咨询与职业介绍服务",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 3,
+    "pageSize": 50,
+    "total": 105,
+    "totalPage": 3
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

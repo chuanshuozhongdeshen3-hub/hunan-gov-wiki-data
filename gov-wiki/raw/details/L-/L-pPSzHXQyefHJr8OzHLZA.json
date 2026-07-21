@@ -1,0 +1,124 @@
+{
+  "code": 0,
+  "data": {
+    "acceptanceCondition": "公民更正或者变更姓名、性别、民族成份、出生日期、公民身份号码等 5 项户口登记项目内容，或者因户口迁移，凭居民户口簿无法证明的事项，向办理变动业务的派出所申请开具证明或通过网上申请开具。",
+    "according": "《关于集中开展纠正公民身份号码跨省重号工作的通知》（公治〔2006〕369号）全文  全文。",
+    "applicantDuty": "应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。",
+    "applicantPower": "依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。",
+    "approveLimit": "3",
+    "approveLimitExplain": "\"户籍地派出所应当采取查阅历史户籍档案和查询人口管理系统等多种方式进行核实，最迟在 3 个工作日内完成核查和对属实情况出具证明工作。对经查不属实，无法出具证明的，应 及时告知。\"",
+    "blbm": "县级公安部门",
+    "chargeList": [
+      {
+        "chargeBylaw": "由邮政速递公司收取邮寄速递费20元/证。",
+        "chargeId": "Qy_TQxIbQHSX3nmbh5n0ow",
+        "createDate": 1767949164000,
+        "feename": "邮寄速递费",
+        "feestand": "20元",
+        "isDelete": "N",
+        "isMinus": "否",
+        "orderNum": 1.0,
+        "unifyId": "L-pPSzHXQyefHJr8OzHLZA",
+        "updateDate": 1767949164000
+      }
+    ],
+    "commitmentLimit": "3",
+    "commitmentLimitExplain": "不含邮寄时间。",
+    "deptName": "公安部门",
+    "doScope": "全省",
+    "faqList": [
+      {
+        "createDate": 1760784400000,
+        "faqContent": "开具户口登记项目内容变更更正证明是否可以在线上申请？",
+        "faqId": "0eea5987948d453e8fbe946c6a4b590b",
+        "isDelete": "N",
+        "isSzyy": "N",
+        "orderNum": 1.0,
+        "replyContent": "可以线上申请，全程网办，办理结果物可寄递至申请人填写的地址。",
+        "unifyId": "L-pPSzHXQyefHJr8OzHLZA",
+        "updateDate": 1760784400000
+      }
+    ],
+    "isCharge": "是",
+    "isIntermediaryServices": "无",
+    "isSpecialProcedure": "否",
+    "isonline": "是",
+    "lctList": [
+      {
+        "approveCode": "L-pPSzHXQyefHJr8OzHLZA",
+        "approveId": "L-pPSzHXQyefHJr8OzHLZA",
+        "bucketName": "zwfw202510",
+        "createTime": 1760784400000,
+        "flowc": "approve/2025-10-18-18/1760784040629$$错号.png",
+        "id": "f0cd28952bcd4d49890c3bf0ca614474",
+        "isDelete": "0",
+        "isExchange": "N",
+        "operateFlag": "N",
+        "updateTime": 1760784400000
+      }
+    ],
+    "limitsceneexplain": "全程网办",
+    "materialList": [
+      {
+        "acceptStandard": "暂无受理标准",
+        "bylaw": "《公安部等12部门关于印发〈关于改进和规范公安派出所出具证明工作的意见〉的通知》（公通字〔2016〕21号）；《湖南省公安厅等12厅委关于印发〈湖南省改进和规范公安派出所出具证明工作实施办法〉的通知》（湘公发〔2016〕51号。",
+        "commitWay": "网上现场都可提交",
+        "copiesNum": 1.0,
+        "createDate": 1760784400000,
+        "freeSubmission": "无",
+        "isDelete": "N",
+        "isMust": "必要",
+        "materialApproveType": "证照",
+        "materialCode": "M432009106W000201",
+        "materialExplain": "申请人为被证明人的，应当交验本人居民身份证或居民户口簿；申请人为被证明人监护人或户主的，应当交验申请人居民身份证及被证明人的居民户口簿。申请人为被证明人监护人，但是户籍档案不能证明监护关系的，还应当提交反映监护关系的凭证材料及复印件。",
+        "materialId": "122542bdfb784b9dbb15f417c880e6e1",
+        "materialStandard": "纸质",
+        "materialTitle": "有效身份证件",
+        "materialType": "原件",
+        "pageformat": "A4",
+        "sourceChannel": "申请人自备",
+        "sourceexplain": "暂无来源渠道说明",
+        "unifyId": "L-pPSzHXQyefHJr8OzHLZA",
+        "updateDate": 1760784400000
+      }
+    ],
+    "minExplain": "四级标准说明：该事项已经实现全程网办，申请人可以通过网络提交和补正相关申请信息和材料，提交的材料全部为已验证信息，受理通过后直接进入办理程序，申请人可网上查询办理状态、咨询问题，作出审批决定后，申请人可以通过网上缴费后物流递送证书结果。整个办事过程无需到现场办理。",
+    "minSeq": "0",
+    "orgId": "9def3f565034406981bf70f2169e28ef",
+    "orgName": "湖南省公安厅",
+    "processDescript": "（一）申请人凭相应凭证材料向承办机构提出申请。\n（二）承办机构受理查验申请人相关凭证材料。\n（三）承办机构录入有关业务信息并完成业务办理。",
+    "quantitativeRestriction": "1",
+    "resultList": [
+      {
+        "approveCode": "L-pPSzHXQyefHJr8OzHLZA",
+        "approveId": "L-pPSzHXQyefHJr8OzHLZA",
+        "bucketName": "zwfw202510",
+        "createTime": 1760784400000,
+        "extend": "png",
+        "fileName": "11111.png",
+        "id": "fe3ca321ac7e4cad8d8a0f834f1ce9b9",
+        "isDelete": "0",
+        "isExchange": "N",
+        "isNeed": "N",
+        "operateFlag": "N",
+        "resultChart": "approve/2025-10-18-18/1760784157926$$11111.png",
+        "resultSampleName": "公民身份号码更正证明",
+        "updateTime": 1760784400000
+      }
+    ],
+    "resultSampleName": "公民身份号码更正证明",
+    "rightsCode": "432009106W00",
+    "rightsId": "968059BD17DC634EE053671515AC8FFE",
+    "schemeLevels": "县",
+    "serveObject": "个人",
+    "transactLevel": "四级标准",
+    "transactionFrom": "窗口办理^网上办理^快递申请",
+    "typeName": "公共服务",
+    "unifyId": "L-pPSzHXQyefHJr8OzHLZA",
+    "unifyName": "户口登记项目变更更正证明",
+    "ywCode": "02"
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

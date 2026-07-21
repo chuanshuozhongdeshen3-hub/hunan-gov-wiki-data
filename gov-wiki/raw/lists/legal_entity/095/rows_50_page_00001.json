@@ -1,0 +1,514 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116007000",
+        "rightsId": "8794B3AA86C19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b674af640e3f4f098d9234a60f50631e",
+        "unifyName": "危险废物经营许可（核发）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116007000",
+        "rightsId": "8794B3AA86C19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "386a3f53ed434076b2213e9caeb75d31",
+        "unifyName": "危险废物经营许可（临时生产证）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116007000",
+        "rightsId": "8794B3AA86C19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8a120fc97bb8469eb26a7fd65f6aeafe",
+        "unifyName": "危险废物经营许可（重新申请）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116007000",
+        "rightsId": "8794B3AA86C19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d5cd18ded21e41ba9aae0f56ae6a6050",
+        "unifyName": "危险废物经营许可（变更）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116007000",
+        "rightsId": "8794B3AA86C19492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2b3054fd1a4145eca1797eaa8f8e1b7d",
+        "unifyName": "危险废物经营许可（换证）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116011000",
+        "rightsId": "8794B3AA86C59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0c5b6d17b874419c810a042a81af938a",
+        "unifyName": "固体废物跨省转移贮存、处置",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116011000",
+        "rightsId": "8794B3AA86C59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2658a8864f664912962ab78b4ec01bfe",
+        "unifyName": "危险废物跨省转移贮存、处置",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116012000",
+        "rightsId": "8794B3AA86C69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0d1996790d5145d6985ff1ef26aeebe1",
+        "unifyName": "必需经水路运输医疗废物审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116013000",
+        "rightsId": "8794B3AA86C79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d200ef901b4449a884f0cabd5729af09",
+        "unifyName": "放射源转让审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116013000",
+        "rightsId": "8794B3AA86C79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "597d69a0b01d4d15b999953f1ea5346c",
+        "unifyName": "放射性药品及其原料转让审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116016000",
+        "rightsId": "8794B3AA86CA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a0c6bc51814a4ffcb236e64791be1059",
+        "unifyName": "在野外进行放射性同位素示踪试验审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116051000",
+        "rightsId": "262e9a97ac6b4233ac5429f135d3eb6e",
+        "transactLevel": "0",
+        "unifyId": "5bda79245150476e96aedf824f655c7b",
+        "unifyName": "危险废物跨省转移利用",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116055000",
+        "rightsId": "547a5ea370ba4f7d837deb277c71377a",
+        "transactLevel": "0",
+        "unifyId": "8428a096e4d04e9086e6c9a1df2e159b",
+        "unifyName": "建设项目环境影响评价审批报告书（辐射类）-核技术利用",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116055000",
+        "rightsId": "547a5ea370ba4f7d837deb277c71377a",
+        "transactLevel": "0",
+        "unifyId": "58dd442ab2a84737b8598aea36fc5383",
+        "unifyName": "建设项目环境影响评价审批报告书（辐射类）-输变电工程",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116055000",
+        "rightsId": "547a5ea370ba4f7d837deb277c71377a",
+        "transactLevel": "0",
+        "unifyId": "79ebd5c25cc944fdb06d10b140d304b3",
+        "unifyName": "建设项目环境影响评价审批报告书（辐射类）-其他",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116055000",
+        "rightsId": "547a5ea370ba4f7d837deb277c71377a",
+        "transactLevel": "0",
+        "unifyId": "fa092a705cf24b94b5c80c64e90e9636",
+        "unifyName": "建设项目环境影响评价审批报告表（辐射类）-输变电工程",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116055000",
+        "rightsId": "547a5ea370ba4f7d837deb277c71377a",
+        "transactLevel": "0",
+        "unifyId": "5802d463bb484c6588c30785df8b9abc",
+        "unifyName": "建设项目环境影响评价审批报告表（辐射类）-核技术利用",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116055000",
+        "rightsId": "547a5ea370ba4f7d837deb277c71377a",
+        "transactLevel": "0",
+        "unifyId": "04dc38463dd946d9b2deb0515dcb4604",
+        "unifyName": "建设项目环境影响评价审批报告表（辐射类）-其他",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116055000",
+        "rightsId": "547a5ea370ba4f7d837deb277c71377a",
+        "transactLevel": "0",
+        "unifyId": "c8fa5a5e669f4861acd28b42f3a06751",
+        "unifyName": "建设项目环境影响评价审批报告书（普通类）",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116055000",
+        "rightsId": "547a5ea370ba4f7d837deb277c71377a",
+        "transactLevel": "0",
+        "unifyId": "afc1738783724a33b28b822d36f2850f",
+        "unifyName": "建设项目环境影响评价审批报告表（普通类）",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116055000",
+        "rightsId": "547a5ea370ba4f7d837deb277c71377a",
+        "transactLevel": "0",
+        "unifyId": "FixnaBNoSQGPqbWT8Kx4Sw",
+        "unifyName": "建设项目环境影响评价审批（工改项目）",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000116057000",
+        "rightsId": "88a0b30d514a4fa6a4601706d81dd4dc",
+        "transactLevel": "0",
+        "unifyId": "941d6ce1f9364479aaa4dd02ffa17da9",
+        "unifyName": "贮存危险废物超过一年的批准",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117025000",
+        "rightsId": "8794B3AA87089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "BfzCT8ENQV6kGIcdM-R3IQ",
+        "unifyName": "临时占用城市绿化用地审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117026000",
+        "rightsId": "8794B3AA87099492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bUvv_DaoRqejL8JmfUzrwQ",
+        "unifyName": "改变绿化规划、绿化用地的使用性质审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117027000",
+        "rightsId": "8794B3AA870A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "LmBKcFf2Q3u2EL_KWMTyIw",
+        "unifyName": "砍伐城市树木审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117027000",
+        "rightsId": "8794B3AA870A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "GuxxY5OvT3yLZ9WkOVxHag",
+        "unifyName": "移植城市树木花草",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117027000",
+        "rightsId": "8794B3AA870A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2giMevDwS2yxAqEXq9xXiA",
+        "unifyName": "修剪城市树木花草",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117028000",
+        "rightsId": "8794B3AA870B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Ifwvafh3SRut-Tm7kI024A",
+        "unifyName": "迁移古树名木审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164072000",
+        "rightsId": "8794B3AA8D0E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "99bc1ff8b7764978b0412225628f61a0",
+        "unifyName": "外国人对国家重点保护陆生野生动物进行野外考察或在野外拍摄电影、录像审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164072000",
+        "rightsId": "8794B3AA8D0E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e823160a61a44f2c8e942f3b931c729b",
+        "unifyName": "外国人对省重点保护野生动植物进行野外考察或在野外拍摄电影、录像审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164092000",
+        "rightsId": "8794B3AA8D229492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0SNtXw8mSAeZ2DwE4ZFWCA",
+        "unifyName": "进出口林草种子生产经营许可证新办",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164092000",
+        "rightsId": "8794B3AA8D229492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0OF4_Xb6RGCeuTU-WSLU6g",
+        "unifyName": "进出口林草种子生产经营许可证延续",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164092000",
+        "rightsId": "8794B3AA8D229492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "dVJWGDEJRYi_4O1ReepP1w",
+        "unifyName": "进出口林草种子生产经营许可证变更",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164101000",
+        "rightsId": "8794B3AA8D2B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "LSbff3yERAyMXoNJNXkL5w",
+        "unifyName": "权限内国家一级保护陆生野生动物人工繁育许可证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164101000",
+        "rightsId": "8794B3AA8D2B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5a35ccb6830b4471984a9946ccb5ffb2",
+        "unifyName": "国家二级保护陆生野生动物人工繁育许可证核发",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164101000",
+        "rightsId": "8794B3AA8D2B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6defcb1be30b4cce89c080c0042d39cd",
+        "unifyName": "人工繁育省重点保护的陆生野生动物审批（委托下放）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164103000",
+        "rightsId": "8794B3AA8D2D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Xz7C05AKTVSO4ngqvk1ojw",
+        "unifyName": "林木良种繁殖材料、主要草种杂交种子及其亲本种子、常规原种种子生产经营许可证延续",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164103000",
+        "rightsId": "8794B3AA8D2D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "318c008ccd4b4eb894895f9f97bf6cb5",
+        "unifyName": "林木良种繁殖材料、主要草种杂交种子及其亲本种子、常规原种种子生产经营许可证变更",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164103000",
+        "rightsId": "8794B3AA8D2D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "KXOjy-T0T5umlpEfMaMerQ",
+        "unifyName": "普通林草种子生产经营许可证新办（设区的市级权限）",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164103000",
+        "rightsId": "8794B3AA8D2D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d66f6e97f1f74ca690355dfa9ce73b29",
+        "unifyName": "普通林草种子生产经营许可证延续（设区的市级权限）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164103000",
+        "rightsId": "8794B3AA8D2D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ae59ff9573984ee5b6bd08d24821a933",
+        "unifyName": "普通林草种子生产经营许可证变更（设区的市级权限）",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164103000",
+        "rightsId": "8794B3AA8D2D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7334539674144593a09473a5cc7e17dc",
+        "unifyName": "普通林草种子生产经营许可证新办（县级权限）",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164103000",
+        "rightsId": "8794B3AA8D2D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c54e4e6cec5c4951bfd62d1b1dffe61c",
+        "unifyName": "普通林草种子生产经营许可证延续（县级权限）",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164103000",
+        "rightsId": "8794B3AA8D2D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "59390a6aced44e48a23a8d334dbd17cc",
+        "unifyName": "普通林草种子生产经营许可证变更（县级权限）",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164106000",
+        "rightsId": "8794B3AA8D309492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9aee2b4835a54c4393f3e5bade8db0d6",
+        "unifyName": "权限内猎捕国家一级保护陆生野生动物审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164109000",
+        "rightsId": "8794B3AA8D339492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8d0e96ff285042799a0943cd0d201357",
+        "unifyName": "权限内出售、购买、利用国家重点保护陆生野生动物及其制品审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164109000",
+        "rightsId": "8794B3AA8D339492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "SFO0zXFMRhWOkE1gDu0FDQ",
+        "unifyName": "出售、收购、利用省重点保护陆生野生动物及其产品审批（委托下放）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164111000",
+        "rightsId": "8794B3AA8D359492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "_vueMncMTl-DEkdCq_GwWg",
+        "unifyName": "猎捕国家二级保护陆生野生动物审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164153003",
+        "rightsId": "496e9d66cabd476d9ca60f25fd13789b",
+        "transactLevel": "0",
+        "unifyId": "295d333e71e847618c0fcc58a75b9434",
+        "unifyName": "出售、收购国家二级保护野生植物审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164154006",
+        "rightsId": "d318ea5068e14964babc4a6835a34097",
+        "transactLevel": "0",
+        "unifyId": "izH7DkMISjugH3m1k5D_vg",
+        "unifyName": "临时使用林地审批（设区的市级权限）",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 84,
+    "totalPage": 2
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

@@ -1,0 +1,143 @@
+{
+  "code": 0,
+  "data": {
+    "acceptanceCondition": "1.由车主本人确认申请信息；\n2.属于单位用户的，应开通“交管12123”APP单位用户版，由单位授权的账号使用人确认申请信息；\n3.用户机动车存在转出、被盗抢、注销、嫌疑车、扣留、达到报废标准、达到报废标准公告牌证作废、事故逃逸、锁定等情形之一的，公安机关交通管理部门不予受理。",
+    "according": "《机动车登记规定》（中华人民共和国公安部令〔2012〕第124号）第四十三条  机动车登记证书灭失、丢失或者损毁的，机动车所有人应当向登记地车辆管理所申请补领、换领。申请时，机动车所有人应当填写申请表并提交身份证明，属于补领机动车登记证书的，还应当交验机动车。车辆管理所应当自受理之日起一日内，确认机动车，审查提交的证明、凭证，补发、换发机动车登记证书。 启用机动车登记证书前已注册登记的机动车未申领机动车登记证书的，机动车所有人可以向登记地车辆管理所申领机动车登记证书。但属于机动车所有人申请变更、转移或者抵押登记的，应当在申请前向车辆管理所申领机动车登记证书。申请时，机动车所有人应当填写申请表，交验机动车并提交身份证明。车辆管理所应当自受理之日起五日内，确认机动车，核对车辆识别代号拓印膜，审查提交的证明、凭证，核发机动车登记证书。",
+    "applicantDuty": "应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。",
+    "applicantPower": "依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。",
+    "approveLimit": "1",
+    "approveLimitExplain": "根据《机动车登记规定》",
+    "blbm": "市、县级公安部门",
+    "chargeList": [
+      {
+        "chargeBylaw": "《关于发布湖南省公安系统行政事业性收费标准的通知》（湘发改价费规[2021]226号）。",
+        "chargeId": "3839033060114337aa95fd02f16ae6c3",
+        "createDate": 1760757289000,
+        "feename": "机动车号牌工本费",
+        "feestand": "反光号牌：汽车100元/副、挂车50元/副，摩托车35元/副，低速货车、三轮汽车40元/副；",
+        "isDelete": "N",
+        "isMinus": "否",
+        "orderNum": 1.0,
+        "unifyId": "0JT7oxC8QHOXkNsn0VxMpg",
+        "updateDate": 1761882787000
+      }
+    ],
+    "commitmentLimit": "1",
+    "commitmentLimitExplain": "根据《机动车登记规定》",
+    "deptName": "公安部门",
+    "doScope": "全国",
+    "faqList": [
+      {
+        "createDate": 1760757288000,
+        "faqContent": "补领期间能开车吗？",
+        "faqId": "76139477dfae4d6ba363e1a8170ffe3d",
+        "isDelete": "N",
+        "isSzyy": "N",
+        "orderNum": 1.0,
+        "replyContent": "可申领有效期不超过15日的临时车号牌，凭临时号牌可以正常行驶。",
+        "unifyId": "0JT7oxC8QHOXkNsn0VxMpg",
+        "updateDate": 1763607541000
+      }
+    ],
+    "isCharge": "是",
+    "isSpecialProcedure": "否",
+    "isonline": "是",
+    "lctList": [
+      {
+        "approveCode": "0JT7oxC8QHOXkNsn0VxMpg",
+        "approveId": "0JT7oxC8QHOXkNsn0VxMpg",
+        "bucketName": "zwfw202510",
+        "createTime": 1760767550000,
+        "flowc": "approve/2025-10-18-14/1760767550895$$流程图.jpg",
+        "id": "4169A468A31BC922E063651515ACE789",
+        "isDelete": "0",
+        "isExchange": "N",
+        "operateFlag": "N",
+        "updateTime": 1760767550000
+      }
+    ],
+    "materialList": [
+      {
+        "acceptStandard": "符合法律标准",
+        "attachList": [
+          {
+            "attachCode": "000003",
+            "attachId": "e5b8258e618445298b107532025926c1",
+            "attachName": "居民身份证.pdf",
+            "attachPath": "approve/2022-11-18-16/1668759664514$$居民身份证.pdf",
+            "attachSize": 43141.0,
+            "attachType": ".pdf",
+            "bucketName": "zwfw202211",
+            "businessId": "ac55f1c75b9040d4a0a1b11251956446",
+            "createTime": 1760757288000,
+            "isDel": "N",
+            "isDelete": "0",
+            "isExchange": "N",
+            "isValid": "Y",
+            "modFlag": "N",
+            "operateFlag": "N",
+            "pdfPath": "N",
+            "updateTime": 1760757288000
+          }
+        ],
+        "bylaw": "《机动车登记规定》（公安部令第164号）第五十一条  机动车号牌灭失、丢失的，机动车所有人应当向登记地所在地车管所申请补领。申请时，机动车所有人应当确认申请信息并提交身份证明",
+        "commitWay": "网上现场都可提交",
+        "copiesNum": 1.0,
+        "createDate": 1760757288000,
+        "freeSubmission": "无",
+        "isDelete": "N",
+        "isMust": "必要",
+        "materialApproveType": "证照",
+        "materialCode": "M431009045W000402",
+        "materialExplain": "真实、合法、有效",
+        "materialId": "ac55f1c75b9040d4a0a1b11251956446",
+        "materialStandard": "纸质或电子",
+        "materialTitle": "机动车所有人身份证明",
+        "materialType": "原件",
+        "pageformat": "公安部制定的统一标准",
+        "sourceChannel": "政府部门核发",
+        "sourceexplain": "公安部门核发",
+        "unifyId": "0JT7oxC8QHOXkNsn0VxMpg",
+        "updateDate": 1763607610000
+      }
+    ],
+    "minExplain": "四级标准说明：该事项已经实现全程网办，申请人可以通过网络提交和补正相关申请信息和材料，提交的材料全部为已验证信息，受理通过后直接进入办理程序，申请人可网上查询办理状态、咨询问题，作出审批决定后，申请人可以通过网上缴费后物流递送证书结果。整个办事过程无需到现场办理。",
+    "minSeq": "0",
+    "orgId": "9def3f565034406981bf70f2169e28ef",
+    "orgName": "湖南省公安厅",
+    "processDescript": "1、申请人向受理机关提出申请。\n2、受理机关审核。\n3、不符合要求的，一次性告知理由。予以退办，符合规定的，业务办结。",
+    "quantitativeRestriction": "暂无数量限制",
+    "resultList": [
+      {
+        "approveCode": "0JT7oxC8QHOXkNsn0VxMpg",
+        "approveId": "0JT7oxC8QHOXkNsn0VxMpg",
+        "bucketName": "zwfw202510",
+        "createTime": 1760768047000,
+        "extend": "jpg",
+        "fileName": "号牌.jpg",
+        "id": "4169C1FA41CF837DE063671515ACB052",
+        "isDelete": "0",
+        "isExchange": "N",
+        "isNeed": "N",
+        "operateFlag": "N",
+        "resultChart": "approve/2025-10-18-14/1760768046977$$号牌.jpg",
+        "resultSampleName": "机动车号牌",
+        "updateTime": 1760768047000
+      }
+    ],
+    "resultSampleName": "机动车号牌",
+    "rightsCode": "431009045W00",
+    "rightsId": "2M_1J00mSDWVz69BhbqkZA",
+    "schemeLevels": "市、县",
+    "serveObject": "个人/法人",
+    "transactLevel": "四级标准",
+    "transactionFrom": "窗口办理^网上办理",
+    "typeName": "其他行政权力",
+    "unifyId": "0JT7oxC8QHOXkNsn0VxMpg",
+    "unifyName": "补领机动车号牌",
+    "ywCode": "04"
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

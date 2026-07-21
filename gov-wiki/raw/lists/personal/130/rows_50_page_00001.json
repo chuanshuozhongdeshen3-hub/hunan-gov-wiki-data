@@ -1,0 +1,404 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117025000",
+        "rightsId": "8794B3AA87089492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "BfzCT8ENQV6kGIcdM-R3IQ",
+        "unifyName": "临时占用城市绿化用地审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117026000",
+        "rightsId": "8794B3AA87099492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bUvv_DaoRqejL8JmfUzrwQ",
+        "unifyName": "改变绿化规划、绿化用地的使用性质审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117027000",
+        "rightsId": "8794B3AA870A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "LmBKcFf2Q3u2EL_KWMTyIw",
+        "unifyName": "砍伐城市树木审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117027000",
+        "rightsId": "8794B3AA870A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "GuxxY5OvT3yLZ9WkOVxHag",
+        "unifyName": "移植城市树木花草",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117027000",
+        "rightsId": "8794B3AA870A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2giMevDwS2yxAqEXq9xXiA",
+        "unifyName": "修剪城市树木花草",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117028000",
+        "rightsId": "8794B3AA870B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Ifwvafh3SRut-Tm7kI024A",
+        "unifyName": "迁移古树名木审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164072000",
+        "rightsId": "8794B3AA8D0E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "99bc1ff8b7764978b0412225628f61a0",
+        "unifyName": "外国人对国家重点保护陆生野生动物进行野外考察或在野外拍摄电影、录像审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164072000",
+        "rightsId": "8794B3AA8D0E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e823160a61a44f2c8e942f3b931c729b",
+        "unifyName": "外国人对省重点保护野生动植物进行野外考察或在野外拍摄电影、录像审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164097000",
+        "rightsId": "8794B3AA8D279492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d3a84f46c176441f80cb4a5f564b773b",
+        "unifyName": "采集或者采伐国家重点保护的天然种质资源审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164101000",
+        "rightsId": "8794B3AA8D2B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "LSbff3yERAyMXoNJNXkL5w",
+        "unifyName": "权限内国家一级保护陆生野生动物人工繁育许可证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164101000",
+        "rightsId": "8794B3AA8D2B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5a35ccb6830b4471984a9946ccb5ffb2",
+        "unifyName": "国家二级保护陆生野生动物人工繁育许可证核发",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164101000",
+        "rightsId": "8794B3AA8D2B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6defcb1be30b4cce89c080c0042d39cd",
+        "unifyName": "人工繁育省重点保护的陆生野生动物审批（委托下放）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164106000",
+        "rightsId": "8794B3AA8D309492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9aee2b4835a54c4393f3e5bade8db0d6",
+        "unifyName": "权限内猎捕国家一级保护陆生野生动物审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164109000",
+        "rightsId": "8794B3AA8D339492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8d0e96ff285042799a0943cd0d201357",
+        "unifyName": "权限内出售、购买、利用国家重点保护陆生野生动物及其制品审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164109000",
+        "rightsId": "8794B3AA8D339492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "SFO0zXFMRhWOkE1gDu0FDQ",
+        "unifyName": "出售、收购、利用省重点保护陆生野生动物及其产品审批（委托下放）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164111000",
+        "rightsId": "8794B3AA8D359492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "_vueMncMTl-DEkdCq_GwWg",
+        "unifyName": "猎捕国家二级保护陆生野生动物审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164115000",
+        "rightsId": "8794B3AA8D399492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "y3tCLOPUROqg09O4vnhgFw",
+        "unifyName": "从境外引进非国际公约禁止或限制贸易的陆生野生动物物种审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164119000",
+        "rightsId": "8794B3AA8D419492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f5f1cd3df5014ddfbca99168bf6e6acb",
+        "unifyName": "国家林草种质资源库内资源采集、采伐审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164153003",
+        "rightsId": "496e9d66cabd476d9ca60f25fd13789b",
+        "transactLevel": "0",
+        "unifyId": "295d333e71e847618c0fcc58a75b9434",
+        "unifyName": "出售、收购国家二级保护野生植物审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164154003",
+        "rightsId": "19acf6ee926a4a4fbcff4807b0bb06cb",
+        "transactLevel": "0",
+        "unifyId": "0156009f974b46858c05a8e8e5598143",
+        "unifyName": "矿藏勘查、开采以及其他各类工程建设占用林地审核（省级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164154003",
+        "rightsId": "19acf6ee926a4a4fbcff4807b0bb06cb",
+        "transactLevel": "0",
+        "unifyId": "85a850ccd58d4b3fb358eccdd6935713",
+        "unifyName": "矿藏勘查、开采以及其他各类工程建设占用林地初步审查",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164154003",
+        "rightsId": "19acf6ee926a4a4fbcff4807b0bb06cb",
+        "transactLevel": "0",
+        "unifyId": "2bd51e5c591b47d3b048b360d19c5186",
+        "unifyName": "矿藏勘查、开采以及其他各类工程建设占用林地延续审核（省级权限）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164154003",
+        "rightsId": "19acf6ee926a4a4fbcff4807b0bb06cb",
+        "transactLevel": "0",
+        "unifyId": "abb3a39b90574683b0c1b17a83c4c216",
+        "unifyName": "矿藏勘查、开采以及其他各类工程建设占用林地审查",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164154003",
+        "rightsId": "19acf6ee926a4a4fbcff4807b0bb06cb",
+        "transactLevel": "0",
+        "unifyId": "izvUDszKQiaNcEwAswYU6g",
+        "unifyName": "农村居民建房占用林地审核（县级权限）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164154004",
+        "rightsId": "ac3df171cc4a452ca5ff6e0182ffd696",
+        "transactLevel": "0",
+        "unifyId": "c6bab98280d3418db6a959121104fa46",
+        "unifyName": "临时使用林地审批（省级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164154004",
+        "rightsId": "ac3df171cc4a452ca5ff6e0182ffd696",
+        "transactLevel": "0",
+        "unifyId": "10076868245d4476b1671b2b4346929a",
+        "unifyName": "临时使用林地审批（省级权限事项初步审查）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164154006",
+        "rightsId": "d318ea5068e14964babc4a6835a34097",
+        "transactLevel": "0",
+        "unifyId": "izH7DkMISjugH3m1k5D_vg",
+        "unifyName": "临时使用林地审批（设区的市级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164154008",
+        "rightsId": "c6eeca60557448f2809416b1a4ecad55",
+        "transactLevel": "0",
+        "unifyId": "c047023b22924af78f91832a2c8dda6a",
+        "unifyName": "临时使用林地审批（县级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000717004000",
+        "rightsId": "8794B3AA90269492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8JUusFVSSCW44zpYTcwIOA",
+        "unifyName": "建立城市古树名木档案和标记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000764023000",
+        "rightsId": "152ae5700a984a97b57e84b517919543",
+        "transactLevel": "0",
+        "unifyId": "98fd38a66d5849cb8b3978c9d0d6c764",
+        "unifyName": "省级主要林木品种审定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164018W00",
+        "rightsId": "Ptr1eUI8SP-_ikMCappVvA",
+        "transactLevel": "0",
+        "unifyId": "8olgdDcyR1mwR7-e1AwAww",
+        "unifyName": "移植古树名木（城市除外）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430164019W00",
+        "rightsId": "cZQjQ5EnQga5KoclBuf92w",
+        "transactLevel": "0",
+        "unifyId": "NWGD4TMVRvezrTH0PvkbeA",
+        "unifyName": "出售、收购省重点保护野生植物审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430919001W00",
+        "rightsId": "nQ7-crpaQUKAynXF2xONaw",
+        "transactLevel": "0",
+        "unifyId": "eda863e2355547f3a45d3c956c0751d2",
+        "unifyName": "水土流失纠纷裁决",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431016005W00",
+        "rightsId": "ghLS1SNvR5qgDYjgxRn4xg",
+        "transactLevel": "0",
+        "unifyId": "b06e328b775d47fab8d5c80654c9e7db",
+        "unifyName": "危险废物管理计划备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431016035W00",
+        "rightsId": "70F599A55F82ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "10453160b4fc411989fa49b1dabb8691",
+        "unifyName": "环境污染损害赔偿行政调解",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017228W00",
+        "rightsId": "fRp7I41oStyBW5HTapJBYw",
+        "transactLevel": "0",
+        "unifyId": "eAOrFfayTpap9XWT2PrtHw",
+        "unifyName": "占用绿地1公顷以上审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017228W00",
+        "rightsId": "fRp7I41oStyBW5HTapJBYw",
+        "transactLevel": "0",
+        "unifyId": "sTgFGJHcQuimEjb4g6CMtg",
+        "unifyName": "占用绿地1公顷以下审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431020080W00",
+        "rightsId": "70F599A55D5AABCFE053681515ACCFDC",
+        "transactLevel": "2",
+        "unifyId": "iLI6WL0bQuSzXq8CFHY1dA",
+        "unifyName": "渔业水域污染事故的调查处理和纠纷调解",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432016205W00",
+        "rightsId": "98DD4D7C3F7B9D1DE053681515AC6F9E",
+        "transactLevel": "0",
+        "unifyId": "bd3838f25e7b47b8a1089d1b9690d0b4",
+        "unifyName": "依申请公开政府环境信息",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 39,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

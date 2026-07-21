@@ -1,0 +1,459 @@
+{
+  "datas": [
+    {
+      "id": "XCvDAn76Qqah4Y5J_YXKKw",
+      "_title": "合伙企业分支机构备案",
+      "name": "合伙企业分支机构备案",
+      "type": "approve",
+      "yw_code": "12",
+      "rights_code": "001031004000",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "2cea97bdd2b348bc9fb956cbae6354a9",
+      "_title": "报纸出版单位申请网络出版服务许可的初审",
+      "name": "报纸出版单位申请网络出版服务许可的初审",
+      "type": "approve",
+      "yw_code": "52",
+      "rights_code": "000139001000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "DbOwUw30RbyOAkfoSgejlg",
+      "_title": "抵押权转移登记",
+      "name": "抵押权转移登记",
+      "type": "approve",
+      "yw_code": "13",
+      "rights_code": "000715001014",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "5Agr-8qwR0etYffh3gU4_Q",
+      "_title": "外国企业常驻代表机构备案",
+      "name": "外国企业常驻代表机构备案",
+      "type": "approve",
+      "yw_code": "16",
+      "rights_code": "001031004000",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "6ge4NUm8REaa3R6slxl6Ww",
+      "_title": "中外合资经营、中外合作经营、外商独资经营企业互联网上网服务营业场所经营单位从事互联网上网服务经营活动变更的审批",
+      "name": "中外合资经营、中外合作经营、外商独资经营企业互联网上网服务营业场所经营单位从事互联网上网服务经营活动变更的审批",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000122031000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "0f57d39742ab4e54a022d40e4c65986a",
+      "_title": "网络出版服务机构变更业务范围审批的初审",
+      "name": "网络出版服务机构变更业务范围审批的初审",
+      "type": "approve",
+      "yw_code": "57",
+      "rights_code": "000139001000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "6c_WxH6QTiO0L0oIYRfzMw",
+      "_title": "出境定居提取住房公积金",
+      "name": "出境定居提取住房公积金",
+      "type": "approve",
+      "yw_code": "13",
+      "rights_code": "432017001W00",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "ad66e9839e7440a987cbdec09bc62163",
+      "_title": "台湾地区的投资者在内地投资设立演出经纪机构从事营业性演出经营活动补证的审批",
+      "name": "台湾地区的投资者在内地投资设立演出经纪机构从事营业性演出经营活动补证的审批",
+      "type": "approve",
+      "yw_code": "04",
+      "rights_code": "000122018000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "441ef78f475c45569103273a39e318cc",
+      "_title": "废旧金属收购企业和个体工商户变更经营场所",
+      "name": "废旧金属收购企业和个体工商户变更经营场所",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "431009134W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "2045b523e0324e0cb2057c26abe29d9c",
+      "_title": "包装装潢印刷企业申请兼营、变更、合并、分立审批",
+      "name": "包装装潢印刷企业申请兼营、变更、合并、分立审批",
+      "type": "approve",
+      "yw_code": "04",
+      "rights_code": "000139005000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "023d6f9ad45340c58ceddbabbc36d51a",
+      "_title": "城市建筑垃圾运输核准有效期届满申请延续",
+      "name": "城市建筑垃圾运输核准有效期届满申请延续",
+      "type": "approve",
+      "yw_code": "11",
+      "rights_code": "000117014000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "f57ffe11f329451cb3151d822220bc3c",
+      "_title": "一级注册消防工程师证章补办/更换",
+      "name": "一级注册消防工程师证章补办/更换",
+      "type": "approve",
+      "yw_code": "05",
+      "rights_code": "000125047002",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "UCvZvl0sTIu7t2-pJjt9bw",
+      "_title": "二级房地产开发企业资质证书-遗失补办",
+      "name": "二级房地产开发企业资质证书-遗失补办",
+      "type": "approve",
+      "yw_code": "05",
+      "rights_code": "000117002000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "0236f9cf72694502b5813b53b766c203",
+      "_title": "第一类医疗器械生产补发备案",
+      "name": "第一类医疗器械生产补发备案",
+      "type": "approve",
+      "yw_code": "10",
+      "rights_code": "431072056W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "x9XF5SnMTEeESPm7RWzE_g",
+      "_title": "职工减少登记（暂停参保）",
+      "name": "职工减少登记（暂停参保）",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "432036006W02",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "1d691c5d007249119f33034abb2e2a99",
+      "_title": "图书出版单位变更资本结构审批的初审",
+      "name": "图书出版单位变更资本结构审批的初审",
+      "type": "approve",
+      "yw_code": "58",
+      "rights_code": "000139001000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "c02e3fee0a574d33a94161444511f447",
+      "_title": "典当行变更控股股东、实际控制人",
+      "name": "典当行变更控股股东、实际控制人",
+      "type": "approve",
+      "yw_code": "07",
+      "rights_code": "000155001000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "IHQuPcmrSOCpUrs3l-hBhA",
+      "_title": "计量标准变更",
+      "name": "计量标准变更",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "000131012000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "Eptu684vTZGAnOBq7zyi_g",
+      "_title": "中外合资经营、中外合作经营、外商独资经营企业互联网上网服务营业场所经营单位从事互联网上网服务经营活动注销的审批",
+      "name": "中外合资经营、中外合作经营、外商独资经营企业互联网上网服务营业场所经营单位从事互联网上网服务经营活动注销的审批",
+      "type": "approve",
+      "yw_code": "04",
+      "rights_code": "000122031000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "pJtT24fsSR-OF9pqzD7DXQ",
+      "_title": "道路危险货物运输经营许可核减经营范围",
+      "name": "道路危险货物运输经营许可核减经营范围",
+      "type": "approve",
+      "yw_code": "05",
+      "rights_code": "000118037000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "a6071825ce0c4416b01afd773b87877d",
+      "_title": "权限内党政机关及所属二级单位事业发展基本建设项目、政法基础设施项目（含省以下法检两院）、党政机关办公用房等项目概算审查",
+      "name": "权限内党政机关及所属二级单位事业发展基本建设项目、政法基础设施项目（含省以下法检两院）、党政机关办公用房等项目概算审查",
+      "type": "approve",
+      "yw_code": "14",
+      "rights_code": "431004110W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "0035618e34d44e49b3aa1e550c4cc34b",
+      "_title": "公共场所卫生许可（注销）",
+      "name": "公共场所卫生许可（注销）",
+      "type": "approve",
+      "yw_code": "05",
+      "rights_code": "000123020000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "c874c14bf2c64b36b077100c1bdd8179",
+      "_title": "网络预约出租汽车道路运输证核发",
+      "name": "网络预约出租汽车道路运输证核发",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "000118023000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "2343da5014d0424ba6a59f7c974178b5",
+      "_title": "开具湖南省高等教育自学考试毕业证明书服务",
+      "name": "开具湖南省高等教育自学考试毕业证明书服务",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "432005206W00",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "639639e190ef4cefaeecd6e8a514f650",
+      "_title": "热电站（含自备电站）核准，包括抽凝式燃煤热电燃煤背压热电、垃圾焚烧发电、生物质发电、6MW以上余热余压发电、6MW以上分布式燃气发电项目核准",
+      "name": "热电站（含自备电站）核准，包括抽凝式燃煤热电燃煤背压热电、垃圾焚烧发电、生物质发电、6MW以上余热余压发电、6MW以上分布式燃气发电项目核准",
+      "type": "approve",
+      "yw_code": "12",
+      "rights_code": "00010400100Y",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "5bd92aa2aab64faba261e4608bfe7b72",
+      "_title": "省外入湘图书、期刊印制委托书备案",
+      "name": "省外入湘图书、期刊印制委托书备案",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000139020000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "3d41127c81f54b7aaff1f61dfed7dc12",
+      "_title": "单位设置卫星地面接收设施接收境内电视节目审批",
+      "name": "单位设置卫星地面接收设施接收境内电视节目审批",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000132006000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "288616fcd0a54121bb7ec7fc87d351e9",
+      "_title": "台湾地区的投资者在内地投资设立演出经纪机构从事营业性演出经营活动注销的审批",
+      "name": "台湾地区的投资者在内地投资设立演出经纪机构从事营业性演出经营活动注销的审批",
+      "type": "approve",
+      "yw_code": "05",
+      "rights_code": "000122018000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "02cce374de964fd2b57d7f78f339b337",
+      "_title": "地方资产管理公司变更控股股东、实际控制人",
+      "name": "地方资产管理公司变更控股股东、实际控制人",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "430155009W00",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "a8842920fb9b4e41a840bb21b4439c05",
+      "_title": "举办台湾地区的文艺表演团体、个人参加的营业性演出取消审批",
+      "name": "举办台湾地区的文艺表演团体、个人参加的营业性演出取消审批",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "000122024000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "0409d4e4a5a349cebba0824ea60d05d1",
+      "_title": "（延期）设置大型户外广告及在城市建筑物、设施上悬挂、张贴宣传品审批",
+      "name": "（延期）设置大型户外广告及在城市建筑物、设施上悬挂、张贴宣传品审批",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000117017000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "EPbjsX35Qgah9-ne0kaJ3g",
+      "_title": "广播电视播音员、主持人职业资格续展",
+      "name": "广播电视播音员、主持人职业资格续展",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000132037000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "UzLQnaAbQLuIX8uStkj-zg",
+      "_title": "物业专项维修资金的应急使用",
+      "name": "物业专项维修资金的应急使用",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "431017346W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "xH5LREaGS4ySAHgb7Xl0UQ",
+      "_title": "租赁自住房住房提取公积金",
+      "name": "租赁自住房住房提取公积金",
+      "type": "approve",
+      "yw_code": "08",
+      "rights_code": "432017001W00",
+      "type_name": "公共服务"
+    },
+    {
+      "id": "74477cef12704e79a3920dde4dd6ed5e",
+      "_title": "城市建筑垃圾处置核准有效期届满申请延续",
+      "name": "城市建筑垃圾处置核准有效期届满申请延续",
+      "type": "approve",
+      "yw_code": "15",
+      "rights_code": "000117014000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "aa53af7c91db45b3a3dd465e5a6b9ba0",
+      "_title": "其他印刷品印刷企业申请兼营、变更、合并、分立审批",
+      "name": "其他印刷品印刷企业申请兼营、变更、合并、分立审批",
+      "type": "approve",
+      "yw_code": "06",
+      "rights_code": "000139005000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "0b0c262a3fb1446983aac550abbadbb5",
+      "_title": "城市建筑垃圾处置核准首次申请",
+      "name": "城市建筑垃圾处置核准首次申请",
+      "type": "approve",
+      "yw_code": "14",
+      "rights_code": "000117014000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "zmU0HaGBSpWcq0qrSzEqlg",
+      "_title": "公路建设项目施工图设计审批",
+      "name": "公路建设项目施工图设计审批",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "000118027000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "03164db5885f46f99fe908f8906f1984",
+      "_title": "期刊变更刊期审批",
+      "name": "期刊变更刊期审批",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "000139018000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "098c4e325b854335a237892e08acef94",
+      "_title": "报纸出版单位变更至既有出版单位审批的初审",
+      "name": "报纸出版单位变更至既有出版单位审批的初审",
+      "type": "approve",
+      "yw_code": "15",
+      "rights_code": "000139001000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "3494bbf6f33e4a4aa9bf4c28f3341cf1",
+      "_title": "石油天然气管道报废备案",
+      "name": "石油天然气管道报废备案",
+      "type": "approve",
+      "yw_code": "05",
+      "rights_code": "431004065W00",
+      "type_name": "其他行政权力"
+    },
+    {
+      "id": "7a5d3a3d6cfd4465bd4cce3b207208c9",
+      "_title": "国有建设用地使用权转移登记",
+      "name": "国有建设用地使用权转移登记",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "000715001005",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "f9efe8ffa3344159b6013a549f50988d",
+      "_title": "县级文物保护单位保护范围的划定、标志说明和记录档案",
+      "name": "县级文物保护单位保护范围的划定、标志说明和记录档案",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "000768003000",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "de14fe7fa88c4e1999574c0459da2cb6",
+      "_title": "文物保护工程资质（勘察设计乙丙级、施工资质二三级、监理资质乙丙级）信息变更",
+      "name": "文物保护工程资质（勘察设计乙丙级、施工资质二三级、监理资质乙丙级）信息变更",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000168015002",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "6ukbHY4hTNOMcwiI68JwTA",
+      "_title": "抵押权变更登记",
+      "name": "抵押权变更登记",
+      "type": "approve",
+      "yw_code": "12",
+      "rights_code": "000715001014",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "4d6b826339094fd1b875ac93fe1c3d73",
+      "_title": "司法鉴定机构变更名称",
+      "name": "司法鉴定机构变更名称",
+      "type": "approve",
+      "yw_code": "03",
+      "rights_code": "000112013000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "07d334bd94624fba9751b875ecfa0a76",
+      "_title": "林地承包经营权/林木所有权转移登记",
+      "name": "林地承包经营权/林木所有权转移登记",
+      "type": "approve",
+      "yw_code": "07",
+      "rights_code": "000715001009",
+      "type_name": "行政确认"
+    },
+    {
+      "id": "ed6b4c19eff94b8fa9988c913f774e62",
+      "_title": "中央驻长单位、省直单位申办连续性内部资料性出版物审批",
+      "name": "中央驻长单位、省直单位申办连续性内部资料性出版物审批",
+      "type": "approve",
+      "yw_code": "02",
+      "rights_code": "000139012000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "qIE1IL5MSXq2O52w8d2nJA",
+      "_title": "社会团体变更业务范围登记",
+      "name": "社会团体变更业务范围登记",
+      "type": "approve",
+      "yw_code": "08",
+      "rights_code": "000111001000",
+      "type_name": "行政许可"
+    },
+    {
+      "id": "33b59333e18e474384bd1dea7495549b",
+      "_title": "取水许可审批",
+      "name": "取水许可审批",
+      "type": "approve",
+      "yw_code": "04",
+      "rights_code": "000119001000",
+      "type_name": "行政许可"
+    }
+  ],
+  "total": 3184,
+  "pageTotal": 354,
+  "pageIndex": 9,
+  "pageSize": 50,
+  "highlight_words": []
+}

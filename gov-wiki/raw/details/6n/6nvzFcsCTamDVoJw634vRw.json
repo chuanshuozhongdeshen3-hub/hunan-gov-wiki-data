@@ -1,0 +1,123 @@
+{
+  "code": 0,
+  "data": {
+    "acceptanceCondition": "曾经同户人员间的亲属关系，历史户籍档案等能够反映，需要开具证明的，可由被证明人双方中的一方本人申请出具。",
+    "according": "《关于印发<关于改进和规范公安派出所出具证明工作的意见>的通知》（公通字〔2016〕21号）第二类第3条 曾经同户人员间的亲属关系，历史户籍档案等能够反映，需要开具证明的，公安派出所在核实后应当出具。",
+    "applicantDuty": "应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。",
+    "applicantPower": "依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。",
+    "approveLimit": "3",
+    "approveLimitExplain": "户籍地派出所应当采取查阅历史户籍档案、查询人口管理系统等多种方式，对曾经登记的被证明人双方间家庭关系进行核实。于能够立即核实的，应当场出具证明；不能立即核实 的，应在 3 个工作日内完成核查和对属实情况出具证明工作；对经查不能核实被证明人双方家庭关系，无法出具证明的，应及时告之。\"",
+    "blbm": "县级公安部门",
+    "chargeList": [
+      {
+        "chargeBylaw": "由邮政速递公司收取邮寄快递费。",
+        "chargeId": "bjyLT_9vTrq8uE5vV90DNA",
+        "createDate": 1767517043000,
+        "feename": "邮寄快递费",
+        "feestand": "20元",
+        "isDelete": "N",
+        "orderNum": 1.0,
+        "unifyId": "6nvzFcsCTamDVoJw634vRw",
+        "updateDate": 1767517043000
+      }
+    ],
+    "commitmentLimit": "3",
+    "commitmentLimitExplain": "不含邮寄时间。",
+    "deptName": "公安部门",
+    "doScope": "全省",
+    "faqList": [
+      {
+        "createDate": 1760784793000,
+        "faqContent": "开具亲属关系证明是否可以在线上申请？",
+        "faqId": "d50e3565ce87494fac750129f6e7d3c4",
+        "isDelete": "N",
+        "isSzyy": "N",
+        "orderNum": 1.0,
+        "replyContent": "可以线上申请，全程网办，办理结果物可寄递至申请人填写的地址。",
+        "unifyId": "6nvzFcsCTamDVoJw634vRw",
+        "updateDate": 1760784793000
+      }
+    ],
+    "isCharge": "是",
+    "isIntermediaryServices": "无",
+    "isSpecialProcedure": "否",
+    "isonline": "是",
+    "lctList": [
+      {
+        "approveCode": "6nvzFcsCTamDVoJw634vRw",
+        "approveId": "6nvzFcsCTamDVoJw634vRw",
+        "bucketName": "zwfw202510",
+        "createTime": 1760784793000,
+        "flowc": "approve/2025-10-18-18/1760784581611$$出生登记.png",
+        "id": "0f8f1ebbffa447f8a8b52ada70c89212",
+        "isDelete": "0",
+        "isExchange": "N",
+        "operateFlag": "N",
+        "updateTime": 1760784793000
+      }
+    ],
+    "limitsceneexplain": "全程网办",
+    "materialList": [
+      {
+        "acceptStandard": "暂无受理标准",
+        "bylaw": "《公安部等12部门关于印发〈关于改进和规范公安派出所出具证明工作的意见〉的通知》（公通字〔2016〕21号）；《湖南省公安厅等12厅委关于印发〈湖南省改进和规范公安派出所出具证明工作实施办法〉的通知》（湘公发〔2016〕51号。",
+        "commitWay": "网上现场都可提交",
+        "copiesNum": 1.0,
+        "createDate": 1760784793000,
+        "freeSubmission": "无",
+        "isDelete": "N",
+        "isMust": "必要",
+        "materialApproveType": "证照",
+        "materialCode": "M432009303W000201",
+        "materialExplain": "申请人应当交验本人居民身份证或其他有效身份证件。申请人为被证明人监护人，且户籍档案不能反映监护关系的，还应当提交反映监护关系的凭证材料及复印件。",
+        "materialId": "2ef80746588e4266b9cf1e7e760fb4a8",
+        "materialStandard": "纸质",
+        "materialTitle": "有效身份证件",
+        "materialType": "原件",
+        "pageformat": "A4",
+        "sourceChannel": "政府部门核发",
+        "sourceexplain": "暂无渠道说明",
+        "unifyId": "6nvzFcsCTamDVoJw634vRw",
+        "updateDate": 1760784793000
+      }
+    ],
+    "minExplain": "四级标准说明：该事项已经实现全程网办，申请人可以通过网络提交和补正相关申请信息和材料，提交的材料全部为已验证信息，受理通过后直接进入办理程序，申请人可网上查询办理状态、咨询问题，作出审批决定后，申请人可以通过网上缴费后物流递送证书结果。整个办事过程无需到现场办理。",
+    "minSeq": "0",
+    "orgId": "9def3f565034406981bf70f2169e28ef",
+    "orgName": "湖南省公安厅",
+    "processDescript": "（一）申请人凭相应凭证材料向承办机构提出申请。\n（二）承办机构受理查验申请人相关凭证材料。\n（三）承办机构录入有关业务信息并完成业务办理。",
+    "quantitativeRestriction": "暂无数量限制",
+    "resultList": [
+      {
+        "approveCode": "6nvzFcsCTamDVoJw634vRw",
+        "approveId": "6nvzFcsCTamDVoJw634vRw",
+        "bucketName": "zwfw202107",
+        "createTime": 1760784793000,
+        "extend": "png",
+        "fileName": "亲属关系证明.png",
+        "id": "1c2146c4e143409a98b5c531117a30be",
+        "isDelete": "0",
+        "isExchange": "Y",
+        "isNeed": "N",
+        "operateFlag": "N",
+        "resultChart": "approve/2021-07-19-19/1626695032517$$亲属关系证明.png",
+        "resultSampleName": "亲属关系证明",
+        "updateTime": 1760784793000
+      }
+    ],
+    "resultSampleName": "亲属关系证明",
+    "rightsCode": "432009303W00",
+    "rightsId": "968059BD17E7634EE053671515AC8FFE",
+    "schemeLevels": "县",
+    "serveObject": "个人",
+    "transactLevel": "四级标准",
+    "transactionFrom": "窗口办理^网上办理^快递申请",
+    "typeName": "公共服务",
+    "unifyId": "6nvzFcsCTamDVoJw634vRw",
+    "unifyName": "亲属关系证明",
+    "ywCode": "02"
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

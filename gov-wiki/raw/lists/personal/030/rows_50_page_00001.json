@@ -1,0 +1,460 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112004000",
+        "rightsId": "8794B3AA86229492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9360d83da6674c8ba4a76a380d717ca2",
+        "unifyName": "港澳台律师事务所驻内地或大陆代表机构变更名称、派驻代表",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000112009000",
+        "rightsId": "8794B3AA86279492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7974ccb1ec74496bb0cb16c39c6cab61",
+        "unifyName": "香港、澳门律师事务所与内地律师事务所非合伙型联营核准",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117039002",
+        "rightsId": "8794B3AA87189492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fa4abc246ab545e4927c823a7a4529a6",
+        "unifyName": "二级注册结构工程师-初始注册",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117039002",
+        "rightsId": "8794B3AA87189492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "u3mgenFWR6iCAefs0gYc5Q",
+        "unifyName": "二级注册结构工程师-延续注册",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117039002",
+        "rightsId": "8794B3AA87189492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "RPL1TsdNSuaa38uE3GspRw",
+        "unifyName": "二级注册结构工程师-变更注册",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117039002",
+        "rightsId": "8794B3AA87189492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ZOGwxsTfSYaZSdGrXCAB9Q",
+        "unifyName": "二级注册结构工程师-注销注册",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118055000",
+        "rightsId": "8794B3AA87759492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Jm5W1xPiRiuVMUwO6u7xaQ",
+        "unifyName": "放射性物品道路运输从业人员资格证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118055000",
+        "rightsId": "8794B3AA87759492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "gSmuPLF8RyCR80CwI2Npew",
+        "unifyName": "放射性物品道路运输从业人员资格证换发",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118055000",
+        "rightsId": "8794B3AA87759492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3EEK0zu4RqmxjpyJLbMTqw",
+        "unifyName": "放射性物品道路运输从业人员资格证注销",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118055000",
+        "rightsId": "8794B3AA87759492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ALTjBxo1R5arNU_cNNV8LA",
+        "unifyName": "放射性物品道路运输从业人员资格证补发",
+        "ywCode": "04"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120075000",
+        "rightsId": "8794B3AA88179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d6XikboMQUicXn6NiQhCPg",
+        "unifyName": "兽药经营许可核发（生物制品）",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120075000",
+        "rightsId": "8794B3AA88179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "06f0b4b847014cbbb03c502f4072c89f",
+        "unifyName": "兽药经营许可证到期换证（生物制品）",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120075000",
+        "rightsId": "8794B3AA88179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "320de09762684b4bb70a6aa40f9a4b27",
+        "unifyName": "兽药经营许可证核发（兽用生物制品除外）",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120075000",
+        "rightsId": "8794B3AA88179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b6da8b6f82e44d55863345e58c7110d0",
+        "unifyName": "兽药经营许可证到期换证（兽用生物制品除外）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125047002",
+        "rightsId": "321b644f9f1e4b34ba8b37a30597e12f",
+        "transactLevel": "0",
+        "unifyId": "f725e1b6eab347afa30bcfe14a451b75",
+        "unifyName": "一级注册消防工程师初始注册审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125047002",
+        "rightsId": "321b644f9f1e4b34ba8b37a30597e12f",
+        "transactLevel": "0",
+        "unifyId": "4abbed2b0ff34bc99d97400ae425a68d",
+        "unifyName": "一级注册消防工程师变更注册审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125047002",
+        "rightsId": "321b644f9f1e4b34ba8b37a30597e12f",
+        "transactLevel": "0",
+        "unifyId": "445610bd98c44000afd7ef8fc9af0fbe",
+        "unifyName": "一级注册消防工程师注销注册审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125047002",
+        "rightsId": "321b644f9f1e4b34ba8b37a30597e12f",
+        "transactLevel": "0",
+        "unifyId": "5064ebcf0aa244fd828f14babdccf9fb",
+        "unifyName": "一级注册消防工程师延续注册审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000125047002",
+        "rightsId": "321b644f9f1e4b34ba8b37a30597e12f",
+        "transactLevel": "0",
+        "unifyId": "f57ffe11f329451cb3151d822220bc3c",
+        "unifyName": "一级注册消防工程师证章补办/更换",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718023000",
+        "rightsId": "a8b9304245954fd38020788182cf6e51",
+        "transactLevel": "0",
+        "unifyId": "d0813c132efe46ff83f5fad692d790d9",
+        "unifyName": "船员特殊培训合格证书签发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718023000",
+        "rightsId": "a8b9304245954fd38020788182cf6e51",
+        "transactLevel": "0",
+        "unifyId": "35c3b1d68923440a9f631df13f92c424",
+        "unifyName": "船员特殊培训合格证书补发",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718023000",
+        "rightsId": "a8b9304245954fd38020788182cf6e51",
+        "transactLevel": "0",
+        "unifyId": "affa292d33b8416cbe0cc69a47874452",
+        "unifyName": "船员特殊培训合格证书再有效",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014006013",
+        "rightsId": "8794B3AA92C39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1M2HYmy0QbSLWIINrIBpMQ",
+        "unifyName": "外省职业年金转入我省职业年金",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014006013",
+        "rightsId": "8794B3AA92C39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "VHadhnlNRzis0_SuiTxJiA",
+        "unifyName": "我省机关事业单位基本养老保险关系转出至外省养老保险",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "002014006013",
+        "rightsId": "8794B3AA92C39492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "tD0ziiS6SFOdAewM_pMUqA",
+        "unifyName": "职业年金转出至企业年金申请",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "002014006013",
+        "rightsId": "8794B3AA92C39492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "loLZHYy-Sj6JguYz2EWx7w",
+        "unifyName": "企业年金转入职业年金申请",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014104001",
+        "rightsId": "8794B3AA930D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "383f1004b395415c8a20b00eb4789eb0",
+        "unifyName": "失业登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014104002",
+        "rightsId": "8794B3AA930E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ca5f404e525d4c9cbac7e75b1df99cf9",
+        "unifyName": "就业登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014104003",
+        "rightsId": "8794B3AA930F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a7276efc67f44985a6154301b7e240a8",
+        "unifyName": "就业创业证申领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014105001",
+        "rightsId": "8794B3AA93119492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6ecca338ee33402284e521cca8dfb603",
+        "unifyName": "创业补贴申领",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "2",
+        "rightsCode": "002014105002",
+        "rightsId": "8794B3AA93129492E053681515ACDDA6",
+        "transactLevel": "3",
+        "unifyId": "LwAKxbbMS7O-LRnNVaxk1A",
+        "unifyName": "申请创业担保贷款",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "002014106001",
+        "rightsId": "8794B3AA93149492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "c9e4830110b04cfeafadbbfbb5a95d0e",
+        "unifyName": "就业困难人员认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014106002",
+        "rightsId": "8794B3AA93159492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "FQcdE1wAS4i4KiKtbGg5Vg",
+        "unifyName": "就业困难人员社会保险补贴（用人单位申报）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014204001",
+        "rightsId": "8794B3AA932D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8d6440760e4c4bf1b1928018f2c5d6c6",
+        "unifyName": "档案的接收（个人存档）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014204001",
+        "rightsId": "8794B3AA932D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0596f4766ccc422aba07278e7cfa5b42",
+        "unifyName": "档案的转出",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014204005",
+        "rightsId": "8794B3AA93319492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "67905509db3a42cf8b2e44dda5a1a49c",
+        "unifyName": "依据档案记载出具相关证明",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430720046W00",
+        "rightsId": "70F599A55594ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "RmWgMkMeQGmzeMWcKvHSEg",
+        "unifyName": "水产原良种的初审与水产繁殖亲本审定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005001W00",
+        "rightsId": "WaCEKiUvSausjyuRrfgusQ",
+        "transactLevel": "0",
+        "unifyId": "Wh4es6t8Ti6l0aC2iCbZiA",
+        "unifyName": "开具普通话水平等级测试成绩证明服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005002W00",
+        "rightsId": "32JmkJ1BRoKKta-er4ppiQ",
+        "transactLevel": "0",
+        "unifyId": "XQBq2JOeQzu-jgVvVIbxug",
+        "unifyName": "全国高校毕业生就业市场湖南分市场普通高校毕业生就业政策的咨询服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005103W00",
+        "rightsId": "961D8B9AEAABEDC0E053681515AC9D19",
+        "transactLevel": "0",
+        "unifyId": "d685d4a99d0e4c6a91a8d1773252d0d1",
+        "unifyName": "少数民族高层次骨干人才计划招生就业咨询服务",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005404W02",
+        "rightsId": "961D8B9AEAC6EDC0E053681515AC9D19",
+        "transactLevel": "0",
+        "unifyId": "ad93644e1eda4493b213e8de12ac1a04",
+        "unifyName": "普通高等学校毕业生托管档案证明服务（省级）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005404W02",
+        "rightsId": "961D8B9AEAC6EDC0E053681515AC9D19",
+        "transactLevel": "0",
+        "unifyId": "7WpIt7ZqQiuGlqyTngPDcw",
+        "unifyName": "普通高等学校毕业生托管档案证明服务（市县）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432009305W00",
+        "rightsId": "968059BD17E9634EE053671515AC8FFE",
+        "transactLevel": "0",
+        "unifyId": "f7d9cf8268f94d0e8a36c0be982f8840",
+        "unifyName": "无犯罪记录证明",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432088001W00",
+        "rightsId": "XtFB2tYSQ9eiBGOdzmC58w",
+        "transactLevel": "0",
+        "unifyId": "09vX0JzEQ7-XjI5DGaPB1w",
+        "unifyName": "残疾人就业培训",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 44,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

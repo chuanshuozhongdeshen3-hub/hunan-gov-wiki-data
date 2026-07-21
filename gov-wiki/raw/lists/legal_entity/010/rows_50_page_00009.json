@@ -1,0 +1,532 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715006000",
+        "rightsId": "8794B3AA90009492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "72d214e0b51849a08ec2b1e3a60db15e",
+        "unifyName": "矿产资源储量评审备案（省级权限）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000715006000",
+        "rightsId": "8794B3AA90009492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "U5bR6D95SRCZbUt30Vu9oQ",
+        "unifyName": "矿产资源储量评审备案（设区的市级权限）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718001000",
+        "rightsId": "8794B3AA902D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "294b358713d54e73beed74811dcdf2ab",
+        "unifyName": "公路施工作业验收",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000718015000",
+        "rightsId": "8794B3AA903B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c70f5ee1d45446c7bf689b9ab3fea45f",
+        "unifyName": "公路工程综合类甲、乙、丙级和专项类及水运工程材料类甲、乙、丙级、水运工程结构类甲、乙级试验检测机构等级的资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000722001000",
+        "rightsId": "8794B3AA90679492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0SlfiASGRRO8XbvRCBy6Mg",
+        "unifyName": "拟入境进行营业性演出的外国文艺表演团体、个人出具工作证明",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000818002000",
+        "rightsId": "8794B3AA91689492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "p7hLGKbNTFu2AFtaSyACfg",
+        "unifyName": "对出租汽车经营者和驾驶员先进事迹的表彰和奖励",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001015005000",
+        "rightsId": "8794B3AA92059492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "58688ed5ce6246a59d4a1bbbebf8f2be",
+        "unifyName": "卫星导航定位基准站建设备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "001017005000",
+        "rightsId": "8794B3AA920E9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "WkxE5VsqQ4-4twOlvbJQAw",
+        "unifyName": "房地产经纪机构备案、变更、注销",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "001018003000",
+        "rightsId": "0f5cbeda9fc8499a9e9244865dfd5267",
+        "transactLevel": "1",
+        "unifyId": "t0HHta4pQyi-M0h0ykFgpg",
+        "unifyName": "船舶载运固体散装货物（A组和C组）的报告（船舶和货物托运人）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001019009000",
+        "rightsId": "accbb6dbef4d447d93fa28e2f5322942",
+        "transactLevel": "0",
+        "unifyId": "4f542bdd9fb34010b2e55df98bd0ad32",
+        "unifyName": "取水许可证变更",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001019009000",
+        "rightsId": "accbb6dbef4d447d93fa28e2f5322942",
+        "transactLevel": "0",
+        "unifyId": "62f5fb80a52841db870027a409d8a884",
+        "unifyName": "取水许可证注销",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "001031001000",
+        "rightsId": "f5f3b44898954289a541206ef7e4cff8",
+        "transactLevel": "2",
+        "unifyId": "b482475454644e7b9255f6a233b2234e",
+        "unifyName": "国产保健食品备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001031005000",
+        "rightsId": "50807b167357456282466b2166a65dea",
+        "transactLevel": "0",
+        "unifyId": "OmWUVO8lRP6wSwDHlWgrAA",
+        "unifyName": "仅销售预包装食品经营者备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001031005000",
+        "rightsId": "50807b167357456282466b2166a65dea",
+        "transactLevel": "0",
+        "unifyId": "aVCA8lY1QYSya-dAG_cI7Q",
+        "unifyName": "仅销售预包装食品经营者备案变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001031005000",
+        "rightsId": "50807b167357456282466b2166a65dea",
+        "transactLevel": "0",
+        "unifyId": "9coAruGPSVWYw1D3klAjkg",
+        "unifyName": "仅销售预包装食品经营者备案注销",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001031006000",
+        "rightsId": "a3f1647e2a6f4639b04bd374e9442513",
+        "transactLevel": "0",
+        "unifyId": "6xdWzO1jQLWMwz8h4dcuig",
+        "unifyName": "从事对温度、湿度等有特殊要求的食品贮存业务的非食品生产经营者备案变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001064027000",
+        "rightsId": "d46b197eb20643c3907a702559fefe03",
+        "transactLevel": "0",
+        "unifyId": "03fa967af2404d2b96aa02dc100d348b",
+        "unifyName": "国有林场森林经营方案审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001064027000",
+        "rightsId": "d46b197eb20643c3907a702559fefe03",
+        "transactLevel": "0",
+        "unifyId": "16_eUSiUSwajg8MLWlYIIA",
+        "unifyName": "其他国有林经营单位森林经营方案审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "001064027000",
+        "rightsId": "d46b197eb20643c3907a702559fefe03",
+        "transactLevel": "0",
+        "unifyId": "3U45kwNdTHCvKfy4OaIvmA",
+        "unifyName": "集体林组织、个体或非公有经营主体的森林经营方案审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002014005001",
+        "rightsId": "8794B3AA92B39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9247a46b770d468aa9a174cdffdb154e",
+        "unifyName": "企业职工养老保险单位参保证明查询打印",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002072022000",
+        "rightsId": "8794B3AA93A59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "53e31a49cdc24f3ebdafe4728014b06a",
+        "unifyName": "进口普通化妆品备案",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002072040000",
+        "rightsId": "1cdbdd2d43ba43cd9b4043eeb1e87482",
+        "transactLevel": "0",
+        "unifyId": "b8fe58d8f010457b923b13f635cc7953",
+        "unifyName": "对“药品销售证明书”的出具",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002072042001",
+        "rightsId": "3e67b2db6c314553b3cb63fc295844b6",
+        "transactLevel": "0",
+        "unifyId": "Y6Qcd8DdRFKy_jMldeS33A",
+        "unifyName": "进口普通化妆品首次备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002072042002",
+        "rightsId": "ca90430e63c74936ad51eacec5c0670d",
+        "transactLevel": "0",
+        "unifyId": "qKU7qqcYR9aob8-G7mvkeg",
+        "unifyName": "进口普通化妆品变更",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002072042003",
+        "rightsId": "beeca9084e5c49e2a378a880b29e06ed",
+        "transactLevel": "0",
+        "unifyId": "k2DzVsiMQaiiWvirZoHsLQ",
+        "unifyName": "进口普通化妆品注销",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002072043001",
+        "rightsId": "9ccd07e284e34006901ad2931bdeb21b",
+        "transactLevel": "0",
+        "unifyId": "mkzu1vRNRFu3Txt7DJ8nOQ",
+        "unifyName": "国产普通化妆品首次备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002072043002",
+        "rightsId": "f745dbdd6ac845808f42603b6a0d357d",
+        "transactLevel": "0",
+        "unifyId": "RPeNelmISQ2tCvMlson4HQ",
+        "unifyName": "国产普通化妆品变更",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "002072043003",
+        "rightsId": "cff5b2568d274475b2df3861f8d40d93",
+        "transactLevel": "0",
+        "unifyId": "JUIAIIZUQLWO3DkE4B7eHw",
+        "unifyName": "国产普通化妆品注销",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430120003W00",
+        "rightsId": "fcSSf3hnT_m3ZxEJxhgZJw",
+        "transactLevel": "0",
+        "unifyId": "IGMJ5tvFROSO02l-kjR6Aw",
+        "unifyName": "工商企业等社会资本通过流转取得土地经营权审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430131056W00",
+        "rightsId": "5fajZKkBSKe1BUCod1A2xg",
+        "transactLevel": "0",
+        "unifyId": "9f9efad07d7e4a3d9208984047e2d847",
+        "unifyName": "《食品小经营许可证》新办",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430131056W00",
+        "rightsId": "5fajZKkBSKe1BUCod1A2xg",
+        "transactLevel": "0",
+        "unifyId": "c64e2227b291429fb3392e4447394b85",
+        "unifyName": "《食品小经营许可证》变更",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430131056W00",
+        "rightsId": "5fajZKkBSKe1BUCod1A2xg",
+        "transactLevel": "0",
+        "unifyId": "760c6a4eb9634c31aebee97dd136eab4",
+        "unifyName": "《食品小经营许可证》延续",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430131056W00",
+        "rightsId": "5fajZKkBSKe1BUCod1A2xg",
+        "transactLevel": "0",
+        "unifyId": "d1e02f38c06b4d41a284ac1f2ba5e340",
+        "unifyName": "《食品小经营许可证》补办",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430131056W00",
+        "rightsId": "5fajZKkBSKe1BUCod1A2xg",
+        "transactLevel": "0",
+        "unifyId": "c1135dab8d994555a8538b2f36bcbca0",
+        "unifyName": "《食品小经营许可证》注销",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430139001W00",
+        "rightsId": "tA9Rb4aTSQ2Pg99hoChFng",
+        "transactLevel": "0",
+        "unifyId": "03e9021bf48c41b49765bc728bf47e22",
+        "unifyName": "音像制品零售业务许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430139001W00",
+        "rightsId": "tA9Rb4aTSQ2Pg99hoChFng",
+        "transactLevel": "0",
+        "unifyId": "b0156d9038fd4675b8f86b4c562e42f2",
+        "unifyName": "音像制品出租业务许可",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430139005W00",
+        "rightsId": "1UhX8dEJRTaKVEmJ8M5Gqw",
+        "transactLevel": "0",
+        "unifyId": "9367e4b0349b482f97b02179a7e75fc2",
+        "unifyName": "印刷企业接收省外出版单位委托印刷图书、期刊",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430139005W00",
+        "rightsId": "1UhX8dEJRTaKVEmJ8M5Gqw",
+        "transactLevel": "0",
+        "unifyId": "7bb704748d6148e1a413b8eb9d772636",
+        "unifyName": "印刷企业承接境外包装装潢印刷品和其他印刷品印刷备案",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430139009W00",
+        "rightsId": "NDc9kmI1QkWGj1PG22eP_A",
+        "transactLevel": "0",
+        "unifyId": "13d572c1c4b64c1683485078bf9474f1",
+        "unifyName": "点播影院经营许可证核发",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430139009W00",
+        "rightsId": "NDc9kmI1QkWGj1PG22eP_A",
+        "transactLevel": "0",
+        "unifyId": "bCSz8RuVT1mZWk334HuoKA",
+        "unifyName": "设立外资点播影院审批",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430139014W00",
+        "rightsId": "453a902d69d742aebd7e1dacd24be828",
+        "transactLevel": "0",
+        "unifyId": "facae791bb90480da2e0bb134519119f",
+        "unifyName": "省级行政区域内电影发行单位设立、变更业务范围、兼并、合并、分立审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430139014W00",
+        "rightsId": "453a902d69d742aebd7e1dacd24be828",
+        "transactLevel": "0",
+        "unifyId": "b2594e3e693e4014b5ce2fc8168ca836",
+        "unifyName": "省级行政区域内点播院线公司设立、变更业务范围、兼并、合并、分立审批",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430139014W00",
+        "rightsId": "453a902d69d742aebd7e1dacd24be828",
+        "transactLevel": "0",
+        "unifyId": "FpZtJX-dSw2mlgiIJH0lXg",
+        "unifyName": "省级行政区域内电影院线公司设立、变更业务范围、兼并、合并、分立审批",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430139014W00",
+        "rightsId": "453a902d69d742aebd7e1dacd24be828",
+        "transactLevel": "0",
+        "unifyId": "5Zygi7TyQYmCUy-PLycobQ",
+        "unifyName": "湖南省点播院线筹建证审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430139016W00",
+        "rightsId": "c08d8e9f713b40e794b9ac81bbc72782",
+        "transactLevel": "0",
+        "unifyId": "71c3ca03931b4041b62175b2bab96d9e",
+        "unifyName": "印刷企业承接印刷境外出版物审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430139016W00",
+        "rightsId": "c08d8e9f713b40e794b9ac81bbc72782",
+        "transactLevel": "0",
+        "unifyId": "880695fd445846478a0c9fd07ed3f112",
+        "unifyName": "复制单位承接复制境外出版物审批",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430139018W00",
+        "rightsId": "A_GosqA-TsuSoJ_casUxkA",
+        "transactLevel": "0",
+        "unifyId": "8ff8206c376246fdbc862945bcf5f02f",
+        "unifyName": "电影放映单位设立审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430139018W00",
+        "rightsId": "A_GosqA-TsuSoJ_casUxkA",
+        "transactLevel": "0",
+        "unifyId": "db3414638f694be08418f438c2482559",
+        "unifyName": "设立外资电影放映单位审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430718032W00",
+        "rightsId": "70F599A55F90ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "s8F08dStSdqnNpdP1DThhA",
+        "unifyName": "网络预约出租汽车经营者线上服务能力认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430718032W00",
+        "rightsId": "70F599A55F90ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "HoU2rQs5SyOGrsRwoExhNA",
+        "unifyName": "网络货运经营线上服务能力认定",
+        "ywCode": "02"
+      }
+    ],
+    "pageIndex": 9,
+    "pageSize": 50,
+    "total": 503,
+    "totalPage": 11
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

@@ -1,0 +1,515 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431016041W00",
+        "rightsId": "70F599A55261ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "e92732e1a8b6474999901c47fe87bcfa",
+        "unifyName": "对建设项目环境影响后评价报告的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431016044W00",
+        "rightsId": "eI0Ny1r0TXuflrJjEq-dUw",
+        "transactLevel": "0",
+        "unifyId": "70bd554136f84cf49d101baea4ac887a",
+        "unifyName": "突发环境事件应急预案备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017001W00",
+        "rightsId": "cdpB1HpNRbC2Kl9Ub2WnbQ",
+        "transactLevel": "0",
+        "unifyId": "IPCoI9G4SoGnRvWWgBTKmg",
+        "unifyName": "园林绿化工程（含工程建设项目附属绿化工程）设计方案审查",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431017005W00",
+        "rightsId": "pMV1kRn2Tm6CYW3rWqpj-g",
+        "transactLevel": "1",
+        "unifyId": "zV8uzIi5ShKKYVUXcuvvBA",
+        "unifyName": "城市建筑垃圾处理方案备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017087W00",
+        "rightsId": "a3tfH79STemB21JvHGST5A",
+        "transactLevel": "0",
+        "unifyId": "_7ra1ddWQnOx7RIfrdJBiA",
+        "unifyName": "燃气设施建设工程竣工验收情况备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017112W00",
+        "rightsId": "DFxXC_BtTDqGbAgt-W_g5Q",
+        "transactLevel": "0",
+        "unifyId": "1a71e718f44d41c2998baff9301ba138",
+        "unifyName": "建筑起重机械设备产权备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017154W00",
+        "rightsId": "9vc3xOMRQwSR2jmLwfNlYA",
+        "transactLevel": "0",
+        "unifyId": "_VZ2NabfTYGwW0L4MDxjZw",
+        "unifyName": "城市照明设施设计审查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017154W00",
+        "rightsId": "9vc3xOMRQwSR2jmLwfNlYA",
+        "transactLevel": "0",
+        "unifyId": "6KEcWwroQtqt0qFZJEytxQ",
+        "unifyName": "城市照明设施验收",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017154W00",
+        "rightsId": "9vc3xOMRQwSR2jmLwfNlYA",
+        "transactLevel": "0",
+        "unifyId": "q2AElXzjTle8KNmWmcKbeA",
+        "unifyName": "城市照明设施移交",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017159W00",
+        "rightsId": "MbM3Pur6RjqyNwHkkj0Pyg",
+        "transactLevel": "0",
+        "unifyId": "1l4wYQFHQtKIyFBXy-5Eqw",
+        "unifyName": "夜景亮化方案审查",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017178W00",
+        "rightsId": "KumCJHBNTnmzUEB-a1Cq-w",
+        "transactLevel": "0",
+        "unifyId": "07XW_oDqTIyoB4F5flYaFA",
+        "unifyName": "城市供水单位水质突发事件应急预案备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017194W00",
+        "rightsId": "UqvjS-FQQ2aB4ExNyRGrjA",
+        "transactLevel": "0",
+        "unifyId": "Wa33oaYgRW24hFxdXruQjg",
+        "unifyName": "城市道路照明设施拆除、迁移（临时迁移、永久迁移）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017195W00",
+        "rightsId": "MO1NdZELQrSlCy1iNUJ_bg",
+        "transactLevel": "0",
+        "unifyId": "Z5N9QOEsRnCH8wS8F7sMOA",
+        "unifyName": "白蚁预防证明文件核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431017203W00",
+        "rightsId": "Fj6UWrMbSM-EZziJVhRQ_g",
+        "transactLevel": "2",
+        "unifyId": "dJYqbLhMR8iFUL5V4wmgiQ",
+        "unifyName": "燃气经营企业停业、歇业审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017228W00",
+        "rightsId": "fRp7I41oStyBW5HTapJBYw",
+        "transactLevel": "0",
+        "unifyId": "eAOrFfayTpap9XWT2PrtHw",
+        "unifyName": "占用绿地1公顷以上审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017228W00",
+        "rightsId": "fRp7I41oStyBW5HTapJBYw",
+        "transactLevel": "0",
+        "unifyId": "sTgFGJHcQuimEjb4g6CMtg",
+        "unifyName": "占用绿地1公顷以下审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017297W00",
+        "rightsId": "70F599A55A9AABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "73opLV9iR-msrS0KcsKtjw",
+        "unifyName": "已入湘企业变更",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017297W00",
+        "rightsId": "70F599A55A9AABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "VhBY4b2KTzyeONC_dwQ6Gw",
+        "unifyName": "已入湘企业注销",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017325W00",
+        "rightsId": "743B71E256BE6106E053681515AC8231",
+        "transactLevel": "0",
+        "unifyId": "QeYqyuvbRi6gDltm5t6YSA",
+        "unifyName": "建设工程城建档案验收",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017346W00",
+        "rightsId": "70F599A557FAABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "UzLQnaAbQLuIX8uStkj-zg",
+        "unifyName": "物业专项维修资金的应急使用",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018006W00",
+        "rightsId": "-kMZqk6xQbq1oeG7AtjZaA",
+        "transactLevel": "0",
+        "unifyId": "58f49307a5854f1180f29c8028bcaa83",
+        "unifyName": "收费公路权益转让备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018022W00",
+        "rightsId": "Ub0AUCkjTZ2k2K1s_iQ5jw",
+        "transactLevel": "0",
+        "unifyId": "6kEasFC5Qqa0fT256vXOyw",
+        "unifyName": "船员档案备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018034W00",
+        "rightsId": "CEx8WMNoRMeXawIIZUAjqg",
+        "transactLevel": "1",
+        "unifyId": "S96OatjoTjGbbMRuZGK84g",
+        "unifyName": "依法批准开工报告的建设工程保证安全施工措施以及拆除工程的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018068W00",
+        "rightsId": "ly8mMHgkTsWo4DeygOX8KA",
+        "transactLevel": "0",
+        "unifyId": "m4DCGmXuRfeYt_ZxZ9fa8g",
+        "unifyName": "对公路工程参建单位的信用考核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018069W00",
+        "rightsId": "UrreLpIUQlaGXaKHmio7rA",
+        "transactLevel": "0",
+        "unifyId": "ss_0jQs-Q6uCf7fW-ZMaTg",
+        "unifyName": "水运工程竣工验收",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018073W00",
+        "rightsId": "ktbUmaBUTgeAISqOmv64Iw",
+        "transactLevel": "0",
+        "unifyId": "AKz_3q-ZToi9YvaG-dCdwQ",
+        "unifyName": "道路运输及相关业务经营者生产安全事故应急预案备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018084W00",
+        "rightsId": "GaopjdeSSTivrq5TpM5GeQ",
+        "transactLevel": "0",
+        "unifyId": "7pylEa-OTZusqxjpaMKUjA",
+        "unifyName": "道路运输企业新建、变更卫星定位监控平台以及提供道路运输车辆动态监控社会化服务的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018097W00",
+        "rightsId": "blcHgYhrRqCFPRHUGy9Keg",
+        "transactLevel": "1",
+        "unifyId": "WGYpWFayThKszXIt3BlaCQ",
+        "unifyName": "港口经营人变更或者改造固定经营设施备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018100W00",
+        "rightsId": "ljNbpF2rSiWzmK27c0bHfw",
+        "transactLevel": "1",
+        "unifyId": "TqMrkzXtRoqsyyX0TgnSng",
+        "unifyName": "危险货物港口重大事故隐患的排查和处理情况备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018101W00",
+        "rightsId": "1QWrqmUrQw-8pFdgeBsS1g",
+        "transactLevel": "0",
+        "unifyId": "nm_HOCiJR7in8g77CUcvMA",
+        "unifyName": "在我市经营累计3个月以上的外地道路危险货物运输企业的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018125W00",
+        "rightsId": "70F599A551F6ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "5Y6MfUclRmyYbuiY89qBtQ",
+        "unifyName": "收费公路建设项目法人和项目建设管理单位备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018126W00",
+        "rightsId": "70F599A55215ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "4khc-gg3Qcyx4LiWJCElPA",
+        "unifyName": "出租汽车驾驶员继续教育的确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018130W00",
+        "rightsId": "70F599A5550FABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "458ca46df5af4041a4e1523c63204355",
+        "unifyName": "专用铁路兼办公共旅客、货物运输营业审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018170W00",
+        "rightsId": "R-XoT5-6TXqBsmN19NbJHA",
+        "transactLevel": "0",
+        "unifyId": "yj5i1_ETToefmiJITGm83A",
+        "unifyName": "机动车维修经营备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018173W00",
+        "rightsId": "VnlbeQZKS_m8ls7cuAy07A",
+        "transactLevel": "1",
+        "unifyId": "1Hs88myAQhufgPRSMof8pA",
+        "unifyName": "船舶污染物接收港口服务、港口设施、设备和港口机械的租赁维修业务备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018174W00",
+        "rightsId": "4bnxMuMtStaP73UU9YGp-g",
+        "transactLevel": "1",
+        "unifyId": "bDLbP7EFTMSpfytfX7VWEA",
+        "unifyName": "危险货物港口经营单位应急预案及其修订情况备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018175W00",
+        "rightsId": "rwhrB_BCSnKgcGzt7pddxw",
+        "transactLevel": "1",
+        "unifyId": "uF59cpCpRkyi_cTE3Deo8w",
+        "unifyName": "危险货物港口经营单位重大危险源及有关安全措施、应急措施备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018179W00",
+        "rightsId": "Au00XN4BSzGlrPOXormMrQ",
+        "transactLevel": "1",
+        "unifyId": "t0ZdN0M4RNCareTO5p-pjQ",
+        "unifyName": "船舶司法协助执行",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018181W00",
+        "rightsId": "RnhJ32vTSBO-HFDO-aVX1w",
+        "transactLevel": "1",
+        "unifyId": "PCkoJDYvRc-zUpcJ9886Pg",
+        "unifyName": "船舶登记资料查询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018182W00",
+        "rightsId": "Hcjf3khPS92GjvzRwimFOA",
+        "transactLevel": "0",
+        "unifyId": "CiGeeuU6QT--zNMiRJUmVg",
+        "unifyName": "船舶报废",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018183W00",
+        "rightsId": "NE5w2rXaRUqU8NZRSgOFSg",
+        "transactLevel": "1",
+        "unifyId": "uKC3apf4Qvi0tlWDkrf3Cw",
+        "unifyName": "危险货物港口经营单位重大危险源情况变化备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018184W00",
+        "rightsId": "KrKVCCG1Slin_Nezln5cQA",
+        "transactLevel": "0",
+        "unifyId": "oO7wINERSoKO0e8cwoVOdw",
+        "unifyName": "剧毒化学品以及储存数量构成重大危险源的其他危险货物的储存数量、储存地点以及管理措施、管理人员等情况备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018185W00",
+        "rightsId": "dnhUDKvYQNmI75ue8972Dg",
+        "transactLevel": "1",
+        "unifyId": "mxKHPzqsQ9-CEkLLHHXTmA",
+        "unifyName": "危险货物港口经营单位安全评价报告以及落实情况备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018186W00",
+        "rightsId": "9e8ZOYIkQtiGCzmvsX3QDA",
+        "transactLevel": "1",
+        "unifyId": "vA_tMXChSbGwsLOqQhl36w",
+        "unifyName": "港口经营人法定代表人、负责人或者办公地址变更备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018187W00",
+        "rightsId": "mB2QKnBJRnSM_U57Lixpcg",
+        "transactLevel": "1",
+        "unifyId": "kcZOBTBxSQaF9yt28N-3cw",
+        "unifyName": "港口企业危险货物事故应急预案、重大生产安全事故的旅客紧急疏散和救援预案以及预防自然灾害预案备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018188W00",
+        "rightsId": "RAbKPegtQE-W4sEdrdsiTw",
+        "transactLevel": "1",
+        "unifyId": "0rRVp9BcT2O8VzUY4Ar_7g",
+        "unifyName": "船舶代理、水路旅客运输代理以及水路货物运输代理业务经营企业（经营者）信息备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018189W00",
+        "rightsId": "LlfIJMmtR0GK5R7Rf5w0RA",
+        "transactLevel": "0",
+        "unifyId": "ffOYuqtfQJSxoytHc2wlEQ",
+        "unifyName": "水路旅客班轮运输业务经营者停止营业备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018190W00",
+        "rightsId": "uhTpqa1ERJW5mLiLqD51Jw",
+        "transactLevel": "1",
+        "unifyId": "DRDSLAZQRsetfxxSGqUYhA",
+        "unifyName": "在内河通航水域进行相关作业备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018191W00",
+        "rightsId": "I8mwiUWsRG-ftkuppLL7DQ",
+        "transactLevel": "0",
+        "unifyId": "rPTrDAmVT_SgOPaJK64LJA",
+        "unifyName": "道路危险货物运输及相关业务经营者变更法定代表人、名称、地址等事项备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018194W00",
+        "rightsId": "1SMt29iVSgWuIeD1TnmBFQ",
+        "transactLevel": "0",
+        "unifyId": "oPuI1wMTQ8SR_-9GolE8PQ",
+        "unifyName": "交通建设项目工程招标文件、招标结果和工程情况备案",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 47,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

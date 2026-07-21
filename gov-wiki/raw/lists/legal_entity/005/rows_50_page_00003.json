@@ -1,0 +1,531 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117027000",
+        "rightsId": "8794B3AA870A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "GuxxY5OvT3yLZ9WkOVxHag",
+        "unifyName": "移植城市树木花草",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117027000",
+        "rightsId": "8794B3AA870A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2giMevDwS2yxAqEXq9xXiA",
+        "unifyName": "修剪城市树木花草",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000117054002",
+        "rightsId": "8794B3AA87299492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "gkTpIi21QsqjBvtAwg0KnA",
+        "unifyName": "建筑业企业专业作业资质备案制",
+        "ywCode": "12"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054004",
+        "rightsId": "8794B3AA872B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "67b9f67dfc3440dabcf16465b9109920",
+        "unifyName": "勘察企业资质核准（乙级）-新申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054004",
+        "rightsId": "8794B3AA872B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "CE7xwuJqTF6XZ9cF0JvNxQ",
+        "unifyName": "勘察企业资质核准（乙级）-注销证书",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054004",
+        "rightsId": "8794B3AA872B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "U2QjvP_YTweJhRkXCo1CAQ",
+        "unifyName": "勘察企业资质核准（乙级）-更换证书",
+        "ywCode": "12"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054004",
+        "rightsId": "8794B3AA872B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "261e7ba28054435db9c374db8d22bf7d",
+        "unifyName": "勘察企业资质核准（乙级）-增项",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054004",
+        "rightsId": "8794B3AA872B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "53ae6ae0944c4138b2377ce8bdf2bff6",
+        "unifyName": "勘察企业资质核准（乙级）-延续",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054004",
+        "rightsId": "8794B3AA872B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "32ac6476dd8c4a79bb7c87e049e78087",
+        "unifyName": "勘察企业资质核准（乙级）-重新核定",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054004",
+        "rightsId": "8794B3AA872B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "mkdmq8zTQIicpCxTb_wwbw",
+        "unifyName": "勘察企业资质核准（乙级）-企业名称变更",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054004",
+        "rightsId": "8794B3AA872B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9ClLtLFzRfeIE-saenV2-w",
+        "unifyName": "勘察企业资质核准（乙级）-法定代表人、企业负责人变更",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054004",
+        "rightsId": "8794B3AA872B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cvCnlrGbRSOImdtwltK5fA",
+        "unifyName": "勘察企业资质核准（乙级）-注册地址变更、营业执照注册号变更、经济性质变更、注册资本金变更",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054004",
+        "rightsId": "8794B3AA872B9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ktRyS1-7TZSOI3HWrf7D8g",
+        "unifyName": "勘察企业资质核准（乙级）-技术负责人变更",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054006",
+        "rightsId": "8794B3AA872D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "662b9b41413a40e5a865b7b2976e7c65",
+        "unifyName": "设计企业资质核准（甲级及部分乙级除外）-新申请",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000117054006",
+        "rightsId": "8794B3AA872D9492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "_WGifK5nRGusi6yN5BcqiA",
+        "unifyName": "设计企业资质核准（甲级及部分乙级除外）-注销证书",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054006",
+        "rightsId": "8794B3AA872D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "q3kLFCbpQJ2hsmwSlsNg-A",
+        "unifyName": "设计企业资质核准（甲级及部分乙级除外）-更换证书",
+        "ywCode": "12"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054006",
+        "rightsId": "8794B3AA872D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "dfa298685ded42229e8ca41d5433f6f0",
+        "unifyName": "设计企业资质核准（甲级及部分乙级除外）-增项",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054006",
+        "rightsId": "8794B3AA872D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3950f1296ab340e986c712ee00498c72",
+        "unifyName": "设计企业资质核准（甲级及部分乙级除外）-延续",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054006",
+        "rightsId": "8794B3AA872D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "tiCY08-tQbO7ni697Ceu2g",
+        "unifyName": "设计企业资质核准（甲级及部分乙级除外）-重新核定",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054006",
+        "rightsId": "8794B3AA872D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b0MEjBrDTeyvgY2lwv-MeA",
+        "unifyName": "设计企业资质核准（甲级及部分乙级除外）-企业名称变更",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054006",
+        "rightsId": "8794B3AA872D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Zt3RBPG3SiyLEAS_hfbtWg",
+        "unifyName": "设计企业资质核准（甲级及部分乙级除外）-法定代表人、企业负责人变更",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054006",
+        "rightsId": "8794B3AA872D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "A5MrhahvQcqFihG5199zZA",
+        "unifyName": "设计企业资质核准（甲级及部分乙级除外）-注册地址变更、营业执照注册号变更、经济性质变更、注册资本金变更",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054006",
+        "rightsId": "8794B3AA872D9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "UmNN51qwTMOu7c0py4MWQw",
+        "unifyName": "设计企业资质核准（甲级及部分乙级除外）-技术负责人变更",
+        "ywCode": "08"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054008",
+        "rightsId": "8794B3AA872F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e5d45850ba594733a8f130d529817b18",
+        "unifyName": "乙级工程监理企业资质认定（新设立、增项、延期）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117054008",
+        "rightsId": "8794B3AA872F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c93-LQ_XRNeeVOQRSfQV2w",
+        "unifyName": "乙级工程监理企业资质和工程监理事务所资质认定（注销）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000117056000",
+        "rightsId": "8794B3AA87349492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3Ez-tbYASYu9-FNM2eIs8Q",
+        "unifyName": "二级造价工程师强制注销",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118015000",
+        "rightsId": "8794B3AA874A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "JMQGgt8dRii3WHC5rCBx7Q",
+        "unifyName": "船舶营业运输证补发",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118015000",
+        "rightsId": "8794B3AA874A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "cjMTBgKZQYG-B4Ta4z86fw",
+        "unifyName": "船舶营业运输证注销",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000118015000",
+        "rightsId": "8794B3AA874A9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "MaQm4-T5TSSofpo3g-hbMQ",
+        "unifyName": "船舶营业运输证配发、换发",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119013000",
+        "rightsId": "8794B3AA87A89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "498b2b91704d4a2783c7dd1b7c644936",
+        "unifyName": "专用水文测站的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119014000",
+        "rightsId": "8794B3AA87A99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0db969270e9d438f9e85e16770cef3e6",
+        "unifyName": "国家基本水文测站上下游建设影响水文监测工程的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119014000",
+        "rightsId": "8794B3AA87A99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "esdUjpiYQrWtLglWWA9SPA",
+        "unifyName": "洪水影响评价审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000119015000",
+        "rightsId": "8794B3AA87AA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "eb39c7a98443412e9052891068be2500",
+        "unifyName": "国家基本水文测站设立和调整审批",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120075000",
+        "rightsId": "8794B3AA88179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d6XikboMQUicXn6NiQhCPg",
+        "unifyName": "兽药经营许可核发（生物制品）",
+        "ywCode": "06"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120075000",
+        "rightsId": "8794B3AA88179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "h9RNVTo5T7uE7EgMQcshkA",
+        "unifyName": "兽药经营许可变更核发（生物制品）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120075000",
+        "rightsId": "8794B3AA88179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "06f0b4b847014cbbb03c502f4072c89f",
+        "unifyName": "兽药经营许可证到期换证（生物制品）",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120075000",
+        "rightsId": "8794B3AA88179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "320de09762684b4bb70a6aa40f9a4b27",
+        "unifyName": "兽药经营许可证核发（兽用生物制品除外）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120075000",
+        "rightsId": "8794B3AA88179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7b819ab21924434083e86e67e5ece0be",
+        "unifyName": "兽药经营许可证变更（兽用生物制品除外）",
+        "ywCode": "04"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120075000",
+        "rightsId": "8794B3AA88179492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b6da8b6f82e44d55863345e58c7110d0",
+        "unifyName": "兽药经营许可证到期换证（兽用生物制品除外）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000120163000",
+        "rightsId": "8794B3AA88799492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "xe9anIgcTrKEwlLVWyPFBQ",
+        "unifyName": "农药生产许可（变更）",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121006000",
+        "rightsId": "8794B3AA88D39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "73867702c3c844c39207cf2a7f135a73",
+        "unifyName": "设立拍卖企业",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121006000",
+        "rightsId": "8794B3AA88D39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c41e985d0c6f4036992c040a26893fec",
+        "unifyName": "设立拍卖企业分公司",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121006000",
+        "rightsId": "8794B3AA88D39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0ef2fdf62a7a47e696f0066c967791ac",
+        "unifyName": "拍卖企业变更名称",
+        "ywCode": "04"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121006000",
+        "rightsId": "8794B3AA88D39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "43adf051d40f4011872cc8baab212eb5",
+        "unifyName": "拍卖企业变更法定代表人",
+        "ywCode": "05"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121006000",
+        "rightsId": "8794B3AA88D39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2e56b31aec884c678e66ca0c62e8721f",
+        "unifyName": "拍卖企业变更股权结构",
+        "ywCode": "06"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121006000",
+        "rightsId": "8794B3AA88D39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6c1cd4d146844f079f9365bb68b1fd71",
+        "unifyName": "拍卖企业变更注册资本",
+        "ywCode": "07"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121006000",
+        "rightsId": "8794B3AA88D39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6bffd805b0a54604841bfe4426aab49a",
+        "unifyName": "拍卖企业变更住所",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121007000",
+        "rightsId": "8794B3AA88D49492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fe7749c3ee8443c2b2f640496689f653",
+        "unifyName": "报废机动车回收拆解企业资质认定",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122002000",
+        "rightsId": "8794B3AA88F99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "XjgXfRYAQSq39XTaOekrfA",
+        "unifyName": "旅行社业务经营许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122010000",
+        "rightsId": "8794B3AA89019492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "12e01eacfcae492abf829c08ea41abe2",
+        "unifyName": "从事经营性互联网文化活动设立的审批",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 3,
+    "pageSize": 50,
+    "total": 417,
+    "totalPage": 9
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

@@ -1,0 +1,529 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123018000",
+        "rightsId": "8794B3AA892C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "5aa640cd5b554a2ba12be0714c8f2c1e",
+        "unifyName": "饮用水供水单位卫生许可（补办）",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123018000",
+        "rightsId": "8794B3AA892C9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "573c20acb0564bcf8842e2eb5e4567ce",
+        "unifyName": "二次供水卫生许可—告知承诺（试点市州引用）",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fh6qvPH6TweRllbLeiVP9w",
+        "unifyName": "公共场所卫生许可（新发）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "aA9m9AQ9ScKB9oyZosd_JQ",
+        "unifyName": "公共场所卫生许可（换证）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123020000",
+        "rightsId": "8794B3AA892E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "-OrQ6yHDQgWJVrukcWG2lg",
+        "unifyName": "公共场所卫生许可（变更）",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000123027000",
+        "rightsId": "8794B3AA89359492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "nlZuFgF4TRSoU-3PWdhCPQ",
+        "unifyName": "高致病性病原微生物菌（毒）种或样本运输审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7b129bf1104a4af28e074589bb461cd0",
+        "unifyName": "分公司注销登记",
+        "ywCode": "13"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c5f6a51698fc41ffa4a6e7ff574bb597",
+        "unifyName": "非公司企业法人分支机构注销登记",
+        "ywCode": "20"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "1b5c077a5ce94cfc9e5d425205b4a127",
+        "unifyName": "个人独资企业通过普通程序注销登记",
+        "ywCode": "23"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4966a07533ce4d66b6312f53bff46f27",
+        "unifyName": "个人独资企业分支机构注销登记",
+        "ywCode": "26"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "be6723addc46487c8b4dbd61b4d07ed2",
+        "unifyName": "合伙企业分支机构注销登记",
+        "ywCode": "38"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bb19e7837b1c482cbb84845bb4fcee6d",
+        "unifyName": "合伙企业设立登记",
+        "ywCode": "44"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "55992505dae2452390fbb25df94424b5",
+        "unifyName": "合伙企业通过普通程序注销登记",
+        "ywCode": "46"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131003000",
+        "rightsId": "8794B3AA89E69492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "RCGuwO_kS32grgNfPLT0uA",
+        "unifyName": "个人独资企业通过简易程序注销登记",
+        "ywCode": "70"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131005000",
+        "rightsId": "8794B3AA89E89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "90f20f3a063a4a4e9d3b9cb8410c3bb3",
+        "unifyName": "农民专业合作社（联合社）分支机构注销登记",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000131007000",
+        "rightsId": "8794B3AA89EA9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "d7866733cb2a4d75acaa4d6ccd9907d2",
+        "unifyName": "外国企业常驻代表机构注销登记",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000131008000",
+        "rightsId": "8794B3AA89EB9492E053681515ACDDA6",
+        "transactLevel": "2",
+        "unifyId": "1dbcf8e86b204de7876231641743a6b0",
+        "unifyName": "外国（地区）企业在中国境内从事生产经营活动注销登记",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131011000",
+        "rightsId": "8794B3AA89EE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f3142d73af784e038b6c747e7a4eca96",
+        "unifyName": "《特种设备使用登记》新办",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131011000",
+        "rightsId": "8794B3AA89EE9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "24f5983f8b4647dd956ee83fea0ef2ee",
+        "unifyName": "《特种设备使用登记》补证登记",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131017000",
+        "rightsId": "8794B3AA89F49492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2e5010c0de9b47b6bf6356f66abfb0f6",
+        "unifyName": "特种设备检验、检测机构核准",
+        "ywCode": "01"
+      },
+      {
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131033000",
+        "rightsId": "2007b48644614cd3b7711b4e9bc3ff65",
+        "transactLevel": "0",
+        "unifyId": "47j4Qkt9QeO12uFllAPMqA",
+        "unifyName": "特种设备作业人员新办",
+        "ywCode": "01"
+      },
+      {
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131033000",
+        "rightsId": "2007b48644614cd3b7711b4e9bc3ff65",
+        "transactLevel": "0",
+        "unifyId": "MK0gzScoR7CalAdFB-B7vQ",
+        "unifyName": "特种设备作业人员延续",
+        "ywCode": "02"
+      },
+      {
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131033000",
+        "rightsId": "2007b48644614cd3b7711b4e9bc3ff65",
+        "transactLevel": "0",
+        "unifyId": "ALcD4V0gR7az0B528UBRLw",
+        "unifyName": "特种设备作业人员补证",
+        "ywCode": "03"
+      },
+      {
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131033000",
+        "rightsId": "2007b48644614cd3b7711b4e9bc3ff65",
+        "transactLevel": "0",
+        "unifyId": "ESLYzf_yQLGSjHCIWA7ySg",
+        "unifyName": "特种设备安全管理人员和作业人员注销",
+        "ywCode": "04"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131035000",
+        "rightsId": "4825a38a25cf4dfea22f825005b8f095",
+        "transactLevel": "0",
+        "unifyId": "oty-jtpbTbCvqgr2N8Ggbw",
+        "unifyName": "移动式压力容器、气瓶充装许可新办",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131035000",
+        "rightsId": "4825a38a25cf4dfea22f825005b8f095",
+        "transactLevel": "0",
+        "unifyId": "GFMwAIpJQqOty4CWx7s0vQ",
+        "unifyName": "移动式压力容器、气瓶充装许可延续",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131035000",
+        "rightsId": "4825a38a25cf4dfea22f825005b8f095",
+        "transactLevel": "0",
+        "unifyId": "WZACX47zQZW1wqWgc0ltDw",
+        "unifyName": "移动式压力容器、气瓶充装许可变更",
+        "ywCode": "03"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131035000",
+        "rightsId": "4825a38a25cf4dfea22f825005b8f095",
+        "transactLevel": "0",
+        "unifyId": "9zSdyVKMRbKG8prwKZaU2Q",
+        "unifyName": "移动式压力容器、气瓶充装许可增项",
+        "ywCode": "04"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131035000",
+        "rightsId": "4825a38a25cf4dfea22f825005b8f095",
+        "transactLevel": "0",
+        "unifyId": "UJXZ1K20Q8Weob3C045qNg",
+        "unifyName": "移动式压力容器、气瓶充装许可补证",
+        "ywCode": "05"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000131035000",
+        "rightsId": "4825a38a25cf4dfea22f825005b8f095",
+        "transactLevel": "0",
+        "unifyId": "eUHNJ_CxTFiPGTfB_zjqcA",
+        "unifyName": "移动式压力容器、气瓶充装许可注销",
+        "ywCode": "06"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132013000",
+        "rightsId": "8794B3AA8A169492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9155862a062440a38df2fa28198ae1b4",
+        "unifyName": "广播电视视频点播业务许可证（乙种）审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132025001",
+        "rightsId": "8794B3AA8A239492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "4c6a94430ee64ca9bd3ded379f19c551",
+        "unifyName": "引进用于信息网络传播的境外其他视听节目审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132027000",
+        "rightsId": "8794B3AA8A279492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e374f7e84d4f45d1a7ec3fe7a2ed864d",
+        "unifyName": "影视节目制作机构与外方合作制作电视剧（含电视动画片）立项",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000132027000",
+        "rightsId": "8794B3AA8A279492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2fb00cde60b949e9a02ecdfd73d9bebb",
+        "unifyName": "影视节目制作机构与外方合作制作电视剧 （含电视动画片）完成片审查",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000133006000",
+        "rightsId": "8794B3AA8A489492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "935f470d59b04c6fb5a26be47ba604a0",
+        "unifyName": "临时占用公共体育场（馆）设施审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139010000",
+        "rightsId": "8794B3AA8A599492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "46e9d63ae73c42cd8e2d0aa67bba961f",
+        "unifyName": "地方单位订户订购限定发行范围的境外出版物审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000139016000",
+        "rightsId": "8794B3AA8A5F9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "84768674c90d4703959c4d43264477c6",
+        "unifyName": "对新闻出版广电总局负责的中学小学教科书出版资质审批的初审",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000154001000",
+        "rightsId": "51933523c6d6499d9e16e3d3045794ce",
+        "transactLevel": "1",
+        "unifyId": "dBBFBYC1SQOxL-ikMlM-6w",
+        "unifyName": "雷电防护装置设计审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000154005000",
+        "rightsId": "8794B3AA8AA79492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "NlxMJmHQSNOKg43O2rwfLA",
+        "unifyName": "升放无人驾驶自由气球或者系留气球活动审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000154006000",
+        "rightsId": "8794B3AA8AA89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "HVoiY28vSHa6awMesz-SkA",
+        "unifyName": "升放无人驾驶自由气球、系留气球单位资质认定",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000154009000",
+        "rightsId": "5960f19a4d264382816915be495e7d59",
+        "transactLevel": "1",
+        "unifyId": "gNBgpLRESPKF_qrbQNGqpA",
+        "unifyName": "雷电防护装置竣工验收",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164097000",
+        "rightsId": "8794B3AA8D279492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d3a84f46c176441f80cb4a5f564b773b",
+        "unifyName": "采集或者采伐国家重点保护的天然种质资源审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164104000",
+        "rightsId": "8794B3AA8D2E9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "07cac7ae68a744279c564eb44569b267",
+        "unifyName": "森林高火险期内，进入森林高火险区的活动审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164119000",
+        "rightsId": "8794B3AA8D419492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "f5f1cd3df5014ddfbca99168bf6e6acb",
+        "unifyName": "国家林草种质资源库内资源采集、采伐审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164120000",
+        "rightsId": "8794B3AA8D429492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "CtcqptyWRCKrO4mOYKurBQ",
+        "unifyName": "林木采伐许可证核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164123000",
+        "rightsId": "8794B3AA8D459492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d3c0b6988dcb434da663a10afb59df2c",
+        "unifyName": "从国外引进林木种子、苗木检疫审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164142000",
+        "rightsId": "8794B3AA8D679492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "vuZtnNwlSP2jJm7Zd0Hd0g",
+        "unifyName": "普及型国外引种试种苗圃资格认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164151000",
+        "rightsId": "61ff64bdd4a54e6697a0bf9a6c3277ce",
+        "transactLevel": "0",
+        "unifyId": "538ae608f68547b5a6e0cc3d28f23689",
+        "unifyName": "森林防火期内在森林防火区野外用火活动审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164154002",
+        "rightsId": "8a3feed6ce114de7aa7bf996c383acda",
+        "transactLevel": "0",
+        "unifyId": "OY6dQ9zJTsa7ahuaXVqZZw",
+        "unifyName": "矿藏勘查、开采以及其他各类工程建设占用林地新办审核(国家级权限)",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000164154002",
+        "rightsId": "8a3feed6ce114de7aa7bf996c383acda",
+        "transactLevel": "0",
+        "unifyId": "93AM07rvQqOk-FaSK4JbrQ",
+        "unifyName": "矿藏勘查、开采以及其他各类工程建设占用林地延续审核(国家级权限)",
+        "ywCode": "02"
+      }
+    ],
+    "pageIndex": 4,
+    "pageSize": 50,
+    "total": 616,
+    "totalPage": 13
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

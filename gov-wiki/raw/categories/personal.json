@@ -1,0 +1,124 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "ztflCode": "005",
+      "ztflName": "生育收养"
+    },
+    {
+      "ztflCode": "010",
+      "ztflName": "户籍办理"
+    },
+    {
+      "ztflCode": "015",
+      "ztflName": "民族宗教"
+    },
+    {
+      "ztflCode": "020",
+      "ztflName": "教育科研"
+    },
+    {
+      "ztflCode": "025",
+      "ztflName": "入伍服役"
+    },
+    {
+      "ztflCode": "030",
+      "ztflName": "就业创业"
+    },
+    {
+      "ztflCode": "035",
+      "ztflName": "设立变更"
+    },
+    {
+      "ztflCode": "040",
+      "ztflName": "准营准办"
+    },
+    {
+      "ztflCode": "050",
+      "ztflName": "职业资格"
+    },
+    {
+      "ztflCode": "055",
+      "ztflName": "纳税缴费"
+    },
+    {
+      "ztflCode": "060",
+      "ztflName": "婚姻登记"
+    },
+    {
+      "ztflCode": "065",
+      "ztflName": "优待抚恤"
+    },
+    {
+      "ztflCode": "070",
+      "ztflName": "规划建设"
+    },
+    {
+      "ztflCode": "075",
+      "ztflName": "住房保障"
+    },
+    {
+      "ztflCode": "085",
+      "ztflName": "社会保障（社会保险、社会救助）"
+    },
+    {
+      "ztflCode": "090",
+      "ztflName": "证件办理"
+    },
+    {
+      "ztflCode": "095",
+      "ztflName": "交通出行"
+    },
+    {
+      "ztflCode": "100",
+      "ztflName": "旅游观光"
+    },
+    {
+      "ztflCode": "105",
+      "ztflName": "出境入境"
+    },
+    {
+      "ztflCode": "115",
+      "ztflName": "公共安全"
+    },
+    {
+      "ztflCode": "120",
+      "ztflName": "司法公证"
+    },
+    {
+      "ztflCode": "125",
+      "ztflName": "知识产权"
+    },
+    {
+      "ztflCode": "130",
+      "ztflName": "环保绿化"
+    },
+    {
+      "ztflCode": "135",
+      "ztflName": "文化体育"
+    },
+    {
+      "ztflCode": "140",
+      "ztflName": "公用事业"
+    },
+    {
+      "ztflCode": "145",
+      "ztflName": "医疗卫生"
+    },
+    {
+      "ztflCode": "150",
+      "ztflName": "离职退休"
+    },
+    {
+      "ztflCode": "155",
+      "ztflName": "死亡殡葬"
+    },
+    {
+      "ztflCode": "999",
+      "ztflName": "其他"
+    }
+  ],
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

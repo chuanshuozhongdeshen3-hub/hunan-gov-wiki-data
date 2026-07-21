@@ -1,0 +1,36 @@
+{
+  "crawler_version": "1.0.1",
+  "status": "succeeded",
+  "started_at": "2026-07-21T01:30:49+00:00",
+  "finished_at": "2026-07-21T03:01:52+00:00",
+  "config": {
+    "output": "D:\\python work\\zwfw\\gov-wiki",
+    "stages": [
+      "catalog",
+      "details",
+      "search"
+    ],
+    "list_rows": 50,
+    "search_rows": 50,
+    "delay": 1.0,
+    "jitter": 0.5,
+    "timeout": 25.0,
+    "retries": 2,
+    "max_categories_per_type": 0,
+    "max_pages_per_scope": 0,
+    "max_details": 0,
+    "max_search_pages": 0,
+    "include_unfiltered": true,
+    "refresh_categories": false,
+    "refresh_lists": false,
+    "refresh_details": false,
+    "refresh_search": false,
+    "fail_fast": false
+  },
+  "network_requests": 3393,
+  "cache_hits": 13,
+  "error_count": 0,
+  "warning_count": 0,
+  "errors": [],
+  "warnings": []
+}

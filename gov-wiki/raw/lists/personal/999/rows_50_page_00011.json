@@ -1,0 +1,515 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431009137W00",
+        "rightsId": "YKKrI2SbR-GVJGxPgwd3ag",
+        "transactLevel": "1",
+        "unifyId": "eacc3a2bcbbd4b26b644a02294c9e2a3",
+        "unifyName": "机动车质押、解除质押备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431011006W00",
+        "rightsId": "ittfZ7VDTMyCr6ueViPdow",
+        "transactLevel": "0",
+        "unifyId": "01e11b917e5f439d89a8d7053fbb2754",
+        "unifyName": "慈善捐赠款物的使用",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012019W00",
+        "rightsId": "WKfzPSZ5Sby1m1G0WcOYFw",
+        "transactLevel": "0",
+        "unifyId": "9402947f0d1f4c1a972c9769e7f6b78e",
+        "unifyName": "律师事务所辞退律师和将律师除名的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012025W00",
+        "rightsId": "f0e0OjfRTL24z3H5hm0i3Q",
+        "transactLevel": "0",
+        "unifyId": "9e34932b58044209963e54dca31a1a69",
+        "unifyName": "终止法律援助",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012052W00",
+        "rightsId": "70F599A5648AABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "490a00d3d89e44ca84ffe8e26fb0b8d1",
+        "unifyName": "对申请人不服法律援助机构作出的不予法律援助的通知的异议审查",
+        "ywCode": "01"
+      },
+      {
+        "isProveCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012057W00",
+        "rightsId": "soV8MpUYRgSUvtAEDac4gg",
+        "transactLevel": "0",
+        "unifyId": "263143e29cef4b7fbf81cae04616c5c1",
+        "unifyName": "司法鉴定人延续初审",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012061W00",
+        "rightsId": "ERfeWT4HT96rzaQNgeQ5jA",
+        "transactLevel": "0",
+        "unifyId": "5eddcf60a40e48c9829d8a3d06ee65e6",
+        "unifyName": "基层法律服务所解聘基层法律服务工作者备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012061W00",
+        "rightsId": "ERfeWT4HT96rzaQNgeQ5jA",
+        "transactLevel": "0",
+        "unifyId": "8fa5575841e84b9d866555d8907db24f",
+        "unifyName": "基层法律服务所辅助工作人员的聘用、变更情况备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012062W00",
+        "rightsId": "helZsttOQwmjGnblM1pa2Q",
+        "transactLevel": "0",
+        "unifyId": "4c06a6e5176d4aa7b34316fe73dcfb79",
+        "unifyName": "基层法律服务工作者执业证补换发审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012063W00",
+        "rightsId": "OgvQHGJFSE2ATiFIEcPI7g",
+        "transactLevel": "0",
+        "unifyId": "8ef60f38aa5b482581ed32b26d72e29b",
+        "unifyName": "司法鉴定人市、州内异动",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012063W00",
+        "rightsId": "OgvQHGJFSE2ATiFIEcPI7g",
+        "transactLevel": "0",
+        "unifyId": "9cdf1fb6f87a4da4931a41ada5baa1b4",
+        "unifyName": "司法鉴定人变更职称、姓名、学历、行业资格",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012063W00",
+        "rightsId": "OgvQHGJFSE2ATiFIEcPI7g",
+        "transactLevel": "0",
+        "unifyId": "7c0730b7242c486291fddf92e16d0403",
+        "unifyName": "市、州司法鉴定人延续登记",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017195W00",
+        "rightsId": "MO1NdZELQrSlCy1iNUJ_bg",
+        "transactLevel": "0",
+        "unifyId": "Z5N9QOEsRnCH8wS8F7sMOA",
+        "unifyName": "白蚁预防证明文件核发",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017228W00",
+        "rightsId": "fRp7I41oStyBW5HTapJBYw",
+        "transactLevel": "0",
+        "unifyId": "eAOrFfayTpap9XWT2PrtHw",
+        "unifyName": "占用绿地1公顷以上审核",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017228W00",
+        "rightsId": "fRp7I41oStyBW5HTapJBYw",
+        "transactLevel": "0",
+        "unifyId": "sTgFGJHcQuimEjb4g6CMtg",
+        "unifyName": "占用绿地1公顷以下审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017297W00",
+        "rightsId": "70F599A55A9AABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "73opLV9iR-msrS0KcsKtjw",
+        "unifyName": "已入湘企业变更",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017297W00",
+        "rightsId": "70F599A55A9AABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "VhBY4b2KTzyeONC_dwQ6Gw",
+        "unifyName": "已入湘企业注销",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "0",
+        "minSeq": "1",
+        "rightsCode": "431017316W00",
+        "rightsId": "70F599A56545ABCFE053681515ACCFDC",
+        "transactLevel": "3",
+        "unifyId": "6d074c0701664396820506b41083ed85",
+        "unifyName": "省外建设工程质量检测机构承担检测业务备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431017346W00",
+        "rightsId": "70F599A557FAABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "UzLQnaAbQLuIX8uStkj-zg",
+        "unifyName": "物业专项维修资金的应急使用",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018097W00",
+        "rightsId": "blcHgYhrRqCFPRHUGy9Keg",
+        "transactLevel": "1",
+        "unifyId": "WGYpWFayThKszXIt3BlaCQ",
+        "unifyName": "港口经营人变更或者改造固定经营设施备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018179W00",
+        "rightsId": "Au00XN4BSzGlrPOXormMrQ",
+        "transactLevel": "1",
+        "unifyId": "t0ZdN0M4RNCareTO5p-pjQ",
+        "unifyName": "船舶司法协助执行",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018181W00",
+        "rightsId": "RnhJ32vTSBO-HFDO-aVX1w",
+        "transactLevel": "1",
+        "unifyId": "PCkoJDYvRc-zUpcJ9886Pg",
+        "unifyName": "船舶登记资料查询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018182W00",
+        "rightsId": "Hcjf3khPS92GjvzRwimFOA",
+        "transactLevel": "0",
+        "unifyId": "CiGeeuU6QT--zNMiRJUmVg",
+        "unifyName": "船舶报废",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431020033W00",
+        "rightsId": "Sktnt2N9Tte2UKH_iXLTEA",
+        "transactLevel": "0",
+        "unifyId": "jgdSQFAZRH2JsEyedgcCWg",
+        "unifyName": "畜禽养殖场、养殖小区备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431020051W00",
+        "rightsId": "K_JkeEuaR4ir4muz6mGzPw",
+        "transactLevel": "2",
+        "unifyId": "9KG42-m-Rr2GGQp8M-a-cw",
+        "unifyName": "农机事故损害赔偿调解",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431020074W00",
+        "rightsId": "70F599A55D5BABCFE053681515ACCFDC",
+        "transactLevel": "2",
+        "unifyId": "ORGXR3mjTSuozJ9PLIhOQQ",
+        "unifyName": "渔业船舶水上安全事故调查认定和纠纷调解",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431020075W00",
+        "rightsId": "70F599A552B8ABCFE053681515ACCFDC",
+        "transactLevel": "2",
+        "unifyId": "ZtVnbxFLSnCBMEnTJpBF7Q",
+        "unifyName": "动物染疫或者疑似染疫的调查核实",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431020080W00",
+        "rightsId": "70F599A55D5AABCFE053681515ACCFDC",
+        "transactLevel": "2",
+        "unifyId": "iLI6WL0bQuSzXq8CFHY1dA",
+        "unifyName": "渔业水域污染事故的调查处理和纠纷调解",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431020102W00",
+        "rightsId": "P3o9oj_cTpKGra3gB3F9aw",
+        "transactLevel": "0",
+        "unifyId": "RRCB0jPBQKORjGathNV_gQ",
+        "unifyName": "《联合收割机跨区收获作业证》发放",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431020106W00",
+        "rightsId": "HiTWpO3XS9KD_kgxzJ6paw",
+        "transactLevel": "0",
+        "unifyId": "i8evcggLRjKkoWXnAxX50g",
+        "unifyName": "对耕地质量监测点基础设施、永久性标志移位审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431021034W00",
+        "rightsId": "70F599A55F66ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "91bab3415ff24810a91452a9b86c7b65",
+        "unifyName": "零售商促销活动备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431021044W00",
+        "rightsId": "OB9dDMptQseiXUXtr4kMnQ",
+        "transactLevel": "0",
+        "unifyId": "f716ef23071245c694d009521e020910",
+        "unifyName": "洗染业经营者备案登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431022026W00",
+        "rightsId": "SCMaKyKpQ1y5IGyk4_s3AA",
+        "transactLevel": "0",
+        "unifyId": "xZxguSucRjKFbVMe4ALgKg",
+        "unifyName": "营业性演出个体演员、个体演出经纪人的备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431022081W00",
+        "rightsId": "70F599A553FBABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "e0NykwpTTBSH9LBietBvSA",
+        "unifyName": "旅游纠纷处理",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431025001W00",
+        "rightsId": "5L3pUi4UStGTS-8DmwbiNg",
+        "transactLevel": "0",
+        "unifyId": "LIF6tqAsQnic4s9VLbjTUw",
+        "unifyName": "为参与抢险救灾的车辆设置统一的标识或者标志，抢险救灾车辆按照国家和省有关规定免交车辆通行费",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431029001W00",
+        "rightsId": "1Iic32yrTcCHyBnsqOj6HQ",
+        "transactLevel": "1",
+        "unifyId": "d6cee7c71d024a6288f96da227ee424a",
+        "unifyName": "企业海关税款缴纳、货物通关信息核查",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431031082W00",
+        "rightsId": "Yb9ggdkhRjuQfbHj57QE9A",
+        "transactLevel": "0",
+        "unifyId": "5e03e0bd0b8044c59ae1f54dd8ce1e2c",
+        "unifyName": "企业（包括个体工商户、农民专业合作社）自主申报名称",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039069W00",
+        "rightsId": "oW7krvOsS5KoA2jgeyQowg",
+        "transactLevel": "0",
+        "unifyId": "c745e8aa10b94f4ea4761cc832dd01b7",
+        "unifyName": "广播电视、报社等编辑记者执业资格管理（含培训）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431064052W00",
+        "rightsId": "8esiX3-yTru32eE82-vqFw",
+        "transactLevel": "0",
+        "unifyId": "7a6c26736a714572a10cb09c4e0a6eb3",
+        "unifyName": "生产、经营应实施检疫的森林植物及其产品的单位和个人备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431064063W00",
+        "rightsId": "70F599A56029ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "2f2a8e3a1fff4a1d822bf752e2c7420b",
+        "unifyName": "林木良种补偿",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068012W00",
+        "rightsId": "cwCZ-LovTs63lI223p7wmw",
+        "transactLevel": "0",
+        "unifyId": "3de77d2f7bee4f1e8822b4978949eba6",
+        "unifyName": "博物馆设立备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068012W00",
+        "rightsId": "cwCZ-LovTs63lI223p7wmw",
+        "transactLevel": "0",
+        "unifyId": "42e4ac760bb4447cbb347abdb798aea0",
+        "unifyName": "博物馆终止备案",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099014W00",
+        "rightsId": "hQv3rC4OSP6vaoViSmMUgQ",
+        "transactLevel": "0",
+        "unifyId": "9de8634e8b3a41a4997e34b1c64211fc",
+        "unifyName": "防空警报设施安装竣工验收",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431099015W00",
+        "rightsId": "_bFdWRt3Q8GnolcXATNydQ",
+        "transactLevel": "0",
+        "unifyId": "99eXr2_1SNWMSYVf2Z8qtA",
+        "unifyName": "人防工程隶属关系变动备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005305W00",
+        "rightsId": "If2zFpMKRbu5A7ayTReZGg",
+        "transactLevel": "0",
+        "unifyId": "d4a9f1da8d6c4117a8a6238a1aeda7b0",
+        "unifyName": "教师资格证书补表",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005305W00",
+        "rightsId": "If2zFpMKRbu5A7ayTReZGg",
+        "transactLevel": "0",
+        "unifyId": "5a55a3a8c7284c49b02d40906d5fff27",
+        "unifyName": "教师资格证书补证、补表服务",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005404W01",
+        "rightsId": "961D8B9AEAC5EDC0E053681515AC9D19",
+        "transactLevel": "0",
+        "unifyId": "6d8773482283440b874cf498f5ff4e6a",
+        "unifyName": "普通高等学校毕业生托管档案转出服务（省级）",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432005404W01",
+        "rightsId": "961D8B9AEAC5EDC0E053681515AC9D19",
+        "transactLevel": "0",
+        "unifyId": "K73Tuz44R8aUqQqUOIaw5w",
+        "unifyName": "普通高等学校毕业生托管档案转出服务（市县）",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432006101W00",
+        "rightsId": "98DEF4F23BBAA6C2E053681515AC0784",
+        "transactLevel": "0",
+        "unifyId": "1cf30366daf04d76ba442ec67b622bab",
+        "unifyName": "科技政策咨询",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432006102W00",
+        "rightsId": "98DEF4F23BBDA6C2E053681515AC0784",
+        "transactLevel": "0",
+        "unifyId": "419b9aaf05bb45fea7753882bd13281d",
+        "unifyName": "科技查新咨询",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 11,
+    "pageSize": 50,
+    "total": 609,
+    "totalPage": 13
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

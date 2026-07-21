@@ -1,0 +1,44 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430768004W00",
+        "rightsId": "71cb68c6168347d4a7519f24441657bb",
+        "transactLevel": "0",
+        "unifyId": "193484073f7f44f087125f3c9e7e70ce",
+        "unifyName": "对尚未核定公布为文物保护单位的不可移动文物的登记",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431068007W00",
+        "rightsId": "228f97dd483649feb21bfaeaae49acc9",
+        "transactLevel": "0",
+        "unifyId": "89e01bda7ace429cab443c82b06789ab",
+        "unifyName": "世界文化遗产日常监测",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "432022303W00",
+        "rightsId": "9829CA1E6AF611E2E053681515AC9879",
+        "transactLevel": "0",
+        "unifyId": "cf83b912f1f24f4bb1094c5d51bc8e58",
+        "unifyName": "艺术创作，对外交流辅导、培训",
+        "ywCode": "01"
+      }
+    ],
+    "pageIndex": 1,
+    "pageSize": 50,
+    "total": 3,
+    "totalPage": 1
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

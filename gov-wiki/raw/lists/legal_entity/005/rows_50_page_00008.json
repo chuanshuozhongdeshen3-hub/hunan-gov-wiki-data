@@ -1,0 +1,520 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430139001W00",
+        "rightsId": "tA9Rb4aTSQ2Pg99hoChFng",
+        "transactLevel": "0",
+        "unifyId": "03e9021bf48c41b49765bc728bf47e22",
+        "unifyName": "音像制品零售业务许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430139001W00",
+        "rightsId": "tA9Rb4aTSQ2Pg99hoChFng",
+        "transactLevel": "0",
+        "unifyId": "b0156d9038fd4675b8f86b4c562e42f2",
+        "unifyName": "音像制品出租业务许可",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430139009W00",
+        "rightsId": "NDc9kmI1QkWGj1PG22eP_A",
+        "transactLevel": "0",
+        "unifyId": "uCHt-CZEQgivHMkEI3lWXA",
+        "unifyName": "点播影院变更名称、地址、法定代表人（主要负责人）或终止电影放映经营活动备案",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430139018W00",
+        "rightsId": "A_GosqA-TsuSoJ_casUxkA",
+        "transactLevel": "0",
+        "unifyId": "AMEKQoWYQoOiUtiSGd_-Fw",
+        "unifyName": "电影放映单位变更名称、地址、法定代表人（主要负责人）或终止电影放映经营活动备案",
+        "ywCode": "02"
+      },
+      {
+        "isEnterpriseCommitment": "0",
+        "isProveCommitment": "0",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430139018W00",
+        "rightsId": "A_GosqA-TsuSoJ_casUxkA",
+        "transactLevel": "0",
+        "unifyId": "qFQL3MfbRjyNM3p04y3OkQ",
+        "unifyName": "外商投资电影院变更名称、地址、法定代表人（主要负责人）或终止电影放映经营活动备案",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155007W00",
+        "rightsId": "LaaSJ0QCTmuSWiaMC4lf2Q",
+        "transactLevel": "0",
+        "unifyId": "9e6a13238eba4eda888d7d205468c438",
+        "unifyName": "融资租赁公司设立",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155007W00",
+        "rightsId": "LaaSJ0QCTmuSWiaMC4lf2Q",
+        "transactLevel": "0",
+        "unifyId": "1b566b58c38d4fd0b1c1469a865d3d84",
+        "unifyName": "融资租赁公司合并、分立",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155007W00",
+        "rightsId": "LaaSJ0QCTmuSWiaMC4lf2Q",
+        "transactLevel": "0",
+        "unifyId": "705f5273b4aa46459e0306eef6fa8a1c",
+        "unifyName": "融资租赁公司减少注册资本",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155007W00",
+        "rightsId": "LaaSJ0QCTmuSWiaMC4lf2Q",
+        "transactLevel": "0",
+        "unifyId": "49bd5a20606a4502b66016866c958805",
+        "unifyName": "融资租赁公司变更业务范围和经营区域",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155007W00",
+        "rightsId": "LaaSJ0QCTmuSWiaMC4lf2Q",
+        "transactLevel": "0",
+        "unifyId": "0bb0defb2e3f48e2a4510840579c543f",
+        "unifyName": "融资租赁公司变更控股股东、实际控制人",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155008W00",
+        "rightsId": "uxYDZBkASfiezuaF3yidhw",
+        "transactLevel": "0",
+        "unifyId": "08c9bdd9d7dd4839ad820da4424d0a62",
+        "unifyName": "商业保理公司设立",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155008W00",
+        "rightsId": "uxYDZBkASfiezuaF3yidhw",
+        "transactLevel": "0",
+        "unifyId": "466c3a29b0f64408992c0543825edc29",
+        "unifyName": "商业保理公司合并、分立",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155008W00",
+        "rightsId": "uxYDZBkASfiezuaF3yidhw",
+        "transactLevel": "0",
+        "unifyId": "b4f7f9c185e04f93b62cdd63c708936c",
+        "unifyName": "商业保理公司减少注册资本",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155008W00",
+        "rightsId": "uxYDZBkASfiezuaF3yidhw",
+        "transactLevel": "0",
+        "unifyId": "736c7e21924a4cdbad171453a9369a57",
+        "unifyName": "商业保理公司变更业务范围和经营区域",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155008W00",
+        "rightsId": "uxYDZBkASfiezuaF3yidhw",
+        "transactLevel": "0",
+        "unifyId": "13f09e93928a424bb2732618dac14139",
+        "unifyName": "商业保理公司变更控股股东、实际控制人",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155009W00",
+        "rightsId": "hIUmcpBZSMWEEEo_pGbKXw",
+        "transactLevel": "0",
+        "unifyId": "GmQ6kPiwS1uKIr_U8kxpSw",
+        "unifyName": "地方资产管理公司减少注册资本",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155009W00",
+        "rightsId": "hIUmcpBZSMWEEEo_pGbKXw",
+        "transactLevel": "0",
+        "unifyId": "e4e347921fd54319b07d8f2474117907",
+        "unifyName": "地方资产管理公司变更业务范围和经营区域",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155009W00",
+        "rightsId": "hIUmcpBZSMWEEEo_pGbKXw",
+        "transactLevel": "0",
+        "unifyId": "02cce374de964fd2b57d7f78f339b337",
+        "unifyName": "地方资产管理公司变更控股股东、实际控制人",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430155009W00",
+        "rightsId": "hIUmcpBZSMWEEEo_pGbKXw",
+        "transactLevel": "0",
+        "unifyId": "9da1038e4765453e8f8a2c8dba3a49df",
+        "unifyName": "地方资产管理公司合并或分立",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "430721002W00",
+        "rightsId": "IWfBJziCQ2m48sNTw8opwg",
+        "transactLevel": "0",
+        "unifyId": "25cf8fbe7959466d9fb07dd56ea4f880",
+        "unifyName": "直销企业服务网点确认",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009031W00",
+        "rightsId": "1yiHQfjdTU2Ly3Iz34e6Fg",
+        "transactLevel": "0",
+        "unifyId": "fb2e3bebe65c400e845f758be4a0e4de",
+        "unifyName": "娱乐场所经营单位备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009031W00",
+        "rightsId": "1yiHQfjdTU2Ly3Iz34e6Fg",
+        "transactLevel": "0",
+        "unifyId": "aadefa0eb9994e87be47d3de44ade0ff",
+        "unifyName": "娱乐场所变更名称",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009031W00",
+        "rightsId": "1yiHQfjdTU2Ly3Iz34e6Fg",
+        "transactLevel": "0",
+        "unifyId": "c8f1461344974abfa36b75d62067575c",
+        "unifyName": "娱乐场所变更经营场所",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009031W00",
+        "rightsId": "1yiHQfjdTU2Ly3Iz34e6Fg",
+        "transactLevel": "0",
+        "unifyId": "3484517b34af4bfaa56ac26fea4e4507",
+        "unifyName": "娱乐场所变更法定代表人和主要负责人",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009031W00",
+        "rightsId": "1yiHQfjdTU2Ly3Iz34e6Fg",
+        "transactLevel": "0",
+        "unifyId": "1dc8859bb49f4882a43d28ac0f5f6739",
+        "unifyName": "娱乐场所变更主要设施设备",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009059W00",
+        "rightsId": "fCfBK-GRTbuVWLINfo0CPg",
+        "transactLevel": "0",
+        "unifyId": "52bfa56bf66c41efbfe87c94fd38a3d7",
+        "unifyName": "道路运输企业聘用机动车驾驶人备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009063W00",
+        "rightsId": "bIr9qkygQFKtIBi856u38A",
+        "transactLevel": "0",
+        "unifyId": "TB0GCSY6SNeGDl07gFgnTA",
+        "unifyName": "自行招用保安员单位撤销备案",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009063W00",
+        "rightsId": "bIr9qkygQFKtIBi856u38A",
+        "transactLevel": "0",
+        "unifyId": "8pHxylWCR9SUcJ1vX0sgyQ",
+        "unifyName": "保安培训机构设立备案",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431009085W00",
+        "rightsId": "swecLTyDSoGsG7Bu0esd8w",
+        "transactLevel": "0",
+        "unifyId": "ZhSQXND2SLeZPAZFOu5AqA",
+        "unifyName": "公章刻制备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012063W00",
+        "rightsId": "OgvQHGJFSE2ATiFIEcPI7g",
+        "transactLevel": "0",
+        "unifyId": "8ef60f38aa5b482581ed32b26d72e29b",
+        "unifyName": "司法鉴定人市、州内异动",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012063W00",
+        "rightsId": "OgvQHGJFSE2ATiFIEcPI7g",
+        "transactLevel": "0",
+        "unifyId": "9cdf1fb6f87a4da4931a41ada5baa1b4",
+        "unifyName": "司法鉴定人变更职称、姓名、学历、行业资格",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012063W00",
+        "rightsId": "OgvQHGJFSE2ATiFIEcPI7g",
+        "transactLevel": "0",
+        "unifyId": "7c0730b7242c486291fddf92e16d0403",
+        "unifyName": "市、州司法鉴定人延续登记",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012065W00",
+        "rightsId": "lof4ONHfQmiNPuy0JA6FNA",
+        "transactLevel": "0",
+        "unifyId": "BC06XZQtTXyhWFu46kmKcQ",
+        "unifyName": "公证机构设立初审",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012065W00",
+        "rightsId": "lof4ONHfQmiNPuy0JA6FNA",
+        "transactLevel": "0",
+        "unifyId": "Az1wCxMmTL67Z9jEhUIL6w",
+        "unifyName": "公证机构变更初审",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012065W00",
+        "rightsId": "lof4ONHfQmiNPuy0JA6FNA",
+        "transactLevel": "0",
+        "unifyId": "AvdnXXsSSwuS3ZCtLdt8RQ",
+        "unifyName": "公证机构设立审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431012065W00",
+        "rightsId": "lof4ONHfQmiNPuy0JA6FNA",
+        "transactLevel": "0",
+        "unifyId": "O4UXoSr2TZ68xNBF8rGa3Q",
+        "unifyName": "公证机构变更审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "431018188W00",
+        "rightsId": "RAbKPegtQE-W4sEdrdsiTw",
+        "transactLevel": "1",
+        "unifyId": "0rRVp9BcT2O8VzUY4Ar_7g",
+        "unifyName": "船舶代理、水路旅客运输代理以及水路货物运输代理业务经营企业（经营者）信息备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431018189W00",
+        "rightsId": "LlfIJMmtR0GK5R7Rf5w0RA",
+        "transactLevel": "0",
+        "unifyId": "ffOYuqtfQJSxoytHc2wlEQ",
+        "unifyName": "水路旅客班轮运输业务经营者停止营业备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431022098W00",
+        "rightsId": "6Xg9lZfMS3m18gI25w4bZg",
+        "transactLevel": "0",
+        "unifyId": "C1XSdhdpRCCXIC3M0wn8ow",
+        "unifyName": "旅行社登记事项变更或终止经营备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039056W00",
+        "rightsId": "70F599A56601ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "ccfc031eaea44900be803b7baffe83a3",
+        "unifyName": "电影发行单位变更名称备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039056W00",
+        "rightsId": "70F599A56601ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "c3a743dc708347cfae69bf8065ac72e7",
+        "unifyName": "电影发行单位变更地址备案",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039056W00",
+        "rightsId": "70F599A56601ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "8555e186088947cf9a41e7648c216b58",
+        "unifyName": "电影发行单位变更法定代表人（主要负责人）备案",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039056W00",
+        "rightsId": "70F599A56601ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "a5146cad60004d10a08f3c5a7aad999d",
+        "unifyName": "电影发行单位终止电影发行活动备案",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039060W00",
+        "rightsId": "70F599A56067ABCFE053681515ACCFDC",
+        "transactLevel": "0",
+        "unifyId": "888201ddf476412fb01c7bdaa3292738",
+        "unifyName": "新闻机构驻地方机构工作人员变更备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039075W00",
+        "rightsId": "lIDO5wX3RJ-8nLoJfBH_5w",
+        "transactLevel": "0",
+        "unifyId": "658da373ffaf4f9e9e7486f855182064",
+        "unifyName": "出版单位中止出版活动备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039075W00",
+        "rightsId": "lIDO5wX3RJ-8nLoJfBH_5w",
+        "transactLevel": "0",
+        "unifyId": "1513e4f5809b427a91d9dbe15515327a",
+        "unifyName": "出版单位终止出版活动注销登记",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039077W00",
+        "rightsId": "tW6q7RaCT8aswDd9FJroaA",
+        "transactLevel": "0",
+        "unifyId": "e86ac10a4d3444bd85fd149432bec89d",
+        "unifyName": "期刊变更开本备案",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039077W00",
+        "rightsId": "tW6q7RaCT8aswDd9FJroaA",
+        "transactLevel": "0",
+        "unifyId": "bb89c4b8cd9f4d68a801d153e8c928e3",
+        "unifyName": "音像出版单位变更地址备案",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039077W00",
+        "rightsId": "tW6q7RaCT8aswDd9FJroaA",
+        "transactLevel": "0",
+        "unifyId": "e11c0124651c4bdf8c30b196c7a99778",
+        "unifyName": "电子出版物出版单位变更地址备案",
+        "ywCode": "11"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "431039077W00",
+        "rightsId": "tW6q7RaCT8aswDd9FJroaA",
+        "transactLevel": "0",
+        "unifyId": "e8a4cecd0e7d44459a0231add6e8f05b",
+        "unifyName": "报纸变更承印单位备案",
+        "ywCode": "12"
+      }
+    ],
+    "pageIndex": 8,
+    "pageSize": 50,
+    "total": 417,
+    "totalPage": 9
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

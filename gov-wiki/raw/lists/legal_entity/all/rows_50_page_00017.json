@@ -1,0 +1,518 @@
+{
+  "code": 0,
+  "data": {
+    "contents": [
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121006000",
+        "rightsId": "8794B3AA88D39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "2e56b31aec884c678e66ca0c62e8721f",
+        "unifyName": "拍卖企业变更股权结构",
+        "ywCode": "06"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121006000",
+        "rightsId": "8794B3AA88D39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6c1cd4d146844f079f9365bb68b1fd71",
+        "unifyName": "拍卖企业变更注册资本",
+        "ywCode": "07"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121006000",
+        "rightsId": "8794B3AA88D39492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6bffd805b0a54604841bfe4426aab49a",
+        "unifyName": "拍卖企业变更住所",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121007000",
+        "rightsId": "8794B3AA88D49492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "fe7749c3ee8443c2b2f640496689f653",
+        "unifyName": "报废机动车回收拆解企业资质认定",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121008000",
+        "rightsId": "8794B3AA88D59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "002fc1b2fc6d4636a3fa8d59ef05b9a6",
+        "unifyName": "新建加油站申报",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121008000",
+        "rightsId": "8794B3AA88D59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "413272b553d44c8781e187493336b7a6",
+        "unifyName": "湖南省加油站（点）扩（改）、迁建申报",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000121008000",
+        "rightsId": "8794B3AA88D59492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "5254185e06ba4e1a98907fd1a4cd20c7",
+        "unifyName": "加油站竣工验收及经营批准证书发放申请",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121008000",
+        "rightsId": "8794B3AA88D59492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "8af08d248e4d4d87aa772c8da8fa43c8",
+        "unifyName": "《成品油零售经营批准证书》遗失、损毁、补发证书申报",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000121011000",
+        "rightsId": "8794B3AA88DA9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "b1c4d31947f94967b5363d8a5b682cd0",
+        "unifyName": "部分易制毒化学品进出口许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122001000",
+        "rightsId": "8794B3AA88F89492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "hV3SahovTbCCqEbXWKuBaA",
+        "unifyName": "游戏游艺设备内容审核",
+        "ywCode": "01"
+      },
+      {
+        "isEnterpriseCommitment": "1",
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122002000",
+        "rightsId": "8794B3AA88F99492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "XjgXfRYAQSq39XTaOekrfA",
+        "unifyName": "旅行社业务经营许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122004000",
+        "rightsId": "8794B3AA88FB9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "mCy_P0hHTSy5lemBP6X-0A",
+        "unifyName": "外商投资旅行社业务许可",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122008000",
+        "rightsId": "8794B3AA88FF9492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "xAdBhtecSmqDPoDOTAt_nw",
+        "unifyName": "境外组织或者个人在中华人民共和国境内进行非物质文化遗产调查的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122009000",
+        "rightsId": "8794B3AA89009492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "XYSbiUg3QxO67GIOK1VJjQ",
+        "unifyName": "设立社会艺术水平考级机构审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122010000",
+        "rightsId": "8794B3AA89019492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "12e01eacfcae492abf829c08ea41abe2",
+        "unifyName": "从事经营性互联网文化活动设立的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122010000",
+        "rightsId": "8794B3AA89019492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9b8bc98e4e8a450bb7d4d9ce7b0d4c4a",
+        "unifyName": "从事经营性互联网文化活动变更主体信息的审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122010000",
+        "rightsId": "8794B3AA89019492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "344dee9f1aae44668bc277347ea231e6",
+        "unifyName": "从事经营性互联网文化活动延续的审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122010000",
+        "rightsId": "8794B3AA89019492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "291652c5a08845059661dfdc73b1afd9",
+        "unifyName": "从事经营性互联网文化活动补证的审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122010000",
+        "rightsId": "8794B3AA89019492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "Lkd_gjBDT5CGHfjTq7UCJg",
+        "unifyName": "从事经营性互联网文化活动注销的审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122011000",
+        "rightsId": "8794B3AA89029492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "9neXqw1XTSqTx772KMohxg",
+        "unifyName": "互联网上网服务营业场所经营单位设立的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122011000",
+        "rightsId": "8794B3AA89029492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "55c2c5f33e824f139d160247aebd9eec",
+        "unifyName": "互联网上网服务营业场所经营单位变更的审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122011000",
+        "rightsId": "8794B3AA89029492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "e6b92c00bdec426bb5e3b6d3bc784f68",
+        "unifyName": "互联网上网服务营业场所经营单位补证的审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122011000",
+        "rightsId": "8794B3AA89029492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "BM5vL_X8Rli-i4bMDa6bIg",
+        "unifyName": "互联网上网服务营业场所经营单位注销的审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "1",
+        "rightsCode": "000122012000",
+        "rightsId": "8794B3AA89039492E053681515ACDDA6",
+        "transactLevel": "1",
+        "unifyId": "d05ad97182274963becd796c8f2e39ce",
+        "unifyName": "营业性演出活动举办的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122012000",
+        "rightsId": "8794B3AA89039492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "d152db101ec64301b133ca9f8811f947",
+        "unifyName": "营业性演出活动变更的审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122012000",
+        "rightsId": "8794B3AA89039492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "12cc89c0aea246d4babaae7ea701830b",
+        "unifyName": "营业性演出活动增加演出地备案的审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122012000",
+        "rightsId": "8794B3AA89039492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "EL1ZaP-FS1CgcSJt5hJb9Q",
+        "unifyName": "营业性演出活动取消的审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122013000",
+        "rightsId": "8794B3AA89049492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "7376c86c75a546b98a92129e4d209fa1",
+        "unifyName": "歌舞娱乐场所从事娱乐场所经营活动设立的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122013000",
+        "rightsId": "8794B3AA89049492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "vHctGmjhSjSqFy4Wvs3pbA",
+        "unifyName": "游艺娱乐场所从事娱乐场所经营活动注销的审批",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122013000",
+        "rightsId": "8794B3AA89049492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "17fa12ec424b448dbd2e7e627faf6ee1",
+        "unifyName": "歌舞娱乐场所从事娱乐场所经营活动变更的审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122013000",
+        "rightsId": "8794B3AA89049492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "0448a83dba3b4d9ca02317af827758b4",
+        "unifyName": "歌舞娱乐场所从事娱乐场所经营活动延续的审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122013000",
+        "rightsId": "8794B3AA89049492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "44c9337280c341e39119e1fe157d36b5",
+        "unifyName": "歌舞娱乐场所从事娱乐场所经营活动补证的审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122013000",
+        "rightsId": "8794B3AA89049492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "140020eec0764236bd22c5b6a0586813",
+        "unifyName": "歌舞娱乐场所从事娱乐场所经营活动注销的审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122013000",
+        "rightsId": "8794B3AA89049492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "ADIvIf31RD6JOJPqx08fxQ",
+        "unifyName": "游艺娱乐场所从事娱乐场所经营活动设立的审批",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122013000",
+        "rightsId": "8794B3AA89049492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "xVCE0OASSsGw86ZnpEoSQg",
+        "unifyName": "游艺娱乐场所从事娱乐场所经营活动变更的审批",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122013000",
+        "rightsId": "8794B3AA89049492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "IV7S8pWBTqaVPe2BETuE_w",
+        "unifyName": "游艺娱乐场所从事娱乐场所经营活动延续的审批",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122013000",
+        "rightsId": "8794B3AA89049492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "GbjaErpZQt-GtdrRZP1kXw",
+        "unifyName": "游艺娱乐场所从事娱乐场所经营活动补证的审批",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122014000",
+        "rightsId": "8794B3AA89059492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "XEmCjeZhReqe_GsOKMeC4w",
+        "unifyName": "外商投资的歌舞娱乐场所从事娱乐场所经营活动设立的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122014000",
+        "rightsId": "8794B3AA89059492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "76OHUU04TAeSnjbYJrTg5A",
+        "unifyName": "外商投资的游艺娱乐场所从事娱乐场所经营活动注销的审批",
+        "ywCode": "10"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122014000",
+        "rightsId": "8794B3AA89059492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "bHdji-6OTem_ozLKPvXMgg",
+        "unifyName": "外商投资的歌舞娱乐场所从事娱乐场所经营活动变更的审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122014000",
+        "rightsId": "8794B3AA89059492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "JuuToubAQEKBYtiDBnBDyg",
+        "unifyName": "外商投资的歌舞娱乐场所从事娱乐场所经营活动延续的审批",
+        "ywCode": "03"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122014000",
+        "rightsId": "8794B3AA89059492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "qlpZF1PpR92jWi2YUiU4Pw",
+        "unifyName": "外商投资的歌舞娱乐场所从事娱乐场所经营活动补证的审批",
+        "ywCode": "04"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122014000",
+        "rightsId": "8794B3AA89059492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "vWHIm-DbRbyuRT2N7QRYjg",
+        "unifyName": "外商投资的歌舞娱乐场所从事娱乐场所经营活动注销的审批",
+        "ywCode": "05"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122014000",
+        "rightsId": "8794B3AA89059492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "YPFjUZRpQICa3ChZLkOcbA",
+        "unifyName": "外商投资的游艺娱乐场所从事娱乐场所经营活动设立的审批",
+        "ywCode": "06"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122014000",
+        "rightsId": "8794B3AA89059492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "CtfbRzDLRJmfDM_w0cFylQ",
+        "unifyName": "外商投资的游艺娱乐场所从事娱乐场所经营活动变更的审批",
+        "ywCode": "07"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122014000",
+        "rightsId": "8794B3AA89059492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "6jrz_eC9TWa7gAIV084a8A",
+        "unifyName": "外商投资的游艺娱乐场所从事娱乐场所经营活动延续的审批",
+        "ywCode": "08"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122014000",
+        "rightsId": "8794B3AA89059492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "W7hfpT2URmG4apFOsW0Dfg",
+        "unifyName": "外商投资的游艺娱乐场所从事娱乐场所经营活动补证的审批",
+        "ywCode": "09"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122015000",
+        "rightsId": "8794B3AA89069492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "a0d4581ffed34797ba73119ba80bc241",
+        "unifyName": "文艺表演团体从事营业性演出活动设立的审批",
+        "ywCode": "01"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122015000",
+        "rightsId": "8794B3AA89069492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "c3d14c61590949f396899ec62b7fa600",
+        "unifyName": "文艺表演团体从事营业性演出活动变更的审批",
+        "ywCode": "02"
+      },
+      {
+        "isonline": "1",
+        "minSeq": "0",
+        "rightsCode": "000122015000",
+        "rightsId": "8794B3AA89069492E053681515ACDDA6",
+        "transactLevel": "0",
+        "unifyId": "3507da25b260489a98efa6b27eb935b9",
+        "unifyName": "文艺表演团体从事营业性演出活动延续的审批",
+        "ywCode": "03"
+      }
+    ],
+    "pageIndex": 17,
+    "pageSize": 50,
+    "total": 2624,
+    "totalPage": 53
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}
