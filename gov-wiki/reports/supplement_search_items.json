@@ -1,0 +1,146 @@
+{
+  "schema": "hunan-gov-search-supplement-report/1.0",
+  "supplement_version": "1.0.0",
+  "crawler_version": "1.0.1",
+  "generated_at": "2026-07-21T07:23:31+00:00",
+  "candidate_file": "audit/search_only_candidates.json",
+  "policy": "approve_items_merged_theme_items_excluded",
+  "ordinary_candidate_count": 27,
+  "theme_candidate_count_excluded": 58,
+  "already_complete_before_run": 0,
+  "selected_this_run": 27,
+  "succeeded_count": 8,
+  "unavailable_count": 19,
+  "failed_count": 0,
+  "remaining_count": 19,
+  "network_requests": 27,
+  "cache_hits": 0,
+  "succeeded_ids": [
+    "-g9g2wsiS1COFw3XWLV-0g",
+    "8781545c39e2473da0251b3a0ac2e4b4",
+    "COPYLXbnRL6jBwsGgw7Ang",
+    "PBCYkAVoTniS93JdyrjZTA",
+    "Q-NQaXZ_Smm_t--xdqbawA",
+    "YHORhXY6Rpe9KmOlnL1KHg",
+    "dul_WRWjT9ioKqgX0QWLxw",
+    "ls2KyyHkQba9HbPxS8VyRQ"
+  ],
+  "unavailable_items": [
+    {
+      "service_id": "06d1771543d04988aa5c759b26a1ac38",
+      "title": "异地就医备案",
+      "error_type": "RuntimeError",
+      "message": "事项详情 06d1771543d04988aa5c759b26a1ac38 返回失败: 统一业务办理项查询为空。"
+    },
+    {
+      "service_id": "137d9730c56e4fd68845a5bda1747e82",
+      "title": "建设项目压覆战略性矿产资源审批",
+      "error_type": "RuntimeError",
+      "message": "事项详情 137d9730c56e4fd68845a5bda1747e82 返回失败: 统一业务办理项查询为空。"
+    },
+    {
+      "service_id": "2YR4SZLUQv-r7KTZA7-4Pg",
+      "title": "社会保险省外单位简易登记",
+      "error_type": "RuntimeError",
+      "message": "事项详情 2YR4SZLUQv-r7KTZA7-4Pg 返回失败: 统一业务办理项查询为空。"
+    },
+    {
+      "service_id": "31b56bafeb914c408a604c5a05df9739",
+      "title": "工伤保险待遇发放个人账户维护申请",
+      "error_type": "RuntimeError",
+      "message": "事项详情 31b56bafeb914c408a604c5a05df9739 返回失败: 统一业务办理项查询为空。"
+    },
+    {
+      "service_id": "3JP02g5MRKO-hHv3Jd7NVg",
+      "title": "临时用地审批（县级权限）（含临时建设用地规划许可）",
+      "error_type": "RuntimeError",
+      "message": "事项详情 3JP02g5MRKO-hHv3Jd7NVg 返回失败: 统一业务办理项查询为空。"
+    },
+    {
+      "service_id": "42f2b84607fc47b39d495c589eee0e65",
+      "title": "工伤保险待遇发放单位账户维护申请",
+      "error_type": "RuntimeError",
+      "message": "事项详情 42f2b84607fc47b39d495c589eee0e65 返回失败: 统一业务办理项查询为空。"
+    },
+    {
+      "service_id": "4852e8677eba4d4dbd4e0618f1c9fbda",
+      "title": "机关事业单位基本养老保险待遇申领",
+      "error_type": "RuntimeError",
+      "message": "事项详情 4852e8677eba4d4dbd4e0618f1c9fbda 返回失败: 统一业务办理项查询为空。"
+    },
+    {
+      "service_id": "601f7c0e5d04483982a57813f5c1d3d6",
+      "title": "工伤保险协议机构账户维护申请",
+      "error_type": "RuntimeError",
+      "message": "事项详情 601f7c0e5d04483982a57813f5c1d3d6 返回失败: 统一业务办理项查询为空。"
+    },
+    {
+      "service_id": "776rppLzTRSTlfePAk4YDQ",
+      "title": "临时用地审批（设区的市级权限）（含临时建设用地规划许可）",
+      "error_type": "RuntimeError",
+      "message": "事项详情 776rppLzTRSTlfePAk4YDQ 返回失败: 统一业务办理项查询为空。"
+    },
+    {
+      "service_id": "9441968d752c487c96fc66daa06825cd",
+      "title": "一般保护古生物化石发掘审批",
+      "error_type": "RuntimeError",
+      "message": "事项详情 9441968d752c487c96fc66daa06825cd 返回失败: 统一业务办理项查询为空。"
+    },
+    {
+      "service_id": "94d9a50601164a209577dcf068698219",
+      "title": "城乡居民养老保险注销登记",
+      "error_type": "RuntimeError",
+      "message": "事项详情 94d9a50601164a209577dcf068698219 返回失败: 统一业务办理项查询为空。"
+    },
+    {
+      "service_id": "9e4524481ec1464ebf81fe9660d54d48",
+      "title": "企业工伤保险信息补录",
+      "error_type": "RuntimeError",
+      "message": "事项详情 9e4524481ec1464ebf81fe9660d54d48 返回失败: 统一业务办理项查询为空。"
+    },
+    {
+      "service_id": "FfrBrHRMRFeds-3BxC-tLw",
+      "title": "工程建设项目职工参保登记（新增、续保）",
+      "error_type": "RuntimeError",
+      "message": "事项详情 FfrBrHRMRFeds-3BxC-tLw 返回失败: 统一业务办理项查询为空。"
+    },
+    {
+      "service_id": "PojsfBjCSD-9LjHFOXLamQ",
+      "title": "社会保险境外单位简易登记",
+      "error_type": "RuntimeError",
+      "message": "事项详情 PojsfBjCSD-9LjHFOXLamQ 返回失败: 统一业务办理项查询为空。"
+    },
+    {
+      "service_id": "_A9wivi_RTu2B0G2E_8GuQ",
+      "title": "工伤待遇续发",
+      "error_type": "RuntimeError",
+      "message": "事项详情 _A9wivi_RTu2B0G2E_8GuQ 返回失败: 统一业务办理项查询为空。"
+    },
+    {
+      "service_id": "a9074df481894e90be8b89c8d890044a",
+      "title": "失业保险农民合同制工人一次性生活补助金申领",
+      "error_type": "RuntimeError",
+      "message": "事项详情 a9074df481894e90be8b89c8d890044a 返回失败: 统一业务办理项查询为空。"
+    },
+    {
+      "service_id": "d221bd6e3652480ca173feb329f6231d",
+      "title": "协议机构就诊工伤保险待遇费用申报",
+      "error_type": "RuntimeError",
+      "message": "事项详情 d221bd6e3652480ca173feb329f6231d 返回失败: 统一业务办理项查询为空。"
+    },
+    {
+      "service_id": "db1287e32b9f485fa1cc7ffeca0478b1",
+      "title": "一般保护古生物化石出境审批",
+      "error_type": "RuntimeError",
+      "message": "事项详情 db1287e32b9f485fa1cc7ffeca0478b1 返回失败: 统一业务办理项查询为空。"
+    },
+    {
+      "service_id": "zZWSlcukTw2-Tn9E4Xs33A",
+      "title": "工伤保险同隶属单位间员工参保关系接续",
+      "error_type": "RuntimeError",
+      "message": "事项详情 zZWSlcukTw2-Tn9E4Xs33A 返回失败: 统一业务办理项查询为空。"
+    }
+  ],
+  "failures": [],
+  "catalog_item_count_after_run": 3135
+}

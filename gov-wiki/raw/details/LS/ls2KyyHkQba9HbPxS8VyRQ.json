@@ -1,0 +1,67 @@
+{
+  "code": 0,
+  "data": {
+    "according": "《国务院办公厅关于深入推行科技特派员制度的若干意见》（国办发〔2016〕32号）    涉及条款的具体内容：（三）切实提升农业科技创新支撑水平。要加快科技成果转化推广和产业化，为科技特派员农村科技创新提供技术支撑。（四）完善新型农业社会化科技服务体系。加快构建公益性与经营性相结合、专项服务与综合服务相协调的新型农业社会化科技服务体系，推动解决农技服务“最后一公里”问题。《中共湘西自治州委办公室  湘西自治州人民政府办公室  关于印发《湘西自治州“乡村育才聚才行动”实施方案（2021-2025年）》的通知》（州办发〔2021〕14 号）    涉及条款的具体内容：15.加强科技特派员队伍建设。完善科技特派员工作机制，推广利益共同体模式，大力选派科技特派员、“三区”科技人才进驻农村开展科技服务，支持科技特派员领办创办协办农民合作社、专业技术协会和农业产业化企业。",
+    "applicantDuty": "应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。",
+    "applicantPower": "依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。",
+    "approveLimit": "7",
+    "blbm": "市级null",
+    "commitmentLimit": "7",
+    "isonline": "是",
+    "lctList": [
+      {
+        "approveCode": "ls2KyyHkQba9HbPxS8VyRQ",
+        "approveId": "ls2KyyHkQba9HbPxS8VyRQ",
+        "bucketName": "zwfw202410",
+        "createTime": 1729480019000,
+        "flowc": "approve/2024-10-16-08/1729039515147$$流程图.png",
+        "id": "ecc9174927374fa1b600ec4b28bae9df",
+        "isDelete": "0",
+        "isExchange": "N",
+        "operateFlag": "N",
+        "updateTime": 1729480019000
+      }
+    ],
+    "materialList": [
+      {
+        "acceptStandard": "材料齐全",
+        "commitWay": "网上提交",
+        "copiesNum": 1.0,
+        "createDate": 1729480019000,
+        "freeSubmission": "电子证照代替",
+        "isDelete": "N",
+        "isMust": "非必要",
+        "materialApproveType": "证照",
+        "materialCode": "M432099019W000112",
+        "materialExplain": "按照法律法规规定应提交的材料",
+        "materialId": "045270fa83da41148d3d8bbed1a30656",
+        "materialStandard": "电子",
+        "materialTitle": "营业执照",
+        "materialType": "原件和复印件",
+        "pageformat": "A4",
+        "sourceChannel": "政府部门核发",
+        "sourceexplain": "政府部门核发",
+        "standardMaterialsCode": "L1000005",
+        "standardMaterialsId": "6306129FCA796E772F5E33",
+        "standardMaterialsName": "营业执照",
+        "standardMaterialsSource": "运维管理",
+        "unifyId": "ls2KyyHkQba9HbPxS8VyRQ",
+        "updateDate": 1751888897000
+      }
+    ],
+    "minSeq": "0",
+    "resultSampleName": "无",
+    "rightsCode": "432099019W00",
+    "rightsId": "o-1KEuMeSHOvwefVBWWNfg",
+    "schemeLevels": "市",
+    "serveObject": "个人/法人",
+    "transactionFrom": "窗口办理^网上办理",
+    "typeName": "公共服务",
+    "unifyId": "ls2KyyHkQba9HbPxS8VyRQ",
+    "unifyName": "湘西州“点单式”科技服务",
+    "ywCode": "01"
+  },
+  "error": false,
+  "msg": "返回成功",
+  "success": true
+}

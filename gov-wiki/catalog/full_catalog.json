@@ -1,11 +1,12 @@
 {
   "schema": "hunan-gov-catalog/1.0",
   "crawler_version": "1.0.1",
-  "generated_at": "2026-07-21T01:35:59+00:00",
+  "generated_at": "2026-07-21T07:23:31+00:00",
   "limited_run": false,
   "source": {
     "personal": "https://zwfw-new.hunan.gov.cn/hnywtb/service/index.html?type=gr",
-    "legal_entity": "https://zwfw-new.hunan.gov.cn/hnywtb/service/index.html?type=fr"
+    "legal_entity": "https://zwfw-new.hunan.gov.cn/hnywtb/service/index.html?type=fr",
+    "smart_search": "https://zwfw-new.hunan.gov.cn/ywtb/gov-search/index.html#/things"
   },
   "items": [
     {
@@ -446,6 +447,42 @@
           "service_type": "legal_entity",
           "category_code": "all",
           "page": 19
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "service_id": "-g9g2wsiS1COFw3XWLV-0g",
+      "title": "经济适用住房上市交易审核",
+      "service_types": [
+        "personal"
+      ],
+      "categories": [],
+      "rights_codes": [
+        "431017004W00"
+      ],
+      "rights_ids": [
+        "qbnWOH6lSEeMp3GlrIjbOg"
+      ],
+      "business_codes": [
+        "01"
+      ],
+      "list_flags": {
+        "is_online": [
+          "是"
+        ],
+        "transact_levels": [
+          "三级标准"
+        ],
+        "minimum_on_site_visits": [
+          "1"
+        ]
+      },
+      "observations": [
+        {
+          "source": "smart_search_supplement",
+          "search_type": "approve",
+          "search_type_name": "其他行政权力"
         }
       ],
       "conflicts": []
@@ -60340,6 +60377,41 @@
       "conflicts": []
     },
     {
+      "service_id": "8781545c39e2473da0251b3a0ac2e4b4",
+      "title": "专家工作站申请",
+      "service_types": [
+        "personal",
+        "legal_entity"
+      ],
+      "categories": [],
+      "rights_codes": [
+        "432099009W00"
+      ],
+      "rights_ids": [
+        "_TE8NXKOQ9KrpXbLBRnd-Q"
+      ],
+      "business_codes": [
+        "01"
+      ],
+      "list_flags": {
+        "is_online": [
+          "是"
+        ],
+        "transact_levels": [],
+        "minimum_on_site_visits": [
+          "0"
+        ]
+      },
+      "observations": [
+        {
+          "source": "smart_search_supplement",
+          "search_type": "approve",
+          "search_type_name": "公共服务"
+        }
+      ],
+      "conflicts": []
+    },
+    {
       "service_id": "879c34bbf4c74f5ba7cdd12fb59875f3",
       "title": "义诊活动备案",
       "service_types": [
@@ -75029,6 +75101,36 @@
       "conflicts": []
     },
     {
+      "service_id": "COPYLXbnRL6jBwsGgw7Ang",
+      "title": "人才认定申报",
+      "service_types": [
+        "legal_entity"
+      ],
+      "categories": [],
+      "rights_codes": [
+        "432099016W00"
+      ],
+      "rights_ids": [
+        "4Lk2wQKUThOvlDR2G8bbxg"
+      ],
+      "business_codes": [
+        "01"
+      ],
+      "list_flags": {
+        "is_online": [],
+        "transact_levels": [],
+        "minimum_on_site_visits": []
+      },
+      "observations": [
+        {
+          "source": "smart_search_supplement",
+          "search_type": "approve",
+          "search_type_name": "公共服务"
+        }
+      ],
+      "conflicts": []
+    },
+    {
       "service_id": "CW5iedhZTY-Z6p0ia8xr1Q",
       "title": "危险化学品经营许可延期",
       "service_types": [
@@ -89174,6 +89276,36 @@
       "conflicts": []
     },
     {
+      "service_id": "PBCYkAVoTniS93JdyrjZTA",
+      "title": "人才公寓入住申请",
+      "service_types": [
+        "legal_entity"
+      ],
+      "categories": [],
+      "rights_codes": [
+        "432099018W00"
+      ],
+      "rights_ids": [
+        "8H1_JlstQTWvfVa3Tn3K5A"
+      ],
+      "business_codes": [
+        "01"
+      ],
+      "list_flags": {
+        "is_online": [],
+        "transact_levels": [],
+        "minimum_on_site_visits": []
+      },
+      "observations": [
+        {
+          "source": "smart_search_supplement",
+          "search_type": "approve",
+          "search_type_name": "公共服务"
+        }
+      ],
+      "conflicts": []
+    },
+    {
       "service_id": "PCkoJDYvRc-zUpcJ9886Pg",
       "title": "船舶登记资料查询",
       "service_types": [
@@ -89823,6 +89955,40 @@
           "service_type": "personal",
           "category_code": "all",
           "page": 7
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "service_id": "Q-NQaXZ_Smm_t--xdqbawA",
+      "title": "引进高层次人才子女入学申请",
+      "service_types": [
+        "personal"
+      ],
+      "categories": [],
+      "rights_codes": [
+        "432099008W00"
+      ],
+      "rights_ids": [
+        "ul6xUF5tRe-vTikbRsSfCg"
+      ],
+      "business_codes": [
+        "01"
+      ],
+      "list_flags": {
+        "is_online": [
+          "是"
+        ],
+        "transact_levels": [
+          "三级标准"
+        ],
+        "minimum_on_site_visits": []
+      },
+      "observations": [
+        {
+          "source": "smart_search_supplement",
+          "search_type": "approve",
+          "search_type_name": "公共服务"
         }
       ],
       "conflicts": []
@@ -99360,6 +99526,38 @@
           "service_type": "legal_entity",
           "category_code": "all",
           "page": 14
+        }
+      ],
+      "conflicts": []
+    },
+    {
+      "service_id": "YHORhXY6Rpe9KmOlnL1KHg",
+      "title": "保靖县高层次人才公寓入住申请",
+      "service_types": [
+        "legal_entity"
+      ],
+      "categories": [],
+      "rights_codes": [
+        "432099010W00"
+      ],
+      "rights_ids": [
+        "6bUdTUiWSjWQClYEkAJtGQ"
+      ],
+      "business_codes": [
+        "01"
+      ],
+      "list_flags": {
+        "is_online": [
+          "否"
+        ],
+        "transact_levels": [],
+        "minimum_on_site_visits": []
+      },
+      "observations": [
+        {
+          "source": "smart_search_supplement",
+          "search_type": "approve",
+          "search_type_name": "公共服务"
         }
       ],
       "conflicts": []
@@ -130618,6 +130816,36 @@
       "conflicts": []
     },
     {
+      "service_id": "dul_WRWjT9ioKqgX0QWLxw",
+      "title": "人才补贴申请",
+      "service_types": [
+        "legal_entity"
+      ],
+      "categories": [],
+      "rights_codes": [
+        "432099017W00"
+      ],
+      "rights_ids": [
+        "4J2nl2WvR8OFb9gL46pFrw"
+      ],
+      "business_codes": [
+        "01"
+      ],
+      "list_flags": {
+        "is_online": [],
+        "transact_levels": [],
+        "minimum_on_site_visits": []
+      },
+      "observations": [
+        {
+          "source": "smart_search_supplement",
+          "search_type": "approve",
+          "search_type_name": "公共服务"
+        }
+      ],
+      "conflicts": []
+    },
+    {
       "service_id": "dweY4B8ZSOK-uoK9ppAxGw",
       "title": "民办非企业单位印章备案",
       "service_types": [
@@ -150350,6 +150578,41 @@
       "conflicts": []
     },
     {
+      "service_id": "ls2KyyHkQba9HbPxS8VyRQ",
+      "title": "湘西州“点单式”科技服务",
+      "service_types": [
+        "personal",
+        "legal_entity"
+      ],
+      "categories": [],
+      "rights_codes": [
+        "432099019W00"
+      ],
+      "rights_ids": [
+        "o-1KEuMeSHOvwefVBWWNfg"
+      ],
+      "business_codes": [
+        "01"
+      ],
+      "list_flags": {
+        "is_online": [
+          "是"
+        ],
+        "transact_levels": [],
+        "minimum_on_site_visits": [
+          "0"
+        ]
+      },
+      "observations": [
+        {
+          "source": "smart_search_supplement",
+          "search_type": "approve",
+          "search_type_name": "公共服务"
+        }
+      ],
+      "conflicts": []
+    },
+    {
       "service_id": "ltbNin-8Qouu6reQ-Am6qQ",
       "title": "经营高危险性体育项目许可（变更）",
       "service_types": [
@@ -167677,5 +167940,12 @@
       ],
       "conflicts": []
     }
-  ]
+  ],
+  "supplement": {
+    "version": "1.0.0",
+    "updated_at": "2026-07-21T07:23:31+00:00",
+    "candidate_source": "audit/search_only_candidates.json",
+    "ordinary_candidate_count": 27,
+    "theme_candidate_count_excluded": 58
+  }
 }
