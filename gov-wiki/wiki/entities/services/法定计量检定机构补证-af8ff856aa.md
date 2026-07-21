@@ -1,0 +1,107 @@
+---
+title: "法定计量检定机构补证"
+created: "2026-07-21"
+updated: "2026-07-21"
+type: "entity"
+tags: ["government-service", "detail-complete", "legal-entity-service", "administrative-license"]
+sources: ["raw/manifests/hunan-government-service-dataset.md"]
+confidence: "medium"
+service_id: "rLQQ-jcbT2mrSmCSkkmBxQ"
+service_objects: ["法人"]
+matter_type: "行政许可"
+organization: "湖南省市场监督管理局"
+department: "市场监管部门"
+implementation_level: "国家、省、市、县"
+categories: ["质量技术"]
+rights_codes: ["000131015000"]
+business_codes: ["02"]
+detail_status: "complete"
+official_url: "https://zwfw-new.hunan.gov.cn/hnywtb/service/guide.html?id=rLQQ-jcbT2mrSmCSkkmBxQ&type=fr&rightsCode=000131015000&ywCode=02"
+source_json: "raw/details/rL/rLQQ-jcbT2mrSmCSkkmBxQ.json"
+---
+
+# 法定计量检定机构补证
+
+> 法定计量检定机构补证，服务对象为法人，事项类型为行政许可，由湖南省市场监督管理局办理。
+
+## 基本信息
+
+| 项目 | 内容 |
+|---|---|
+| 服务对象 | 法人 |
+| 事项类型 | 行政许可 |
+| 实施机构 | 湖南省市场监督管理局 |
+| 主管部门 | 市场监管部门 |
+| 实施层级 | 国家、省、市、县 |
+| 办理范围 | 全省 |
+| 网上办理 | 是 |
+| 最少现场办理次数 | 0 |
+
+- 官网办理指南：[法定计量检定机构补证](https://zwfw-new.hunan.gov.cn/hnywtb/service/guide.html?id=rLQQ-jcbT2mrSmCSkkmBxQ&type=fr&rightsCode=000131015000&ywCode=02)
+
+## 受理条件
+
+1、具有法人资格，或者有独立建制，其负责人应当有法人代表的委托书，能独立公正地开展工作。
+2、在申请开展的项目上有相应的技术水平和计量管理能力。
+3、有与其申请开展的项目相适应的计量基、标准装置和配套设备。
+4、有能保证申请开展项目正常进行的工作环境和设施；
+5、有相应的质量保证体系。
+
+## 申请材料
+
+### 1. 《计量授权证书》补证申请表
+- 提交要求：必要性：必要；材料类型：原件；材料形式：纸质和电子；份数：3.0；来源渠道：申请人自备；提交方式：网上现场都可提交；纸张规格：A4
+- 说明：材料说明：暂无填报须知；来源说明：暂无来源渠道说明；受理标准：申请材料齐全、真实、准确
+- 材料依据：《法定计量检定机构考核规范》
+- 附件：[空白模板：行政许可补证申请书模板.doc](https://zwfw-new.hunan.gov.cn/picPathMapping?picPath=approve%2F2025-11-20-16%2F1763626924448%24%24%E7%A9%BA%E7%99%BD%E6%A8%A1%E6%9D%BF%EF%BC%9A%E8%A1%8C%E6%94%BF%E8%AE%B8%E5%8F%AF%E8%A1%A5%E8%AF%81%E7%94%B3%E8%AF%B7%E4%B9%A6%E6%A8%A1%E6%9D%BF.doc&bucketName=zwfw202511)；[模板：行政许可补证申请书模板.doc](https://zwfw-new.hunan.gov.cn/picPathMapping?picPath=approve%2F2025-11-20-16%2F1763626928824%24%24%E6%A8%A1%E6%9D%BF%EF%BC%9A%E8%A1%8C%E6%94%BF%E8%AE%B8%E5%8F%AF%E8%A1%A5%E8%AF%81%E7%94%B3%E8%AF%B7%E4%B9%A6%E6%A8%A1%E6%9D%BF.doc&bucketName=zwfw202511)
+
+## 办理流程
+
+- [查看办理流程图](https://zwfw-new.hunan.gov.cn/picPathMapping?picPath=approve%2F2021-07-20-09%2F1626744641763%24%24%E6%B5%81%E7%A8%8B%E5%9B%BE.png&bucketName=zwfw202107)
+
+## 办理时限与费用
+
+| 项目 | 官网数据 |
+|---|---|
+| 法定办结时限 | 35 |
+| 法定时限说明 | 不含特别程序所需时间 |
+| 承诺办结时限 | 10 |
+| 承诺时限说明 | 不含特别程序所需时间 |
+| 是否收费 | 否 |
+| 是否需要特别程序 | 是 |
+| 特别程序类型 | 专家评审 |
+| 特别程序时限 | 90 |
+| 是否涉及中介服务 | 无 |
+
+> 时限单位仅按官网原始字段展示；原始数据未明确单位时，本页不作推测。
+
+## 办理结果
+
+- 结果名称：计量授权证书
+- [计量授权证书](https://zwfw-new.hunan.gov.cn/picPathMapping?picPath=approve%2F2025-11-20-16%2F1763626908685%24%24%E8%AE%A1%E9%87%8F%E6%8E%88%E6%9D%83%E8%AF%81%E4%B9%A6.pdf&bucketName=zwfw202511)
+
+## 法律依据
+
+《中华人民共和国计量法》第二十条：“县级以上人民政府计量行政部门可以根据需要设置计量检定机构，或者授权其他单位的计量检定机构，执行强制检定和其他检定、测试任务。”
+
+## 申请人权利与义务
+
+### 权利
+
+依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。
+
+### 义务
+
+应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。
+
+## 相关页面
+
+- [[concepts/service-objects/legal-entity-service|法人服务]]
+- [[concepts/matter-types/行政许可-d9802acb66|行政许可]]
+- [[concepts/categories/legal_entity-质量技术-2958b4b977|质量技术]]
+
+## 数据说明
+
+- 原始JSON：`raw/details/rL/rLQQ-jcbT2mrSmCSkkmBxQ.json`
+- 官方页面：[法定计量检定机构补证](https://zwfw-new.hunan.gov.cn/hnywtb/service/guide.html?id=rLQQ-jcbT2mrSmCSkkmBxQ&type=fr&rightsCode=000131015000&ywCode=02)
+- 本页由程序按官网结构化数据生成；缺失字段不推测，实际办理要求以官网最新页面为准。

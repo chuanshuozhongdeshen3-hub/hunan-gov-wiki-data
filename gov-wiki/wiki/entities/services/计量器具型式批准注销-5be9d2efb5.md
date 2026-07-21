@@ -1,0 +1,106 @@
+---
+title: "计量器具型式批准注销"
+created: "2026-07-21"
+updated: "2026-07-21"
+type: "entity"
+tags: ["government-service", "detail-complete", "legal-entity-service", "administrative-license"]
+sources: ["raw/manifests/hunan-government-service-dataset.md"]
+confidence: "medium"
+service_id: "WfDOvmeaSc-NhXtAym2lfQ"
+service_objects: ["法人"]
+matter_type: "行政许可"
+organization: "湖南省市场监督管理局"
+department: "市场监管部门"
+implementation_level: "国家、省"
+categories: ["质量技术"]
+rights_codes: ["000131013000"]
+business_codes: ["03"]
+detail_status: "complete"
+official_url: "https://zwfw-new.hunan.gov.cn/hnywtb/service/guide.html?id=WfDOvmeaSc-NhXtAym2lfQ&type=fr&rightsCode=000131013000&ywCode=03"
+source_json: "raw/details/Wf/WfDOvmeaSc-NhXtAym2lfQ.json"
+---
+
+# 计量器具型式批准注销
+
+> 计量器具型式批准注销，服务对象为法人，事项类型为行政许可，由湖南省市场监督管理局办理。
+
+## 基本信息
+
+| 项目 | 内容 |
+|---|---|
+| 服务对象 | 法人 |
+| 事项类型 | 行政许可 |
+| 实施机构 | 湖南省市场监督管理局 |
+| 主管部门 | 市场监管部门 |
+| 实施层级 | 国家、省 |
+| 办理范围 | 全国 |
+| 网上办理 | 是 |
+| 最少现场办理次数 | 0 |
+
+- 官网办理指南：[计量器具型式批准注销](https://zwfw-new.hunan.gov.cn/hnywtb/service/guide.html?id=WfDOvmeaSc-NhXtAym2lfQ&type=fr&rightsCode=000131013000&ywCode=03)
+
+## 受理条件
+
+1、企业事业单位申请者在湖南省行政区域内从事制造计量器具工作；
+2、企事业单位申请者必须具有独立的法人资格；
+3、企事业单位申请者必须提供型式批准（定型鉴定、样机试验）所需的样机，必须由本单位自己生产，数量一般不少于3台。
+
+## 申请材料
+
+### 1. 型式批准证书注销申请表
+- 提交要求：必要性：必要；材料类型：原件；材料形式：纸质和电子；份数：3.0；来源渠道：申请人自备；提交方式：网上现场都可提交；纸张规格：A4
+- 说明：材料说明：暂无填报须知；来源说明：暂无来源渠道说明；受理标准：申请材料齐全、真实、准确
+- 材料依据：《行政许可法》
+- 附件：[注销申请书（空白）.doc](https://zwfw-new.hunan.gov.cn/picPathMapping?picPath=approve%2F2025-11-20-09%2F1763603093027%24%24%E6%B3%A8%E9%94%80%E7%94%B3%E8%AF%B7%E4%B9%A6%EF%BC%88%E7%A9%BA%E7%99%BD%EF%BC%89.doc&bucketName=zwfw202511)；[注销申请书（示例）.pdf](https://zwfw-new.hunan.gov.cn/picPathMapping?picPath=approve%2F2025-11-20-09%2F1763603097646%24%24%E6%B3%A8%E9%94%80%E7%94%B3%E8%AF%B7%E4%B9%A6%EF%BC%88%E7%A4%BA%E4%BE%8B%EF%BC%89.pdf&bucketName=zwfw202511)
+
+## 办理流程
+
+- [查看办理流程图](https://zwfw-new.hunan.gov.cn/picPathMapping?picPath=approve%2F2021-07-20-10%2F1626747893163%24%24%E6%B5%81%E7%A8%8B%E5%9B%BE.png&bucketName=zwfw202107)
+
+## 办理时限与费用
+
+| 项目 | 官网数据 |
+|---|---|
+| 法定办结时限 | 35 |
+| 法定时限说明 | 不含特别程序所需时间 |
+| 承诺办结时限 | 10 |
+| 承诺时限说明 | 不含特别程序所需时间 |
+| 是否收费 | 否 |
+| 是否需要特别程序 | 是 |
+| 特别程序类型 | 检验 |
+| 特别程序时限 | 270 |
+| 是否涉及中介服务 | 无 |
+
+> 时限单位仅按官网原始字段展示；原始数据未明确单位时，本页不作推测。
+
+## 办理结果
+
+- 结果名称：计量器具型式批准证书
+- [计量器具型式批准证书](https://zwfw-new.hunan.gov.cn/picPathMapping?picPath=approve%2F2025-11-20-09%2F1763603071553%24%24%E5%9E%8B%E5%BC%8F%E6%89%B9%E5%87%86%E8%AF%81%E4%B9%A6%EF%BC%88%E7%BB%93%E6%9E%9C%E6%A0%B7%E6%9C%AC%E8%84%B1%E6%95%8F%EF%BC%89.pdf&bucketName=zwfw202511)
+
+## 法律依据
+
+《中华人民共和国计量法》第十三条：“制造计量器具的企业、事业单位生产本单位未生产过的计量器具新产品，必须经省级以上人民政府计量行政部门对其样品的计量性能考核合格，方可投入生产。”
+《中华人民共和国计量法实施细则》第十九条：外商在中国销售计量器具，须比照本细则第十五条规定向国务院计量行政主管部门申请型式批准。
+
+## 申请人权利与义务
+
+### 权利
+
+依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。
+
+### 义务
+
+应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。
+
+## 相关页面
+
+- [[concepts/service-objects/legal-entity-service|法人服务]]
+- [[concepts/matter-types/行政许可-d9802acb66|行政许可]]
+- [[concepts/categories/legal_entity-质量技术-2958b4b977|质量技术]]
+
+## 数据说明
+
+- 原始JSON：`raw/details/Wf/WfDOvmeaSc-NhXtAym2lfQ.json`
+- 官方页面：[计量器具型式批准注销](https://zwfw-new.hunan.gov.cn/hnywtb/service/guide.html?id=WfDOvmeaSc-NhXtAym2lfQ&type=fr&rightsCode=000131013000&ywCode=03)
+- 本页由程序按官网结构化数据生成；缺失字段不推测，实际办理要求以官网最新页面为准。

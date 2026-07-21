@@ -1,0 +1,95 @@
+---
+title: "对营业性演出举报人的奖励"
+created: "2026-07-21"
+updated: "2026-07-21"
+type: "entity"
+tags: ["government-service", "detail-complete", "personal-service", "administrative-reward"]
+sources: ["raw/manifests/hunan-government-service-dataset.md"]
+confidence: "medium"
+service_id: "3vfcf-Q_SZ-LUtRtwuQBAA"
+service_objects: ["个人"]
+matter_type: "行政奖励"
+organization: "湖南省文化和旅游厅"
+department: "文化和旅游部门"
+implementation_level: "省、市、县"
+categories: ["其他"]
+rights_codes: ["000822004000"]
+business_codes: ["01"]
+detail_status: "complete"
+official_url: "https://zwfw-new.hunan.gov.cn/hnywtb/service/guide.html?id=3vfcf-Q_SZ-LUtRtwuQBAA&type=gr&rightsCode=000822004000&ywCode=01"
+source_json: "raw/details/3v/3vfcf-Q_SZ-LUtRtwuQBAA.json"
+---
+
+# 对营业性演出举报人的奖励
+
+> 对营业性演出举报人的奖励，服务对象为个人，事项类型为行政奖励，由湖南省文化和旅游厅办理。
+
+## 基本信息
+
+| 项目 | 内容 |
+|---|---|
+| 服务对象 | 个人 |
+| 事项类型 | 行政奖励 |
+| 实施机构 | 湖南省文化和旅游厅 |
+| 主管部门 | 文化和旅游部门 |
+| 实施层级 | 省、市、县 |
+| 办理范围 | 全省 |
+| 网上办理 | 是 |
+| 最少现场办理次数 | 0 |
+
+- 官网办理指南：[对营业性演出举报人的奖励](https://zwfw-new.hunan.gov.cn/hnywtb/service/guide.html?id=3vfcf-Q_SZ-LUtRtwuQBAA&type=gr&rightsCode=000822004000&ywCode=01)
+
+## 受理条件
+
+《营业性演出管理条例》（2005年7月7日中华人民共和国国务院令第439号公布。根据2008年7月22日国务院令第528号《国务院关于修改的决定》修订。根据2013年7月18日国务院令第638号《国务院关于废止和修改部分行政法规的决定》修订。根据2016年2月6日国务院令第666号《国务院关于修改部分行政法规的决定》修订。）第三十四条 县级以上地方人民政府文化主管部门应当充分发挥文化执法机构的作用，并可以聘请社会义务监督员对营业性演出进行监督。任何单位或者个人可以采取电话、手机短信等方式举报违反本条例规定的行为。县级以上地方人民政府文化主管部门应当向社会公布举报电话，并保证随时有人接听。县级以上地方人民政府文化主管部门接到社会义务监督员的报告或者公众的举报，应当作出记录，立即赶赴现场进行调查、处理，并自处理完毕之日起7日内公布结果。县级以上地方人民政府文化主管部门对作出突出贡献的社会义务监督员应当给予表彰；公众举报经调查核实的，应当对举报人给予奖励。
+
+## 申请材料
+
+### 1. 对营业性演出活动举报申请
+- 提交要求：必要性：必要；材料类型：原件；材料形式：纸质和电子；份数：1.0；来源渠道：申请人自备；提交方式：网上现场都可提交；纸张规格：A4
+- 说明：材料说明：暂无填报须知；来源说明：暂无来源渠道说明；受理标准：暂无受理标准
+
+## 办理流程
+
+- [查看办理流程图](https://zwfw-new.hunan.gov.cn/picPathMapping?picPath=approve%2F2021-06-25-11%2F1624592651354%24%24d481bd1559966ab283adb2a8f2a7394.png&bucketName=zwfw202106)
+
+## 办理时限与费用
+
+| 项目 | 官网数据 |
+|---|---|
+| 法定办结时限 | 20 |
+| 法定时限说明 | 无 |
+| 承诺办结时限 | 12 |
+| 承诺时限说明 | 无 |
+| 是否收费 | 否 |
+| 是否需要特别程序 | 否 |
+| 是否涉及中介服务 | 无 |
+
+> 时限单位仅按官网原始字段展示；原始数据未明确单位时，本页不作推测。
+
+## 法律依据
+
+【行政法规】《营业性演出管理条例》(国务院令第528号发布，第666号予以修改)
+第三十五条第三款第二项县级以上地方人民政府文化主管部门对作出突出贡献的社会义务监督员应当给予表彰；公众举报经调查核实的，应当对举报人给予奖励。
+
+## 申请人权利与义务
+
+### 权利
+
+依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。
+
+### 义务
+
+应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。
+
+## 相关页面
+
+- [[concepts/service-objects/personal-service|个人服务]]
+- [[concepts/matter-types/行政奖励-0b5d8743e0|行政奖励]]
+- [[concepts/categories/personal-其他-6c35deb2ea|其他]]
+
+## 数据说明
+
+- 原始JSON：`raw/details/3v/3vfcf-Q_SZ-LUtRtwuQBAA.json`
+- 官方页面：[对营业性演出举报人的奖励](https://zwfw-new.hunan.gov.cn/hnywtb/service/guide.html?id=3vfcf-Q_SZ-LUtRtwuQBAA&type=gr&rightsCode=000822004000&ywCode=01)
+- 本页由程序按官网结构化数据生成；缺失字段不推测，实际办理要求以官网最新页面为准。

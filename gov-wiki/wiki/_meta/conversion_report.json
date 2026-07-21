@@ -1,0 +1,33 @@
+{
+  "schema": "hunan-gov-wiki-conversion-report/1.0",
+  "converter_version": "1.0.0",
+  "generated_at": "2026-07-21T07:46:21+00:00",
+  "mode": "full",
+  "input_enriched_items": 3135,
+  "valid_detail_items": 3135,
+  "converted_service_pages": 3135,
+  "supplemental_pages": 257,
+  "supplemental_page_counts": {
+    "government_service_conditions": 12,
+    "government_service_legal_basis": 1,
+    "government_service_materials": 244
+  },
+  "converted_theme_pages": 58,
+  "ordinary_search_candidates_not_converted": 19,
+  "skipped_detail_count": 0,
+  "skipped_details": [],
+  "rag_record_count": 3450,
+  "lint": {
+    "markdown_file_count": 3568,
+    "broken_wikilink_count": 0,
+    "broken_wikilinks": [],
+    "frontmatter_error_count": 0,
+    "frontmatter_errors": [],
+    "pages_over_200_lines_count": 0,
+    "pages_over_200_lines": [],
+    "entity_pages_missing_from_subindexes_count": 0,
+    "entity_pages_missing_from_subindexes": [],
+    "stale_generated_page_count": 0,
+    "stale_generated_pages": []
+  }
+}

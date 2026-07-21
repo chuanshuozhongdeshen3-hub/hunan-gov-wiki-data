@@ -1,0 +1,107 @@
+---
+title: "基金会账户备案"
+created: "2026-07-21"
+updated: "2026-07-21"
+type: "entity"
+tags: ["government-service", "detail-complete", "legal-entity-service", "other-administrative-power"]
+sources: ["raw/manifests/hunan-government-service-dataset.md"]
+confidence: "medium"
+service_id: "wM1rT5CXT1esVakArAoXyQ"
+service_objects: ["法人"]
+matter_type: "其他行政权力"
+organization: "湖南省民政厅"
+department: "民政部门"
+implementation_level: "省、市、县"
+categories: ["其他"]
+rights_codes: ["431011058W00"]
+business_codes: ["02"]
+detail_status: "complete"
+official_url: "https://zwfw-new.hunan.gov.cn/hnywtb/service/guide.html?id=wM1rT5CXT1esVakArAoXyQ&type=fr&rightsCode=431011058W00&ywCode=02"
+source_json: "raw/details/wM/wM1rT5CXT1esVakArAoXyQ.json"
+---
+
+# 基金会账户备案
+
+> 基金会账户备案，服务对象为法人，事项类型为其他行政权力，由湖南省民政厅办理。
+
+## 基本信息
+
+| 项目 | 内容 |
+|---|---|
+| 服务对象 | 法人 |
+| 事项类型 | 其他行政权力 |
+| 实施机构 | 湖南省民政厅 |
+| 主管部门 | 民政部门 |
+| 实施层级 | 省、市、县 |
+| 办理范围 | 全国 |
+| 网上办理 | 是 |
+| 最少现场办理次数 | 0 |
+
+- 官网办理指南：[基金会账户备案](https://zwfw-new.hunan.gov.cn/hnywtb/service/guide.html?id=wM1rT5CXT1esVakArAoXyQ&type=fr&rightsCode=431011058W00&ywCode=02)
+
+## 受理条件
+
+基金会印章、账户等事项发生变动或新成立基金会的上述有关事项
+
+## 申请材料
+
+### 1. 银行账户证明材料
+- 提交要求：必要性：必要；材料类型：原件和复印件；材料形式：纸质和电子；份数：1.0；来源渠道：申请人自备；提交方式：网上现场都可提交；纸张规格：A4
+- 说明：材料说明：按照法律法规规定应提交的材料；来源说明：申请人自备；受理标准：材料齐全
+
+## 办理流程
+
+网上提交备案事项——网上初审受理——打印纸质版材料送来备案
+
+- [查看办理流程图](https://zwfw-new.hunan.gov.cn/picPathMapping?picPath=approve%2F2021-10-10-10%2F1633833124264%24%24%E5%9F%BA%E9%87%91%E4%BC%9A%E5%A4%87%E6%A1%88%E6%B5%81%E7%A8%8B%E5%9B%BE.jpg&bucketName=zwfw202110)
+
+## 办理时限与费用
+
+| 项目 | 官网数据 |
+|---|---|
+| 法定办结时限 | 10 |
+| 法定时限说明 | 有时限，10日 |
+| 承诺办结时限 | 5 |
+| 承诺时限说明 | 有时限，1日 |
+| 是否收费 | 否 |
+| 是否需要特别程序 | 否 |
+| 是否涉及中介服务 | 无 |
+
+> 时限单位仅按官网原始字段展示；原始数据未明确单位时，本页不作推测。
+
+## 法律依据
+
+1.《基金会管理条例》( 中华人民共和国国务院令〔2004〕400号 ) 第六条 国务院民政部门和省、自治区、直辖市人民政府民政部门是基金会的登记管理机关。
+国务院民政部门负责下列基金会、基金会代表机构的登记管理工作：
+(一)全国性公募基金会
+(二)拟由非内地居民担任法定代表人的基金会；
+(三)原始基金超过2000万元，发起人向国务院民政部门提出设立申请的非公募基金会
+(四)境外基金会在中国内地设立的代表机构。
+省、自治区、直辖市人民政府民政部门负责本行政区域内地方性公募基金会和不属于前款规定情况的非公募基金会的登记管理工作。
+第十四条 基金会、境外基金会代表机构依照本条例登记后，应当依法办理税务登记。
+基金会、境外基金会代表机构，凭登记证书依法申请组织机构代码、刻制印章、开立银行账户。
+基金会、境外基金会代表机构应当将组织机构代码、印章式样、银行账号以及税务登记证件复印件报登记管理机关备案。
+第十五条 基金会、基金会分支机构、基金会代表机构和境外基金会代表机构的登记事项需要变更的，应当向登记管理机关申请变更登记。
+2.《关于加强和创新社会组织建设与管理的意见》（湘办发〔2014〕7号）第五条 下放登记审批权限。市州、县市区民政部门可以登记基金会和异地商会。允许民办非企业单位以某一服务品牌在其活动区域内形成连锁服务。社会团体的分支(代表)机构、内设机构根据其章程、业务范围和会员主体自行设立。
+
+## 申请人权利与义务
+
+### 权利
+
+依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。
+
+### 义务
+
+应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。
+
+## 相关页面
+
+- [[concepts/service-objects/legal-entity-service|法人服务]]
+- [[concepts/matter-types/其他行政权力-c4bc8a6938|其他行政权力]]
+- [[concepts/categories/legal_entity-其他-1bcf7cf0c5|其他]]
+
+## 数据说明
+
+- 原始JSON：`raw/details/wM/wM1rT5CXT1esVakArAoXyQ.json`
+- 官方页面：[基金会账户备案](https://zwfw-new.hunan.gov.cn/hnywtb/service/guide.html?id=wM1rT5CXT1esVakArAoXyQ&type=fr&rightsCode=431011058W00&ywCode=02)
+- 本页由程序按官网结构化数据生成；缺失字段不推测，实际办理要求以官网最新页面为准。

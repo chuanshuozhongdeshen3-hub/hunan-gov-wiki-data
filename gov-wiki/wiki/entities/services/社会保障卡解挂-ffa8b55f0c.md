@@ -1,0 +1,109 @@
+---
+title: "社会保障卡解挂"
+created: "2026-07-21"
+updated: "2026-07-21"
+type: "entity"
+tags: ["government-service", "detail-complete", "personal-service", "public-service"]
+sources: ["raw/manifests/hunan-government-service-dataset.md"]
+confidence: "medium"
+service_id: "yEsgKXhiSu6NQ1sMuVYkSg"
+service_objects: ["个人"]
+matter_type: "公共服务"
+organization: "湖南省人力资源和社会保障厅"
+department: "人力资源社会保障部门"
+implementation_level: "省、市、县、镇"
+categories: ["社会保障（社会保险、社会救助）"]
+rights_codes: ["002014010007"]
+business_codes: ["02"]
+detail_status: "complete"
+official_url: "https://zwfw-new.hunan.gov.cn/hnywtb/service/guide.html?id=yEsgKXhiSu6NQ1sMuVYkSg&type=gr&rightsCode=002014010007&ywCode=02"
+source_json: "raw/details/yE/yEsgKXhiSu6NQ1sMuVYkSg.json"
+---
+
+# 社会保障卡解挂
+
+> 社会保障卡解挂，服务对象为个人，事项类型为公共服务，由湖南省人力资源和社会保障厅办理。
+
+## 基本信息
+
+| 项目 | 内容 |
+|---|---|
+| 服务对象 | 个人 |
+| 事项类型 | 公共服务 |
+| 实施机构 | 湖南省人力资源和社会保障厅 |
+| 主管部门 | 人力资源社会保障部门 |
+| 实施层级 | 省、市、县、镇 |
+| 办理范围 | 全省 |
+| 网上办理 | 是 |
+| 最少现场办理次数 | 0 |
+
+- 官网办理指南：[社会保障卡解挂](https://zwfw-new.hunan.gov.cn/hnywtb/service/guide.html?id=yEsgKXhiSu6NQ1sMuVYkSg&type=gr&rightsCode=002014010007&ywCode=02)
+
+## 受理条件
+
+社保丢失时，个人线上办理临时挂失，针对社保功能临时挂失。解除挂失后，社保卡功能恢复正常。
+
+## 申请材料
+
+### 1. 申请人身份证明
+- 提交要求：必要性：非必要；材料类型：原件；材料形式：电子；份数：1.0；来源渠道：政府部门核发；提交方式：网上现场都可提交；纸张规格：A4
+- 说明：材料说明：按照法律法规规定应提交的材料；来源说明：提供以下三个证件材料之一： 1.居民身份证 2.港澳台居民居住证 3.外国人永久居留身份证；受理标准：材料齐全，内容真实
+- 材料依据：关于印发《湖南省社会保障卡服务规范》、《湖南省社会保障卡预制卡管理办法》和《湖南省社会保障卡建设项目合作协议书（范本）》的通知 湘人社发〔2019〕63号
+
+## 办理流程
+
+1、受理
+2、审核
+3、办结
+
+- [查看办理流程图](https://zwfw-new.hunan.gov.cn/picPathMapping?picPath=approve%2F2021-07-22-15%2F1626939826781%24%24%E5%9B%BE%E7%89%874.png&bucketName=zwfw202107)
+
+## 办理时限与费用
+
+| 项目 | 官网数据 |
+|---|---|
+| 法定办结时限 | 1 |
+| 法定时限说明 | 无 |
+| 承诺办结时限 | 1 |
+| 承诺时限说明 | 无 |
+| 是否收费 | 否 |
+| 是否需要特别程序 | 否 |
+| 是否涉及中介服务 | 无 |
+
+> 时限单位仅按官网原始字段展示；原始数据未明确单位时，本页不作推测。
+
+## 法律依据
+
+1.《关于印发“中华人民共和国社会保障卡”管理办法的通知》（人社部发〔2011〕47号）第二章：发行管理；第三章：
+制作管理；第四章：应用管理。
+2.《关于社会保障卡加载金融功能的通知》（人社部发〔2011〕83号）二、功能定位：社会保障卡加载金融功能主要通过
+在社会保障卡上加载银行业务应用实现。加载金融功能后的社会保障卡，作为持卡人享有社会保障和公共就业服务权益
+的电子凭证，具有信息记录、信息查询、业务办理等社会保障卡基本功能的同时，可作为银行卡使用，具有现金存取、
+转账、消费等金融功能。具有金融功能的社会保障卡的金融应用为人民币借记应用，暂不支持贷记功能。芯片中应同时
+包含人力资源社会保障应用和金融应用。
+3.《关于印发社会保障卡发行管理流程的通知》（人社厅发〔2014〕20号）全文。
+4.《关于加快推进社会保障卡应用的意见》（人社部发〔2014〕52号）全文。
+5. LD/T 32—2015《社会保障卡规范》全文。
+6. LD/T 33—2015《社会保障卡读写终端规范》全文。
+
+## 申请人权利与义务
+
+### 权利
+
+依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。
+
+### 义务
+
+应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。
+
+## 相关页面
+
+- [[concepts/service-objects/personal-service|个人服务]]
+- [[concepts/matter-types/公共服务-3deae16f1a|公共服务]]
+- [[concepts/categories/personal-社会保障-社会保险-社会救助-ca709ed297|社会保障（社会保险、社会救助）]]
+
+## 数据说明
+
+- 原始JSON：`raw/details/yE/yEsgKXhiSu6NQ1sMuVYkSg.json`
+- 官方页面：[社会保障卡解挂](https://zwfw-new.hunan.gov.cn/hnywtb/service/guide.html?id=yEsgKXhiSu6NQ1sMuVYkSg&type=gr&rightsCode=002014010007&ywCode=02)
+- 本页由程序按官网结构化数据生成；缺失字段不推测，实际办理要求以官网最新页面为准。

@@ -1,0 +1,100 @@
+---
+title: "《外国留学人员来华签证申请表》（JW202表）核准"
+created: "2026-07-21"
+updated: "2026-07-21"
+type: "entity"
+tags: ["government-service", "detail-complete", "personal-service", "public-service"]
+sources: ["raw/manifests/hunan-government-service-dataset.md"]
+confidence: "medium"
+service_id: "56b258980cab4bd9bbaad7e22e44c7ee"
+service_objects: ["个人"]
+matter_type: "公共服务"
+organization: "湖南省教育厅"
+department: "教育部门"
+implementation_level: "省"
+categories: ["教育科研"]
+rights_codes: ["432005601W00"]
+business_codes: ["02"]
+detail_status: "complete"
+official_url: "https://zwfw-new.hunan.gov.cn/hnywtb/service/guide.html?id=56b258980cab4bd9bbaad7e22e44c7ee&type=gr&rightsCode=432005601W00&ywCode=02"
+source_json: "raw/details/56/56b258980cab4bd9bbaad7e22e44c7ee.json"
+---
+
+# 《外国留学人员来华签证申请表》（JW202表）核准
+
+> 《外国留学人员来华签证申请表》（JW202表）核准，服务对象为个人，事项类型为公共服务，由湖南省教育厅办理。
+
+## 基本信息
+
+| 项目 | 内容 |
+|---|---|
+| 服务对象 | 个人 |
+| 事项类型 | 公共服务 |
+| 实施机构 | 湖南省教育厅 |
+| 主管部门 | 教育部门 |
+| 实施层级 | 省 |
+| 办理范围 | 全省 |
+| 网上办理 | 是 |
+| 最少现场办理次数 | 0 |
+
+- 官网办理指南：[《外国留学人员来华签证申请表》（JW202表）核准](https://zwfw-new.hunan.gov.cn/hnywtb/service/guide.html?id=56b258980cab4bd9bbaad7e22e44c7ee&type=gr&rightsCode=432005601W00&ywCode=02)
+
+## 受理条件
+
+具有中华人民共和国国籍、不具有国外永久居留权的高等学校、企事业单位、行政机关、科研机构的正式工作人员或在校学生，年龄满18周岁。
+
+## 申请材料
+
+本事项共有16项申请材料，详见：
+
+- [[entities/services/外国留学人员来华签证申请表-jw202表-核准-bce16df16d-materials|《外国留学人员来华签证申请表》（JW202表）核准—申请材料]]
+
+## 办理流程
+
+申请人通过学校提交申请，教育主管部门受理、审核、办结
+
+- [查看办理流程图](https://zwfw-new.hunan.gov.cn/picPathMapping?picPath=approve%2F2024-11-25-16%2F1732523929402%24%24%E3%80%8A%E5%A4%96%E5%9B%BD%E7%95%99%E5%AD%A6%E4%BA%BA%E5%91%98%E6%9D%A5%E5%8D%8E%E7%AD%BE%E8%AF%81%E7%94%B3%E8%AF%B7%E8%A1%A8%E3%80%8B%EF%BC%88JW202%E8%A1%A8%EF%BC%89%E6%A0%B8%E5%87%86.png&bucketName=zwfw202411)
+
+## 办理时限与费用
+
+| 项目 | 官网数据 |
+|---|---|
+| 法定办结时限 | 5 |
+| 法定时限说明 | 暂无法定办结说明 |
+| 承诺办结时限 | 5 |
+| 承诺时限说明 | 暂无承诺办结说明 |
+| 是否收费 | 否 |
+| 是否需要特别程序 | 否 |
+| 是否涉及中介服务 | 无 |
+
+> 时限单位仅按官网原始字段展示；原始数据未明确单位时，本页不作推测。
+
+## 办理结果
+
+- 结果名称：《外国留学人员来华签证申请表》（JW202表）
+
+## 法律依据
+
+《2020年国家留学基金资助出国留学人员选派简章》（暂无）第一条 深入贯彻落实习近平新时代中国特色社会主义思想，服务国家战 略，面向国家需求，为全面建设社会主义现代化国家提供人才支撑，为构建人类 命运共同体搭建中外人文交流平台，推动国家公派留学在国家总体战略和新时代 教育对外开放中发挥更大作用。《高等学校接受外国留学生管理规定》（(中华人民共和国教育部 中华人民共和国外交部 中华人民共和国公安部令 〔2000〕第9号））第七条 高等学校接受外国留学生，由省、自治区、直辖市教育行政部门会同同级外事和公安部门审批，并报教育部备案。高等学校接受享受中国政府奖学金的外国留学生，由教育部审批。
+
+## 申请人权利与义务
+
+### 权利
+
+依法享有知情权、陈述权、申辩权，有权依法申请行政复议或者提起行政诉讼。
+
+### 义务
+
+应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。
+
+## 相关页面
+
+- [[concepts/service-objects/personal-service|个人服务]]
+- [[concepts/matter-types/公共服务-3deae16f1a|公共服务]]
+- [[concepts/categories/personal-教育科研-bdc5080d2d|教育科研]]
+
+## 数据说明
+
+- 原始JSON：`raw/details/56/56b258980cab4bd9bbaad7e22e44c7ee.json`
+- 官方页面：[《外国留学人员来华签证申请表》（JW202表）核准](https://zwfw-new.hunan.gov.cn/hnywtb/service/guide.html?id=56b258980cab4bd9bbaad7e22e44c7ee&type=gr&rightsCode=432005601W00&ywCode=02)
+- 本页由程序按官网结构化数据生成；缺失字段不推测，实际办理要求以官网最新页面为准。

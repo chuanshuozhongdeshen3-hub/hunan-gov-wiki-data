@@ -1,0 +1,112 @@
+---
+title: "安全生产检测检验机构资质认可延期"
+created: "2026-07-21"
+updated: "2026-07-21"
+type: "entity"
+tags: ["government-service", "detail-complete", "legal-entity-service", "administrative-license"]
+sources: ["raw/manifests/hunan-government-service-dataset.md"]
+confidence: "medium"
+service_id: "jo5loNXVTOmeVB6-ONG8xg"
+service_objects: ["法人"]
+matter_type: "行政许可"
+organization: "湖南省应急管理厅"
+department: "应急管理部门"
+implementation_level: "省"
+categories: ["资质认证"]
+rights_codes: ["000125031001"]
+business_codes: ["02"]
+detail_status: "complete"
+official_url: "https://zwfw-new.hunan.gov.cn/hnywtb/service/guide.html?id=jo5loNXVTOmeVB6-ONG8xg&type=fr&rightsCode=000125031001&ywCode=02"
+source_json: "raw/details/jo/jo5loNXVTOmeVB6-ONG8xg.json"
+---
+
+# 安全生产检测检验机构资质认可延期
+
+> 安全生产检测检验机构资质认可延期，服务对象为法人，事项类型为行政许可，由湖南省应急管理厅办理。
+
+## 基本信息
+
+| 项目 | 内容 |
+|---|---|
+| 服务对象 | 法人 |
+| 事项类型 | 行政许可 |
+| 实施机构 | 湖南省应急管理厅 |
+| 主管部门 | 应急管理部门 |
+| 实施层级 | 省 |
+| 办理范围 | 跨村（社区） |
+| 网上办理 | 是 |
+| 最少现场办理次数 | 0 |
+
+- 官网办理指南：[安全生产检测检验机构资质认可延期](https://zwfw-new.hunan.gov.cn/hnywtb/service/guide.html?id=jo5loNXVTOmeVB6-ONG8xg&type=fr&rightsCode=000125031001&ywCode=02)
+
+## 受理条件
+
+（一）独立法人资格，固定资产不少于一千万元；
+（二）工作场所建筑面积不少于一千平方米，有与从事安全生产检测检验相适应的设施、设备和环境，检测检验设施、设备原值不少于八百万元；
+（三）承担单一业务范围的安全生产检测检验机构，其专业技术人员不少于二十五人；每增加一个行业（领域），至少增加五名专业技术人员；专业技术人员中，中级及以上注册安全工程师比例不低于百分之三十，中级及以上技术职称比例不低于百分之五十，且高级技术职称人员比例不低于百分之二十五；
+（四）专业技术人员具有与承担安全生产检测检验相适应的专业技能，以及在本行业领域工作两年以上；
+（五）法定代表人出具知悉并承担安全生产检测检验的法律责任、义务、权利和风险的承诺书；
+（六）主持安全生产检测检验工作的负责人、技术负责人、质量负责人具有高级技术职称，在本行业领域工作八年以上；
+（七）符合安全生产检测检验机构能力通用要求标准和规范性文件规定的文件化管理体系；
+（八）正常运行并可以供公众查询机构信息的网站；
+（九）截至申请之日三年内无重大违法失信记录；
+
+## 申请材料
+
+本事项共有13项申请材料，详见：
+
+- [[entities/services/安全生产检测检验机构资质认可延期-b5b1d4dbc6-materials|安全生产检测检验机构资质认可延期—申请材料]]
+
+## 办理流程
+
+见流程图
+
+- [查看办理流程图](https://zwfw-new.hunan.gov.cn/picPathMapping?picPath=approve%2F2025-11-18-09%2F1763428082563%24%24%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E6%A3%80%E6%B5%8B%E6%A3%80%E9%AA%8C%E6%9C%BA%E6%9E%84%E3%80%81%E5%AE%89%E5%85%A8%E8%AF%84%E4%BB%B7%E6%9C%BA%E6%9E%84%E8%B5%84%E8%B4%A8%E8%AE%A4%E5%8F%AF%E5%AE%A1%E6%89%B9%E6%B5%81%E7%A8%8B.jpg&bucketName=zwfw202511)
+
+## 办理时限与费用
+
+| 项目 | 官网数据 |
+|---|---|
+| 法定办结时限 | 20 |
+| 法定时限说明 | 组织专家评审时间除外 |
+| 承诺办结时限 | 8 |
+| 承诺时限说明 | 组织专家评审时间除外 |
+| 是否收费 | 否 |
+| 是否需要特别程序 | 是 |
+| 特别程序类型 | 专家评审 |
+| 特别程序时限 | 20 |
+| 是否涉及中介服务 | 无 |
+
+> 时限单位仅按官网原始字段展示；原始数据未明确单位时，本页不作推测。
+
+## 办理结果
+
+- 结果名称：检测检验资质证书
+- [检测检验资质证书](https://zwfw-new.hunan.gov.cn/picPathMapping?picPath=approve%2F2025-11-18-09%2F1763428023354%24%24%E6%A3%80%E6%B5%8B%E6%A3%80%E9%AA%8C%E6%9C%BA%E6%9E%84%E5%89%AF%E6%9C%AC.png&bucketName=zwfw202511)
+- [检测检验资质证书](https://zwfw-new.hunan.gov.cn/picPathMapping?picPath=approve%2F2025-11-18-09%2F1763428023286%24%24%E6%A3%80%E6%B5%8B%E6%A3%80%E9%AA%8C%E6%9C%BA%E6%9E%84%E6%AD%A3%E6%9C%AC.png&bucketName=zwfw202511)
+
+## 法律依据
+
+《中华人民共和国安全生产法》（中华人民共和国主席令〔2014〕第13号）第六十九条 承担安全评价、认证、检测、检验的机构应当具备国家规定的资质条件，并对其作出的安全评价、认证、检测、检验的结果负责。
+
+## 申请人权利与义务
+
+### 权利
+
+依法享有知情权、陈述权、申辩权以及要求听证和举报的权利，有权依法申请行政复议或者提起行政诉讼，以及要求赔偿。
+
+### 义务
+
+应当如实向行政机关提交有关材料和反映真实情况，并对其申请材料实质内容的真实性负责。
+
+## 相关页面
+
+- [[concepts/service-objects/legal-entity-service|法人服务]]
+- [[concepts/matter-types/行政许可-d9802acb66|行政许可]]
+- [[concepts/categories/legal_entity-资质认证-ae544e5b3e|资质认证]]
+
+## 数据说明
+
+- 原始JSON：`raw/details/jo/jo5loNXVTOmeVB6-ONG8xg.json`
+- 官方页面：[安全生产检测检验机构资质认可延期](https://zwfw-new.hunan.gov.cn/hnywtb/service/guide.html?id=jo5loNXVTOmeVB6-ONG8xg&type=fr&rightsCode=000125031001&ywCode=02)
+- 本页由程序按官网结构化数据生成；缺失字段不推测，实际办理要求以官网最新页面为准。
