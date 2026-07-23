@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "431172999000",
+      "benji": "1",
+      "orgId": "ETrKS5z0TZa5iaDHylsbJQg",
+      "orgLevel": "3",
+      "orgName": "永州市金洞管理区本级",
+      "orgShowName": "区本级",
+      "orgSn": "999",
+      "parentCode": "431172000000",
+      "parentId": "034cc14470d24381baf09a1e5d22b2d0",
+      "parentName": "金洞管理区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431172120000",
+      "benji": "0",
+      "orgId": "JsEOzNKwSc6IrXWhTCHs3g",
+      "orgLevel": "4",
+      "orgName": "永州市金洞管理区金洞镇",
+      "orgShowName": "金洞镇",
+      "orgSn": "999",
+      "parentCode": "431172000000",
+      "parentId": "034cc14470d24381baf09a1e5d22b2d0",
+      "parentName": "金洞管理区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431172201000",
+      "benji": "0",
+      "orgId": "tWUmhCreTkGT1fxvU0fzgA",
+      "orgLevel": "4",
+      "orgName": "永州市金洞管理区晒北滩瑶族乡",
+      "orgShowName": "晒北滩瑶族乡",
+      "orgSn": "999",
+      "parentCode": "431172000000",
+      "parentId": "034cc14470d24381baf09a1e5d22b2d0",
+      "parentName": "金洞管理区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431172202000",
+      "benji": "0",
+      "orgId": "vthBCOUbSCGsdCYvRVyROw",
+      "orgLevel": "4",
+      "orgName": "永州市金洞管理区凤凰乡",
+      "orgShowName": "凤凰乡",
+      "orgSn": "999",
+      "parentCode": "431172000000",
+      "parentId": "034cc14470d24381baf09a1e5d22b2d0",
+      "parentName": "金洞管理区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431172204000",
+      "benji": "0",
+      "orgId": "WNulz4JYTdS1Z9foOteguA",
+      "orgLevel": "4",
+      "orgName": "永州市金洞管理区石鼓源乡",
+      "orgShowName": "石鼓源乡",
+      "orgSn": "999",
+      "parentCode": "431172000000",
+      "parentId": "034cc14470d24381baf09a1e5d22b2d0",
+      "parentName": "金洞管理区",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

@@ -1,0 +1,35 @@
+{
+  "schema": "hunan-gov-onething-run-report/1.0",
+  "crawler_version": "1.0.0",
+  "status": "interrupted",
+  "started_at": "2026-07-23T01:16:25+00:00",
+  "finished_at": "2026-07-23T01:20:19+00:00",
+  "network_requests": 157,
+  "cache_hits": 238,
+  "error_count": 0,
+  "warning_count": 1,
+  "errors": [],
+  "warnings": [
+    {
+      "time": "2026-07-23T01:20:19+00:00",
+      "stage": "run",
+      "target": "keyboard",
+      "message": "用户中断；已有原始缓存可继续使用"
+    }
+  ],
+  "config": {
+    "output": "D:\\python work\\zwfw\\gov-wiki",
+    "delay": 1.0,
+    "jitter": 0.5,
+    "timeout": 25.0,
+    "retries": 2,
+    "max_themes": 0,
+    "max_guides": 0,
+    "max_depth": 4,
+    "include_zero_approve": false,
+    "refresh_areas": false,
+    "refresh_info": false,
+    "refresh_guides": false,
+    "fail_fast": false
+  }
+}

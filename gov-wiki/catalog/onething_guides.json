@@ -1,0 +1,154 @@
+{
+  "schema": "hunan-gov-onething-catalog/1.0",
+  "crawler_version": "1.0.0",
+  "generated_at": "2026-07-23T01:20:19+00:00",
+  "status": "interrupted",
+  "source": "audit/search_only_candidates.json",
+  "run_selected_theme_count": 58,
+  "run_completed_theme_count": 1,
+  "catalog_theme_count": 2,
+  "implementation_count": 3,
+  "unique_guide_count": 3,
+  "themes": [
+    {
+      "theme_code": "43PCC0001",
+      "theme_title": "大学生就业创业落户“一件事”",
+      "search_type_name": "高效办成一件事",
+      "status": "ok",
+      "area_request_count": 2,
+      "area_node_count": 37,
+      "pruned_zero_approve_count": 35,
+      "implementation_count": 1,
+      "unique_guide_count": 1,
+      "implementations": [
+        {
+          "theme_code": "43PCC0001",
+          "theme_title": "大学生就业创业落户“一件事”",
+          "area_code": "430101000000",
+          "area_name": "长沙市直",
+          "area_path": [
+            "长沙市",
+            "长沙市直"
+          ],
+          "org_level": "2",
+          "org_id": "5",
+          "parent_id": "6",
+          "approve_id": "1",
+          "checklist_id": "756A9A0174F6441B8069C624712DF588",
+          "implementation_name": "大学生就业创业落户“一件事”",
+          "implementation_code": "43PCC0001",
+          "info_raw_file": "raw/onething/implementations/43PCC0001/430101000000.json",
+          "guide_raw_file": "raw/onething/guides/43PCC0001/756A9A0174F6441B8069C624712DF588.json",
+          "official_guide_url": "https://zwfw-new.hunan.gov.cn/hnywtb/onething/html/eventGuideline.html?onethingCode=43PCC0001&onethingChecklistId=756A9A0174F6441B8069C624712DF588",
+          "guide_summary": {
+            "title": "大学生就业创业落户“一件事”",
+            "implementation_code": "43PCC0001225J0100",
+            "area_name": "长沙市",
+            "lead_department": "长沙市人力资源和社会保障局",
+            "cooperating_departments": "公安部门,人社部门,税务部门,市监部门,医保部门",
+            "completed_limit": "10",
+            "is_charge": "1",
+            "is_intermediary": "0",
+            "is_logistics": "0",
+            "material_count": 20,
+            "condition_count": 8,
+            "linked_matter_count": 10,
+            "faq_count": 2,
+            "service_point_count": 1,
+            "attachment_count": 1,
+            "has_process_description": true
+          }
+        }
+      ]
+    },
+    {
+      "theme_code": "43PCN0009",
+      "theme_title": "新生儿出生一件事",
+      "search_type_name": "高效办成一件事",
+      "status": "ok",
+      "area_request_count": 3,
+      "area_node_count": 38,
+      "pruned_zero_approve_count": 13,
+      "implementation_count": 2,
+      "unique_guide_count": 2,
+      "implementations": [
+        {
+          "theme_code": "43PCN0009",
+          "theme_title": "新生儿出生一件事",
+          "area_code": "430101000000",
+          "area_name": "长沙市直",
+          "area_path": [
+            "长沙市",
+            "长沙市直"
+          ],
+          "org_level": "2",
+          "org_id": "5",
+          "parent_id": "6",
+          "approve_id": "1",
+          "checklist_id": "B9C0297F27CE48B88D378B8BDECE13F3",
+          "implementation_name": "新生儿出生一件事",
+          "implementation_code": "43PCN0009",
+          "info_raw_file": "raw/onething/implementations/43PCN0009/430101000000.json",
+          "guide_raw_file": "raw/onething/guides/43PCN0009/B9C0297F27CE48B88D378B8BDECE13F3.json",
+          "official_guide_url": "https://zwfw-new.hunan.gov.cn/hnywtb/onething/html/eventGuideline.html?onethingCode=43PCN0009&onethingChecklistId=B9C0297F27CE48B88D378B8BDECE13F3",
+          "guide_summary": {
+            "title": "新生儿出生一件事",
+            "implementation_code": "43PCN0009225J0100",
+            "area_name": "长沙市",
+            "lead_department": "长沙市卫生健康委员会",
+            "cooperating_departments": "公安部门,人社部门,卫健部门,医保部门",
+            "completed_limit": "5",
+            "is_charge": "0",
+            "is_intermediary": "0",
+            "is_logistics": "0",
+            "material_count": 14,
+            "condition_count": 4,
+            "linked_matter_count": 7,
+            "faq_count": 6,
+            "service_point_count": 1,
+            "attachment_count": 3,
+            "has_process_description": true
+          }
+        },
+        {
+          "theme_code": "43PCN0009",
+          "theme_title": "新生儿出生一件事",
+          "area_code": "430201000000",
+          "area_name": "株洲市直",
+          "area_path": [
+            "株洲市",
+            "株洲市直"
+          ],
+          "org_level": "2",
+          "org_id": "34c330204fac4f649df5a2f02681462e",
+          "parent_id": "da9203ad8d5e41f58414a86da7de1679",
+          "approve_id": "1",
+          "checklist_id": "BE4094E404644BDE87271508FC830EBC",
+          "implementation_name": "新生儿出生一件事",
+          "implementation_code": "43PCN0009",
+          "info_raw_file": "raw/onething/implementations/43PCN0009/430201000000.json",
+          "guide_raw_file": "raw/onething/guides/43PCN0009/BE4094E404644BDE87271508FC830EBC.json",
+          "official_guide_url": "https://zwfw-new.hunan.gov.cn/hnywtb/onething/html/eventGuideline.html?onethingCode=43PCN0009&onethingChecklistId=BE4094E404644BDE87271508FC830EBC",
+          "guide_summary": {
+            "title": "新生儿出生一件事",
+            "implementation_code": "43PCN0009225J0200",
+            "area_name": "株洲市",
+            "lead_department": "株洲市卫生健康委员会",
+            "cooperating_departments": "公安部门,人社部门,卫健部门,医保部门",
+            "completed_limit": "5",
+            "is_charge": "0",
+            "is_intermediary": "0",
+            "is_logistics": "0",
+            "material_count": 14,
+            "condition_count": 4,
+            "linked_matter_count": 7,
+            "faq_count": 6,
+            "service_point_count": 1,
+            "attachment_count": 3,
+            "has_process_description": true
+          }
+        }
+      ]
+    }
+  ]
+}

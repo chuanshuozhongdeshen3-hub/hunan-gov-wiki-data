@@ -1,5 +1,9 @@
 # 湖南政务 Wiki RAG
 
+“高效办成一件事”的地区实施指南补抓方法见
+[`ONETHING_CRAWLER_README.md`](ONETHING_CRAWLER_README.md)。补抓完成并转换为
+Wiki 后，再重新执行本文件中的检索增强和索引构建步骤。
+
 本目录中的脚本完成三件事：
 
 1. 可选地用 DeepSeek 为现有目录补充检索别名、常见问法和检索摘要；
