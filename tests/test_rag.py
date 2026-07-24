@@ -1,8 +1,13 @@
 from __future__ import annotations
 
+import sys
 import unittest
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from rag_common import chunk_markdown, lexical_tokens, split_hard
+from search_rag import material_query, material_section
 
 
 class ChunkingTests(unittest.TestCase):
@@ -43,6 +48,19 @@ class TokenTests(unittest.TestCase):
         self.assertIn("换领", tokens)
         self.assertIn("000709107003", tokens)
         self.assertIn("abc-12", tokens)
+
+
+class CompleteSectionRecallTests(unittest.TestCase):
+    def test_detects_material_queries(self) -> None:
+        self.assertTrue(material_query("办理这个事项需要哪些材料"))
+        self.assertTrue(material_query("去现场要带什么证件"))
+        self.assertFalse(material_query("这个事项需要多长时间"))
+
+    def test_matches_only_material_section_tree(self) -> None:
+        self.assertTrue(material_section("申请材料"))
+        self.assertTrue(material_section("申请材料 / 1. 身份证"))
+        self.assertFalse(material_section("材料依据"))
+        self.assertFalse(material_section("办理流程"))
 
 
 if __name__ == "__main__":

@@ -16,6 +16,7 @@ from rag_common import lexical_tokens, unique_strings
 
 
 DEFAULT_QUERY_INSTRUCTION = "为这个句子生成表示以用于检索相关文章："
+MATERIAL_QUERY_WORDS = ("材料", "资料", "证件", "要带什么", "需要带什么")
 
 
 def parse_args() -> argparse.Namespace:
@@ -171,6 +172,155 @@ def fetch_doc_rows(
         doc_ids,
     ).fetchall()
     return fetch_rows(connection, [int(row[0]) for row in indices])
+
+
+def material_query(query: str) -> bool:
+    return any(word in query for word in MATERIAL_QUERY_WORDS)
+
+
+def material_section(section: str) -> bool:
+    normalized = re.sub(r"\s+", "", section or "")
+    return normalized == "申请材料" or normalized.startswith("申请材料/")
+
+
+def fetch_material_rows(
+    connection: sqlite3.Connection, doc_id: str
+) -> list[dict[str, Any]]:
+    indices = connection.execute(
+        """
+        SELECT row_index
+        FROM chunks
+        WHERE doc_id = ?
+          AND (section = '申请材料' OR section LIKE '申请材料 /%')
+        ORDER BY row_index
+        """,
+        (doc_id,),
+    ).fetchall()
+    rows = fetch_rows(connection, [int(row[0]) for row in indices])
+    return [rows[int(row[0])] for row in indices if int(row[0]) in rows]
+
+
+def fetch_material_companion(
+    connection: sqlite3.Connection, service_id: str | None
+) -> dict[str, Any] | None:
+    if not service_id:
+        return None
+    row = connection.execute(
+        """
+        SELECT doc_id
+        FROM chunks
+        WHERE service_id = ? AND page_type = 'government_service_materials'
+        ORDER BY row_index
+        LIMIT 1
+        """,
+        (service_id,),
+    ).fetchone()
+    if not row:
+        return None
+    doc_rows = fetch_doc_rows(connection, [str(row[0])])
+    if not doc_rows:
+        return None
+    first = min(doc_rows.values(), key=lambda item: item["row_index"])
+    return {
+        "doc_id": first["doc_id"],
+        "title": first["title"],
+        "path": first["path"],
+        "page_type": first["page_type"],
+        "answerable": first["answerable"],
+        "service_id": first["service_id"],
+        "official_url": first["official_url"],
+        "related_doc_ids": first.get("related_doc_ids", []),
+        "score": 0.0,
+        "chunks": [],
+    }
+
+
+def prioritize_material_pages(
+    connection: sqlite3.Connection,
+    pages: list[dict[str, Any]],
+    query: str,
+    top_pages: int,
+) -> list[dict[str, Any]]:
+    """Keep a split-out complete material page beside the primary service page."""
+    if not material_query(query) or not pages:
+        return pages[:top_pages]
+    if any(page["page_type"] == "theme_region" for page in pages):
+        return pages[:top_pages]
+
+    primary = pages[0]
+    if primary["page_type"] != "government_service":
+        return pages[:top_pages]
+    companion = fetch_material_companion(connection, primary.get("service_id"))
+    if not companion:
+        return pages[:top_pages]
+    by_id = {page["doc_id"]: page for page in pages}
+    companion = by_id.get(companion["doc_id"], companion)
+    companion["score"] = max(float(companion.get("score", 0.0)), float(primary["score"]) * 0.99)
+    chosen = [primary, companion]
+    chosen.extend(
+        page
+        for page in pages
+        if page["doc_id"] not in {item["doc_id"] for item in chosen}
+    )
+    return chosen[:top_pages]
+
+
+def expand_complete_material_section(
+    connection: sqlite3.Connection,
+    pages: list[dict[str, Any]],
+    query: str,
+) -> tuple[list[dict[str, Any]], dict[str, Any] | None]:
+    """Replace partial hits with the complete material section of the primary answer page."""
+    if not material_query(query) or not pages:
+        return pages, None
+
+    target: dict[str, Any] | None = None
+    if any(page["page_type"] == "theme_region" for page in pages):
+        target = next((page for page in pages if page["page_type"] == "theme_variant"), None)
+    else:
+        target = next(
+            (page for page in pages if page["page_type"] == "government_service_materials"),
+            None,
+        )
+        if target is None:
+            target = next(
+                (page for page in pages if page["page_type"] == "government_service"),
+                None,
+            )
+    if target is None:
+        return pages, None
+
+    material_rows = fetch_material_rows(connection, target["doc_id"])
+    if not material_rows:
+        return pages, None
+    old_scores = {
+        chunk["chunk_id"]: float(chunk.get("score", 0.0))
+        for chunk in target.get("chunks", [])
+    }
+    target["chunks"] = [
+        {
+            "chunk_id": item["chunk_id"],
+            "section": item["section"],
+            "score": round(old_scores.get(item["chunk_id"], 0.0), 8),
+            "text": item["text"],
+            "expanded": item["chunk_id"] not in old_scores,
+        }
+        for item in material_rows
+    ]
+    total_chars = sum(len(item["text"]) for item in target["chunks"])
+    target["complete_section"] = {
+        "name": "申请材料",
+        "complete": True,
+        "chunk_count": len(target["chunks"]),
+        "character_count": total_chars,
+    }
+    return pages, {
+        "intent": "materials",
+        "complete": True,
+        "doc_id": target["doc_id"],
+        "chunk_count": len(target["chunks"]),
+        "character_count": total_chars,
+    }
 
 
 def section_intent_boost(query: str, section: str) -> float:
@@ -350,17 +500,27 @@ def main() -> int:
             args.chunks_per_page,
         )
         pages = prioritize_related_pages(ranked_pages, query, args.top_pages)
+        pages = prioritize_material_pages(connection, pages, query, args.top_pages)
+        pages, complete_section_recall = expand_complete_material_section(
+            connection, pages, query
+        )
     finally:
         connection.close()
 
     output = {
         "query": query,
-        "retrieval": {"methods": list(rankings), "candidate_counts": {key: len(value) for key, value in rankings.items()}},
+        "retrieval": {
+            "methods": list(rankings),
+            "candidate_counts": {key: len(value) for key, value in rankings.items()},
+            "complete_section_recall": complete_section_recall,
+        },
         "warning": vector_warning,
         "pages": pages,
         "answer_policy": (
             "Use only returned Wiki text. When a theme_region and its theme_variant are paired, combine the "
             "regional department/location facts with the variant's materials, conditions, and process. "
+            "When retrieval.complete_section_recall.complete is true, the marked page contains the complete "
+            "official material section; preserve necessary/optional qualifiers and do not describe it as partial. "
             "Do not include URLs unless the user explicitly asks for them. If answerable is false, do not "
             "infer requirements; say that no usable regional guide was found."
         ),

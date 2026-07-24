@@ -81,6 +81,20 @@ python .\enrich_rag_catalog.py
 
 脚本优先使用 `rag_catalog_enriched.jsonl`；若它不存在，则使用原始 `rag_catalog.jsonl`。
 
+如果使用Windows PowerShell，可以直接运行包含构建后校验和两条检索测试的脚本：
+
+```powershell
+.\build_bge_index.ps1 -Device cpu -BatchSize 16
+```
+
+有可用的NVIDIA CUDA环境时：
+
+```powershell
+.\build_bge_index.ps1 -Device cuda -BatchSize 32
+```
+
+也可以手动执行：
+
 ```powershell
 python .\build_rag_index.py --force --model "BAAI/bge-small-zh-v1.5" --batch-size 32
 ```
@@ -108,6 +122,12 @@ python .\search_rag.py --query "身份证到期怎么换证" --top-pages 2 --pre
 python .\search_rag.py --query "开办食品经营企业需要什么材料" --top-pages 2 --pretty
 ```
 
+当问题包含“材料、资料、证件、要带什么”等表达时，检索器会在选定事项后扩展
+返回该事项的完整“申请材料”章节，而不再受 `--chunks-per-page` 限制。普通事项
+若使用独立材料页，会自动返回该材料页；地区“一件事”会扩展其对应业务版本的
+完整材料章节。输出中的 `retrieval.complete_section_recall.complete` 为 `true`
+表示材料章节完整。
+
 输出是 JSON，包含：
 
 - 最相关的两篇 Wiki；
@@ -116,7 +136,8 @@ python .\search_rag.py --query "开办食品经营企业需要什么材料" --to
 - `answerable` 安全标记；
 - 给 Hermes 的回答约束。
 
-58 个“一件事”主题允许被找到，但其 `answerable` 为 `false`。回答模型只能引导用户访问官方入口，不能推测办理条件或材料。
+当前有地区实施指南的“一件事”主题可正常回答；没有可用地区指南的主题会标记
+为 `answerable: false`。回答模型只能说明未找到可用指南，不能推测办理条件或材料。
 
 ## 6. 转移到 Linux
 
