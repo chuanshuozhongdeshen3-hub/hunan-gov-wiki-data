@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Hybrid exact + Chinese bigram BM25 + embedding retrieval for Hermes."""
+"""Hybrid exact + BM25 + resident/local-fallback embedding retrieval for Hermes."""
 
 from __future__ import annotations
 
@@ -8,6 +8,8 @@ import json
 import re
 import sqlite3
 import sys
+import urllib.error
+import urllib.request
 from collections import defaultdict
 from pathlib import Path
 from typing import Any
@@ -31,6 +33,20 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--model", help="Override model from index_manifest.json")
     parser.add_argument("--device", default=None)
     parser.add_argument("--no-vector", action="store_true")
+    parser.add_argument(
+        "--embedding-url",
+        default="http://127.0.0.1:8765/embed",
+        help="Resident embedding endpoint, e.g. http://127.0.0.1:8765/embed",
+    )
+    parser.add_argument(
+        "--embedding-fallback",
+        choices=("local", "none"),
+        default="local",
+        help=(
+            "Behavior when the resident embedding service is unavailable: "
+            "'local' loads BGE in this process; 'none' continues without vectors"
+        ),
+    )
     parser.add_argument(
         "--include-urls",
         action="store_true",
@@ -107,29 +123,85 @@ def exact_ranking(connection: sqlite3.Connection, query: str, limit: int) -> lis
     return [row_index for _, row_index in scored[:limit]]
 
 
-def vector_ranking(index: Path, query: str, model_name: str, device: str | None, limit: int, instruction: str) -> list[int]:
+def vector_ranking(
+    index: Path,
+    query: str,
+    model_name: str,
+    device: str | None,
+    limit: int,
+    instruction: str,
+    embedding_url: str | None = None,
+    embedding_fallback: str = "local",
+) -> tuple[list[int], str, str | None]:
     try:
         import numpy as np
-        from sentence_transformers import SentenceTransformer
     except ImportError as exc:
-        raise RuntimeError("Vector dependencies missing. Run: pip install -r requirements-rag.txt") from exc
+        raise RuntimeError("NumPy is missing. Run: pip install -r requirements-rag.txt") from exc
     embeddings_path = index / "embeddings.npy"
     if not embeddings_path.exists():
-        return []
+        return [], "unavailable", None
     embeddings = np.load(embeddings_path, mmap_mode="r")
-    kwargs = {"device": device} if device else {}
-    model = SentenceTransformer(model_name, **kwargs)
     query_text = f"{instruction}{query}" if instruction else query
-    query_vector = model.encode(
-        [query_text], convert_to_numpy=True, normalize_embeddings=True, show_progress_bar=False
-    )[0].astype(np.float32, copy=False)
+    query_vector = None
+    vector_backend = "local_model"
+    resident_warning = None
+    if embedding_url:
+        request = urllib.request.Request(
+            embedding_url,
+            data=json.dumps({"texts": [query_text]}, ensure_ascii=False).encode("utf-8"),
+            headers={"Content-Type": "application/json; charset=utf-8"},
+            method="POST",
+        )
+        try:
+            with urllib.request.urlopen(request, timeout=3) as response:
+                payload = json.loads(response.read().decode("utf-8"))
+            if "vectors" not in payload or not payload["vectors"]:
+                raise RuntimeError(f"Invalid embedding response: {payload}")
+            candidate_vector = np.asarray(payload["vectors"][0], dtype=np.float32)
+            if candidate_vector.ndim != 1 or candidate_vector.shape[0] != embeddings.shape[1]:
+                raise RuntimeError(
+                    "Resident embedding dimension mismatch: "
+                    f"query={candidate_vector.shape}, index={embeddings.shape}"
+                )
+            query_vector = candidate_vector
+            vector_backend = "resident_http"
+        except Exception as exc:
+            resident_warning = (
+                f"Resident embedding service unavailable ({type(exc).__name__}: {exc})"
+            )
+            if embedding_fallback != "local":
+                raise RuntimeError(resident_warning) from exc
+    if query_vector is None:
+        try:
+            from sentence_transformers import SentenceTransformer
+        except ImportError as exc:
+            raise RuntimeError(
+                "SentenceTransformer is missing. Run: pip install -r requirements-rag.txt"
+            ) from exc
+        kwargs = {"device": device} if device else {}
+        model = SentenceTransformer(model_name, **kwargs)
+        query_vector = model.encode(
+            [query_text],
+            convert_to_numpy=True,
+            normalize_embeddings=True,
+            show_progress_bar=False,
+        )[0].astype(np.float32, copy=False)
+        vector_backend = "local_model"
+    if query_vector.ndim != 1 or query_vector.shape[0] != embeddings.shape[1]:
+        raise RuntimeError(
+            f"Embedding dimension mismatch: query={query_vector.shape}, index={embeddings.shape}"
+        )
     scores = embeddings @ query_vector
     count = min(limit, len(scores))
     if count <= 0:
-        return []
+        return [], vector_backend, resident_warning
     candidate_indices = np.argpartition(-scores, count - 1)[:count]
     candidate_indices = candidate_indices[np.argsort(-scores[candidate_indices])]
-    return [int(index_value) for index_value in candidate_indices]
+    return (
+        [int(index_value) for index_value in candidate_indices],
+        vector_backend,
+        resident_warning,
+    )
 
 
 def reciprocal_rank_fusion(rankings: dict[str, list[int]], k: int = 60) -> dict[int, float]:
@@ -496,13 +568,24 @@ def main() -> int:
             "fts": fts_ranking(connection, query, args.candidate_limit),
         }
         vector_warning = None
+        vector_fallback_reason = None
+        vector_backend = "disabled"
         if not args.no_vector and model_name and (index / "embeddings.npy").exists():
             try:
-                rankings["vector"] = vector_ranking(
-                    index, query, model_name, args.device, args.candidate_limit, args.query_instruction
+                vector_rows, vector_backend, vector_fallback_reason = vector_ranking(
+                    index,
+                    query,
+                    model_name,
+                    args.device,
+                    args.candidate_limit,
+                    args.query_instruction,
+                    args.embedding_url,
+                    args.embedding_fallback,
                 )
+                rankings["vector"] = vector_rows
             except Exception as exc:
                 vector_warning = str(exc)
+                vector_backend = "failed"
         scores = reciprocal_rank_fusion(rankings)
         rows = fetch_rows(connection, list(scores))
         preliminary = merge_pages(
@@ -558,6 +641,8 @@ def main() -> int:
         "retrieval": {
             "methods": list(rankings),
             "candidate_counts": {key: len(value) for key, value in rankings.items()},
+            "vector_backend": vector_backend,
+            "vector_fallback_reason": vector_fallback_reason,
             "complete_section_recall": complete_section_recall,
         },
         "warning": vector_warning,
