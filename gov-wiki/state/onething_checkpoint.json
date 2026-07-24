@@ -1,15 +1,15 @@
 {
   "crawler": "supplement_onething_guides",
   "crawler_version": "1.0.0",
-  "updated_at": "2026-07-23T12:55:19+00:00",
-  "theme_code": "43TCP0022",
+  "updated_at": "2026-07-24T01:25:52+00:00",
+  "theme_code": "43TC2000100Y",
   "current": "theme_completed",
   "progress": {
-    "completed_themes": 58,
-    "total_themes": 58
+    "completed_themes": 1,
+    "total_themes": 1
   },
-  "network_requests": 3196,
-  "cache_hits": 20676,
+  "network_requests": 4,
+  "cache_hits": 5445,
   "error_count": 0,
-  "warning_count": 2
+  "warning_count": 0
 }

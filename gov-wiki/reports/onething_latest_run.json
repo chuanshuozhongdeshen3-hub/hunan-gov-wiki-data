@@ -2,27 +2,14 @@
   "schema": "hunan-gov-onething-run-report/1.0",
   "crawler_version": "1.0.0",
   "status": "succeeded",
-  "started_at": "2026-07-23T11:32:13+00:00",
-  "finished_at": "2026-07-23T12:55:19+00:00",
-  "network_requests": 3196,
-  "cache_hits": 20676,
+  "started_at": "2026-07-24T01:25:32+00:00",
+  "finished_at": "2026-07-24T01:25:52+00:00",
+  "network_requests": 4,
+  "cache_hits": 5445,
   "error_count": 0,
-  "warning_count": 2,
+  "warning_count": 0,
   "errors": [],
-  "warnings": [
-    {
-      "time": "2026-07-23T11:32:33+00:00",
-      "stage": "area_tree",
-      "target": "43TC2000100Y/隆回县桃花坪街道办事处本级",
-      "message": "达到最大递归深度 4"
-    },
-    {
-      "time": "2026-07-23T11:32:33+00:00",
-      "stage": "area_tree",
-      "target": "43TC2000100Y/隆回县花门街道办本级",
-      "message": "达到最大递归深度 4"
-    }
-  ],
+  "warnings": [],
   "config": {
     "output": "D:\\python work\\zwfw\\gov-wiki",
     "delay": 1.0,

@@ -101,7 +101,19 @@ def as_records(value: Any, label: str) -> list[dict[str, Any]]:
 
 
 def is_self_node(node: dict[str, Any]) -> bool:
-    return str(node.get("benji") or "").strip() == "1"
+    if str(node.get("benji") or "").strip() == "1":
+        return True
+
+    name = str(
+        node.get("orgName")
+        or node.get("orgShowName")
+        or ""
+    ).strip()
+
+    return (
+        str(node.get("orgSn") or "").strip() == "1"
+        and name.endswith("本级")
+    )
 
 
 def is_zero_approve(node: dict[str, Any]) -> bool:
