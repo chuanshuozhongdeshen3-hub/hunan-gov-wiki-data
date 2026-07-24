@@ -60,7 +60,8 @@ def create_sqlite(path: Path, chunks: list[dict[str, Any]]) -> None:
                 char_count INTEGER NOT NULL,
                 text TEXT NOT NULL,
                 aliases_json TEXT NOT NULL,
-                questions_json TEXT NOT NULL
+                questions_json TEXT NOT NULL,
+                related_doc_ids_json TEXT NOT NULL
             );
             CREATE INDEX idx_chunks_doc_id ON chunks(doc_id);
             CREATE INDEX idx_chunks_service_id ON chunks(service_id);
@@ -83,6 +84,7 @@ def create_sqlite(path: Path, chunks: list[dict[str, Any]]) -> None:
                     chunk.get("service_id"), chunk.get("official_url"), chunk["char_count"], chunk["text"],
                     json.dumps(chunk.get("aliases", []), ensure_ascii=False),
                     json.dumps(chunk.get("common_questions", []), ensure_ascii=False),
+                    json.dumps(chunk.get("related_doc_ids", []), ensure_ascii=False),
                 )
             )
             metadata = " ".join(
@@ -102,7 +104,10 @@ def create_sqlite(path: Path, chunks: list[dict[str, Any]]) -> None:
                     fts_text(chunk["text"]),
                 )
             )
-        connection.executemany("INSERT INTO chunks VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", rows)
+        connection.executemany(
+            "INSERT INTO chunks VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+            rows,
+        )
         connection.executemany("INSERT INTO chunks_fts VALUES (?, ?, ?, ?)", fts_rows)
         connection.commit()
         connection.execute("PRAGMA wal_checkpoint(TRUNCATE)")
@@ -198,6 +203,7 @@ def main() -> int:
                 "keywords": catalog_row.get("keywords", []),
                 "aliases": aliases,
                 "common_questions": questions,
+                "related_doc_ids": catalog_row.get("related_doc_ids", []),
                 "summary": summary,
                 "text": item["text"],
                 "embedding_text": embedding_text,

@@ -1,7 +1,7 @@
 ---
 title: "主要农作物常规种子及非主要农作物种子生产经营许可证核发—申请材料"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

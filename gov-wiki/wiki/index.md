@@ -1,7 +1,7 @@
 # Wiki Index
 
 > 湖南省政务服务知识库导航。
-> Last updated: 2026-07-21
+> Last updated: 2026-07-24
 
 ## 政务事项
 

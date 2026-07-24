@@ -1,7 +1,7 @@
 ---
 title: "探矿权人和采矿权人对勘查作业区范围和矿区范围争议的调处"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "administrative-adjudication"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

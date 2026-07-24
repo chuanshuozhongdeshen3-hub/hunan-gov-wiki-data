@@ -1,7 +1,7 @@
 ---
 title: "年生产规模12万吨（不含）以下金属矿山企业安全生产许可—申请材料"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

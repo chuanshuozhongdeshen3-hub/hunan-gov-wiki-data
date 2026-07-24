@@ -1,7 +1,7 @@
 ---
 title: "机事保退休人员养老保险关系终止及一次性待遇申领（出国出境定居）"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "public-service"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

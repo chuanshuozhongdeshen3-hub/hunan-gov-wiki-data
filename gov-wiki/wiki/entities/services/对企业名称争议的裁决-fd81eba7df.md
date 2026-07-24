@@ -1,7 +1,7 @@
 ---
 title: "对企业名称争议的裁决"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "administrative-adjudication"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

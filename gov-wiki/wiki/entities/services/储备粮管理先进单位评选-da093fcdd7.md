@@ -1,7 +1,7 @@
 ---
 title: "储备粮管理先进单位评选"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "administrative-reward"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

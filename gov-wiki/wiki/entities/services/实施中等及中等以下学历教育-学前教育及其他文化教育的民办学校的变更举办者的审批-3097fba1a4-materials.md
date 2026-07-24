@@ -1,7 +1,7 @@
 ---
 title: "实施中等及中等以下学历教育、学前教育及其他文化教育的民办学校的变更举办者的审批—申请材料"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "legal-entity-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

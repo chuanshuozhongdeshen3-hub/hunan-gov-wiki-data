@@ -1,7 +1,7 @@
 ---
 title: "对营业性演出举报人的奖励"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "administrative-reward"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

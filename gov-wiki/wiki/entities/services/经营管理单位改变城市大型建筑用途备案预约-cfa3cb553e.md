@@ -1,7 +1,7 @@
 ---
 title: "经营管理单位改变城市大型建筑用途备案预约"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "other-administrative-power"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

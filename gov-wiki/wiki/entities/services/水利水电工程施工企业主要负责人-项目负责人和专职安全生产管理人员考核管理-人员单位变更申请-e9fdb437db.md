@@ -1,7 +1,7 @@
 ---
 title: "水利水电工程施工企业主要负责人、项目负责人和专职安全生产管理人员考核管理（人员单位变更申请）"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "public-service"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

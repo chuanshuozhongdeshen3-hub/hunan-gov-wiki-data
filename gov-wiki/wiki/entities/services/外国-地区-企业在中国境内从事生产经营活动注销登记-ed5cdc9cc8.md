@@ -1,7 +1,7 @@
 ---
 title: "外国（地区）企业在中国境内从事生产经营活动注销登记"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

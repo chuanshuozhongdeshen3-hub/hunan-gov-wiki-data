@@ -1,7 +1,7 @@
 ---
 title: "中外合资经营、中外合作经营、外商独资经营企业互联网上网服务营业场所经营单位从事互联网上网服务经营活动变更的审批"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

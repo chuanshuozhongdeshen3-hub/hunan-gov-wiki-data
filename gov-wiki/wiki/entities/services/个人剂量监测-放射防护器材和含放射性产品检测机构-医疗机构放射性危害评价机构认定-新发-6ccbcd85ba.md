@@ -1,7 +1,7 @@
 ---
 title: "个人剂量监测、放射防护器材和含放射性产品检测机构、医疗机构放射性危害评价机构认定（新发）"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

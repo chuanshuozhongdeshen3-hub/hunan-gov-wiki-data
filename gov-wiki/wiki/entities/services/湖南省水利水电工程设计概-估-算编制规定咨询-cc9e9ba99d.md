@@ -1,7 +1,7 @@
 ---
 title: "湖南省水利水电工程设计概（估）算编制规定咨询"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "legal-entity-service", "public-service"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

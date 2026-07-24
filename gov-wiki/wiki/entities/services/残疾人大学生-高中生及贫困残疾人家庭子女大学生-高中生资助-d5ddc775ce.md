@@ -1,7 +1,7 @@
 ---
 title: "残疾人大学生、高中生及贫困残疾人家庭子女大学生、高中生资助"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "public-service"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

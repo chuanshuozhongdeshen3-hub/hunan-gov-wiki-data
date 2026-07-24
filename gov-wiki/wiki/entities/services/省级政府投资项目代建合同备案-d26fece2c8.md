@@ -1,7 +1,7 @@
 ---
 title: "省级政府投资项目代建合同备案"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "other-administrative-power"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

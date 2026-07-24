@@ -1,7 +1,7 @@
 ---
 title: "特殊车辆在城市道路上行驶（包括经过城市桥梁）审批"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "legal-entity-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

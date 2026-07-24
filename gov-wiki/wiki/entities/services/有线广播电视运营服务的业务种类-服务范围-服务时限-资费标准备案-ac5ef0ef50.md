@@ -1,7 +1,7 @@
 ---
 title: "有线广播电视运营服务的业务种类、服务范围、服务时限、资费标准备案"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "other-administrative-power"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

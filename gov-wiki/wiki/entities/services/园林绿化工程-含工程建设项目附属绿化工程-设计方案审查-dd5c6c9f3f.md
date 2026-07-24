@@ -1,7 +1,7 @@
 ---
 title: "园林绿化工程（含工程建设项目附属绿化工程）设计方案审查"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "other-administrative-power"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

@@ -1,0 +1,1736 @@
+{
+  "schema": "hunan-gov-onething-wiki-manifest/1.0",
+  "converter_version": "1.0.0",
+  "generated_at": "2026-07-24",
+  "input_catalog": "catalog/onething_guides.json",
+  "theme_count": 1,
+  "variant_count": 12,
+  "region_page_count": 145,
+  "rag_record_count": 158,
+  "llm_enrichment_priority_count": 4,
+  "enrich_min_areas": 5,
+  "skipped_count": 0,
+  "skipped": [],
+  "stale_generated_page_count": 0,
+  "stale_generated_pages": [],
+  "themes": [
+    {
+      "theme_code": "43PCN0009",
+      "theme_title": "新生儿出生一件事",
+      "overview_path": "entities/theme-services/新生儿出生一件事-bea12e1ed2.md",
+      "implementation_count": 145,
+      "variant_count": 12,
+      "variants": [
+        {
+          "variant_id": "fc31e4d2b72aeeff",
+          "fingerprint": "fc31e4d2b72aeeffb242ce230b347bb6c6adc04c11ac9d57dcaeba5b568de3a9",
+          "path": "entities/theme-services/details/43PCN0009/variants/fc31e4d2b72aeeff.md",
+          "applicable_area_count": 106,
+          "representative_source_json": "raw/onething/guides/43PCN0009/6B643664713B49B691947A42F1ACB272.json",
+          "area_mappings": [
+            {
+              "area_code": "430102999000",
+              "area_path": [
+                "长沙市",
+                "芙蓉区",
+                "芙蓉区区本级"
+              ],
+              "checklist_id": "6B643664713B49B691947A42F1ACB272",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430102999000-50f7c200.md"
+            },
+            {
+              "area_code": "430103999000",
+              "area_path": [
+                "长沙市",
+                "天心区",
+                "天心区区本级"
+              ],
+              "checklist_id": "BC3488A03C754AC09407D44171B80BAF",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430103999000-f4626b9e.md"
+            },
+            {
+              "area_code": "430111999000",
+              "area_path": [
+                "长沙市",
+                "雨花区",
+                "雨花区区本级"
+              ],
+              "checklist_id": "822AB14F059E46978778E15C8915314A",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430111999000-1009fe61.md"
+            },
+            {
+              "area_code": "430112999000",
+              "area_path": [
+                "长沙市",
+                "望城区",
+                "望城区区本级"
+              ],
+              "checklist_id": "D19BB43A55454207B08E1213D498F6E9",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430112999000-13298534.md"
+            },
+            {
+              "area_code": "430121999000",
+              "area_path": [
+                "长沙市",
+                "长沙县",
+                "县本级"
+              ],
+              "checklist_id": "671355FCC272443AA126FCBBA4F53AAE",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430121999000-89aa9aa5.md"
+            },
+            {
+              "area_code": "430182999000",
+              "area_path": [
+                "长沙市",
+                "宁乡市",
+                "区本级"
+              ],
+              "checklist_id": "A33F66A2764044128979E9900562D642",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430182999000-1a92b587.md"
+            },
+            {
+              "area_code": "430202999000",
+              "area_path": [
+                "株洲市",
+                "荷塘区",
+                "荷塘区区本级"
+              ],
+              "checklist_id": "2E628CE70B814E92AC7A6D6774FF6171",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430202999000-ba66dd42.md"
+            },
+            {
+              "area_code": "430203999000",
+              "area_path": [
+                "株洲市",
+                "芦淞区",
+                "芦淞区区本级"
+              ],
+              "checklist_id": "4B55976CCB264373AAA6399D5577F283",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430203999000-3980bea5.md"
+            },
+            {
+              "area_code": "430212999000",
+              "area_path": [
+                "株洲市",
+                "渌口区",
+                "渌口区县本级"
+              ],
+              "checklist_id": "9C29BA0EA7E145F7999FB96B119EA660",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430212999000-e1c82437.md"
+            },
+            {
+              "area_code": "430224999000",
+              "area_path": [
+                "株洲市",
+                "茶陵县",
+                "茶陵县县本级"
+              ],
+              "checklist_id": "FCACF6A5FA194417863D580EC9E471F3",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430224999000-fa826d7b.md"
+            },
+            {
+              "area_code": "430225999000",
+              "area_path": [
+                "株洲市",
+                "炎陵县",
+                "炎陵县县本级"
+              ],
+              "checklist_id": "EA7C802F048B4635B95B1074CE1AB97D",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430225999000-890ba01d.md"
+            },
+            {
+              "area_code": "430281999000",
+              "area_path": [
+                "株洲市",
+                "醴陵市",
+                "醴陵市市本级"
+              ],
+              "checklist_id": "1CCCDB1C7742425B9A67CA6240F99B38",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430281999000-1e84a8d4.md"
+            },
+            {
+              "area_code": "430302999000",
+              "area_path": [
+                "湘潭市",
+                "雨湖区",
+                "雨湖区区本级"
+              ],
+              "checklist_id": "AB75F73383544A97AE2A92F8E4E1049F",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430302999000-f4578cca.md"
+            },
+            {
+              "area_code": "430304999000",
+              "area_path": [
+                "湘潭市",
+                "岳塘区",
+                "岳塘区本级"
+              ],
+              "checklist_id": "9F2B99AC08424F42A0F06B0864569FF7",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430304999000-f481ad2f.md"
+            },
+            {
+              "area_code": "430321999000",
+              "area_path": [
+                "湘潭市",
+                "湘潭县",
+                "湘潭县本级"
+              ],
+              "checklist_id": "8B95FDE547A24953B631D3E8F5F37B9B",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430321999000-2ca5cd5a.md"
+            },
+            {
+              "area_code": "430382999000",
+              "area_path": [
+                "湘潭市",
+                "韶山市",
+                "韶山市市本级"
+              ],
+              "checklist_id": "03EECDE4B9C143418DC1C717CAF9294C",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430382999000-c24904dc.md"
+            },
+            {
+              "area_code": "430405999000",
+              "area_path": [
+                "衡阳市",
+                "珠晖区",
+                "珠晖区区本级"
+              ],
+              "checklist_id": "840C92ACE60B4DB2A8B057E3B569D726",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430405999000-35d4f889.md"
+            },
+            {
+              "area_code": "430406999000",
+              "area_path": [
+                "衡阳市",
+                "雁峰区",
+                "雁峰区区本级"
+              ],
+              "checklist_id": "6D2494FA3D3D4F4F89EAECC4A8EF186E",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430406999000-3ef5ce34.md"
+            },
+            {
+              "area_code": "430407999000",
+              "area_path": [
+                "衡阳市",
+                "石鼓区",
+                "石鼓区区本级"
+              ],
+              "checklist_id": "85DF934A97D5480E91942C01FD644ADC",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430407999000-1d6a6d07.md"
+            },
+            {
+              "area_code": "430412999000",
+              "area_path": [
+                "衡阳市",
+                "南岳区",
+                "南岳区区本级"
+              ],
+              "checklist_id": "C0CF1E81BC7F45E59725C5FAFDC8B838",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430412999000-14762fe9.md"
+            },
+            {
+              "area_code": "430421999000",
+              "area_path": [
+                "衡阳市",
+                "衡阳县",
+                "衡阳县县本级"
+              ],
+              "checklist_id": "0835968E0B184235BFA5D0B30B1CF571",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430421999000-109bf9d4.md"
+            },
+            {
+              "area_code": "430422999000",
+              "area_path": [
+                "衡阳市",
+                "衡南县",
+                "衡南县本级"
+              ],
+              "checklist_id": "2A9A996E13D1407A9B4B929E4DED19F8",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430422999000-bcc33ab5.md"
+            },
+            {
+              "area_code": "430423999000",
+              "area_path": [
+                "衡阳市",
+                "衡山县",
+                "衡山县县本级"
+              ],
+              "checklist_id": "14B80951FB534E5CB3095D71A6814BD8",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430423999000-03372779.md"
+            },
+            {
+              "area_code": "430424999000",
+              "area_path": [
+                "衡阳市",
+                "衡东县",
+                "衡东县县本级"
+              ],
+              "checklist_id": "1A511A8D77284F20A806ADA8AE977760",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430424999000-00814f9f.md"
+            },
+            {
+              "area_code": "430426999000",
+              "area_path": [
+                "衡阳市",
+                "祁东县",
+                "祁东县本级"
+              ],
+              "checklist_id": "D54D54F21A564BDEACE32277B33CF137",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430426999000-9d84c152.md"
+            },
+            {
+              "area_code": "430481999000",
+              "area_path": [
+                "衡阳市",
+                "耒阳市",
+                "耒阳市县本级"
+              ],
+              "checklist_id": "33066EC40189494086962D8C61B0BA4E",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430481999000-34b2b86a.md"
+            },
+            {
+              "area_code": "430482999000",
+              "area_path": [
+                "衡阳市",
+                "常宁市",
+                "常宁市市本级"
+              ],
+              "checklist_id": "93E37D1BD36C4366AA5403A12C48693D",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430482999000-1796e4c3.md"
+            },
+            {
+              "area_code": "430503999000",
+              "area_path": [
+                "邵阳市",
+                "大祥区",
+                "大祥区区本级"
+              ],
+              "checklist_id": "AB7DDF3E343D4EE0ACD3B1B6CC3B8171",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430503999000-48d87cc3.md"
+            },
+            {
+              "area_code": "430511999000",
+              "area_path": [
+                "邵阳市",
+                "北塔区",
+                "北塔区区本级"
+              ],
+              "checklist_id": "0D72F02818714B3D82D4E2AB05E7C4D7",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430511999000-3c319d80.md"
+            },
+            {
+              "area_code": "430522999000",
+              "area_path": [
+                "邵阳市",
+                "新邵县",
+                "新邵县本级"
+              ],
+              "checklist_id": "44AC4D583719408FAF083C0056FC5E8C",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430522999000-cf6d91aa.md"
+            },
+            {
+              "area_code": "430523999000",
+              "area_path": [
+                "邵阳市",
+                "邵阳县",
+                "邵阳县本级"
+              ],
+              "checklist_id": "768E6ABE9C2440DBB3493FD83BCA3036",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430523999000-22a2725b.md"
+            },
+            {
+              "area_code": "430524999000",
+              "area_path": [
+                "邵阳市",
+                "隆回县",
+                "隆回县本级"
+              ],
+              "checklist_id": "E45D842E55944BB087E09D09554AF7B4",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430524999000-57c0fa96.md"
+            },
+            {
+              "area_code": "430525999000",
+              "area_path": [
+                "邵阳市",
+                "洞口县",
+                "洞口县本级"
+              ],
+              "checklist_id": "2ECA33E6CCE243C3802D3BBC62DC1A31",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430525999000-87b34988.md"
+            },
+            {
+              "area_code": "430527999000",
+              "area_path": [
+                "邵阳市",
+                "绥宁县",
+                "绥宁县本级"
+              ],
+              "checklist_id": "16B097535E914DBCBB8746FF915F2188",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430527999000-186d4355.md"
+            },
+            {
+              "area_code": "430528999000",
+              "area_path": [
+                "邵阳市",
+                "新宁县",
+                "新宁县本级"
+              ],
+              "checklist_id": "8DE9994564654691A21F291AE82A7585",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430528999000-1dad5efd.md"
+            },
+            {
+              "area_code": "430529999000",
+              "area_path": [
+                "邵阳市",
+                "城步苗族自治县",
+                "城步苗族自治县本级"
+              ],
+              "checklist_id": "013AB154CF6B43B39053818D2A5A1201",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430529999000-459968a6.md"
+            },
+            {
+              "area_code": "430581999000",
+              "area_path": [
+                "邵阳市",
+                "武冈市",
+                "武冈市本级"
+              ],
+              "checklist_id": "F500E9E858B24BFAAE6F26A5E570F73A",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430581999000-a781c793.md"
+            },
+            {
+              "area_code": "430601000000",
+              "area_path": [
+                "岳阳市",
+                "岳阳市直"
+              ],
+              "checklist_id": "4613E4FAD7C24B0DAB79F99F6E707075",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430601000000-b68e3875.md"
+            },
+            {
+              "area_code": "430602999000",
+              "area_path": [
+                "岳阳市",
+                "岳阳楼区",
+                "区区本级"
+              ],
+              "checklist_id": "0EBA88229B8146FA9C38E0922C3EF6B0",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430602999000-98d7f742.md"
+            },
+            {
+              "area_code": "430603999000",
+              "area_path": [
+                "岳阳市",
+                "云溪区",
+                "云溪区区本级"
+              ],
+              "checklist_id": "3B67F30A02B84D06992829DC2A3A5A6E",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430603999000-0cf2bf55.md"
+            },
+            {
+              "area_code": "430611999000",
+              "area_path": [
+                "岳阳市",
+                "君山区",
+                "君山区区本级"
+              ],
+              "checklist_id": "03AA7DF70F7342FD8397699BE7F79E70",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430611999000-75014666.md"
+            },
+            {
+              "area_code": "430621999000",
+              "area_path": [
+                "岳阳市",
+                "岳阳县",
+                "岳阳县县本级"
+              ],
+              "checklist_id": "5A6F59ED1E3F4376A3EEA8BC5C60041B",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430621999000-62584a86.md"
+            },
+            {
+              "area_code": "430681999000",
+              "area_path": [
+                "岳阳市",
+                "汨罗市",
+                "汨罗市区本级"
+              ],
+              "checklist_id": "185AD52559AC43E592ACE5EAF643D5B1",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430681999000-99297dbc.md"
+            },
+            {
+              "area_code": "430686999000",
+              "area_path": [
+                "岳阳市",
+                "南湖新区",
+                "区本级"
+              ],
+              "checklist_id": "7B6933D6C8E8482B8A614C7D05579279",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430686999000-75a3ae28.md"
+            },
+            {
+              "area_code": "430701000000",
+              "area_path": [
+                "常德市",
+                "常德市直"
+              ],
+              "checklist_id": "19B0FFA4DFA14B70BE60907AEE5548EB",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430701000000-264b729f.md"
+            },
+            {
+              "area_code": "430702999000",
+              "area_path": [
+                "常德市",
+                "武陵区",
+                "武陵区区本级"
+              ],
+              "checklist_id": "C9935F3BBBA64EDFAE51CB9740285D9D",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430702999000-39f9e841.md"
+            },
+            {
+              "area_code": "430703999000",
+              "area_path": [
+                "常德市",
+                "鼎城区",
+                "鼎城区区本级"
+              ],
+              "checklist_id": "69C615DF02294300BEF7B158E2052C71",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430703999000-d44bca11.md"
+            },
+            {
+              "area_code": "430721999000",
+              "area_path": [
+                "常德市",
+                "安乡县",
+                "安乡县县本级"
+              ],
+              "checklist_id": "3CCDED2E5BAA4557BE83F899D423671C",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430721999000-f4ec6d64.md"
+            },
+            {
+              "area_code": "430722999000",
+              "area_path": [
+                "常德市",
+                "汉寿县",
+                "汉寿县本级"
+              ],
+              "checklist_id": "0BA474A84EBD434B900332316ED6A743",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430722999000-2052b8b9.md"
+            },
+            {
+              "area_code": "430723999000",
+              "area_path": [
+                "常德市",
+                "澧县",
+                "澧县县本级"
+              ],
+              "checklist_id": "3DE40591CCC34440881930AEBF45F76C",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430723999000-a118c3f9.md"
+            },
+            {
+              "area_code": "430724999000",
+              "area_path": [
+                "常德市",
+                "临澧县",
+                "临澧县县本级"
+              ],
+              "checklist_id": "CF9A19BC3C2941D2A462332DCD9D492A",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430724999000-d677752a.md"
+            },
+            {
+              "area_code": "430725999000",
+              "area_path": [
+                "常德市",
+                "桃源县",
+                "桃源县县本级"
+              ],
+              "checklist_id": "644B5C1DB1A342EABE5F39E021AED7D1",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430725999000-dc5f5622.md"
+            },
+            {
+              "area_code": "430771999000",
+              "area_path": [
+                "常德市",
+                "西洞庭管理区",
+                "西洞庭管理区区本级"
+              ],
+              "checklist_id": "FD38324E78B04CFB887536E2D9ED0222",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430771999000-3009776d.md"
+            },
+            {
+              "area_code": "430781999000",
+              "area_path": [
+                "常德市",
+                "津市市",
+                "津市市本级"
+              ],
+              "checklist_id": "F90EF5392C784DE1B984B54EE8D7C356",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430781999000-b2614186.md"
+            },
+            {
+              "area_code": "430793999000",
+              "area_path": [
+                "常德市",
+                "西湖管理区",
+                "西湖管理区区本级"
+              ],
+              "checklist_id": "46357AD9175640BA86FFB379637E68DB",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430793999000-8f1d08bf.md"
+            },
+            {
+              "area_code": "430801000000",
+              "area_path": [
+                "张家界市",
+                "张家界市本级"
+              ],
+              "checklist_id": "E002B17EDF3845D1B0BE2B85E871B6C5",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430801000000-ef498dc7.md"
+            },
+            {
+              "area_code": "430802999000",
+              "area_path": [
+                "张家界市",
+                "永定区",
+                "永定区区本级"
+              ],
+              "checklist_id": "3B852FC12A0D4FF59CB8C5E3CD0E58EA",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430802999000-fc0e2c16.md"
+            },
+            {
+              "area_code": "430811999000",
+              "area_path": [
+                "张家界市",
+                "武陵源区",
+                "武陵源区区本级"
+              ],
+              "checklist_id": "C9012C96803B48528965029319896CA4",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430811999000-bd436204.md"
+            },
+            {
+              "area_code": "430821999000",
+              "area_path": [
+                "张家界市",
+                "慈利县",
+                "慈利县县本级"
+              ],
+              "checklist_id": "2D1754F1F96246019DF8B750A6F4A378",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430821999000-ea3798de.md"
+            },
+            {
+              "area_code": "430822999000",
+              "area_path": [
+                "张家界市",
+                "桑植县",
+                "桑植县县本级"
+              ],
+              "checklist_id": "D911DE8F918341B79E7F5098A5B94B08",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430822999000-ab8d2c1d.md"
+            },
+            {
+              "area_code": "430902999000",
+              "area_path": [
+                "益阳市",
+                "资阳区",
+                "资阳区区本级"
+              ],
+              "checklist_id": "20DC96C501484A6A86BB75B5FCD6C59F",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430902999000-135b9234.md"
+            },
+            {
+              "area_code": "430903999000",
+              "area_path": [
+                "益阳市",
+                "赫山区",
+                "赫山区区本级"
+              ],
+              "checklist_id": "F67E506BC98B4B7B9324A5FF24EC902C",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430903999000-a7a05288.md"
+            },
+            {
+              "area_code": "430921999000",
+              "area_path": [
+                "益阳市",
+                "南县",
+                "南县县本级"
+              ],
+              "checklist_id": "732C32B501AE4D1BA7C92E8F21F3F8E2",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430921999000-a3817e3b.md"
+            },
+            {
+              "area_code": "430922999000",
+              "area_path": [
+                "益阳市",
+                "桃江县",
+                "桃江县县本级"
+              ],
+              "checklist_id": "7F427BC8D15D4BB1AA1FD1DFC82E38C7",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430922999000-45ac1860.md"
+            },
+            {
+              "area_code": "430923999000",
+              "area_path": [
+                "益阳市",
+                "安化县",
+                "安化县县本级"
+              ],
+              "checklist_id": "9F3BC56CB7444B1EA8F9007F2A6212B6",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430923999000-2dd858bf.md"
+            },
+            {
+              "area_code": "430971999000",
+              "area_path": [
+                "益阳市",
+                "大通湖管理区",
+                "大通湖管理区区本级"
+              ],
+              "checklist_id": "24C5612F30044EE5A2396F6D293D0B73",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430971999000-5c7e5c5c.md"
+            },
+            {
+              "area_code": "430981999000",
+              "area_path": [
+                "益阳市",
+                "沅江市",
+                "沅江市市本级"
+              ],
+              "checklist_id": "9CEE234DAE8E4FD09FECA568022FB792",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430981999000-6edc0c8b.md"
+            },
+            {
+              "area_code": "431002999000",
+              "area_path": [
+                "郴州市",
+                "北湖区",
+                "北湖区本级"
+              ],
+              "checklist_id": "653DE978F3CB444A9CFC64F5D097CEDA",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431002999000-8ec8bf08.md"
+            },
+            {
+              "area_code": "431003999000",
+              "area_path": [
+                "郴州市",
+                "苏仙区",
+                "苏仙区区本级"
+              ],
+              "checklist_id": "2E9491B96DB640D5AD6AF4CFB56A6435",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431003999000-ff22698a.md"
+            },
+            {
+              "area_code": "431021999000",
+              "area_path": [
+                "郴州市",
+                "桂阳县",
+                "桂阳县县本级"
+              ],
+              "checklist_id": "9C1871214DE143D8B1857BDEA13AFF16",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431021999000-1c345a53.md"
+            },
+            {
+              "area_code": "431023999000",
+              "area_path": [
+                "郴州市",
+                "永兴县",
+                "永兴县本级"
+              ],
+              "checklist_id": "9DC3639E4976451DA0185B91D909E16B",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431023999000-c8b50211.md"
+            },
+            {
+              "area_code": "431024999000",
+              "area_path": [
+                "郴州市",
+                "嘉禾县",
+                "嘉禾县本级"
+              ],
+              "checklist_id": "08DACD9CDD1E431E8649095D5F695039",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431024999000-06b81c47.md"
+            },
+            {
+              "area_code": "431026999000",
+              "area_path": [
+                "郴州市",
+                "汝城县",
+                "汝城县县本级"
+              ],
+              "checklist_id": "1B63453D2F0B447084C47988C3990132",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431026999000-0ee235a1.md"
+            },
+            {
+              "area_code": "431027999000",
+              "area_path": [
+                "郴州市",
+                "桂东县",
+                "桂东县县本级"
+              ],
+              "checklist_id": "95B3EF2078384123872878C8066B3A4C",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431027999000-5dcde085.md"
+            },
+            {
+              "area_code": "431028999000",
+              "area_path": [
+                "郴州市",
+                "安仁县",
+                "安仁县县本级"
+              ],
+              "checklist_id": "F0147D1588634B2AA3495240869D806A",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431028999000-df0b476a.md"
+            },
+            {
+              "area_code": "431081999000",
+              "area_path": [
+                "郴州市",
+                "资兴市",
+                "资兴市市本级"
+              ],
+              "checklist_id": "F52BF1AB58384C25A4D5295060DC98B3",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431081999000-57864fd9.md"
+            },
+            {
+              "area_code": "431102999000",
+              "area_path": [
+                "永州市",
+                "零陵区",
+                "零陵区本级"
+              ],
+              "checklist_id": "D6794FC9597A43ED9539593CF1159DDB",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431102999000-49cc1818.md"
+            },
+            {
+              "area_code": "431103999000",
+              "area_path": [
+                "永州市",
+                "冷水滩区",
+                "冷水滩区本级"
+              ],
+              "checklist_id": "40493897E4FB40FBA59B933F5E901035",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431103999000-924c9c47.md"
+            },
+            {
+              "area_code": "431122999000",
+              "area_path": [
+                "永州市",
+                "东安县",
+                "东安县本级"
+              ],
+              "checklist_id": "EAF91BAD6E0A4CF39D43D0F5C1D66240",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431122999000-31e56d93.md"
+            },
+            {
+              "area_code": "431123999000",
+              "area_path": [
+                "永州市",
+                "双牌县",
+                "双牌县本级"
+              ],
+              "checklist_id": "D72A6BD03A8B423EA275ED20442FBDBE",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431123999000-130345d2.md"
+            },
+            {
+              "area_code": "431124999000",
+              "area_path": [
+                "永州市",
+                "道县",
+                "道县本级"
+              ],
+              "checklist_id": "EC856B1960454B16807F71B6AD4997FC",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431124999000-f76e917f.md"
+            },
+            {
+              "area_code": "431126999000",
+              "area_path": [
+                "永州市",
+                "宁远县",
+                "宁远县本级"
+              ],
+              "checklist_id": "F03FAE76ED8A49CFBF7BDBF0C8989A31",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431126999000-50c479b0.md"
+            },
+            {
+              "area_code": "431127999000",
+              "area_path": [
+                "永州市",
+                "蓝山县",
+                "蓝山县本级"
+              ],
+              "checklist_id": "5ED88DD5CBD348EC81D129AE96224CF5",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431127999000-0dc4e18d.md"
+            },
+            {
+              "area_code": "431128999000",
+              "area_path": [
+                "永州市",
+                "新田县",
+                "新田县本级"
+              ],
+              "checklist_id": "C3894C111D7A4D26A481DB8786791D3A",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431128999000-161449e6.md"
+            },
+            {
+              "area_code": "431172999000",
+              "area_path": [
+                "永州市",
+                "金洞管理区",
+                "区本级"
+              ],
+              "checklist_id": "CB05689C67544040AB4887CC6D65DE2D",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431172999000-a39bd20e.md"
+            },
+            {
+              "area_code": "431173999000",
+              "area_path": [
+                "永州市",
+                "回龙圩管理区",
+                "区本级"
+              ],
+              "checklist_id": "C9E9301452464E81A63CE8067EF1FAE4",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431173999000-5d582cac.md"
+            },
+            {
+              "area_code": "431181999000",
+              "area_path": [
+                "永州市",
+                "祁阳市",
+                "祁阳市本级"
+              ],
+              "checklist_id": "76B6329AEEC945E3864C72F96758F639",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431181999000-63818f39.md"
+            },
+            {
+              "area_code": "431221999000",
+              "area_path": [
+                "怀化市",
+                "中方县",
+                "中方县本级"
+              ],
+              "checklist_id": "90600380A9A74B67831B8DD3202D87C5",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431221999000-1abe2bab.md"
+            },
+            {
+              "area_code": "431222999000",
+              "area_path": [
+                "怀化市",
+                "沅陵县",
+                "沅陵县本级"
+              ],
+              "checklist_id": "F612661EDA554F338857E0D76DC1B046",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431222999000-fd5508f3.md"
+            },
+            {
+              "area_code": "431223999000",
+              "area_path": [
+                "怀化市",
+                "辰溪县",
+                "辰溪县本级"
+              ],
+              "checklist_id": "F919F9159D2F4D4191E53A89879D70EE",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431223999000-1b5cbaf5.md"
+            },
+            {
+              "area_code": "431224999000",
+              "area_path": [
+                "怀化市",
+                "溆浦县",
+                "溆浦县本级"
+              ],
+              "checklist_id": "CB8CDC424D5D4FD8B7E37C7CACBCEE60",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431224999000-180c35e4.md"
+            },
+            {
+              "area_code": "431225999000",
+              "area_path": [
+                "怀化市",
+                "会同县",
+                "会同县本级"
+              ],
+              "checklist_id": "8E6D5E277EBD40B9A6F64207205F08AB",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431225999000-a9252604.md"
+            },
+            {
+              "area_code": "431229999000",
+              "area_path": [
+                "怀化市",
+                "靖州县",
+                "靖州县本级"
+              ],
+              "checklist_id": "8CA046F4BFD64A0D9481369FADC3FEDA",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431229999000-0d2e2398.md"
+            },
+            {
+              "area_code": "431271999000",
+              "area_path": [
+                "怀化市",
+                "洪江区",
+                "洪江区区本级"
+              ],
+              "checklist_id": "FD2761C2A3474764B4C5B318EEF96D81",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431271999000-5322072d.md"
+            },
+            {
+              "area_code": "431281999000",
+              "area_path": [
+                "怀化市",
+                "洪江市",
+                "洪江市本级"
+              ],
+              "checklist_id": "D6785249C4DC4ECD980F859FB2136084",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431281999000-a3b68a58.md"
+            },
+            {
+              "area_code": "431321999000",
+              "area_path": [
+                "娄底市",
+                "双峰县",
+                "双峰县县本级"
+              ],
+              "checklist_id": "0E589D7C1C224C52867AFAFA314D004D",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431321999000-281e8dd7.md"
+            },
+            {
+              "area_code": "431322999000",
+              "area_path": [
+                "娄底市",
+                "新化县",
+                "新化县县本级"
+              ],
+              "checklist_id": "81FA6949187640B8844C570A164A5C23",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431322999000-585845f2.md"
+            },
+            {
+              "area_code": "431382999000",
+              "area_path": [
+                "娄底市",
+                "涟源市",
+                "涟源市市本级"
+              ],
+              "checklist_id": "7BAB86A877444F02BCFE07EFF5D549BB",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431382999000-79109eff.md"
+            },
+            {
+              "area_code": "433101999000",
+              "area_path": [
+                "湘西自治州",
+                "吉首市",
+                "吉首市市本级"
+              ],
+              "checklist_id": "4C0E397D06EE48F396B60577EEFD429D",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/433101999000-802b69ff.md"
+            },
+            {
+              "area_code": "433122999000",
+              "area_path": [
+                "湘西自治州",
+                "泸溪县",
+                "泸溪县县本级"
+              ],
+              "checklist_id": "DE4347469F3A4913B56BB5A170E129BB",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/433122999000-f0c51e9c.md"
+            },
+            {
+              "area_code": "433123999000",
+              "area_path": [
+                "湘西自治州",
+                "凤凰县",
+                "凤凰县县本级"
+              ],
+              "checklist_id": "9EA6D6F3969F45E5A22580500F8A69AC",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/433123999000-70ac5358.md"
+            },
+            {
+              "area_code": "433124999000",
+              "area_path": [
+                "湘西自治州",
+                "花垣县",
+                "花垣县县本级"
+              ],
+              "checklist_id": "BFDE2887EEAD40A6A9921F66B0D278C5",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/433124999000-464ddd62.md"
+            },
+            {
+              "area_code": "433125999000",
+              "area_path": [
+                "湘西自治州",
+                "保靖县",
+                "保靖县县本级"
+              ],
+              "checklist_id": "A8D8875DBA7F40DDA39118C0666CF6E0",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/433125999000-8d18ddfe.md"
+            },
+            {
+              "area_code": "433126999000",
+              "area_path": [
+                "湘西自治州",
+                "古丈县",
+                "古丈县县本级"
+              ],
+              "checklist_id": "AF078848F9834E41BA002AD4E63A89C6",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/433126999000-2e65a979.md"
+            },
+            {
+              "area_code": "433127999000",
+              "area_path": [
+                "湘西自治州",
+                "永顺县",
+                "永顺县县本级"
+              ],
+              "checklist_id": "CD39D99A86104E35A77C7D602DC7BCF7",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/433127999000-2ae5d790.md"
+            },
+            {
+              "area_code": "433130999000",
+              "area_path": [
+                "湘西自治州",
+                "龙山县",
+                "龙山县县本级"
+              ],
+              "checklist_id": "D54EBB5B0E71471EBBC25C1189C8705B",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/433130999000-e093e476.md"
+            }
+          ]
+        },
+        {
+          "variant_id": "166a2d67dce4bfa2",
+          "fingerprint": "166a2d67dce4bfa20363e4c1b95a9c4552040e64617dfbebb70d79d0fd8a0d08",
+          "path": "entities/theme-services/details/43PCN0009/variants/166a2d67dce4bfa2.md",
+          "applicable_area_count": 17,
+          "representative_source_json": "raw/onething/guides/43PCN0009/B9C0297F27CE48B88D378B8BDECE13F3.json",
+          "area_mappings": [
+            {
+              "area_code": "430101000000",
+              "area_path": [
+                "长沙市",
+                "长沙市直"
+              ],
+              "checklist_id": "B9C0297F27CE48B88D378B8BDECE13F3",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430101000000-dc8701fd.md"
+            },
+            {
+              "area_code": "430104999000",
+              "area_path": [
+                "长沙市",
+                "湖南湘江新区",
+                "湘江新区区本级"
+              ],
+              "checklist_id": "154BF229E3E64B129D3D7B0AE407931E",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430104999000-5c8f29c2.md"
+            },
+            {
+              "area_code": "430105999000",
+              "area_path": [
+                "长沙市",
+                "开福区",
+                "开福区区本级"
+              ],
+              "checklist_id": "AC2708264BAC4AE48D2C244B907C671B",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430105999000-370b9291.md"
+            },
+            {
+              "area_code": "430181999000",
+              "area_path": [
+                "长沙市",
+                "浏阳市",
+                "浏阳市市本级"
+              ],
+              "checklist_id": "D1152CF1600D40D88766A986547EF8E5",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430181999000-5632e83a.md"
+            },
+            {
+              "area_code": "430201000000",
+              "area_path": [
+                "株洲市",
+                "株洲市直"
+              ],
+              "checklist_id": "BE4094E404644BDE87271508FC830EBC",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430201000000-a66245fa.md"
+            },
+            {
+              "area_code": "430204999000",
+              "area_path": [
+                "株洲市",
+                "石峰区",
+                "石峰区区本级"
+              ],
+              "checklist_id": "1115C1C237894CFEA9A9423111D6B8CD",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430204999000-1fb6b79d.md"
+            },
+            {
+              "area_code": "430211999000",
+              "area_path": [
+                "株洲市",
+                "天元区",
+                "天元区区本级"
+              ],
+              "checklist_id": "701FEE4F6F564DA4BCA621E577533F49",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430211999000-1b31f4c6.md"
+            },
+            {
+              "area_code": "430301000000",
+              "area_path": [
+                "湘潭市",
+                "湘潭市直"
+              ],
+              "checklist_id": "CABD0ED1B5D54F21A91CAE433EF9F680",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430301000000-b905238c.md"
+            },
+            {
+              "area_code": "430401000000",
+              "area_path": [
+                "衡阳市",
+                "衡阳市直"
+              ],
+              "checklist_id": "A439133E1FC14CC1A746E182DC8D4D01",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430401000000-eb843c29.md"
+            },
+            {
+              "area_code": "430408999000",
+              "area_path": [
+                "衡阳市",
+                "蒸湘区",
+                "蒸湘区区本级"
+              ],
+              "checklist_id": "A3E53B79B69C45E6B749F42694653AB9",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430408999000-c7922a15.md"
+            },
+            {
+              "area_code": "430501000000",
+              "area_path": [
+                "邵阳市",
+                "邵阳市直"
+              ],
+              "checklist_id": "29D3C0FBC6134F918409644F2D3C36CF",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430501000000-fb3aa2df.md"
+            },
+            {
+              "area_code": "430626999000",
+              "area_path": [
+                "岳阳市",
+                "平江县",
+                "平江县县本级"
+              ],
+              "checklist_id": "E8DB1E62D32A44ED9DA3F6CFC5B81713",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430626999000-82bef8d5.md"
+            },
+            {
+              "area_code": "430682999000",
+              "area_path": [
+                "岳阳市",
+                "临湘市",
+                "临湘市县本级"
+              ],
+              "checklist_id": "C22F915A099143D68A845DB3B5A2734A",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430682999000-af025f24.md"
+            },
+            {
+              "area_code": "430901000000",
+              "area_path": [
+                "益阳市",
+                "益阳市直"
+              ],
+              "checklist_id": "A9FE989EC6E042BF9441C19AC15DD8D6",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430901000000-f8e69d36.md"
+            },
+            {
+              "area_code": "431001000000",
+              "area_path": [
+                "郴州市",
+                "郴州市直"
+              ],
+              "checklist_id": "BC0F7DC620EA4ECC91C77F1033977C41",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431001000000-d0a33fff.md"
+            },
+            {
+              "area_code": "431201000000",
+              "area_path": [
+                "怀化市",
+                "怀化市直"
+              ],
+              "checklist_id": "3FBA48378C034412B045F4D4CA58C437",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431201000000-b71b7c77.md"
+            },
+            {
+              "area_code": "431301000000",
+              "area_path": [
+                "娄底市",
+                "娄底市直"
+              ],
+              "checklist_id": "1C6D857CB2AD4C598044A72CD36DFF4F",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431301000000-c85668ac.md"
+            }
+          ]
+        },
+        {
+          "variant_id": "ced412dec131a7fd",
+          "fingerprint": "ced412dec131a7fdee969aae8cc45c5b2ef3244f5033489ee39bc081293ffee0",
+          "path": "entities/theme-services/details/43PCN0009/variants/ced412dec131a7fd.md",
+          "applicable_area_count": 5,
+          "representative_source_json": "raw/onething/guides/43PCN0009/BEC88DCDF1B64B888C2D0537F516D55C.json",
+          "area_mappings": [
+            {
+              "area_code": "430502999000",
+              "area_path": [
+                "邵阳市",
+                "双清区",
+                "双清区区本级"
+              ],
+              "checklist_id": "BEC88DCDF1B64B888C2D0537F516D55C",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430502999000-c079a4db.md"
+            },
+            {
+              "area_code": "431022999000",
+              "area_path": [
+                "郴州市",
+                "宜章县",
+                "宜章县本级"
+              ],
+              "checklist_id": "01DF135EF01447CDA02CF758A96F27E0",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431022999000-913e73f2.md"
+            },
+            {
+              "area_code": "431025999000",
+              "area_path": [
+                "郴州市",
+                "临武县",
+                "临武县县本级"
+              ],
+              "checklist_id": "DA95C4F395334213B030B9B8AC8F1E04",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431025999000-affde029.md"
+            },
+            {
+              "area_code": "431226999000",
+              "area_path": [
+                "怀化市",
+                "麻阳县",
+                "麻阳县本级"
+              ],
+              "checklist_id": "3640A6F7AD984FC3A5921054EEBB0D6C",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431226999000-28813743.md"
+            },
+            {
+              "area_code": "431381999000",
+              "area_path": [
+                "娄底市",
+                "冷水江市",
+                "冷水江市市本级"
+              ],
+              "checklist_id": "6FBD83EC11F34188B4B9E849029DBC30",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431381999000-cf97888b.md"
+            }
+          ]
+        },
+        {
+          "variant_id": "826a438bf6874b3d",
+          "fingerprint": "826a438bf6874b3d655ae31218f02cd72435dbec18097dba6bd0d03f45bbea13",
+          "path": "entities/theme-services/details/43PCN0009/variants/826a438bf6874b3d.md",
+          "applicable_area_count": 4,
+          "representative_source_json": "raw/onething/guides/43PCN0009/91610362AA894074A77064FAF2899E7D.json",
+          "area_mappings": [
+            {
+              "area_code": "430223999000",
+              "area_path": [
+                "株洲市",
+                "攸县",
+                "攸县县本级"
+              ],
+              "checklist_id": "91610362AA894074A77064FAF2899E7D",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430223999000-fef6e59a.md"
+            },
+            {
+              "area_code": "430671999000",
+              "area_path": [
+                "岳阳市",
+                "屈原管理区",
+                "屈原管理区区本级"
+              ],
+              "checklist_id": "AFA823D443EB44C4AB4325C1A0CEEAB7",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430671999000-ffdcbefe.md"
+            },
+            {
+              "area_code": "431228999000",
+              "area_path": [
+                "怀化市",
+                "芷江县",
+                "芷江县本级"
+              ],
+              "checklist_id": "936E1379BF124F53B134B826638F0481",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431228999000-1e196dff.md"
+            },
+            {
+              "area_code": "431302999000",
+              "area_path": [
+                "娄底市",
+                "娄星区",
+                "娄星区区本级"
+              ],
+              "checklist_id": "574E120A253A494390CE89B4D4724062",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431302999000-37933eb6.md"
+            }
+          ]
+        },
+        {
+          "variant_id": "a397dbf91a8a7f6d",
+          "fingerprint": "a397dbf91a8a7f6d106eba16b0f4a972b635417152f33714520c3c13a1407c84",
+          "path": "entities/theme-services/details/43PCN0009/variants/a397dbf91a8a7f6d.md",
+          "applicable_area_count": 3,
+          "representative_source_json": "raw/onething/guides/43PCN0009/D5B019DD5EB44185A7DD1771AEC2FE7F.json",
+          "area_mappings": [
+            {
+              "area_code": "430624999000",
+              "area_path": [
+                "岳阳市",
+                "湘阴县",
+                "湘阴县县本级"
+              ],
+              "checklist_id": "D5B019DD5EB44185A7DD1771AEC2FE7F",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430624999000-4fd7c5a0.md"
+            },
+            {
+              "area_code": "430792999000",
+              "area_path": [
+                "常德市",
+                "柳叶湖旅游度假区",
+                "柳叶湖旅游度假区本级"
+              ],
+              "checklist_id": "329DB9BD348C452780AC39DF1330FE78",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430792999000-539048df.md"
+            },
+            {
+              "area_code": "431125999000",
+              "area_path": [
+                "永州市",
+                "江永县",
+                "江永县本级"
+              ],
+              "checklist_id": "7F15266660374788A568843FD054AD30",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431125999000-d76cce50.md"
+            }
+          ]
+        },
+        {
+          "variant_id": "c15a912c0af8ecdb",
+          "fingerprint": "c15a912c0af8ecdb6f1422a1d3f6988f62b99fb55bfeb589bbe68669dec0e237",
+          "path": "entities/theme-services/details/43PCN0009/variants/c15a912c0af8ecdb.md",
+          "applicable_area_count": 3,
+          "representative_source_json": "raw/onething/guides/43PCN0009/D6B85F14093542E49E5A5F6D3398DEC1.json",
+          "area_mappings": [
+            {
+              "area_code": "430381999000",
+              "area_path": [
+                "湘潭市",
+                "湘乡市",
+                "湘乡市市本级"
+              ],
+              "checklist_id": "D6B85F14093542E49E5A5F6D3398DEC1",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430381999000-ba33e399.md"
+            },
+            {
+              "area_code": "431129999000",
+              "area_path": [
+                "永州市",
+                "江华县",
+                "江华县本级"
+              ],
+              "checklist_id": "8DDA127EE0B7446EAED811C0817010B5",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431129999000-2d1282dc.md"
+            },
+            {
+              "area_code": "433199000000",
+              "area_path": [
+                "湘西自治州",
+                "湘西州本级"
+              ],
+              "checklist_id": "ECB0215F101C4822A78E22892D474AB6",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/433199000000-8b47da21.md"
+            }
+          ]
+        },
+        {
+          "variant_id": "2c9924bf46b38193",
+          "fingerprint": "2c9924bf46b3819361dc68bcd059a8c2ca74f39963106c4b8df8b19ed02e73fc",
+          "path": "entities/theme-services/details/43PCN0009/variants/2c9924bf46b38193.md",
+          "applicable_area_count": 2,
+          "representative_source_json": "raw/onething/guides/43PCN0009/8D76A93F9D2A4E1AAAB64FC90C0B4FAB.json",
+          "area_mappings": [
+            {
+              "area_code": "431202999000",
+              "area_path": [
+                "怀化市",
+                "鹤城区",
+                "鹤城区本级"
+              ],
+              "checklist_id": "8D76A93F9D2A4E1AAAB64FC90C0B4FAB",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431202999000-8fe363a2.md"
+            },
+            {
+              "area_code": "431227999000",
+              "area_path": [
+                "怀化市",
+                "新晃县",
+                "新晃县本级"
+              ],
+              "checklist_id": "47F67CABE470426B8F86DD492215C2C8",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431227999000-2f17cd52.md"
+            }
+          ]
+        },
+        {
+          "variant_id": "417adf314a5c4fbb",
+          "fingerprint": "417adf314a5c4fbba26fbbbe6138d380224575f4e6e7b02ba1b93143fe7de428",
+          "path": "entities/theme-services/details/43PCN0009/variants/417adf314a5c4fbb.md",
+          "applicable_area_count": 1,
+          "representative_source_json": "raw/onething/guides/43PCN0009/B8FA54788D7A48DD8D66F93685DAFAF3.json",
+          "area_mappings": [
+            {
+              "area_code": "431230999000",
+              "area_path": [
+                "怀化市",
+                "通道县",
+                "通道县本级"
+              ],
+              "checklist_id": "B8FA54788D7A48DD8D66F93685DAFAF3",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431230999000-b99e7ea5.md"
+            }
+          ]
+        },
+        {
+          "variant_id": "43d2abb7786fcf18",
+          "fingerprint": "43d2abb7786fcf18a45964aa1813479ee8d008c56aa58b4dee928d330f58d6f9",
+          "path": "entities/theme-services/details/43PCN0009/variants/43d2abb7786fcf18.md",
+          "applicable_area_count": 1,
+          "representative_source_json": "raw/onething/guides/43PCN0009/1C9D4DF287A44F0BB413BBBFC3F5EA54.json",
+          "area_mappings": [
+            {
+              "area_code": "430726999000",
+              "area_path": [
+                "常德市",
+                "石门县",
+                "石门县县本级"
+              ],
+              "checklist_id": "1C9D4DF287A44F0BB413BBBFC3F5EA54",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430726999000-f91fd90f.md"
+            }
+          ]
+        },
+        {
+          "variant_id": "8994052329af3581",
+          "fingerprint": "8994052329af3581155dbc3c9758b91d74275996270279c23719c24f18e2a355",
+          "path": "entities/theme-services/details/43PCN0009/variants/8994052329af3581.md",
+          "applicable_area_count": 1,
+          "representative_source_json": "raw/onething/guides/43PCN0009/A5C00DB658994A248C5BDB4E64D8CDA9.json",
+          "area_mappings": [
+            {
+              "area_code": "430582999000",
+              "area_path": [
+                "邵阳市",
+                "邵东市",
+                "邵东市本级"
+              ],
+              "checklist_id": "A5C00DB658994A248C5BDB4E64D8CDA9",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430582999000-77f2c824.md"
+            }
+          ]
+        },
+        {
+          "variant_id": "eb0a8f79e92d3c7c",
+          "fingerprint": "eb0a8f79e92d3c7c294a72a89f523d80241f210e0547c1d9d578ccd59263223c",
+          "path": "entities/theme-services/details/43PCN0009/variants/eb0a8f79e92d3c7c.md",
+          "applicable_area_count": 1,
+          "representative_source_json": "raw/onething/guides/43PCN0009/F9C0C4B982B84B53BF2EDFA0ABA94537.json",
+          "area_mappings": [
+            {
+              "area_code": "430623999000",
+              "area_path": [
+                "岳阳市",
+                "华容县",
+                "华容县县本级"
+              ],
+              "checklist_id": "F9C0C4B982B84B53BF2EDFA0ABA94537",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/430623999000-e406cdc1.md"
+            }
+          ]
+        },
+        {
+          "variant_id": "f54f3a2c5c8c02e1",
+          "fingerprint": "f54f3a2c5c8c02e17a49582858b806e2d1a69cef3419995dfd64dc967512d5d3",
+          "path": "entities/theme-services/details/43PCN0009/variants/f54f3a2c5c8c02e1.md",
+          "applicable_area_count": 1,
+          "representative_source_json": "raw/onething/guides/43PCN0009/2B3F8CF35CCE4B4E9AE8F0DB593B23BF.json",
+          "area_mappings": [
+            {
+              "area_code": "431101000000",
+              "area_path": [
+                "永州市",
+                "永州市直"
+              ],
+              "checklist_id": "2B3F8CF35CCE4B4E9AE8F0DB593B23BF",
+              "region_path": "entities/theme-services/details/43PCN0009/regions/431101000000-4cfcf1b1.md"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "generated_pages": [
+    "entities/theme-services/details/43PCN0009/regions/430101000000-dc8701fd.md",
+    "entities/theme-services/details/43PCN0009/regions/430102999000-50f7c200.md",
+    "entities/theme-services/details/43PCN0009/regions/430103999000-f4626b9e.md",
+    "entities/theme-services/details/43PCN0009/regions/430104999000-5c8f29c2.md",
+    "entities/theme-services/details/43PCN0009/regions/430105999000-370b9291.md",
+    "entities/theme-services/details/43PCN0009/regions/430111999000-1009fe61.md",
+    "entities/theme-services/details/43PCN0009/regions/430112999000-13298534.md",
+    "entities/theme-services/details/43PCN0009/regions/430121999000-89aa9aa5.md",
+    "entities/theme-services/details/43PCN0009/regions/430181999000-5632e83a.md",
+    "entities/theme-services/details/43PCN0009/regions/430182999000-1a92b587.md",
+    "entities/theme-services/details/43PCN0009/regions/430201000000-a66245fa.md",
+    "entities/theme-services/details/43PCN0009/regions/430202999000-ba66dd42.md",
+    "entities/theme-services/details/43PCN0009/regions/430203999000-3980bea5.md",
+    "entities/theme-services/details/43PCN0009/regions/430204999000-1fb6b79d.md",
+    "entities/theme-services/details/43PCN0009/regions/430211999000-1b31f4c6.md",
+    "entities/theme-services/details/43PCN0009/regions/430212999000-e1c82437.md",
+    "entities/theme-services/details/43PCN0009/regions/430223999000-fef6e59a.md",
+    "entities/theme-services/details/43PCN0009/regions/430224999000-fa826d7b.md",
+    "entities/theme-services/details/43PCN0009/regions/430225999000-890ba01d.md",
+    "entities/theme-services/details/43PCN0009/regions/430281999000-1e84a8d4.md",
+    "entities/theme-services/details/43PCN0009/regions/430301000000-b905238c.md",
+    "entities/theme-services/details/43PCN0009/regions/430302999000-f4578cca.md",
+    "entities/theme-services/details/43PCN0009/regions/430304999000-f481ad2f.md",
+    "entities/theme-services/details/43PCN0009/regions/430321999000-2ca5cd5a.md",
+    "entities/theme-services/details/43PCN0009/regions/430381999000-ba33e399.md",
+    "entities/theme-services/details/43PCN0009/regions/430382999000-c24904dc.md",
+    "entities/theme-services/details/43PCN0009/regions/430401000000-eb843c29.md",
+    "entities/theme-services/details/43PCN0009/regions/430405999000-35d4f889.md",
+    "entities/theme-services/details/43PCN0009/regions/430406999000-3ef5ce34.md",
+    "entities/theme-services/details/43PCN0009/regions/430407999000-1d6a6d07.md",
+    "entities/theme-services/details/43PCN0009/regions/430408999000-c7922a15.md",
+    "entities/theme-services/details/43PCN0009/regions/430412999000-14762fe9.md",
+    "entities/theme-services/details/43PCN0009/regions/430421999000-109bf9d4.md",
+    "entities/theme-services/details/43PCN0009/regions/430422999000-bcc33ab5.md",
+    "entities/theme-services/details/43PCN0009/regions/430423999000-03372779.md",
+    "entities/theme-services/details/43PCN0009/regions/430424999000-00814f9f.md",
+    "entities/theme-services/details/43PCN0009/regions/430426999000-9d84c152.md",
+    "entities/theme-services/details/43PCN0009/regions/430481999000-34b2b86a.md",
+    "entities/theme-services/details/43PCN0009/regions/430482999000-1796e4c3.md",
+    "entities/theme-services/details/43PCN0009/regions/430501000000-fb3aa2df.md",
+    "entities/theme-services/details/43PCN0009/regions/430502999000-c079a4db.md",
+    "entities/theme-services/details/43PCN0009/regions/430503999000-48d87cc3.md",
+    "entities/theme-services/details/43PCN0009/regions/430511999000-3c319d80.md",
+    "entities/theme-services/details/43PCN0009/regions/430522999000-cf6d91aa.md",
+    "entities/theme-services/details/43PCN0009/regions/430523999000-22a2725b.md",
+    "entities/theme-services/details/43PCN0009/regions/430524999000-57c0fa96.md",
+    "entities/theme-services/details/43PCN0009/regions/430525999000-87b34988.md",
+    "entities/theme-services/details/43PCN0009/regions/430527999000-186d4355.md",
+    "entities/theme-services/details/43PCN0009/regions/430528999000-1dad5efd.md",
+    "entities/theme-services/details/43PCN0009/regions/430529999000-459968a6.md",
+    "entities/theme-services/details/43PCN0009/regions/430581999000-a781c793.md",
+    "entities/theme-services/details/43PCN0009/regions/430582999000-77f2c824.md",
+    "entities/theme-services/details/43PCN0009/regions/430601000000-b68e3875.md",
+    "entities/theme-services/details/43PCN0009/regions/430602999000-98d7f742.md",
+    "entities/theme-services/details/43PCN0009/regions/430603999000-0cf2bf55.md",
+    "entities/theme-services/details/43PCN0009/regions/430611999000-75014666.md",
+    "entities/theme-services/details/43PCN0009/regions/430621999000-62584a86.md",
+    "entities/theme-services/details/43PCN0009/regions/430623999000-e406cdc1.md",
+    "entities/theme-services/details/43PCN0009/regions/430624999000-4fd7c5a0.md",
+    "entities/theme-services/details/43PCN0009/regions/430626999000-82bef8d5.md",
+    "entities/theme-services/details/43PCN0009/regions/430671999000-ffdcbefe.md",
+    "entities/theme-services/details/43PCN0009/regions/430681999000-99297dbc.md",
+    "entities/theme-services/details/43PCN0009/regions/430682999000-af025f24.md",
+    "entities/theme-services/details/43PCN0009/regions/430686999000-75a3ae28.md",
+    "entities/theme-services/details/43PCN0009/regions/430701000000-264b729f.md",
+    "entities/theme-services/details/43PCN0009/regions/430702999000-39f9e841.md",
+    "entities/theme-services/details/43PCN0009/regions/430703999000-d44bca11.md",
+    "entities/theme-services/details/43PCN0009/regions/430721999000-f4ec6d64.md",
+    "entities/theme-services/details/43PCN0009/regions/430722999000-2052b8b9.md",
+    "entities/theme-services/details/43PCN0009/regions/430723999000-a118c3f9.md",
+    "entities/theme-services/details/43PCN0009/regions/430724999000-d677752a.md",
+    "entities/theme-services/details/43PCN0009/regions/430725999000-dc5f5622.md",
+    "entities/theme-services/details/43PCN0009/regions/430726999000-f91fd90f.md",
+    "entities/theme-services/details/43PCN0009/regions/430771999000-3009776d.md",
+    "entities/theme-services/details/43PCN0009/regions/430781999000-b2614186.md",
+    "entities/theme-services/details/43PCN0009/regions/430792999000-539048df.md",
+    "entities/theme-services/details/43PCN0009/regions/430793999000-8f1d08bf.md",
+    "entities/theme-services/details/43PCN0009/regions/430801000000-ef498dc7.md",
+    "entities/theme-services/details/43PCN0009/regions/430802999000-fc0e2c16.md",
+    "entities/theme-services/details/43PCN0009/regions/430811999000-bd436204.md",
+    "entities/theme-services/details/43PCN0009/regions/430821999000-ea3798de.md",
+    "entities/theme-services/details/43PCN0009/regions/430822999000-ab8d2c1d.md",
+    "entities/theme-services/details/43PCN0009/regions/430901000000-f8e69d36.md",
+    "entities/theme-services/details/43PCN0009/regions/430902999000-135b9234.md",
+    "entities/theme-services/details/43PCN0009/regions/430903999000-a7a05288.md",
+    "entities/theme-services/details/43PCN0009/regions/430921999000-a3817e3b.md",
+    "entities/theme-services/details/43PCN0009/regions/430922999000-45ac1860.md",
+    "entities/theme-services/details/43PCN0009/regions/430923999000-2dd858bf.md",
+    "entities/theme-services/details/43PCN0009/regions/430971999000-5c7e5c5c.md",
+    "entities/theme-services/details/43PCN0009/regions/430981999000-6edc0c8b.md",
+    "entities/theme-services/details/43PCN0009/regions/431001000000-d0a33fff.md",
+    "entities/theme-services/details/43PCN0009/regions/431002999000-8ec8bf08.md",
+    "entities/theme-services/details/43PCN0009/regions/431003999000-ff22698a.md",
+    "entities/theme-services/details/43PCN0009/regions/431021999000-1c345a53.md",
+    "entities/theme-services/details/43PCN0009/regions/431022999000-913e73f2.md",
+    "entities/theme-services/details/43PCN0009/regions/431023999000-c8b50211.md",
+    "entities/theme-services/details/43PCN0009/regions/431024999000-06b81c47.md",
+    "entities/theme-services/details/43PCN0009/regions/431025999000-affde029.md",
+    "entities/theme-services/details/43PCN0009/regions/431026999000-0ee235a1.md",
+    "entities/theme-services/details/43PCN0009/regions/431027999000-5dcde085.md",
+    "entities/theme-services/details/43PCN0009/regions/431028999000-df0b476a.md",
+    "entities/theme-services/details/43PCN0009/regions/431081999000-57864fd9.md",
+    "entities/theme-services/details/43PCN0009/regions/431101000000-4cfcf1b1.md",
+    "entities/theme-services/details/43PCN0009/regions/431102999000-49cc1818.md",
+    "entities/theme-services/details/43PCN0009/regions/431103999000-924c9c47.md",
+    "entities/theme-services/details/43PCN0009/regions/431122999000-31e56d93.md",
+    "entities/theme-services/details/43PCN0009/regions/431123999000-130345d2.md",
+    "entities/theme-services/details/43PCN0009/regions/431124999000-f76e917f.md",
+    "entities/theme-services/details/43PCN0009/regions/431125999000-d76cce50.md",
+    "entities/theme-services/details/43PCN0009/regions/431126999000-50c479b0.md",
+    "entities/theme-services/details/43PCN0009/regions/431127999000-0dc4e18d.md",
+    "entities/theme-services/details/43PCN0009/regions/431128999000-161449e6.md",
+    "entities/theme-services/details/43PCN0009/regions/431129999000-2d1282dc.md",
+    "entities/theme-services/details/43PCN0009/regions/431172999000-a39bd20e.md",
+    "entities/theme-services/details/43PCN0009/regions/431173999000-5d582cac.md",
+    "entities/theme-services/details/43PCN0009/regions/431181999000-63818f39.md",
+    "entities/theme-services/details/43PCN0009/regions/431201000000-b71b7c77.md",
+    "entities/theme-services/details/43PCN0009/regions/431202999000-8fe363a2.md",
+    "entities/theme-services/details/43PCN0009/regions/431221999000-1abe2bab.md",
+    "entities/theme-services/details/43PCN0009/regions/431222999000-fd5508f3.md",
+    "entities/theme-services/details/43PCN0009/regions/431223999000-1b5cbaf5.md",
+    "entities/theme-services/details/43PCN0009/regions/431224999000-180c35e4.md",
+    "entities/theme-services/details/43PCN0009/regions/431225999000-a9252604.md",
+    "entities/theme-services/details/43PCN0009/regions/431226999000-28813743.md",
+    "entities/theme-services/details/43PCN0009/regions/431227999000-2f17cd52.md",
+    "entities/theme-services/details/43PCN0009/regions/431228999000-1e196dff.md",
+    "entities/theme-services/details/43PCN0009/regions/431229999000-0d2e2398.md",
+    "entities/theme-services/details/43PCN0009/regions/431230999000-b99e7ea5.md",
+    "entities/theme-services/details/43PCN0009/regions/431271999000-5322072d.md",
+    "entities/theme-services/details/43PCN0009/regions/431281999000-a3b68a58.md",
+    "entities/theme-services/details/43PCN0009/regions/431301000000-c85668ac.md",
+    "entities/theme-services/details/43PCN0009/regions/431302999000-37933eb6.md",
+    "entities/theme-services/details/43PCN0009/regions/431321999000-281e8dd7.md",
+    "entities/theme-services/details/43PCN0009/regions/431322999000-585845f2.md",
+    "entities/theme-services/details/43PCN0009/regions/431381999000-cf97888b.md",
+    "entities/theme-services/details/43PCN0009/regions/431382999000-79109eff.md",
+    "entities/theme-services/details/43PCN0009/regions/433101999000-802b69ff.md",
+    "entities/theme-services/details/43PCN0009/regions/433122999000-f0c51e9c.md",
+    "entities/theme-services/details/43PCN0009/regions/433123999000-70ac5358.md",
+    "entities/theme-services/details/43PCN0009/regions/433124999000-464ddd62.md",
+    "entities/theme-services/details/43PCN0009/regions/433125999000-8d18ddfe.md",
+    "entities/theme-services/details/43PCN0009/regions/433126999000-2e65a979.md",
+    "entities/theme-services/details/43PCN0009/regions/433127999000-2ae5d790.md",
+    "entities/theme-services/details/43PCN0009/regions/433130999000-e093e476.md",
+    "entities/theme-services/details/43PCN0009/regions/433199000000-8b47da21.md",
+    "entities/theme-services/details/43PCN0009/variants/166a2d67dce4bfa2.md",
+    "entities/theme-services/details/43PCN0009/variants/2c9924bf46b38193.md",
+    "entities/theme-services/details/43PCN0009/variants/417adf314a5c4fbb.md",
+    "entities/theme-services/details/43PCN0009/variants/43d2abb7786fcf18.md",
+    "entities/theme-services/details/43PCN0009/variants/826a438bf6874b3d.md",
+    "entities/theme-services/details/43PCN0009/variants/8994052329af3581.md",
+    "entities/theme-services/details/43PCN0009/variants/a397dbf91a8a7f6d.md",
+    "entities/theme-services/details/43PCN0009/variants/c15a912c0af8ecdb.md",
+    "entities/theme-services/details/43PCN0009/variants/ced412dec131a7fd.md",
+    "entities/theme-services/details/43PCN0009/variants/eb0a8f79e92d3c7c.md",
+    "entities/theme-services/details/43PCN0009/variants/f54f3a2c5c8c02e1.md",
+    "entities/theme-services/details/43PCN0009/variants/fc31e4d2b72aeeff.md",
+    "entities/theme-services/新生儿出生一件事-bea12e1ed2.md"
+  ],
+  "index_pages": [
+    "_meta/onething/43PCN0009/index.md",
+    "_meta/onething/43PCN0009/regions-part-01.md",
+    "_meta/onething/43PCN0009/regions-part-02.md"
+  ]
+}

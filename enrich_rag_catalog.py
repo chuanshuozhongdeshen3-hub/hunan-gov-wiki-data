@@ -49,12 +49,26 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--request-interval", type=float, default=0.2)
     parser.add_argument("--limit", type=int, default=0, help="Process at most N uncached rows; 0 means all")
     parser.add_argument("--start", type=int, default=0, help="Skip this many catalog rows")
+    parser.add_argument(
+        "--only-flagged",
+        action="store_true",
+        help="只调用 enrich_with_llm=true 的页面，并复用已有普通事项增强结果",
+    )
     parser.add_argument("--dry-run", action="store_true", help="Show one prompt without calling the API")
     return parser.parse_args()
 
 
 def cache_key(row: dict[str, Any], markdown: str, model: str) -> str:
-    raw = "\n".join([PROMPT_VERSION, model, str(row.get("doc_id", "")), sha256_text(markdown)])
+    # Frontmatter dates change on regeneration but do not change the prompt body.
+    semantic_source = normalize_markdown(markdown)
+    raw = "\n".join(
+        [
+            PROMPT_VERSION,
+            model,
+            str(row.get("doc_id", "")),
+            sha256_text(semantic_source),
+        ]
+    )
     return sha256_text(raw)
 
 
@@ -157,9 +171,23 @@ def main() -> int:
     cache_path = (args.cache or output_path.with_suffix(".cache.jsonl")).resolve()
     rows = list(read_jsonl(input_path))
     cache = load_cache(cache_path)
+    previous_by_doc_id: dict[str, dict[str, Any]] = {}
+    if output_path.exists():
+        previous_by_doc_id = {
+            str(row["doc_id"]): row
+            for row in read_jsonl(output_path)
+            if row.get("doc_id")
+        }
 
     if args.dry_run:
-        row = rows[args.start]
+        candidates = rows[args.start :]
+        if args.only_flagged:
+            candidates = [
+                row for row in candidates if row.get("enrich_with_llm") is True
+            ]
+        if not candidates:
+            raise SystemExit("No catalog row matches the dry-run selection")
+        row = candidates[0]
         page_path = wiki / str(row["path"])
         markdown = page_path.read_text(encoding="utf-8")
         print(SYSTEM_PROMPT)
@@ -177,11 +205,34 @@ def main() -> int:
     client = OpenAI(api_key=api_key, base_url=args.base_url)
 
     processed = 0
+    skipped_by_policy = 0
+    reused_previous_enrichment = 0
     failures: list[dict[str, str]] = []
     enriched_rows: list[dict[str, Any]] = []
     for index, row in enumerate(rows):
         if index < args.start:
             enriched_rows.append(row)
+            continue
+        should_skip = row.get("enrich_with_llm") is False or (
+            args.only_flagged and row.get("enrich_with_llm") is not True
+        )
+        if should_skip:
+            merged = dict(row)
+            doc_id = str(row.get("doc_id") or "")
+            previous = previous_by_doc_id.get(doc_id)
+            # Reuse only pre-existing ordinary-service metadata. Old theme
+            # placeholders must never overwrite newly generated theme facts.
+            if (
+                previous
+                and previous.get("enrichment")
+                and not doc_id.startswith(("theme:", "onething-"))
+            ):
+                for key in ("aliases", "common_questions", "search_summary", "enrichment"):
+                    if key in previous:
+                        merged[key] = previous[key]
+                reused_previous_enrichment += 1
+            enriched_rows.append(merged)
+            skipped_by_policy += 1
             continue
         page_path = wiki / str(row.get("path", ""))
         if not page_path.is_file():
@@ -235,6 +286,8 @@ def main() -> int:
         "output_rows": len(enriched_rows),
         "new_api_calls": processed,
         "cached_rows": sum(1 for row in enriched_rows if "enrichment" in row) - processed,
+        "skipped_by_policy": skipped_by_policy,
+        "reused_previous_enrichment": reused_previous_enrichment,
         "failures": failures,
         "output": str(output_path),
         "cache": str(cache_path),

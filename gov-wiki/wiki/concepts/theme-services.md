@@ -1,9 +1,9 @@
 ---
 title: "高效办成一件事"
-created: "2026-07-21"
-updated: "2026-07-21"
+created: "2026-07-24"
+updated: "2026-07-24"
 type: "concept"
-tags: ["government-service", "theme-service", "detail-unavailable"]
+tags: ["government-service", "theme-service", "detail-complete"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]
 confidence: "high"
 ---
@@ -11,7 +11,7 @@ confidence: "high"
 
 将多个关联事项组合为办事场景的主题服务。
 
-当前数据仅用于主题检索，不用于推断具体材料或条件。
+知识库按主题总览、去重业务版本和地区实施页组织。回答具体材料、条件、地点或电话时，应使用对应地区页及其业务版本。
 
 ## 导航
 

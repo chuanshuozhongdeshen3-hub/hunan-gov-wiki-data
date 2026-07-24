@@ -1,7 +1,7 @@
 ---
 title: "港澳台律师事务所驻内地或大陆代表机构变更名称、派驻代表"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "legal-entity-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

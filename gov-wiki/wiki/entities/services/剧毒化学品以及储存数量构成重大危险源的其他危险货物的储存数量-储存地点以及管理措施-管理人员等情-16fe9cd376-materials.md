@@ -1,7 +1,7 @@
 ---
 title: "剧毒化学品以及储存数量构成重大危险源的其他危险货物的储存数量、储存地点以及管理措施、管理人员等情况备案—申请材料"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "other-administrative-power"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

@@ -1,7 +1,7 @@
 ---
 title: "对申请人不服法律援助机构作出的不予法律援助的通知的异议审查"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "other-administrative-power"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

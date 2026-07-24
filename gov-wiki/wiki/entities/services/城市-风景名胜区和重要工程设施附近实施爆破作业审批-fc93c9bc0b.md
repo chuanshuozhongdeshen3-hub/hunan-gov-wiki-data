@@ -1,7 +1,7 @@
 ---
 title: "城市、风景名胜区和重要工程设施附近实施爆破作业审批"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

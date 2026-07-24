@@ -1,7 +1,7 @@
 ---
 title: "出版物零售企业和个体工商户变更名称、业务范围、地址、兼并、合并、分立的审批"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "legal-entity-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

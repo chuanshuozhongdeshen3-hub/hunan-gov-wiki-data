@@ -1,7 +1,7 @@
 ---
 title: "居民身份证换领"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "administrative-confirmation"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

@@ -1,7 +1,7 @@
 ---
 title: "权限内国家一级保护陆生野生动物人工繁育许可证核发"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "legal-entity-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

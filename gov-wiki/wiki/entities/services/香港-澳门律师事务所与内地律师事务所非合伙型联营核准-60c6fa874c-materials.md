@@ -1,7 +1,7 @@
 ---
 title: "香港、澳门律师事务所与内地律师事务所非合伙型联营核准—申请材料"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "legal-entity-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

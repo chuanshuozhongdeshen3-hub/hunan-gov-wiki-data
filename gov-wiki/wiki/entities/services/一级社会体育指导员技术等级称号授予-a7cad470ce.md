@@ -1,7 +1,7 @@
 ---
 title: "一级社会体育指导员技术等级称号授予"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "administrative-confirmation"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

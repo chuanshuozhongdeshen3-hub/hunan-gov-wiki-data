@@ -1,7 +1,7 @@
 ---
 title: "公路项目核准（国家高速公路网和普通国道网项目、地方高速公路项目）"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

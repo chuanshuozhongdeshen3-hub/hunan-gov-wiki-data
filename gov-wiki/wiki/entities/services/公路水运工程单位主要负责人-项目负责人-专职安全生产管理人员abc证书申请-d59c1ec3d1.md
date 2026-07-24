@@ -1,7 +1,7 @@
 ---
 title: "公路水运工程单位主要负责人、项目负责人、专职安全生产管理人员ABC证书申请"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "administrative-confirmation"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

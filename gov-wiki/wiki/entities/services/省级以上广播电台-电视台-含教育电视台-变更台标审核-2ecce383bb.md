@@ -1,7 +1,7 @@
 ---
 title: "省级以上广播电台、电视台（含教育电视台）变更台标审核"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

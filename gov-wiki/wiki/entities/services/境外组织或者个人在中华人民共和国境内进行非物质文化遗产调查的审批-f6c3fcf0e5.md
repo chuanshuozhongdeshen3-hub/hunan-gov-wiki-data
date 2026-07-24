@@ -1,7 +1,7 @@
 ---
 title: "境外组织或者个人在中华人民共和国境内进行非物质文化遗产调查的审批"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "legal-entity-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

@@ -1,7 +1,7 @@
 ---
 title: "旅行社旅游服务质量保证金缴存、续存、增存备案及降存、取款备案"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "other-administrative-power"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

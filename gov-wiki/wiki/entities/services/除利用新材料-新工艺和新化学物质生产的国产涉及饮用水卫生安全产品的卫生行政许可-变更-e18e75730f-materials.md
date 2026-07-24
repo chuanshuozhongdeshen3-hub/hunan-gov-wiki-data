@@ -1,7 +1,7 @@
 ---
 title: "除利用新材料、新工艺和新化学物质生产的国产涉及饮用水卫生安全产品的卫生行政许可（变更）—申请材料"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

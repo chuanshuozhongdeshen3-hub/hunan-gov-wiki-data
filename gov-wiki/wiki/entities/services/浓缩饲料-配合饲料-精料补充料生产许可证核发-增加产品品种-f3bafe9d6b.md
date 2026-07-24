@@ -1,7 +1,7 @@
 ---
 title: "浓缩饲料、配合饲料、精料补充料生产许可证核发（增加产品品种）"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

@@ -1,7 +1,7 @@
 ---
 title: "事业单位工作人员申诉、再申诉办理"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "public-service"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

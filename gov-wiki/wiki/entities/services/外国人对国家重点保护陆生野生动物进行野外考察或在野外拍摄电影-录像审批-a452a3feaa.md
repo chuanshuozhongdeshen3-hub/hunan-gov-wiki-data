@@ -1,7 +1,7 @@
 ---
 title: "外国人对国家重点保护陆生野生动物进行野外考察或在野外拍摄电影、录像审批"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "legal-entity-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

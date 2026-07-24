@@ -1,7 +1,7 @@
 ---
 title: "出售、购买、利用国家重点保护水生野生动物及其制品（白鱀豚等）和人工繁育国家重点保护水生野生动物（白鱀豚等）的初审—申请材料"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "legal-entity-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

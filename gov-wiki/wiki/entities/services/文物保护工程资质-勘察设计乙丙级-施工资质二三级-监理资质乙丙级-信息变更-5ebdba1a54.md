@@ -1,7 +1,7 @@
 ---
 title: "文物保护工程资质（勘察设计乙丙级、施工资质二三级、监理资质乙丙级）信息变更"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

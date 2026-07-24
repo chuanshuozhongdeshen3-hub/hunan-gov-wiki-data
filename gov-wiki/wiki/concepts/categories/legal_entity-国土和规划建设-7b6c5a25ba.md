@@ -1,7 +1,7 @@
 ---
 title: "国土和规划建设"
-created: "2026-07-21"
-updated: "2026-07-21"
+created: "2026-07-24"
+updated: "2026-07-24"
 type: "concept"
 tags: ["government-service", "legal-entity-service"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

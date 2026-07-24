@@ -1,7 +1,7 @@
 ---
 title: "养老保险个人参保登记（新增、续保）"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "public-service"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

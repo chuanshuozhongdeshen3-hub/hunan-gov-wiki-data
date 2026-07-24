@@ -142,7 +142,8 @@ def fetch_rows(connection: sqlite3.Connection, row_indices: list[int]) -> dict[i
     rows = connection.execute(
         f"""
         SELECT row_index, chunk_id, doc_id, title, section, path, page_type, answerable,
-               service_id, official_url, char_count, text, aliases_json, questions_json
+               service_id, official_url, char_count, text, aliases_json, questions_json,
+               related_doc_ids_json
         FROM chunks WHERE row_index IN ({placeholders})
         """,
         row_indices,
@@ -154,8 +155,22 @@ def fetch_rows(connection: sqlite3.Connection, row_indices: list[int]) -> dict[i
             "section": row[4], "path": row[5], "page_type": row[6], "answerable": bool(row[7]),
             "service_id": row[8], "official_url": row[9], "char_count": int(row[10]), "text": row[11],
             "aliases": json.loads(row[12] or "[]"), "common_questions": json.loads(row[13] or "[]"),
+            "related_doc_ids": json.loads(row[14] or "[]"),
         }
     return result
+
+
+def fetch_doc_rows(
+    connection: sqlite3.Connection, doc_ids: list[str]
+) -> dict[int, dict[str, Any]]:
+    if not doc_ids:
+        return {}
+    placeholders = ",".join("?" for _ in doc_ids)
+    indices = connection.execute(
+        f"SELECT row_index FROM chunks WHERE doc_id IN ({placeholders})",
+        doc_ids,
+    ).fetchall()
+    return fetch_rows(connection, [int(row[0]) for row in indices])
 
 
 def section_intent_boost(query: str, section: str) -> float:
@@ -197,6 +212,7 @@ def merge_pages(rows: dict[int, dict[str, Any]], scores: dict[int, float], query
                 "answerable": best["answerable"],
                 "service_id": best["service_id"],
                 "official_url": best["official_url"],
+                "related_doc_ids": best.get("related_doc_ids", []),
                 "score": round(page_score, 8),
                 "chunks": [
                     {
@@ -211,6 +227,63 @@ def merge_pages(rows: dict[int, dict[str, Any]], scores: dict[int, float], query
         )
     pages.sort(key=lambda page: (-page["score"], page["title"]))
     return pages[:top_pages]
+
+
+def detail_query(query: str) -> bool:
+    return any(
+        word in query
+        for word in (
+            "材料",
+            "资料",
+            "证件",
+            "条件",
+            "要求",
+            "资格",
+            "流程",
+            "步骤",
+            "怎么办",
+            "如何办",
+            "多久",
+            "时间",
+            "时限",
+            "费用",
+            "收费",
+            "多少钱",
+            "地点",
+            "地址",
+            "哪里办",
+            "电话",
+        )
+    )
+
+
+def prioritize_related_pages(
+    pages: list[dict[str, Any]], query: str, top_pages: int
+) -> list[dict[str, Any]]:
+    """For a regional detail query, keep the region and its business variant together."""
+    if not detail_query(query):
+        return pages[:top_pages]
+    region = next(
+        (page for page in pages[: max(top_pages, 5)] if page["page_type"] == "theme_region"),
+        None,
+    )
+    if not region:
+        return pages[:top_pages]
+    by_id = {page["doc_id"]: page for page in pages}
+    related = [
+        by_id[doc_id]
+        for doc_id in region.get("related_doc_ids", [])
+        if doc_id in by_id
+    ]
+    if not related:
+        return pages[:top_pages]
+    chosen = [region, *related]
+    chosen.extend(
+        page
+        for page in pages
+        if page["doc_id"] not in {item["doc_id"] for item in chosen}
+    )
+    return chosen[:top_pages]
 
 
 def main() -> int:
@@ -242,7 +315,41 @@ def main() -> int:
                 vector_warning = str(exc)
         scores = reciprocal_rank_fusion(rankings)
         rows = fetch_rows(connection, list(scores))
-        pages = merge_pages(rows, scores, query, args.top_pages, args.chunks_per_page)
+        preliminary = merge_pages(
+            rows,
+            scores,
+            query,
+            max(args.top_pages * 5, 20),
+            args.chunks_per_page,
+        )
+        related_ids = unique_strings(
+            doc_id
+            for page in preliminary[: max(args.top_pages, 5)]
+            if page["page_type"] == "theme_region"
+            for doc_id in page.get("related_doc_ids", [])
+        )
+        related_rows = fetch_doc_rows(connection, related_ids)
+        if related_rows:
+            region_chunk_score = max(
+                (
+                    scores.get(row_index, 0.0)
+                    for row_index, row in rows.items()
+                    if row.get("page_type") == "theme_region"
+                ),
+                default=max(scores.values(), default=0.0),
+            )
+            related_base = region_chunk_score * 0.98
+            rows.update(related_rows)
+            for row_index in related_rows:
+                scores[row_index] = max(scores.get(row_index, 0.0), related_base)
+        ranked_pages = merge_pages(
+            rows,
+            scores,
+            query,
+            max(args.top_pages * 5, 20),
+            args.chunks_per_page,
+        )
+        pages = prioritize_related_pages(ranked_pages, query, args.top_pages)
     finally:
         connection.close()
 
@@ -252,8 +359,10 @@ def main() -> int:
         "warning": vector_warning,
         "pages": pages,
         "answer_policy": (
-            "Use only returned Wiki text. Cite official_url. If answerable is false, do not infer requirements; "
-            "direct the user to the official page."
+            "Use only returned Wiki text. When a theme_region and its theme_variant are paired, combine the "
+            "regional department/location facts with the variant's materials, conditions, and process. "
+            "Do not include URLs unless the user explicitly asks for them. If answerable is false, do not "
+            "infer requirements; say that no usable regional guide was found."
         ),
     }
     print(json.dumps(output, ensure_ascii=False, indent=2 if args.pretty else None))

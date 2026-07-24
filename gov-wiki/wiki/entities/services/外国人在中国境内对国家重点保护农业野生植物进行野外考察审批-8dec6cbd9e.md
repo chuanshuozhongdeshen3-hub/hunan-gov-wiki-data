@@ -1,7 +1,7 @@
 ---
 title: "外国人在中国境内对国家重点保护农业野生植物进行野外考察审批"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

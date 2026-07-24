@@ -1,7 +1,7 @@
 ---
 title: "广播电视播音员、主持人职业资格续展"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

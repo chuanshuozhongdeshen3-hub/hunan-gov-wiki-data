@@ -1,7 +1,7 @@
 ---
 title: "农作物种子质量纠纷田间现场鉴定"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "legal-entity-service", "public-service"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

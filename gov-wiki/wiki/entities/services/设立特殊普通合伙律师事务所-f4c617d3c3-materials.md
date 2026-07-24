@@ -1,7 +1,7 @@
 ---
 title: "设立特殊普通合伙律师事务所—申请材料"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

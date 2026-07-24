@@ -1,7 +1,7 @@
 ---
 title: "困难残疾人生活补贴和重度残疾人护理补贴资格认定申请、审核、发放"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "administrative-benefit"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

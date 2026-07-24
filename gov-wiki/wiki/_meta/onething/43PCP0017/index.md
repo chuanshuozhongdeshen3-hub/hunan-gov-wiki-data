@@ -1,0 +1,97 @@
+# 社会救助“一件事”地区与版本索引
+
+> 共139份地区实施指南，去重后为86个业务版本。
+
+## 业务版本
+
+- [[entities/theme-services/details/43PCP0017/variants/1548d2fc048d72ea|业务版本 1548d2fc]] — 适用34个地区
+- [[entities/theme-services/details/43PCP0017/variants/b92dc85cb033f0fd|业务版本 b92dc85c]] — 适用5个地区
+- [[entities/theme-services/details/43PCP0017/variants/5b1fdfd7b7f85d89|业务版本 5b1fdfd7]] — 适用4个地区
+- [[entities/theme-services/details/43PCP0017/variants/b77d38160e67b14e|业务版本 b77d3816]] — 适用4个地区
+- [[entities/theme-services/details/43PCP0017/variants/bda41177b1efff05|业务版本 bda41177]] — 适用4个地区
+- [[entities/theme-services/details/43PCP0017/variants/e15071bfd771aaf6|业务版本 e15071bf]] — 适用4个地区
+- [[entities/theme-services/details/43PCP0017/variants/e460d9887c914da8|业务版本 e460d988]] — 适用3个地区
+- [[entities/theme-services/details/43PCP0017/variants/490d311a7274ebea|业务版本 490d311a]] — 适用2个地区
+- [[entities/theme-services/details/43PCP0017/variants/d4fdd7a48197cd2a|业务版本 d4fdd7a4]] — 适用2个地区
+- [[entities/theme-services/details/43PCP0017/variants/00197b4b756d0671|业务版本 00197b4b]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/05dbbeccd4e06aec|业务版本 05dbbecc]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/0612d3f8e5025c78|业务版本 0612d3f8]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/064cd16b366d915f|业务版本 064cd16b]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/077288f253969d79|业务版本 077288f2]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/08c73262d606d1bc|业务版本 08c73262]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/09e4ca6373b8fc19|业务版本 09e4ca63]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/1068bf4a79b97702|业务版本 1068bf4a]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/10c6b68c8b65b170|业务版本 10c6b68c]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/1515aefe501bce91|业务版本 1515aefe]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/18ba18655db7c557|业务版本 18ba1865]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/1a67dfe615c4eb23|业务版本 1a67dfe6]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/1c737fee0337c909|业务版本 1c737fee]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/2105b7a580787412|业务版本 2105b7a5]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/2515b006c629837c|业务版本 2515b006]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/268d1c6dd9cce143|业务版本 268d1c6d]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/2d3994edfd8204f9|业务版本 2d3994ed]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/39efe6945ed9fbf6|业务版本 39efe694]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/3ba43769389c4faf|业务版本 3ba43769]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/3bac802feb4105fc|业务版本 3bac802f]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/3d3facdf0a1ce514|业务版本 3d3facdf]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/41f35300a78d5799|业务版本 41f35300]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/456f906276328fb1|业务版本 456f9062]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/45bcbd1b00610587|业务版本 45bcbd1b]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/45c7f5a30b4373a4|业务版本 45c7f5a3]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/46c87b92bb859794|业务版本 46c87b92]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/4924cc8d37239de3|业务版本 4924cc8d]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/4bd6bf07ee9e22da|业务版本 4bd6bf07]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/4ca5d4c8c3dd6fa2|业务版本 4ca5d4c8]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/4f9b93348ee52670|业务版本 4f9b9334]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/514a5e8610066e6f|业务版本 514a5e86]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/52cd0d01f02fcf38|业务版本 52cd0d01]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/5aff218e8ce4ac18|业务版本 5aff218e]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/5f704b623c6fe3f0|业务版本 5f704b62]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/6079daad4290f1c2|业务版本 6079daad]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/645c562752f88619|业务版本 645c5627]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/65700f46ed349415|业务版本 65700f46]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/6adcb1145392eb49|业务版本 6adcb114]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/6f57a74d56fc8198|业务版本 6f57a74d]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/7084d53715253e8d|业务版本 7084d537]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/780bcc3fb674bf1b|业务版本 780bcc3f]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/81a83ddecffc3538|业务版本 81a83dde]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/8221be02fddd35c9|业务版本 8221be02]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/8ab6749d9d264944|业务版本 8ab6749d]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/8ceafa60555dfc78|业务版本 8ceafa60]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/98a76c2eb8acc0ff|业务版本 98a76c2e]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/a7a30bfe1ca48abc|业务版本 a7a30bfe]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/b1831d6b843ad25b|业务版本 b1831d6b]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/b46e0dbbd4b3e3b1|业务版本 b46e0dbb]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/b85647da1c786c24|业务版本 b85647da]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/c1f32b39362156ca|业务版本 c1f32b39]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/c4c311ddd8097eb4|业务版本 c4c311dd]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/c8e3ae2e00f67e7f|业务版本 c8e3ae2e]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/cbedd0be7f28b3c3|业务版本 cbedd0be]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/cc1d6106946d6227|业务版本 cc1d6106]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/cc299271ed07b7ac|业务版本 cc299271]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/ce5e0247b1435a3a|业务版本 ce5e0247]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/d2316ff53cf29ad0|业务版本 d2316ff5]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/d3391caa01feedc5|业务版本 d3391caa]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/d7cc55277afbf1cb|业务版本 d7cc5527]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/dd0c8ae003878d3a|业务版本 dd0c8ae0]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/e4170667a30aec15|业务版本 e4170667]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/e6f0dbfd7555ac90|业务版本 e6f0dbfd]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/e775d7fc3c9412c2|业务版本 e775d7fc]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/e7e2fbfcf0bb96aa|业务版本 e7e2fbfc]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/e96cd07804fdb91c|业务版本 e96cd078]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/e9a8c8fa98e9e0fd|业务版本 e9a8c8fa]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/e9b41e8ffc83f6e2|业务版本 e9b41e8f]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/eaac9b781c92c5b0|业务版本 eaac9b78]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/ec27d5c69303a671|业务版本 ec27d5c6]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/edd6def7b0180ae0|业务版本 edd6def7]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/f21cabc28bdc6468|业务版本 f21cabc2]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/f248418c9e327a2c|业务版本 f248418c]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/f300572e9feb64bc|业务版本 f300572e]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/f817f3e4b94e4941|业务版本 f817f3e4]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/f8cca09173b42885|业务版本 f8cca091]] — 适用1个地区
+- [[entities/theme-services/details/43PCP0017/variants/f928d4ca168d0a9f|业务版本 f928d4ca]] — 适用1个地区
+
+## 地区索引
+
+- [[_meta/onething/43PCP0017/regions-part-01|第1部分]]
+- [[_meta/onething/43PCP0017/regions-part-02|第2部分]]

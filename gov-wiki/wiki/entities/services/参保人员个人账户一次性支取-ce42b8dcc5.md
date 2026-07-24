@@ -1,7 +1,7 @@
 ---
 title: "参保人员个人账户一次性支取"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "public-service"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

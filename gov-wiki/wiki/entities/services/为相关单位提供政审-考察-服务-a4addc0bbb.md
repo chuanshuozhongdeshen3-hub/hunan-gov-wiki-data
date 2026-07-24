@@ -1,7 +1,7 @@
 ---
 title: "为相关单位提供政审（考察）服务"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "legal-entity-service", "public-service"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

@@ -1,7 +1,7 @@
 ---
 title: "年满3周岁从未登记户口公民户口补登"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "administrative-confirmation"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

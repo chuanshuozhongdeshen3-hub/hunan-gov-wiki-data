@@ -3,7 +3,7 @@
 
 转换原则：
 - 普通事项以 enriched_catalog.json + raw/details/*.json 生成完整实体页；
-- 智能搜索中的 ``type=theme`` 生成独立主题索引页，明确标记详情不可用；
+- “一件事”按主题总览、去重业务版本和精简地区页三层生成；
 - 不调用大模型，不补写原始数据中不存在的条件、材料、地址或时限单位；
 - 生成 SCHEMA、分层索引、日志、概念页、RAG 检索清单和转换报告；
 - 输出可重复生成，已有 service_id 会复用上一版文件路径。
@@ -25,8 +25,10 @@ from pathlib import Path
 from typing import Any, Iterable
 from urllib.parse import urlencode
 
+from onething_json_to_wiki import convert_onething
 
-VERSION = "1.0.0"
+
+VERSION = "1.1.0"
 BASE_URL = "https://zwfw-new.hunan.gov.cn"
 RAW_MANIFEST = "raw/manifests/hunan-government-service-dataset.md"
 
@@ -886,10 +888,13 @@ def build_concepts(
         path = "concepts/theme-services.md"
         title = "高效办成一件事"
         text = concept_frontmatter(
-            title, ["government-service", "theme-service", "detail-unavailable"], today
+            title, ["government-service", "theme-service", "detail-complete"], today
         )
         text += f"# {title}\n\n将多个关联事项组合为办事场景的主题服务。\n\n"
-        text += "当前数据仅用于主题检索，不用于推断具体材料或条件。\n\n"
+        text += (
+            "知识库按主题总览、去重业务版本和地区实施页组织。"
+            "回答具体材料、条件、地点或电话时，应使用对应地区页及其业务版本。\n\n"
+        )
         text += "## 导航\n\n"
         text += f"- {wikilink('_meta/indexes/theme-services.md', '主题服务索引')}\n"
         text += f"- {wikilink('_meta/topic-map.md', '知识库主题地图')}\n"
@@ -1023,12 +1028,12 @@ def schema_text(today: str) -> str:
 ## Conventions
 
 - 普通事项一项一页，位于 `entities/services/`。
-- “一件事”主题位于 `entities/theme-services/`，详情缺失时必须标记 `answerable: false`。
+- “一件事”使用主题总览、去重业务版本和地区实施页三层结构。
 - 所有实体页和概念页使用YAML frontmatter及双向Wiki链接。
 - 由于页面规模超过200页，根 `index.md` 只列分区索引；每个实体页必须进入一个 `_meta/indexes/` 子索引。
 - `raw/` 是不可手工修改的来源层；重新生成时由转换程序维护。
 - 不推测官网JSON中不存在的材料、条件、时限单位、地址或联系方式。
-- 普通事项正文可作为回答依据；`detail_status: unavailable` 的主题页只用于检索导航。
+- 普通事项和完整“一件事”版本页可作为回答依据；无地区指南的主题页只用于检索导航。
 - 原始结构化JSON位于本知识库上级数据目录，各事项通过 `source_json` 字段追溯。
 
 ## Frontmatter
@@ -1044,14 +1049,14 @@ def schema_text(today: str) -> str:
 ## Page Thresholds
 
 - 每个正式普通事项均为中央实体，允许独立建页。
-- 每个“一件事”搜索主题均建导航页，但不能充当具体办理指南。
+- 每个“一件事”主题均建总览页；具体要求必须落到地区页和对应业务版本。
 - 超过200行的页面进入转换报告，后续按材料或法律依据拆页。
 
 ## Retrieval Policy
 
 - `_meta/rag_catalog.jsonl` 是后续RAG建索引的机器可读清单。
-- 优先检索 `answerable: true` 的普通事项；主题页命中后应提示用户进入官方页面核实。
-- 回答具体材料、条件、时限时，必须引用普通事项页面，不得从主题标题推断。
+- 优先检索 `answerable: true` 的普通事项、地区页和业务版本页。
+- 回答“一件事”的材料、条件、时限时，必须同时确认地区及其对应业务版本。
 
 ## Update Policy
 
@@ -1085,9 +1090,17 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--no-themes", action="store_true", help="不生成58个“一件事”主题索引页"
     )
+    parser.add_argument(
+        "--onething-enrich-min-areas",
+        type=int,
+        default=5,
+        help="业务版本覆盖至少多少地区时建议交给DeepSeek增强，默认5",
+    )
     args = parser.parse_args()
     if args.sample < 0:
         parser.error("--sample 不能为负数")
+    if args.onething_enrich_min_areas <= 0:
+        parser.error("--onething-enrich-min-areas 必须大于0")
     args.input = args.input.resolve()
     if args.output is None:
         args.output = args.input / ("wiki-sample" if args.sample else "wiki")
@@ -1185,6 +1198,8 @@ def main() -> int:
     indexed_paths: set[str] = set()
     supplemental_paths: set[str] = set()
     supplemental_counts: dict[str, int] = defaultdict(int)
+    onething_index_pages: set[str] = set()
+    onething_manifest: dict[str, Any] = {}
 
     print(f"输入目录：{input_root}")
     print(f"输出目录：{output}")
@@ -1232,6 +1247,41 @@ def main() -> int:
         rag_records.append(rag)
         bucket_entries["theme-services"].append((rel, rag["title"], rag["summary"]))
         indexed_paths.add(rel)
+
+    onething_catalog_path = input_root / "catalog" / "onething_guides.json"
+    if include_themes and onething_catalog_path.exists():
+        print("  转换一件事地区指南并计算业务内容指纹")
+        onething_result = convert_onething(
+            input_root,
+            output,
+            themes,
+            theme_paths,
+            today,
+            enrich_min_areas=args.onething_enrich_min_areas,
+        )
+        # Replace the old search-only theme records with detailed three-layer records.
+        rag_records = [
+            row
+            for row in rag_records
+            if not str(row.get("doc_id") or "").startswith("theme:")
+        ]
+        rag_records.extend(onething_result["rag_records"])
+        bucket_entries["theme-services"] = onething_result["theme_entries"]
+        theme_paths = onething_result["theme_paths"]
+        detailed_pages = (
+            set(onething_result["variant_pages"])
+            | set(onething_result["region_pages"])
+        )
+        supplemental_paths.update(detailed_pages)
+        indexed_paths.update(onething_result["generated_pages"])
+        onething_index_pages.update(onething_result["index_pages"])
+        supplemental_counts["theme_variant"] += len(
+            onething_result["variant_pages"]
+        )
+        supplemental_counts["theme_region"] += len(
+            onething_result["region_pages"]
+        )
+        onething_manifest = onething_result["manifest"]
 
     index_titles = {
         "personal-only": "仅个人服务事项索引",
@@ -1304,6 +1354,9 @@ def main() -> int:
     log_text += f"## [{today}] ingest | 湖南政务服务JSON程序化转换\n"
     log_text += f"- 普通事项页：{len(service_paths)}\n"
     log_text += f"- 一件事主题页：{len(theme_paths)}\n"
+    if onething_manifest:
+        log_text += f"- 一件事去重业务版本页：{onething_manifest['variant_count']}\n"
+        log_text += f"- 一件事地区页：{onething_manifest['region_page_count']}\n"
     log_text += f"- 转换器版本：{VERSION}\n"
     atomic_write_text(log_path, log_text)
 
@@ -1324,7 +1377,9 @@ def main() -> int:
         "supplemental_pages": sorted(supplemental_paths),
         "generated_pages": sorted(generated_pages),
         "concept_pages": sorted(path for path, _ in concepts),
-        "index_pages": sorted(set(parent_paths.values()) | set(index_parts)),
+        "index_pages": sorted(
+            set(parent_paths.values()) | set(index_parts) | onething_index_pages
+        ),
     }
     atomic_write_json(output / "_meta" / "generated_manifest.json", generated_manifest)
 
@@ -1345,6 +1400,12 @@ def main() -> int:
         "supplemental_pages": len(supplemental_paths),
         "supplemental_page_counts": dict(sorted(supplemental_counts.items())),
         "converted_theme_pages": len(theme_paths),
+        "onething_variant_pages": onething_manifest.get("variant_count", 0),
+        "onething_region_pages": onething_manifest.get("region_page_count", 0),
+        "onething_llm_enrichment_priority_count": onething_manifest.get(
+            "llm_enrichment_priority_count", 0
+        ),
+        "onething_skipped_count": onething_manifest.get("skipped_count", 0),
         "ordinary_search_candidates_not_converted": len(ordinary_ids - catalog_ids),
         "skipped_detail_count": len(skipped_details),
         "skipped_details": skipped_details,

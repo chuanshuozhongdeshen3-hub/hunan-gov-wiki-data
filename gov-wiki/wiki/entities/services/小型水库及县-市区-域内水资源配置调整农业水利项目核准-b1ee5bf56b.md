@@ -1,7 +1,7 @@
 ---
 title: "小型水库及县（市区）域内水资源配置调整农业水利项目核准"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

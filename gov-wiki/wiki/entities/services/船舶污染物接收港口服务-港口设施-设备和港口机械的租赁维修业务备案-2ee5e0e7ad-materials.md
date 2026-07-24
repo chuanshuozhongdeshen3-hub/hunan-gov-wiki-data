@@ -1,7 +1,7 @@
 ---
 title: "船舶污染物接收港口服务、港口设施、设备和港口机械的租赁维修业务备案—申请材料"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "other-administrative-power"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

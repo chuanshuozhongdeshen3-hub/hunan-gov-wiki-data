@@ -1,7 +1,7 @@
 ---
 title: "台湾地区医师在大陆短期行医许可"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

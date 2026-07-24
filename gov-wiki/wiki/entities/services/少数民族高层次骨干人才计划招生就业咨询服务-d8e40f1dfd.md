@@ -1,7 +1,7 @@
 ---
 title: "少数民族高层次骨干人才计划招生就业咨询服务"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "public-service"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

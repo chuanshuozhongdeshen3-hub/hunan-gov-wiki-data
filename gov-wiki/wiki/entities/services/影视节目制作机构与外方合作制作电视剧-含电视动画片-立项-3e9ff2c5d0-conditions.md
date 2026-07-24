@@ -1,7 +1,7 @@
 ---
 title: "影视节目制作机构与外方合作制作电视剧（含电视动画片）立项—受理条件"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

@@ -1,7 +1,7 @@
 ---
 title: "大型焰火燃放作业单位变更技术负责人"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "administrative-confirmation"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

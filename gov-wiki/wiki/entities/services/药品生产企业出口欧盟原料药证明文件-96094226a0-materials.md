@@ -1,7 +1,7 @@
 ---
 title: "药品生产企业出口欧盟原料药证明文件—申请材料"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "public-service"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

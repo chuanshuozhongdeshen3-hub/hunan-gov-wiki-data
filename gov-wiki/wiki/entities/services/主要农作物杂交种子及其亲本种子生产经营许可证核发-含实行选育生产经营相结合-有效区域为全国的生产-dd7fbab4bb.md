@@ -1,7 +1,7 @@
 ---
 title: "主要农作物杂交种子及其亲本种子生产经营许可证核发（含实行选育生产经营相结合、有效区域为全国的生产经营许可证）"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

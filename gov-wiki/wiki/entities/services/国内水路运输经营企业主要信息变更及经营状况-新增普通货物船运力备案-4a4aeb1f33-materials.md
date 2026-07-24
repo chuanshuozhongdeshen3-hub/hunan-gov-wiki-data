@@ -1,7 +1,7 @@
 ---
 title: "国内水路运输经营企业主要信息变更及经营状况、新增普通货物船运力备案—申请材料"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "other-administrative-power"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

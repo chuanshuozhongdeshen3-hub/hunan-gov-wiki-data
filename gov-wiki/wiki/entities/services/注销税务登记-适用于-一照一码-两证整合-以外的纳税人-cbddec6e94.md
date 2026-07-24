@@ -1,7 +1,7 @@
 ---
 title: "注销税务登记（适用于“一照一码”“两证整合”以外的纳税人）"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "legal-entity-service", "other-administrative-power"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]

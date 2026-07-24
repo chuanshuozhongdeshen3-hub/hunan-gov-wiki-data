@@ -1,7 +1,7 @@
 ---
 title: "出口国家重点保护或进出口国际公约限制贸易的陆生野生动物或其制品审批"
 created: "2026-07-21"
-updated: "2026-07-21"
+updated: "2026-07-24"
 type: "entity"
 tags: ["government-service", "detail-complete", "personal-service", "legal-entity-service", "administrative-license"]
 sources: ["raw/manifests/hunan-government-service-dataset.md"]
