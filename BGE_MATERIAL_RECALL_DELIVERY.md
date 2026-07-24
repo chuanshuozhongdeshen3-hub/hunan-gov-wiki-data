@@ -85,6 +85,8 @@ python .\search_rag.py `
 - `retrieval.complete_section_recall.complete` 为 `true`；
 - `doc_id` 为 `service:-3af984CTh-cb62cVHwV-A`；
 - `chunk_count` 为 `8`；
+- `pages` 只保留“侨眷身份认定”目标事项；
+- 默认不包含 `official_url`；
 - 返回第1至第8项全部申请材料。
 
 “一件事”地区事项：
@@ -102,9 +104,14 @@ python .\search_rag.py `
 - 第一个页面是芙蓉区地区实施页；
 - 第二个页面是对应业务版本；
 - `retrieval.complete_section_recall.complete` 为 `true`；
+- 两个页面默认都不包含 `official_url`；
 - 完整材料目标为
   `onething-variant:43PCN0009:fc31e4d2b72aeeff`；
 - 业务版本返回14个材料切片。
+
+验证脚本使用无BOM UTF-8保存两个结果文件，可直接交给Python、`jq`或Linux工具
+读取。只有问题明确索要官网链接，或者手动向 `search_rag.py` 添加
+`--include-urls` 时，结果才包含 `official_url`。
 
 ## 运行后提供的检查文件
 

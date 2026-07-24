@@ -56,38 +56,30 @@ if (-not $Info.embedding_model) {
 }
 
 New-Item -ItemType Directory -Force -Path $Verification | Out-Null
-$Utf8NoBom = New-Object System.Text.UTF8Encoding($false)
-
-function Invoke-RagVerification {
-    param(
-        [string]$Question,
-        [string]$OutputPath
-    )
-
-    $Result = & $Python .\search_rag.py `
-        --query $Question `
-        --index $Index `
-        --top-pages 2 `
-        --pretty
-    $SearchExitCode = $LASTEXITCODE
-    if ($SearchExitCode -ne 0) {
-        throw "Retrieval test failed with exit code: $SearchExitCode"
-    }
-
-    $JsonText = ($Result -join [Environment]::NewLine) + [Environment]::NewLine
-    [System.IO.File]::WriteAllText($OutputPath, $JsonText, $Utf8NoBom)
-    $Result | ForEach-Object { Write-Host $_ }
-}
 
 Write-Host "Running standard service materials retrieval test..."
-Invoke-RagVerification `
-    -Question "办理侨眷身份认定需要哪些材料" `
-    -OutputPath (Join-Path $Verification "service-materials.json")
+& $Python .\search_rag.py `
+    --query "办理侨眷身份认定需要哪些材料" `
+    --index $Index `
+    --top-pages 2 `
+    --pretty |
+    Tee-Object -FilePath (Join-Path $Verification "service-materials.json")
+
+if ($LASTEXITCODE -ne 0) {
+    throw "Standard service retrieval test failed with exit code: $LASTEXITCODE"
+}
 
 Write-Host "Running OneThing regional materials retrieval test..."
-Invoke-RagVerification `
-    -Question "芙蓉区新生儿出生一件事需要什么材料" `
-    -OutputPath (Join-Path $Verification "onething-materials.json")
+& $Python .\search_rag.py `
+    --query "芙蓉区新生儿出生一件事需要什么材料" `
+    --index $Index `
+    --top-pages 2 `
+    --pretty |
+    Tee-Object -FilePath (Join-Path $Verification "onething-materials.json")
+
+if ($LASTEXITCODE -ne 0) {
+    throw "OneThing retrieval test failed with exit code: $LASTEXITCODE"
+}
 
 Write-Host ""
 Write-Host "BGE index build and retrieval tests completed."

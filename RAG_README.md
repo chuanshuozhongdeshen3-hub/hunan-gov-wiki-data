@@ -128,11 +128,16 @@ python .\search_rag.py --query "开办食品经营企业需要什么材料" --to
 完整材料章节。输出中的 `retrieval.complete_section_recall.complete` 为 `true`
 表示材料章节完整。
 
+为避免小模型混淆相似事项，普通事项已经完整召回材料章节时只返回目标事项；
+地区“一件事”仍返回地区实施页和业务版本页两篇。`official_url` 默认不出现在
+结果中；问题明确包含“官网、链接、网址、办事入口”等表达时才返回。调试时也可
+显式添加 `--include-urls`。
+
 输出是 JSON，包含：
 
 - 最相关的两篇 Wiki；
 - 每篇最多三个相关片段；
-- Wiki 相对路径和官网链接；
+- Wiki 相对路径；明确索要链接时才包含官网链接；
 - `answerable` 安全标记；
 - 给 Hermes 的回答约束。
 

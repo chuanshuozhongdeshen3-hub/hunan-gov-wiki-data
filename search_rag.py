@@ -17,6 +17,7 @@ from rag_common import lexical_tokens, unique_strings
 
 DEFAULT_QUERY_INSTRUCTION = "为这个句子生成表示以用于检索相关文章："
 MATERIAL_QUERY_WORDS = ("材料", "资料", "证件", "要带什么", "需要带什么")
+URL_QUERY_WORDS = ("官网", "官方网站", "链接", "网址", "办事入口", "办理入口", "官方入口")
 
 
 def parse_args() -> argparse.Namespace:
@@ -30,6 +31,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--model", help="Override model from index_manifest.json")
     parser.add_argument("--device", default=None)
     parser.add_argument("--no-vector", action="store_true")
+    parser.add_argument(
+        "--include-urls",
+        action="store_true",
+        help="Include official_url even when the query does not explicitly request a link",
+    )
     parser.add_argument("--query-instruction", default=DEFAULT_QUERY_INSTRUCTION)
     parser.add_argument("--pretty", action="store_true")
     return parser.parse_args()
@@ -178,6 +184,10 @@ def material_query(query: str) -> bool:
     return any(word in query for word in MATERIAL_QUERY_WORDS)
 
 
+def url_query(query: str) -> bool:
+    return any(word in query for word in URL_QUERY_WORDS)
+
+
 def material_section(section: str) -> bool:
     normalized = re.sub(r"\s+", "", section or "")
     return normalized == "申请材料" or normalized.startswith("申请材料/")
@@ -321,6 +331,36 @@ def expand_complete_material_section(
         "chunk_count": len(target["chunks"]),
         "character_count": total_chars,
     }
+
+
+def prepare_output_pages(
+    pages: list[dict[str, Any]],
+    complete_section_recall: dict[str, Any] | None,
+    query: str,
+    include_urls: bool = False,
+) -> list[dict[str, Any]]:
+    """Apply answer-safety rules without changing the underlying index."""
+    selected = pages
+    if complete_section_recall and complete_section_recall.get("complete"):
+        target_id = str(complete_section_recall.get("doc_id") or "")
+        target = next((page for page in pages if page.get("doc_id") == target_id), None)
+        if target and target.get("page_type") in {
+            "government_service",
+            "government_service_materials",
+        }:
+            # A complete ordinary-service material page is sufficient by itself.
+            # Returning a similarly named second service can contaminate a small
+            # answer model's otherwise complete material list.
+            selected = [target]
+
+    expose_urls = include_urls or url_query(query)
+    output: list[dict[str, Any]] = []
+    for page in selected:
+        item = dict(page)
+        if not expose_urls:
+            item.pop("official_url", None)
+        output.append(item)
+    return output
 
 
 def section_intent_boost(query: str, section: str) -> float:
@@ -504,6 +544,12 @@ def main() -> int:
         pages, complete_section_recall = expand_complete_material_section(
             connection, pages, query
         )
+        pages = prepare_output_pages(
+            pages,
+            complete_section_recall,
+            query,
+            include_urls=args.include_urls,
+        )
     finally:
         connection.close()
 
@@ -521,7 +567,8 @@ def main() -> int:
             "regional department/location facts with the variant's materials, conditions, and process. "
             "When retrieval.complete_section_recall.complete is true, the marked page contains the complete "
             "official material section; preserve necessary/optional qualifiers and do not describe it as partial. "
-            "Do not include URLs unless the user explicitly asks for them. If answerable is false, do not "
+            "Use official_url only when that field is present; otherwise do not invent or include URLs. "
+            "If answerable is false, do not "
             "infer requirements; say that no usable regional guide was found."
         ),
     }
