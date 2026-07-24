@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430981402999",
+      "benji": "1",
+      "orgId": "ZAOYAm21TFyn84WFwSeuYQ",
+      "orgLevel": "4",
+      "orgName": "漉湖湿地保护与发展事务中心本级",
+      "orgShowName": "漉湖湿地保护与发展事务中心本级",
+      "orgSn": "999",
+      "parentCode": "430981402000",
+      "parentId": "DfmxZtuTTibScaef7E7Ntuw",
+      "parentName": "沅江市漉湖湿地保护与发展事务中心",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

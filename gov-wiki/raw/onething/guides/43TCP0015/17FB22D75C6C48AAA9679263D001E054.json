@@ -1,0 +1,729 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1763000761000,
+        "fjId": "bEopaMEzSFiwMwG3SIFLbg",
+        "fjbm": "100001",
+        "fjdx": 0.264,
+        "fjlj": "orchestrate/2025-11-13/1763000761466$$图片1.png",
+        "fjlx": ".png",
+        "fjmc": "图片1.png",
+        "s3tmc": "zwfw202511",
+        "sfyx": "Y",
+        "ywdxId": "D29D421D692C497982404F37B9FAD619"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "湖南省衡阳市衡阳县西渡镇",
+        "blsj": "9:00-12:00,13:30-17:00",
+        "cjsj": 1765955963288,
+        "gxsj": 1765955963000,
+        "infoAddr": "261号政务服务中心三楼K1住建窗口",
+        "pointName": "湖南省衡阳市衡阳县西渡镇",
+        "processingTime": "9:00-12:00,13:30-17:00",
+        "pxh": 1,
+        "xxdz": "261号政务服务中心三楼K1住建窗口",
+        "yjsBldId": "B998B09441524E148BBB3BEB7EC16419",
+        "ywzjId": "F8BDCC8EC8CE48E3ADF5C93017535DAB",
+        "zt": "0"
+      }
+    ],
+    "materialList": [
+      {
+        "attachList": [
+          {
+            "cjsj": 1776999937000,
+            "fjId": "q4A3VMMIQyWEjoylSaAwrA",
+            "fjbm": "100002",
+            "fjdx": 0.098,
+            "fjlj": "orchestrate/2026-04-24/1776999935170$$消防验收申请表.pdf",
+            "fjlx": ".pdf",
+            "fjmc": "消防验收申请表.pdf",
+            "s3tmc": "zwfw202604",
+            "sfyx": "Y",
+            "ywdxId": "8646C0B3F4224D9D8FBEE1FC11BF4CCD"
+          },
+          {
+            "cjsj": 1776999937000,
+            "fjId": "ZqyrAVm8Tna2zx1AjDxhug",
+            "fjbm": "100003",
+            "fjdx": 0.098,
+            "fjlj": "orchestrate/2026-04-24/1776999935403$$消防验收申请表.pdf",
+            "fjlx": ".pdf",
+            "fjmc": "消防验收申请表.pdf",
+            "s3tmc": "zwfw202604",
+            "sfyx": "Y",
+            "ywdxId": "8646C0B3F4224D9D8FBEE1FC11BF4CCD"
+          }
+        ],
+        "bzclId": "M43TCP00150001",
+        "cjsj": 1776999937000,
+        "clbyx": "2",
+        "clbz": "申请人自备",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "建设工程消防验收申请表",
+        "clxs": "4",
+        "clxz": "1",
+        "gxsj": 1783108806000,
+        "mtjfs": "4",
+        "pxh": 1.0,
+        "sfxtmb": "0",
+        "sfykb": "1",
+        "sfyslb": "1",
+        "tbxz": "真实有效",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "2741E7335E1D46DD806041A2725CCD4E",
+        "yjsSsqdId": "17FB22D75C6C48AAA9679263D001E054",
+        "yqtgyj": "建设项目联合验收一件事",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1782979028000
+          }
+        ],
+        "bzclId": "M43TCP00150013",
+        "cjsj": 1782979028000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "按照《湖南省住房和城乡建设厅关于明确建设工程城建档案验收相关事项的通知》（湘建〔2020〕97号）要求整理好相关申报材料，由城建档案管理机构在联合验收环节进行线下核验",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783108806000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 13.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "建设工程城建档案验收材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "74904194CC6F4CADB162C0040D8B83E5",
+        "yjsSsqdId": "17FB22D75C6C48AAA9679263D001E054",
+        "yqtgyj": "建设项目联合验收“一件事”实施方案",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1782979161000
+          }
+        ],
+        "bzclId": "M43TCP00150018",
+        "cjsj": 1782979161000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "城市房屋白蚁预防实施证明",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783108806000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 18.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "建设工程竣工验收备案材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "55A089E951394D70B348E6CF18A3D9E8",
+        "yjsSsqdId": "17FB22D75C6C48AAA9679263D001E054",
+        "yqtgyj": "建设项目联合验收“一件事”实施方案",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1782978287000
+          }
+        ],
+        "bzclId": "M43TCP00150005",
+        "cjsj": 1782978287000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "涉及消防部分的工程竣工验收报告",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783108806000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 5.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "建设工程消防验收或备案材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "D0E01A2D83AB4566AA081177AF2365CD",
+        "yjsSsqdId": "17FB22D75C6C48AAA9679263D001E054",
+        "yqtgyj": "建设项目联合验收“一件事”实施方案",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1782978693000
+          }
+        ],
+        "bzclId": "M43TCP00150010",
+        "cjsj": 1782978693000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "建筑工程竣工测量成果报告书",
+        "clxs": "1",
+        "clxz": "3",
+        "gxsj": 1783108806000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 10.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "人防工程竣工验收备案（新建民用建筑防空地下室竣工验收认可）材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "59EA7E13B10640EB8EEE6D8A85A47715",
+        "yjsSsqdId": "17FB22D75C6C48AAA9679263D001E054",
+        "yqtgyj": "建设项目联合验收“一件事”实施方案",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1782978171000
+          }
+        ],
+        "bzclId": "M43TCP00150003",
+        "cjsj": 1782978171000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "权属分割或合并的审批文件",
+        "clxs": "2",
+        "clxz": "3",
+        "gxsj": 1783108806000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 3.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "规划核实和土地核验材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "A7136B61A9D74AB996FF58780C9561B1",
+        "yjsSsqdId": "17FB22D75C6C48AAA9679263D001E054",
+        "yqtgyj": "建设项目联合验收“一件事”实施方案",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1782978633000
+          }
+        ],
+        "bzclId": "M43TCP00150009",
+        "cjsj": 1782978633000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "人防工程行政许可决定书",
+        "clxs": "1",
+        "clxz": "3",
+        "gxsj": 1783108806000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 9.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "人防工程竣工验收备案（新建民用建筑防空地下室竣工验收认可）材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "C3456305BDCE42DA8A628D7F455C01B8",
+        "yjsSsqdId": "17FB22D75C6C48AAA9679263D001E054",
+        "yqtgyj": "建设项目联合验收“一件事”实施方案",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1782978134000
+          }
+        ],
+        "bzclId": "M43TCP00150002",
+        "cjsj": 1782978134000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "涵盖规划竣工和土地核验等多专业的“多测合一”报告",
+        "clxs": "2",
+        "clxz": "3",
+        "gxsj": 1783108806000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 2.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "规划核实和土地核验材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "A99FBE7AB2B6427191422F09CD584C2E",
+        "yjsSsqdId": "17FB22D75C6C48AAA9679263D001E054",
+        "yqtgyj": "建设项目联合验收“一件事”实施方案",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1782979161000
+          }
+        ],
+        "bzclId": "M43TCP00150017",
+        "cjsj": 1782979161000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "施工单位签署的工程质量保修书（备2015-8）",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783108806000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 17.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "建设工程竣工验收备案材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "967AF7540EDF4A94964DDA382CF8E507",
+        "yjsSsqdId": "17FB22D75C6C48AAA9679263D001E054",
+        "yqtgyj": "建设项目联合验收“一件事”实施方案",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1782978443000
+          }
+        ],
+        "bzclId": "M43TCP00150007",
+        "cjsj": 1782978443000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "行政许可申请表",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783108806000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 7.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "人防工程竣工验收备案（新建民用建筑防空地下室竣工验收认可）材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "9BC0F827D9334CF3995B6B931D8B0D13",
+        "yjsSsqdId": "17FB22D75C6C48AAA9679263D001E054",
+        "yqtgyj": "建设项目联合验收“一件事”实施方案",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1782979161000
+          }
+        ],
+        "bzclId": "M43TCP00150015",
+        "cjsj": 1782979161000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "工程竣工验收报告",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783108806000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 15.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "建设工程竣工验收备案材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "A8E475D09C904ECD80F3000419123235",
+        "yjsSsqdId": "17FB22D75C6C48AAA9679263D001E054",
+        "yqtgyj": "建设项目联合验收“一件事”实施方案",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1782978354000
+          }
+        ],
+        "bzclId": "M43TCP00150006",
+        "cjsj": 1782978354000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "涉及消防的建设工程竣工图纸",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783108806000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 6.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "建设工程消防验收或备案材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "044B4486D7B94C6BB9C95F30CDE5EEB5",
+        "yjsSsqdId": "17FB22D75C6C48AAA9679263D001E054",
+        "yqtgyj": "建设项目联合验收“一件事”实施方案",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1782978975000
+          }
+        ],
+        "bzclId": "M43TCP00150012",
+        "cjsj": 1782978975000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "易地建设费缴费凭证",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783108806000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 12.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "人防工程竣工验收备案（新建民用建筑防空地下室竣工验收认可）材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "27A1E935B04C42ECA307081B38500FDC",
+        "yjsSsqdId": "17FB22D75C6C48AAA9679263D001E054",
+        "yqtgyj": "建设项目联合验收“一件事”实施方案",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1782978939000
+          }
+        ],
+        "bzclId": "M43TCP00150011",
+        "cjsj": 1782978939000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "建设工程规划许可证",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783108806000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 11.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "人防工程竣工验收备案（新建民用建筑防空地下室竣工验收认可）材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "F610BFE3C03245C8BA08006B20CBE592",
+        "yjsSsqdId": "17FB22D75C6C48AAA9679263D001E054",
+        "yqtgyj": "建设项目联合验收“一件事”实施方案",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1782978546000
+          }
+        ],
+        "bzclId": "M43TCP00150008",
+        "cjsj": 1782978546000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "人防工程档案备案登记表",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783108806000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 8.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "人防工程竣工验收备案（新建民用建筑防空地下室竣工验收认可）材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "7A056AB7860A496DAE63F981D34AFC00",
+        "yjsSsqdId": "17FB22D75C6C48AAA9679263D001E054",
+        "yqtgyj": "建设项目联合验收“一件事”实施方案",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1782978251000
+          }
+        ],
+        "bzclId": "M43TCP00150004",
+        "cjsj": 1782978251000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "建设工程消防验收申请表",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783108806000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 4.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "建设工程消防验收或备案材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "7DB6DA21F5BD4853AA898739D57E5FD2",
+        "yjsSsqdId": "17FB22D75C6C48AAA9679263D001E054",
+        "yqtgyj": "建设项目联合验收“一件事”实施方案",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1782979080000
+          }
+        ],
+        "bzclId": "M43TCP00150014",
+        "cjsj": 1782979080000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "工程竣工验收备案表（备2015-1）",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783108806000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 14.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "建设工程竣工验收备案材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "496B12C62126499A89DF04995E784F49",
+        "yjsSsqdId": "17FB22D75C6C48AAA9679263D001E054",
+        "yqtgyj": "建设项目联合验收“一件事”实施方案",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1782979161000
+          }
+        ],
+        "bzclId": "M43TCP00150016",
+        "cjsj": 1782979161000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "单位（子单位）工程质量竣工验收记录（施2015-01）",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783108806000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 16.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "建设工程竣工验收备案材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "AECA585BDC424A238774DB95D189CE48",
+        "yjsSsqdId": "17FB22D75C6C48AAA9679263D001E054",
+        "yqtgyj": "建设项目联合验收“一件事”实施方案",
+        "zt": "0",
+        "zzclfs": 1.0
+      }
+    ],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "流程申请",
+      "blxs": "1",
+      "bszt": "0",
+      "cjrId": "7t907fCmRzeek2ic6O3zNxw",
+      "cjsj": 1763000604000,
+      "cnbjsx": "10",
+      "dbsxccs": "1",
+      "dbsxcyyhhj": "选择线下办理",
+      "dndtzdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_25_005_project.jsp",
+      "gqbjlx": 2.0,
+      "gqblsx": 10.0,
+      "gqpdcs": 5.0,
+      "gqsbcl": 22.0,
+      "gxrId": "7t907fCmRzeek2ic6O3zNxw",
+      "gxsj": 1763014460000,
+      "hjsgq": 5.0,
+      "hjsxz": 2.0,
+      "jgsdsm": "无",
+      "jsms": "1",
+      "lbjgId": "17,15,04",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "A",
+      "xsblqd": "1",
+      "xxbldsm": "政务大厅窗口",
+      "xxcktzdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_25_005_project.jsp",
+      "xzbjlx": 2.0,
+      "xzblsx": 10.0,
+      "xzpdcs": 1.0,
+      "xzsbcl": 18.0,
+      "yjsMlBzhId": "6E453C229190431CA6B200C1CEB368D5",
+      "yjsbsznId": "D29D421D692C497982404F37B9FAD619",
+      "ywzjfw": "0",
+      "zcblqd": "1,4",
+      "zcblqdWbdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_25_005_project.jsp"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 8.0,
+        "lbsxfwmc": "建设工程消防验收",
+        "resultSampleName": "特殊建设工程消防验收意见书",
+        "tyywblxName": "特殊建设工程消防验收"
+      },
+      {
+        "cnsxsx": 8.0,
+        "lbsxfwmc": "建设工程消防验收备案",
+        "resultSampleName": "建设工程消防验收备案抽查/复查结果通知书",
+        "tyywblxName": "其他建设工程消防验收备案"
+      },
+      {
+        "cnsxsx": 8.0,
+        "lbsxfwmc": "建设工程档案验收",
+        "resultSampleName": "建设工程档案专项验收意见书",
+        "tyywblxName": "建设工程城建档案验收"
+      },
+      {
+        "cnsxsx": 20.0,
+        "lbsxfwmc": "规划核实和土地核验",
+        "resultSampleName": "总平面图、建设工程规划类许可证核发（临建）",
+        "tyywblxName": "建设工程规划条件核实验收"
+      },
+      {
+        "cnsxsx": 8.0,
+        "lbsxfwmc": "人防工程竣工验收备案（防空地下室竣工验收认可）",
+        "resultSampleName": "防空地下室竣工验收认可意见书",
+        "tyywblxName": "新建民用建筑防空地下室竣工验收认可"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "工程竣工验收备案",
+        "resultSampleName": "工程竣工验收备案表",
+        "tyywblxName": "房屋建筑和市政基础设施工程竣工验收备案"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "全省房屋建筑和市政基础设施工程项目(涉密项目除外)",
+        "cjsj": 1763003333000,
+        "processingConditions": "全省房屋建筑和市政基础设施工程项目(涉密项目除外)",
+        "pxh": 1.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "65D26AAF25F2467385C831F2BC424FD9",
+        "yjsbsznId": "D29D421D692C497982404F37B9FAD619",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [],
+    "sxmc": "建设项目联合验收“一件事”",
+    "yjsSsqdbm": "43TCP0015A25J0421",
+    "basicInfo": {
+      "aheadFrequency": "1",
+      "areaName": "衡阳县",
+      "completedLimit": "10",
+      "cooperateName": "发改部门,自规部门,住建部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0734-6813386",
+      "lbjgId": "17,15,04",
+      "qtbmId": "028510477dd8491fb342bf21a2880d94",
+      "qtbmmc": "衡阳县住房和城乡建设局",
+      "reasonLink": "选择线下办理",
+      "yjsssqdbsznid": "F8BDCC8EC8CE48E3ADF5C93017535DAB",
+      "zxdh": "13875654186"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430412203999",
+      "benji": "1",
+      "orgId": "nejgWwoHR12xrgCEMWk6Yg",
+      "orgLevel": "4",
+      "orgName": "南岳区寿岳乡乡本级",
+      "orgShowName": "南岳区寿岳乡乡本级",
+      "orgSn": "999",
+      "parentCode": "430412203000",
+      "parentId": "aLe15CrjSTq7O6TsfVNicVQ",
+      "parentName": "南岳区寿岳乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430412203200",
+      "benji": "0",
+      "orgId": "FH96Z6mYTdO1nQ5iaicKvahA",
+      "orgLevel": "5",
+      "orgName": "南岳区寿岳乡岳林村村委会",
+      "orgShowName": "岳林村",
+      "orgSn": "999",
+      "parentCode": "430412203000",
+      "parentId": "aLe15CrjSTq7O6TsfVNicVQ",
+      "parentName": "南岳区寿岳乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430412203201",
+      "benji": "0",
+      "orgId": "qQhHrDhmRaq7QMzPQyqUdQ",
+      "orgLevel": "5",
+      "orgName": "南岳区寿岳乡龙凤村村委会",
+      "orgShowName": "龙凤村",
+      "orgSn": "999",
+      "parentCode": "430412203000",
+      "parentId": "aLe15CrjSTq7O6TsfVNicVQ",
+      "parentName": "南岳区寿岳乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430412203202",
+      "benji": "0",
+      "orgId": "TM1FGPeNQeKIneURiakuP2w",
+      "orgLevel": "5",
+      "orgName": "南岳区寿岳乡红旗村村委会",
+      "orgShowName": "红旗村",
+      "orgSn": "999",
+      "parentCode": "430412203000",
+      "parentId": "aLe15CrjSTq7O6TsfVNicVQ",
+      "parentName": "南岳区寿岳乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430412203203",
+      "benji": "0",
+      "orgId": "o2PjhWnOTAeEpv694Euuicw",
+      "orgLevel": "5",
+      "orgName": "南岳区寿岳乡船山村村委会",
+      "orgShowName": "船山村",
+      "orgSn": "999",
+      "parentCode": "430412203000",
+      "parentId": "aLe15CrjSTq7O6TsfVNicVQ",
+      "parentName": "南岳区寿岳乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430412203204",
+      "benji": "0",
+      "orgId": "2PFtlxPhR2ytQqDO8Sian2g",
+      "orgLevel": "5",
+      "orgName": "南岳区寿岳乡龙池村村委会",
+      "orgShowName": "龙池村",
+      "orgSn": "999",
+      "parentCode": "430412203000",
+      "parentId": "aLe15CrjSTq7O6TsfVNicVQ",
+      "parentName": "南岳区寿岳乡",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

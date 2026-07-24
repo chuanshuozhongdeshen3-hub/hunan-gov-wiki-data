@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430811100999",
+      "benji": "1",
+      "orgId": "n4C4iczQqRcm2ZqA3mgWx8Q",
+      "orgLevel": "4",
+      "orgName": "武陵源区天子山街道本级",
+      "orgShowName": "天子山街道本级",
+      "orgSn": "999",
+      "parentCode": "430811100000",
+      "parentId": "e8cSqb7qTvaGNGUFiaEQu6w",
+      "parentName": "武陵源区天子山街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430811100104",
+      "benji": "0",
+      "orgId": "1aG1Rzp3RA6Ta7KibuaqZDA",
+      "orgLevel": "5",
+      "orgName": "武陵源区天子山街道向家坪居委会",
+      "orgShowName": "向家坪居委会",
+      "orgSn": "999",
+      "parentCode": "430811100000",
+      "parentId": "e8cSqb7qTvaGNGUFiaEQu6w",
+      "parentName": "武陵源区天子山街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430811100105",
+      "benji": "0",
+      "orgId": "FUkTDKSxQzamCDJaic7sPlA",
+      "orgLevel": "5",
+      "orgName": "武陵源区天子山街道泗南峪居委会",
+      "orgShowName": "泗南峪居委会",
+      "orgSn": "999",
+      "parentCode": "430811100000",
+      "parentId": "e8cSqb7qTvaGNGUFiaEQu6w",
+      "parentName": "武陵源区天子山街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430811100106",
+      "benji": "0",
+      "orgId": "2d51ty3TTiaK0JN9JJbE8Jg",
+      "orgLevel": "5",
+      "orgName": "武陵源区天子山街道天子山居委会",
+      "orgShowName": "天子山居委会",
+      "orgSn": "999",
+      "parentCode": "430811100000",
+      "parentId": "e8cSqb7qTvaGNGUFiaEQu6w",
+      "parentName": "武陵源区天子山街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430811100122",
+      "benji": "0",
+      "orgId": "IicYXx0EMSmGCG5J9bM8efw",
+      "orgLevel": "5",
+      "orgName": "武陵源区天子山街道黄河村委会",
+      "orgShowName": "黄河村",
+      "orgSn": "999",
+      "parentCode": "430811100000",
+      "parentId": "e8cSqb7qTvaGNGUFiaEQu6w",
+      "parentName": "武陵源区天子山街道",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

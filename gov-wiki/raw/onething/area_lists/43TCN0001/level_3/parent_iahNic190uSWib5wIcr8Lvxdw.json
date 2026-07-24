@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "431291999000",
+      "benji": "1",
+      "orgId": "p18YflpjSeGmjs7VYdauoA",
+      "orgLevel": "3",
+      "orgName": "怀化高新技术产业开发区本级",
+      "orgShowName": "怀化高新区本级",
+      "orgSn": "1",
+      "parentCode": "431291000000",
+      "parentId": "iahNic190uSWib5wIcr8Lvxdw",
+      "parentName": "怀化高新技术产业开发区",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

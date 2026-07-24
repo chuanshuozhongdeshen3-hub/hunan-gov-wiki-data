@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430525500999",
+      "benji": "1",
+      "orgId": "YZw324L6R7ibcBkoKZb4pug",
+      "orgLevel": "4",
+      "orgName": "洞口县茶铺茶场管理区本级",
+      "orgShowName": "洞口县茶铺茶场管理区本级",
+      "orgSn": "999",
+      "parentCode": "430525500000",
+      "parentId": "jrSTyFz9QDSnj74hnoRbiaA",
+      "parentName": "洞口县茶铺茶场管理区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430525500201",
+      "benji": "0",
+      "orgId": "cSj3rgVJToiaSicr8QT13vJw",
+      "orgLevel": "5",
+      "orgName": "洞口县茶铺茶场管理区双塘村委会",
+      "orgShowName": "双塘村",
+      "orgSn": "999",
+      "parentCode": "430525500000",
+      "parentId": "jrSTyFz9QDSnj74hnoRbiaA",
+      "parentName": "洞口县茶铺茶场管理区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430525500501",
+      "benji": "0",
+      "orgId": "6hwCghrhS2GTQzscSelpyQ",
+      "orgLevel": "5",
+      "orgName": "洞口县茶铺茶场管理区八角山社区",
+      "orgShowName": "八角山社区",
+      "orgSn": "999",
+      "parentCode": "430525500000",
+      "parentId": "jrSTyFz9QDSnj74hnoRbiaA",
+      "parentName": "洞口县茶铺茶场管理区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430525500502",
+      "benji": "0",
+      "orgId": "brDtm1QpTPWQdxnPeobLxA",
+      "orgLevel": "5",
+      "orgName": "洞口县茶铺茶场管理区二家社区",
+      "orgShowName": "二家社区",
+      "orgSn": "999",
+      "parentCode": "430525500000",
+      "parentId": "jrSTyFz9QDSnj74hnoRbiaA",
+      "parentName": "洞口县茶铺茶场管理区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430525500503",
+      "benji": "0",
+      "orgId": "JNQPqZKpRk6MUGibb8wrJCA",
+      "orgLevel": "5",
+      "orgName": "洞口县茶铺茶场管理区双桂社区",
+      "orgShowName": "双桂社区",
+      "orgSn": "999",
+      "parentCode": "430525500000",
+      "parentId": "jrSTyFz9QDSnj74hnoRbiaA",
+      "parentName": "洞口县茶铺茶场管理区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430525500504",
+      "benji": "0",
+      "orgId": "3A4777p0QfeWqnic7kKa6SQ",
+      "orgLevel": "5",
+      "orgName": "洞口县茶铺茶场管理区半山社区",
+      "orgShowName": "半山社区",
+      "orgSn": "999",
+      "parentCode": "430525500000",
+      "parentId": "jrSTyFz9QDSnj74hnoRbiaA",
+      "parentName": "洞口县茶铺茶场管理区",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

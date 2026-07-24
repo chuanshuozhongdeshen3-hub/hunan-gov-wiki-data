@@ -1,0 +1,369 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1769073243000,
+        "fjId": "qnRh9X5FTFqOoVpQnKnNdA",
+        "fjbm": "100001",
+        "fjdx": 0.15,
+        "fjlj": "orchestrate/2026-01-22/1769073243217$$微信图片_20260122171337.png",
+        "fjlx": ".png",
+        "fjmc": "微信图片_20260122171337.png",
+        "s3tmc": "zwfw202601",
+        "sfyx": "Y",
+        "ywdxId": "A756B4483D7B43908FF8D6D6D47F3372"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "湖南省常德市安乡县深柳镇",
+        "blsj": "法定工作日：上午9:00—12:00,下午13:00—17:00",
+        "cjsj": 1724899368315,
+        "gxsj": 1765416925000,
+        "infoAddr": "政务服务中心一楼综合窗口高效办成一件事专区",
+        "pointName": "湖南省常德市安乡县深柳镇",
+        "processingTime": "法定工作日：上午9:00—12:00,下午13:00—17:00",
+        "pxh": 1,
+        "xxdz": "政务服务中心一楼综合窗口高效办成一件事专区",
+        "yjsBldId": "C788948B50DE4DA4BF94CB31AA4CE55B",
+        "ywzjId": "57F7D30F808C44A6BD978573007AF07A",
+        "zt": "0"
+      }
+    ],
+    "materialList": [
+      {
+        "attachList": [
+          {
+            "cjsj": 1719756492000
+          }
+        ],
+        "bzclId": "M43TC9900100Y0059",
+        "cjsj": 1719756492000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "3",
+        "cllyqd": "20",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "人民法院受理破产案件民事裁定书",
+        "clxs": "3",
+        "clxz": "3",
+        "gxsj": 1781242010000,
+        "materialCode": "E1000006",
+        "materialTitle": "人民法院受理破产案件民事裁定书",
+        "mtjfs": "4",
+        "pxh": 1.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合企业破产信息核查相关规定",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "8533358EE1F0407AB8137CB89C7978B1",
+        "yjsSsqdId": "B8EC5A18AC7048BC804E936A837A932B",
+        "yqtgyj": "企业破产信息核查相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1719756582000
+          }
+        ],
+        "bzclId": "M43TC9900100Y0061",
+        "cjsj": 1719756582000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "3",
+        "cllyqd": "20",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "管理人(或清算组)授权委托书",
+        "clxs": "3",
+        "clxz": "3",
+        "gxsj": 1781242010000,
+        "materialCode": "E1000008",
+        "materialTitle": "管理人(或清算组)授权委托书",
+        "mtjfs": "4",
+        "pxh": 3.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合企业破产信息核查相关规定",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "F4E6558B6807495692F1FA609773E10E",
+        "yjsSsqdId": "B8EC5A18AC7048BC804E936A837A932B",
+        "yqtgyj": "企业破产信息核查相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1719756527000
+          }
+        ],
+        "bzclId": "M43TC9900100Y0060",
+        "cjsj": 1719756527000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "3",
+        "cllyqd": "20",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "指定管理人(或清算组)决定书",
+        "clxs": "3",
+        "clxz": "3",
+        "gxsj": 1781242010000,
+        "materialCode": "E1000007",
+        "materialTitle": "指定管理人(或清算组)决定书",
+        "mtjfs": "4",
+        "pxh": 2.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合企业破产信息核查相关规定",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "77413027863F4D2C9B8628F8C819A266",
+        "yjsSsqdId": "B8EC5A18AC7048BC804E936A837A932B",
+        "yqtgyj": "企业破产信息核查相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1719756629000
+          }
+        ],
+        "bzclId": "M43TC9900100Y0062",
+        "cjsj": 1719756629000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "3",
+        "cllyqd": "20",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "经办人员有效身份证件",
+        "clxs": "3",
+        "clxz": "3",
+        "gxsj": 1781242010000,
+        "materialCode": "E1000009",
+        "materialTitle": "经办人员有效身份证件",
+        "mtjfs": "4",
+        "pxh": 4.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合企业破产信息核查相关规定",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "98F9AB1A2D804E6D8A0E1A54C31CFF7B",
+        "yjsSsqdId": "B8EC5A18AC7048BC804E936A837A932B",
+        "yqtgyj": "企业破产信息核查相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      }
+    ],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "1",
+      "blxs": "1",
+      "bszt": "1",
+      "cjrId": "gQKeZick2THqv7CleIicB1pA",
+      "cjsj": 1719756298000,
+      "cnbjsx": "3",
+      "dbsxccs": "0",
+      "dbsxcyyhhj": "无需到现场",
+      "dndtzdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_002_qypcxx.jsp",
+      "gqbjlx": 2.0,
+      "gqblsx": 45.0,
+      "gqpdcs": 9.0,
+      "gqsbcl": 26.0,
+      "gxrId": "gQKeZick2THqv7CleIicB1pA",
+      "gxsj": 1719756707123,
+      "hjsgq": 10.0,
+      "hjsxz": 1.0,
+      "jdtsdh": "0731—82212345",
+      "jdtsdz": "湖南省长沙市天心区银杏路6号",
+      "jgsdsm": "结果物线上下载",
+      "jsms": "2",
+      "lbjgId": "09,14,17,30,29,31,36,15",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "1",
+      "sfzdysl": "0",
+      "sfztxsbl": "0",
+      "sxlx": "2",
+      "xsblqd": "1,2",
+      "xxbldsm": "各级政务服务大厅综合窗口办理",
+      "xxcktzdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_002_qypcxx.jsp",
+      "xzbjlx": 2.0,
+      "xzblsx": 3.0,
+      "xzpdcs": 0.0,
+      "xzsbcl": 4.0,
+      "yddtzdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_002_qypcxx.jsp",
+      "yjsMlBzhId": "4163B1C13AA5442F946B826CA0F03B2B",
+      "yjsbsznId": "A756B4483D7B43908FF8D6D6D47F3372",
+      "ywzjfw": "0",
+      "zcblqd": "1,4,2",
+      "zcblqdWbdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_002_qypcxx.jsp",
+      "zxdh": "0731—82212345",
+      "zxdz": "湖南省长沙市天心区银杏路6号"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "企业海关税款缴纳、货物通关信息核查",
+        "resultSampleName": "企业欠缴海关税款情况及被海关查封、扣押财产情况",
+        "tyywblxName": "企业海关税款缴纳、货物通关信息核查"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "企业注册、登记等基本信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业注册、登记等基本信息核查"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "统筹相关申请核查信息的受理、分派、汇总和结果送达",
+        "resultSampleName": "",
+        "tyywblxName": "统筹相关申请核查信息的受理、分派、汇总和结果送达"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "企业不动产登记信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业不动产登记信息核查"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "企业车辆信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业车辆信息核查"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "社会保险参保缴费记录核查",
+        "resultSampleName": "",
+        "tyywblxName": "社会保险参保缴费记录核查"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "企业人员医保缴存信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业人员医保缴存信息核查"
+      },
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "企业纳税缴税情况信息核查",
+        "resultSampleName": "企业纳税数据、征管职责划转后社保费缴纳数据",
+        "tyywblxName": "企业纳税缴税情况信息核查"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "企业房产信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业房产信息核查"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "企业人员住房公积金缴存信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业人员住房公积金缴存信息核查"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "申请人应为取得人民法院《指定管理人(或清算组)决定书》的企业破产管理人(或清算组)",
+        "cjsj": 1719756413000,
+        "processingConditions": "申请人应为取得人民法院《指定管理人(或清算组)决定书》的企业破产管理人(或清算组)",
+        "pxh": 1.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "6A4FD30F596E43B380E713D5E2C411EB",
+        "yjsbsznId": "A756B4483D7B43908FF8D6D6D47F3372",
+        "zt": "0"
+      },
+      {
+        "bltj": "申请人需明确核查的具体内容和目的",
+        "cjsj": 1719756430000,
+        "processingConditions": "申请人需明确核查的具体内容和目的",
+        "pxh": 2.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "55B49F1D70E042398EAF5C162761D2F3",
+        "yjsbsznId": "A756B4483D7B43908FF8D6D6D47F3372",
+        "zt": "0"
+      },
+      {
+        "bltj": "申请人需提供有效的身份证明及相关法律文件",
+        "cjsj": 1722330870000,
+        "processingConditions": "申请人需提供有效的身份证明及相关法律文件",
+        "pxh": 3.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "BF32D0561F7B435482268F15889649E9",
+        "yjsbsznId": "A756B4483D7B43908FF8D6D6D47F3372",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [
+      {
+        "answer": "您可以通过PC端、移动端及线下窗口等渠道申请办理企业破产信息核查“一件事”，具体方式如下：\n1、PC端办理：使用电脑登录湖南省政务服务网，进入“高效办成一件事”重点事项服务专区，在“企业办事”专栏中找到企业破产信息核查“一件事”（网址：https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_002_qypcxx.jsp），点击“在线办理”即可提交申请。\n2、移动端办理：使用手机登录“湘易办”APP，进入“高效办成一件事”重点事项服务专区，点击企业破产信息核查“一件事”即可提交申请。\n3、线下窗口办理：就近到任意政务服务中心（市、县）高效办成一件事服务窗口提交申请。",
+        "da": "您可以通过PC端、移动端及线下窗口等渠道申请办理企业破产信息核查“一件事”，具体方式如下：\n1、PC端办理：使用电脑登录湖南省政务服务网，进入“高效办成一件事”重点事项服务专区，在“企业办事”专栏中找到企业破产信息核查“一件事”（网址：https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_002_qypcxx.jsp），点击“在线办理”即可提交申请。\n2、移动端办理：使用手机登录“湘易办”APP，进入“高效办成一件事”重点事项服务专区，点击企业破产信息核查“一件事”即可提交申请。\n3、线下窗口办理：就近到任意政务服务中心（市、县）高效办成一件事服务窗口提交申请。",
+        "problem": "如何办理企业破产信息核查“一件事”？",
+        "pxh": 0.0,
+        "wt": "如何办理企业破产信息核查“一件事”？",
+        "yjsMlSsqdQuestionId": "2914B5AAE0FD4292BDB8DB37B1CBE47E",
+        "yjsSsqdId": "B8EC5A18AC7048BC804E936A837A932B"
+      },
+      {
+        "answer": "企业破产信息核查“一件事”已在湖南省范围内实现“一地申请、全省核查”，只要破产企业注册地在省内，管理人就近到省内任意政务服务中心或者登录政务服务网，均可申请核查信息。",
+        "da": "企业破产信息核查“一件事”已在湖南省范围内实现“一地申请、全省核查”，只要破产企业注册地在省内，管理人就近到省内任意政务服务中心或者登录政务服务网，均可申请核查信息。",
+        "problem": "是否必须到企业所在地才能申请核查？",
+        "pxh": 1.0,
+        "wt": "是否必须到企业所在地才能申请核查？",
+        "yjsMlSsqdQuestionId": "AA52227B12DD4E8FAFA3DA24BCACBB3C",
+        "yjsSsqdId": "B8EC5A18AC7048BC804E936A837A932B"
+      },
+      {
+        "answer": "企业破产信息核查“一件事”支持自由组合办理。管理人可以申请一次查询全部信息，也可以申请一次查询部分信息，所需申请材料相同。",
+        "da": "企业破产信息核查“一件事”支持自由组合办理。管理人可以申请一次查询全部信息，也可以申请一次查询部分信息，所需申请材料相同。",
+        "problem": "能否只核查其中一部分信息？",
+        "pxh": 2.0,
+        "wt": "能否只核查其中一部分信息？",
+        "yjsMlSsqdQuestionId": "84CAA688AC4343CAB4495A19B37FCB8C",
+        "yjsSsqdId": "B8EC5A18AC7048BC804E936A837A932B"
+      },
+      {
+        "answer": "企业破产信息核查“一件事”的服务对象为符合《中华人民共和国企业破产法》第二十二条、第二十三条及第二十四条规定，由人民法院受理企业破产申请后，指定的破产企业管理人。",
+        "da": "企业破产信息核查“一件事”的服务对象为符合《中华人民共和国企业破产法》第二十二条、第二十三条及第二十四条规定，由人民法院受理企业破产申请后，指定的破产企业管理人。",
+        "problem": "谁可以核查企业破产的信息？",
+        "pxh": 3.0,
+        "wt": "谁可以核查企业破产的信息？",
+        "yjsMlSsqdQuestionId": "49183D1F08C24E82AEF5F70835A6D28A",
+        "yjsSsqdId": "B8EC5A18AC7048BC804E936A837A932B"
+      }
+    ],
+    "sxmc": "企业破产信息核查一件事",
+    "yjsSsqdbm": "43TCN0007225J0721",
+    "basicInfo": {
+      "aheadFrequency": "0",
+      "areaName": "安乡县",
+      "completedLimit": "3",
+      "cooperateName": "公安部门,人社部门,自规部门,住建部门,海关部门,税务部门,市监部门,医保部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0736-4323110",
+      "lbjgId": "09,14,17,30,29,31,36,15",
+      "qtbmId": "vhOLeW1KRwWoboofEJ762w",
+      "qtbmmc": "安乡县数据局（安乡县行政审批服务局）",
+      "reasonLink": "无需到现场",
+      "yjsssqdbsznid": "57F7D30F808C44A6BD978573007AF07A",
+      "zxdh": "0736-4302231"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

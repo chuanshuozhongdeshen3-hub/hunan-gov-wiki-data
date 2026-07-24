@@ -1,17 +1,15 @@
 {
   "crawler": "supplement_onething_guides",
   "crawler_version": "1.0.0",
-  "updated_at": "2026-07-23T01:20:19+00:00",
-  "theme_code": "43PCN0009",
-  "current": "area:3/2ee34c37f54b4a05ad9aefad9d77f623",
+  "updated_at": "2026-07-23T12:55:19+00:00",
+  "theme_code": "43TCP0022",
+  "current": "theme_completed",
   "progress": {
-    "area_requests": 131,
-    "area_nodes": 2093,
-    "implementations": 130,
-    "queued": 16
+    "completed_themes": 58,
+    "total_themes": 58
   },
-  "network_requests": 157,
-  "cache_hits": 238,
+  "network_requests": 3196,
+  "cache_hits": 20676,
   "error_count": 0,
-  "warning_count": 0
+  "warning_count": 2
 }

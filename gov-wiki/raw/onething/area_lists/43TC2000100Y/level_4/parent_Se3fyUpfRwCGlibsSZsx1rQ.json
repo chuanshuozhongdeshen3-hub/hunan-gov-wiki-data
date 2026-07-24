@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430726500999",
+      "benji": "1",
+      "orgId": "gnkXN3UUSd6kNxYVc2iaibpA",
+      "orgLevel": "4",
+      "orgName": "石门县秀坪园艺场本级",
+      "orgShowName": "石门县秀坪园艺场本级",
+      "orgSn": "999",
+      "parentCode": "430726500000",
+      "parentId": "Se3fyUpfRwCGlibsSZsx1rQ",
+      "parentName": "石门县秀坪园艺场",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430726500201",
+      "benji": "0",
+      "orgId": "0KPrQmP6QSiapNHbMvbtDCA",
+      "orgLevel": "5",
+      "orgName": "石门县秀坪园艺场肖家岗村",
+      "orgShowName": "肖家岗村",
+      "orgSn": "999",
+      "parentCode": "430726500000",
+      "parentId": "Se3fyUpfRwCGlibsSZsx1rQ",
+      "parentName": "石门县秀坪园艺场",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430726500202",
+      "benji": "0",
+      "orgId": "S7K35fMIRm2nreBVacd2BA",
+      "orgLevel": "5",
+      "orgName": "石门县秀坪园艺场鳝鱼村",
+      "orgShowName": "鳝鱼村",
+      "orgSn": "999",
+      "parentCode": "430726500000",
+      "parentId": "Se3fyUpfRwCGlibsSZsx1rQ",
+      "parentName": "石门县秀坪园艺场",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430726500203",
+      "benji": "0",
+      "orgId": "BunHbxjHQmia82QxOs3EfTw",
+      "orgLevel": "5",
+      "orgName": "石门县秀坪园艺场洲浒溪村",
+      "orgShowName": "洲浒溪村",
+      "orgSn": "999",
+      "parentCode": "430726500000",
+      "parentId": "Se3fyUpfRwCGlibsSZsx1rQ",
+      "parentName": "石门县秀坪园艺场",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430726500205",
+      "benji": "0",
+      "orgId": "lJ3o9GunQwibgyKqYia1r9Hg",
+      "orgLevel": "5",
+      "orgName": "石门县秀坪园艺场木山村",
+      "orgShowName": "木山村",
+      "orgSn": "999",
+      "parentCode": "430726500000",
+      "parentId": "Se3fyUpfRwCGlibsSZsx1rQ",
+      "parentName": "石门县秀坪园艺场",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430726500206",
+      "benji": "0",
+      "orgId": "4a3FVE0dS3C2VMe9vRo6ow",
+      "orgLevel": "5",
+      "orgName": "石门县秀坪园艺场秀山村",
+      "orgShowName": "秀山村",
+      "orgSn": "999",
+      "parentCode": "430726500000",
+      "parentId": "Se3fyUpfRwCGlibsSZsx1rQ",
+      "parentName": "石门县秀坪园艺场",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

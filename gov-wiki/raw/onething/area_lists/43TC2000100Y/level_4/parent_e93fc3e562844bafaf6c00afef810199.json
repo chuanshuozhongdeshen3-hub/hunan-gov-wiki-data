@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430121112999",
+      "benji": "1",
+      "orgId": "e93fc3e562844bafaf6c00afef813252",
+      "orgLevel": "4",
+      "orgName": "青山铺镇本级",
+      "orgShowName": "青山铺镇本级",
+      "orgSn": "1",
+      "parentCode": "430121112000",
+      "parentId": "e93fc3e562844bafaf6c00afef810199",
+      "parentName": "青山铺镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430121112001",
+      "benji": "0",
+      "orgId": "T01vJqx9S86Sgx4yatFSoA",
+      "orgLevel": "5",
+      "orgName": "青山社区",
+      "orgShowName": "青山社区",
+      "orgSn": "0",
+      "parentCode": "430121112000",
+      "parentId": "e93fc3e562844bafaf6c00afef810199",
+      "parentName": "青山铺镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430121112201",
+      "benji": "0",
+      "orgId": "Mpwt2BmnQwmK17vynZq8PA",
+      "orgLevel": "5",
+      "orgName": "赛头村",
+      "orgShowName": "赛头村",
+      "orgSn": "0",
+      "parentCode": "430121112000",
+      "parentId": "e93fc3e562844bafaf6c00afef810199",
+      "parentName": "青山铺镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430121112202",
+      "benji": "0",
+      "orgId": "pksGjyh1RAupcJcqSfzrwA",
+      "orgLevel": "5",
+      "orgName": "天华村",
+      "orgShowName": "天华村",
+      "orgSn": "0",
+      "parentCode": "430121112000",
+      "parentId": "e93fc3e562844bafaf6c00afef810199",
+      "parentName": "青山铺镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430121112206",
+      "benji": "0",
+      "orgId": "5TZQUYJ2T9iaaXvY4l3Zv2A",
+      "orgLevel": "5",
+      "orgName": "洪河村",
+      "orgShowName": "洪河村",
+      "orgSn": "0",
+      "parentCode": "430121112000",
+      "parentId": "e93fc3e562844bafaf6c00afef810199",
+      "parentName": "青山铺镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430121112207",
+      "benji": "0",
+      "orgId": "L0KcK49RRGShic0KWVup6Bg",
+      "orgLevel": "5",
+      "orgName": "广福村",
+      "orgShowName": "广福村",
+      "orgSn": "0",
+      "parentCode": "430121112000",
+      "parentId": "e93fc3e562844bafaf6c00afef810199",
+      "parentName": "青山铺镇",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

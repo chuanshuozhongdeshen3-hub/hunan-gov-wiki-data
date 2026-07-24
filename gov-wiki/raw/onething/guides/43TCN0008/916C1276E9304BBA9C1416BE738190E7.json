@@ -1,0 +1,584 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1722220972000,
+        "fjId": "SVbJksMsSRCbfiCBNJudRA",
+        "fjbm": "100001",
+        "fjdx": 0.039,
+        "fjlj": "orchestrate/2024-07-29/1722220972480$$企业注销.png",
+        "fjlx": ".png",
+        "fjmc": "企业注销.png",
+        "s3tmc": "zwfw202407",
+        "sfyx": "Y",
+        "ywdxId": "BEF0CE8D95F3442EAF3EE7865592658F"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "益阳市大通湖区政务服务中心",
+        "blsj": "上午8:30-12:00,下午13:30-17:00",
+        "cjsj": 1724814110748,
+        "gxsj": 1764555788000,
+        "infoAddr": "湖南省益阳市大通湖区河坝镇大通湖大道219号大通湖区政务服务中心二楼卫健和市监局34号窗口",
+        "pointName": "益阳市大通湖区政务服务中心",
+        "processingTime": "上午8:30-12:00,下午13:30-17:00",
+        "pxh": 1,
+        "xxdz": "湖南省益阳市大通湖区河坝镇大通湖大道219号大通湖区政务服务中心二楼卫健和市监局34号窗口",
+        "yjsBldId": "56E3D2F7B4F04B9B9D4BBBB20A044BC0",
+        "ywzjId": "186642A4CD8449E3AE858A140E57EAD8",
+        "zt": "0"
+      }
+    ],
+    "materialList": [
+      {
+        "attachList": [
+          {
+            "cjsj": 1722222584000
+          },
+          {
+            "cjsj": 1722222584000
+          }
+        ],
+        "bzclId": "M43TCN00080003",
+        "cjsj": 1722222584000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "税务机关出具的清税证明",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1772136121000,
+        "mtjfs": "4",
+        "pxh": 3.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合企业注销相关规定",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "37C484148360468C827BC4B4E92B6168",
+        "yjsSsqdId": "916C1276E9304BBA9C1416BE738190E7",
+        "yqtgyj": "企业注销相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1722222541000
+          },
+          {
+            "cjsj": 1722222541000
+          }
+        ],
+        "bzclId": "M43TCN00080003",
+        "cjsj": 1722222541000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "注销决议或决定",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1772136121000,
+        "mtjfs": "4",
+        "pxh": 10.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合企业注销相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "076EFF29675149178AB422502CA73655",
+        "yjsSsqdId": "916C1276E9304BBA9C1416BE738190E7",
+        "yqtgyj": "企业注销相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1722222512000
+          },
+          {
+            "cjsj": 1722222512000
+          }
+        ],
+        "bzclId": "M43TCN00080007",
+        "cjsj": 1722222512000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "公章",
+        "clxs": "1",
+        "clxz": "9",
+        "gxsj": 1772136121000,
+        "mtjfs": "4",
+        "pxh": 14.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合企业注销相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "0752B6F868E84CB1BDF44650EC6349C1",
+        "yjsSsqdId": "916C1276E9304BBA9C1416BE738190E7",
+        "yqtgyj": "企业注销相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1734937657000
+          }
+        ],
+        "bzclId": "M43TCN00080035",
+        "cjsj": 1734937657000,
+        "clbyx": "1",
+        "clbz": "内容齐全，符合法定形式。",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "申请人按要求填写提交",
+        "clmc": "《企业注销登记“一件事”申请书》",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1772136121000,
+        "mtjfs": "4",
+        "pxh": 40.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容齐全，符合法定形式。",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "0B6824A0517049D2A95D0AFF205C02C8",
+        "yjsSsqdId": "916C1276E9304BBA9C1416BE738190E7",
+        "yqtgyj": "注销一件事相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1722222604000
+          },
+          {
+            "cjsj": 1722222604000
+          }
+        ],
+        "bzclId": "M43TCN00080004",
+        "cjsj": 1722222604000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "20",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "营业执照正、副本",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1772136121000,
+        "mtjfs": "4",
+        "pxh": 4.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合企业注销相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "36CBAE48EB4F498AB34227A028DFAF11",
+        "yjsSsqdId": "916C1276E9304BBA9C1416BE738190E7",
+        "yqtgyj": "企业注销相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1722222541000
+          },
+          {
+            "cjsj": 1722222541000
+          }
+        ],
+        "bzclId": "M43TCN00080002",
+        "cjsj": 1722222541000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "简易注销全体投资人承诺书",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1772136121000,
+        "mtjfs": "4",
+        "pxh": 2.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合企业注销相关规定",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "7438221E43C44DD282C1267830309DC0",
+        "yjsSsqdId": "916C1276E9304BBA9C1416BE738190E7",
+        "yqtgyj": "企业注销相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1734937657000
+          }
+        ],
+        "bzclId": "M43TCN00080036",
+        "cjsj": 1734937657000,
+        "clbyx": "1",
+        "clbz": "内容齐全，符合法定形式",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "cllyqdsm": "仅通过报纸发布债权人公告的,需要提交依法刊登公告的报纸样张。",
+        "clmc": "债权人公告",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1772136121000,
+        "mtjfs": "4",
+        "pxh": 41.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，齐全，符合法定形式",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "1F79D9178A394C59B65983432D561792",
+        "yjsSsqdId": "916C1276E9304BBA9C1416BE738190E7",
+        "yqtgyj": "注销登记相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1726298950000
+          }
+        ],
+        "bzclId": "M43TCN00080032",
+        "cjsj": 1726298950000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "清算报告",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1772136121000,
+        "mtjfs": "4",
+        "pxh": 39.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合企业注销相关规定",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "221B8B9F94254E199DA6973BE1768E4F",
+        "yjsSsqdId": "916C1276E9304BBA9C1416BE738190E7",
+        "yqtgyj": "企业注销相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      }
+    ],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "无",
+      "blxs": "1",
+      "bszt": "0",
+      "cjrId": "EzUt3u38Swa4yxTJsticp3Q",
+      "cjsj": 1722220798000,
+      "cnbjsx": "5",
+      "dbsxccs": "1",
+      "dbsxcyyhhj": "无",
+      "dndtzdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_014_qyzx.jsp",
+      "gqbjlx": 2.0,
+      "gqblsx": 20.0,
+      "gqpdcs": 10.0,
+      "gqsbcl": 29.0,
+      "gxrId": "7Op7IPYYQLeUibsPAXxO72Q",
+      "gxsj": 1722244284000,
+      "hjsgq": 10.0,
+      "hjsxz": 2.0,
+      "jgsdsm": "无",
+      "jsms": "2",
+      "lbjgId": "30,31,29,14,09",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "2",
+      "xsblqd": "1",
+      "xxbldsm": "对应层级市场监管部门",
+      "xxcktzdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_014_qyzx.jsp",
+      "xzbjlx": 2.0,
+      "xzblsx": 5.0,
+      "xzpdcs": 1.0,
+      "xzsbcl": 10.0,
+      "yjsMlBzhId": "7E956EB5670948ACAF65150D14452ED5",
+      "yjsbsznId": "BEF0CE8D95F3442EAF3EE7865592658F",
+      "ywzjfw": "0",
+      "zcblqd": "1,4",
+      "zcblqdWbdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_014_qyzx.jsp"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "注销税务登记（适用于“一照一码”“两证整合”以外的纳税人）",
+        "resultSampleName": "《注销税务事项通知书》",
+        "tyywblxName": "注销税务登记（适用于“一照一码”“两证整合”以外的纳税人）"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "个人独资企业注销登记",
+        "resultSampleName": "《登记通知书》",
+        "tyywblxName": "个人独资企业注销登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "个人独资企业分支机构注销登记",
+        "resultSampleName": "《登记通知书》",
+        "tyywblxName": "个人独资企业分支机构注销登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "非公司企业法人分支机构注销登记",
+        "resultSampleName": "《登记通知书》",
+        "tyywblxName": "非公司企业法人分支机构注销登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "普通合伙企业注销登记",
+        "resultSampleName": "《登记通知书》",
+        "tyywblxName": "普通合伙企业注销登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "合伙企业分支机构注销登记",
+        "resultSampleName": "《登记通知书》",
+        "tyywblxName": "合伙企业分支机构注销登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "有限合伙企业注销登记",
+        "resultSampleName": "《登记通知书》",
+        "tyywblxName": "有限合伙企业注销登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "特殊普通合伙企业注销登记",
+        "resultSampleName": "《登记通知书》",
+        "tyywblxName": "特殊普通合伙企业注销登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "一人有限责任公司注销登记",
+        "resultSampleName": "《登记通知书》",
+        "tyywblxName": "一人有限责任公司注销登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "有限（责任）公司注销登记",
+        "resultSampleName": "《登记通知书》",
+        "tyywblxName": "有限（责任）公司注销登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "股份有限公司注销登记",
+        "resultSampleName": "《登记通知书》",
+        "tyywblxName": "股份有限公司注销登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "个体工商户注销登记",
+        "resultSampleName": "《登记通知书》",
+        "tyywblxName": "个体工商户注销登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "农民专业合作社（联合社）注销登记",
+        "resultSampleName": "《登记通知书》",
+        "tyywblxName": "农民专业合作社（联合社）注销登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "农民专业合作社（联合社）分支机构注销登记",
+        "resultSampleName": "《登记通知书》",
+        "tyywblxName": "农民专业合作社（联合社）分支机构注销登记"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "银行账户注销",
+        "resultSampleName": "",
+        "tyywblxName": "银行账户注销"
+      },
+      {
+        "cnsxsx": 11.0,
+        "lbsxfwmc": "海关报关单位备案注销",
+        "resultSampleName": "",
+        "tyywblxName": "海关报关单位备案注销"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "企业印章注销",
+        "resultSampleName": "",
+        "tyywblxName": "企业印章注销"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "分公司注销登记",
+        "resultSampleName": "《登记通知书》",
+        "tyywblxName": "分公司注销登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "非公司企业法人注销登记",
+        "resultSampleName": "《登记通知书》",
+        "tyywblxName": "非公司企业法人注销登记"
+      },
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "参保单位注销",
+        "resultSampleName": "无结果样本",
+        "tyywblxName": "参保单位注销"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "住房公积金缴存业务-单位缴存登记注销",
+        "resultSampleName": "暂无",
+        "tyywblxName": "住房公积金缴存业务-单位缴存登记注销"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "申请注销税务登记",
+        "cjsj": 1722221120000,
+        "processingConditions": "申请注销税务登记",
+        "pxh": 1.0,
+        "smmc": "纳税人已实行“一照一码”登记模式；且已结清应纳税款、多退（免）税款、滞纳金和罚款，缴销发票及税控专用设备和其他税务证件。",
+        "yjsBsznbltjId": "C7E00955ED1B4C9089459E8F3139946F",
+        "yjsbsznId": "BEF0CE8D95F3442EAF3EE7865592658F",
+        "zt": "0"
+      },
+      {
+        "bltj": "申请办理海关报关单位注销",
+        "cjsj": 1722221134000,
+        "processingConditions": "申请办理海关报关单位注销",
+        "pxh": 2.0,
+        "smmc": "涉及海关报关相关业务的企业，可通过国际贸易“单一窗口”、“互联网+海关”等方式，向海关提交报关单位注销申请，也可通过湖南省注销“一网”服务平台提交注销申请。对于已在海关备案，存在欠税（含滞纳金）及罚款等其他应办结的海关手续的报关单位，应当在注销前办结海关有关手续。",
+        "yjsBsznbltjId": "764E133C4CFA4CE19902452095A51EFF",
+        "yjsbsznId": "BEF0CE8D95F3442EAF3EE7865592658F",
+        "zt": "0"
+      },
+      {
+        "bltj": "申请注销企业登记",
+        "cjsj": 1722221152000,
+        "processingConditions": "申请注销企业登记",
+        "pxh": 3.0,
+        "smmc": "①简易注销：未发生债权债务或已将债权债务清偿完结的市场主体（上市股份有限公司除外）。市场主体在申请简易注销登记时，未发生或者已结清清偿费用、职工工资、社会保险费用、法定补偿金、应缴纳税款（滞纳金、罚款），且不存在以下情形的，适用简易注销程序：1．涉及国家规定实施准入特别管理措施的外商投资企业；2．在经营异常名录或者市场监督管理严重违法失信名单中的；3．存在股权（财产份额）被冻结、出质或者动产抵押，或者对其他市场主体存在投资的；4．正在被立案调查或者采取行政强制措施，正在诉讼或者仲裁程序中的；5．被吊销营业执照、责令关闭、撤销的；6．受到罚款等行政处罚尚未执行完毕的；7．企业所属的非法人分支机构未办理注销登记的；8．法律、行政法规或者国务院决定规定在注销登记前需经批准的；9．不适用简易注销登记的其他情形。人民法院裁定强制清算或裁定宣告破产的，有关企业清算组、企业管理人可持人民法院终结强制清算程序的裁定或终结破产程序的裁定，向被强制清算人或破产人的原登记机关申请办理简易注销登记。由全体投资人书面承诺对上述情况的真实性承担法律责任。简易注销公示期为20日，在公示期内无相关部门、债权人及其他利害关系人提出异议的，市场主体可以于公示期届满之日起20日内向登记机关申请注销登记。企业在公示后，不得从事与注销无关的生产经营活动。 ②普通注销：公司在解散事由出现之日起15日内成立清算组。负责清理公司的财产和债权债务。清算组自成立之日起10日内，由申请人通过湖南省注销“一网”服务平台或者国家企业信用信息公示系统公告清算组信息。同时，清算组应当自成立之日起10日内通知债权人，并于60日内依法通过报纸发布债权人公告，也可通过湖南省注销“一网”服务平台或者国家企业信用信息公示系统免费向社会发布债权人公告，公告期为45日。已履行公司清算组成员备案等法定程序，且公司清算组已完成清算工作，应当自清算结束之日起30日内申请注销登记。",
+        "yjsBsznbltjId": "02279449F52E439189BA3A4FCA84B129",
+        "yjsbsznId": "BEF0CE8D95F3442EAF3EE7865592658F",
+        "zt": "0"
+      },
+      {
+        "bltj": "申请注销社会保险登记",
+        "cjsj": 1722221165000,
+        "processingConditions": "申请注销社会保险登记",
+        "pxh": 4.0,
+        "smmc": "企业应当自办理企业注销登记之日起30日内，办理注销社会保险登记手续。在办理注销社会保险登记前，应当核减参保人员并清缴社会保险费欠费。",
+        "yjsBsznbltjId": "DFA2D1D3A76843D18D62DFFB7EFABF9E",
+        "yjsbsznId": "BEF0CE8D95F3442EAF3EE7865592658F",
+        "zt": "0"
+      },
+      {
+        "bltj": "申清注销住房公积金缴存登记",
+        "cjsj": 1722221176000,
+        "processingConditions": "申清注销住房公积金缴存登记",
+        "pxh": 5.0,
+        "smmc": "企业或者清算组织应当自办理企业注销登记之日起30日内，向原住房公积金管理机构提交有关批准文件，办理注销住房公积金缴存登记手续。在办理注销住房公积金缴存登记前，应当为本企业职工补缴未缴或者少缴的住房公积金，并同时办理职工住房公积金账户转移或者封存手续。",
+        "yjsBsznbltjId": "F190EF99EA834D7F8C71F3C080918C0F",
+        "yjsbsznId": "BEF0CE8D95F3442EAF3EE7865592658F",
+        "zt": "0"
+      },
+      {
+        "bltj": "申请预约企业账户撤销",
+        "cjsj": 1722221193000,
+        "processingConditions": "申请预约企业账户撤销",
+        "pxh": 6.0,
+        "smmc": "企业通过湖南省注销“一网”服务平台向银行发起预约账户撤销申请，银行接到申请后安排专员跟进服务，一次性告知企业销户需要办理的流程及所需材料清单，为企业办理账户撤销事项。企业尚未清偿其开户银行债务的，不得申请撤销该账户。企业撤销银行结算账户，必须与开户银行核对银行结算账户存款余额，交回各种重要空白票据及结算凭证和开户登记证，银行核对无误后办理账户撤销手续。 经人民法院裁定宣告破产或强制清算的企业，管理人持人民法院受理破产清算申请裁定书、终结破产清算程序裁定书、人民法院指定管理人决定书、管理人身份证明文件、管理人负责人身份证件，向银行申请办理企业账户撤销手续，账户内余额应当归结至管理人账户。",
+        "yjsBsznbltjId": "632A1CB206B24B7E9F7C567337A40604",
+        "yjsbsznId": "BEF0CE8D95F3442EAF3EE7865592658F",
+        "zt": "0"
+      },
+      {
+        "bltj": "企业公章注销",
+        "cjsj": 1722221206000,
+        "processingConditions": "企业公章注销",
+        "pxh": 7.0,
+        "smmc": "营业执照注销后，登记机关实时将企业注销信息推送至印章治安管理系统。实体印章由注销企业自行到有资质的公章刻制企业办理缴销。",
+        "yjsBsznbltjId": "E7F73C03B2334A8A9604B48EEF5E3321",
+        "yjsbsznId": "BEF0CE8D95F3442EAF3EE7865592658F",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [
+      {
+        "answer": "税务注销、企业注销登记、注销社会保险登记、住房公积金企业缴存登记注销、海关报关单位备案注销、预约银行账户注销、企业印章注销",
+        "da": "税务注销、企业注销登记、注销社会保险登记、住房公积金企业缴存登记注销、海关报关单位备案注销、预约银行账户注销、企业印章注销",
+        "problem": "企业注销登记一件事可提供的联办事项有哪些？",
+        "pxh": 0.0,
+        "wt": "企业注销登记一件事可提供的联办事项有哪些？",
+        "yjsMlSsqdQuestionId": "5DB2B24703BA40919F792CDC7AFC6AF8",
+        "yjsSsqdId": "916C1276E9304BBA9C1416BE738190E7"
+      }
+    ],
+    "sxmc": "企业注销登记一件事",
+    "yjsSsqdbm": "43TCN0008225J0971",
+    "basicInfo": {
+      "aheadFrequency": "1",
+      "areaName": "大通湖管理区",
+      "completedLimit": "5",
+      "cooperateName": "公安部门,人社部门,海关部门,税务部门,市监部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0737-5663806",
+      "lbjgId": "30,31,29,14,09",
+      "qtbmId": "88a770424a7649cdba4839181284afa5",
+      "qtbmmc": "益阳市大通湖区卫生健康和市场监督管理局",
+      "reasonLink": "无",
+      "yjsssqdbsznid": "186642A4CD8449E3AE858A140E57EAD8",
+      "zxdh": "0737-5666305"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

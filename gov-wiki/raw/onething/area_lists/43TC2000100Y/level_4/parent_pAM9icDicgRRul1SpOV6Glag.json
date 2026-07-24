@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "0",
+      "areaCode": "430281010999",
+      "benji": "1",
+      "orgId": "ZaUtFsNnSZibNgw2XH0vwvg",
+      "orgLevel": "4",
+      "orgName": "醴陵市长庆街道本级",
+      "orgShowName": "醴陵市长庆街道办事处本级",
+      "orgSn": "999",
+      "parentCode": "430281007000",
+      "parentId": "pAM9icDicgRRul1SpOV6Glag",
+      "parentName": "醴陵市长庆街道",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

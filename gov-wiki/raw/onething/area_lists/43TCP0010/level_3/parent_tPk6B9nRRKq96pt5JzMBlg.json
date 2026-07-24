@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "0",
+      "areaCode": "430312999000",
+      "benji": "1",
+      "orgId": "INqcC3AtR7OicBxibZUdpRYQ",
+      "orgLevel": "3",
+      "orgName": "湘潭经开区区本级",
+      "orgShowName": "湘潭经开区区本级",
+      "orgSn": "1",
+      "parentCode": "430312000000",
+      "parentId": "tPk6B9nRRKq96pt5JzMBlg",
+      "parentName": "湘潭经开区",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

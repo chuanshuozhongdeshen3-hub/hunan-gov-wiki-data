@@ -1,0 +1,36 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430726506999",
+      "benji": "1",
+      "orgId": "8IfKC0POTL2991wHY7BjoQ",
+      "orgLevel": "4",
+      "orgName": "石门县夹山管理处区本级",
+      "orgShowName": "石门县夹山管理处区本级",
+      "orgSn": "999",
+      "parentCode": "430726506000",
+      "parentId": "qhyqB2GQSrWJ17KbQ2kB0A",
+      "parentName": "石门县夹山管理处",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430726506002",
+      "benji": "0",
+      "orgId": "dpic7icyQ7RK6RFDou5VNBRw",
+      "orgLevel": "5",
+      "orgName": "石门县夹山管理处夹山寺社区",
+      "orgShowName": "夹山寺社区",
+      "orgSn": "999",
+      "parentCode": "430726506000",
+      "parentId": "qhyqB2GQSrWJ17KbQ2kB0A",
+      "parentName": "石门县夹山管理处",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "0",
+      "areaCode": "431013999000",
+      "benji": "1",
+      "orgId": "SDOD6opuRQ20FEkI78xs3A",
+      "orgLevel": "3",
+      "orgName": "中国（湖南）自由贸易试验区郴州片区（郴州高新技术产业开发区）本级",
+      "orgShowName": "自贸试验区郴州片区（郴州高新区）本级",
+      "orgSn": "1",
+      "parentCode": "431013000000",
+      "parentId": "MhjZmNpHTE26cIbGQyzajg",
+      "parentName": "中国（湖南）自由贸易试验区郴州片区（郴州高新技术产业开发区）",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

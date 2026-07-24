@@ -1,0 +1,502 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1750303776000,
+        "fjId": "nXKlihQSQ7es7FC-WSz1wQ",
+        "fjbm": "100001",
+        "fjdx": 4.709,
+        "fjlj": "orchestrate/2025-06-19/1750303775894$$第17页-17.jpg",
+        "fjlx": ".jpg",
+        "fjmc": "第17页-17.jpg",
+        "s3tmc": "zwfw202506",
+        "sfyx": "Y",
+        "ywdxId": "6A6F59B7CBA348768D92D273F6CAF538"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "耒阳市政务服务中心四楼G区G25号窗口",
+        "blsj": "法定工作日：上午9：00-12：00；下午13：30-17：00",
+        "cjsj": 1751419948474,
+        "gxsj": 1751419948000,
+        "infoAddr": "耒阳市政务服务中心四楼G区G25号窗口",
+        "pointName": "耒阳市政务服务中心四楼G区G25号窗口",
+        "processingTime": "法定工作日：上午9：00-12：00；下午13：30-17：00",
+        "pxh": 1,
+        "xxdz": "耒阳市政务服务中心四楼G区G25号窗口",
+        "yjsBldId": "F4C99D8712B54DDC8C6D161097EFAEA3",
+        "ywzjId": "AF7ACA537BDA4AE3AB2AC2E0D2B9F293",
+        "zt": "0"
+      }
+    ],
+    "materialList": [
+      {
+        "attachList": [
+          {
+            "cjsj": 1763716253000,
+            "fjId": "qzgDxjwoSx-leQEshTMJYg",
+            "fjbm": "100002",
+            "fjdx": 0.019,
+            "fjlj": "orchestrate/2025-11-21/1763716540412$$建设项目开工“一件事”申请表（空白表格）.docx",
+            "fjlx": ".docx",
+            "fjmc": "建设项目开工“一件事”申请表（空白表格）.docx",
+            "s3tmc": "zwfw202511",
+            "sfyx": "Y",
+            "ywdxId": "CFCF7D73BC334BF892EF87CACC445938"
+          },
+          {
+            "cjsj": 1763716253000,
+            "fjId": "hwGFf16vT0qDwGTw5dTvrw",
+            "fjbm": "100003",
+            "fjdx": 0.021,
+            "fjlj": "orchestrate/2025-11-21/1763716541630$$建设项目开工“一件事”申请表（示例样表）.docx",
+            "fjlx": ".docx",
+            "fjmc": "建设项目开工“一件事”申请表（示例样表）.docx",
+            "s3tmc": "zwfw202511",
+            "sfyx": "Y",
+            "ywdxId": "CFCF7D73BC334BF892EF87CACC445938"
+          }
+        ],
+        "bzclId": "M43TCP00110001",
+        "cjsj": 1763716253000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "建设项目开工“一件事”申请表",
+        "clxs": "2",
+        "clxz": "1",
+        "gxsj": 1783108828000,
+        "mtjfs": "4",
+        "pxh": 1.0,
+        "sfxtmb": "0",
+        "sfykb": "1",
+        "sfyslb": "1",
+        "tbxz": "需资料齐全，符合法定办理条件",
+        "tgfs": "0",
+        "type": "0",
+        "yjsMlSsqdClId": "5A82E61249054533AB2D63EDF9B48D67",
+        "yjsSsqdId": "ABD8CE802578466A801A68E3C961D534",
+        "yqtgyj": "参考《湖南省工程建设项目审批工作指南（第五版）》",
+        "zt": "0",
+        "zzclfs": 0.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1763716253000
+          }
+        ],
+        "bzclId": "M43TCP00110011",
+        "cjsj": 1763716253000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "与运输单位签订运输合同，并明确运输单位的运输时间、路线和处置地点",
+        "clxs": "2",
+        "clxz": "3",
+        "gxsj": 1783108828000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 11.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "城市建筑垃圾处置核准材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "665FDC92F7D249C68A2657FB65E925B1",
+        "yjsSsqdId": "ABD8CE802578466A801A68E3C961D534",
+        "yqtgyj": "建设项目开工“一件事”实施方案",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1763716253000
+          }
+        ],
+        "bzclId": "M43TCP00110003",
+        "cjsj": 1763716253000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "开工安全生产条件审查申请书",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783108828000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 3.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "建筑工程施工许可证核发（含工程质量安全监督手续办理、人防工程质量监督手续办理）材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "81881DD10FBD4DDEA61B1BFC58A6636A",
+        "yjsSsqdId": "ABD8CE802578466A801A68E3C961D534",
+        "yqtgyj": "参考《湖南省工程建设项目审批工作指南(第五版》》",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1763716253000
+          }
+        ],
+        "bzclId": "M43TCP00110010",
+        "cjsj": 1763716253000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "列入重点排污单位名录的排水户应当提供已安装的主要水污染物排放自动监测设备有关材料",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783108828000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 10.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "城镇污水排入排水管网许可（临时）材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "2C1E3866196043BBB70BECD41ECF4ED1",
+        "yjsSsqdId": "ABD8CE802578466A801A68E3C961D534",
+        "yqtgyj": "建设项目开工“一件事”实施方案",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1763716253000
+          }
+        ],
+        "bzclId": "M43TCP00110009",
+        "cjsj": 1763716253000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "排水水质符合相关标准的检测报告或者排水水质符合相关标准的书面承诺书",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783108828000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 9.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "城镇污水排入排水管网许可（临时）材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "A78CFBCBF59F4A31955382355691EDF3",
+        "yjsSsqdId": "ABD8CE802578466A801A68E3C961D534",
+        "yqtgyj": "建设项目开工“一件事”实施方案",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1763716253000
+          }
+        ],
+        "bzclId": "M43TCP00110004",
+        "cjsj": 1763716253000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "建设资金已经落实承诺书",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783108828000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 4.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "建筑工程施工许可证核发（含工程质量安全监督手续办理、人防工程质量监督手续办理）材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "FD318760BCFE467687768E6EC831EEB3",
+        "yjsSsqdId": "ABD8CE802578466A801A68E3C961D534",
+        "yqtgyj": "参考《湖南省工程建设项目审批工作指南(第五版》》",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1763716253000
+          }
+        ],
+        "bzclId": "M43TCP00110005",
+        "cjsj": 1763716253000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "人防工程防护防化设备合同，人防设备生产和安装企业资质证书，人防施工方案及监理实施细则",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783108828000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 5.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "建筑工程施工许可证核发（含工程质量安全监督手续办理、人防工程质量监督手续办理）材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "0553707103DE49928F2505E8227946B7",
+        "yjsSsqdId": "ABD8CE802578466A801A68E3C961D534",
+        "yqtgyj": "参考《湖南省工程建设项目审批工作指南(第五版》》",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1763716253000
+          }
+        ],
+        "bzclId": "M43TCP00110006",
+        "cjsj": 1763716253000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "排水户内部排水管网、专用检测井、雨污水排放口位置和口径的图纸及说明等材料",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783108828000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 6.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "城镇污水排入排水管网许可（临时）材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "420CF4C2965F41EEABB658A7ADE8793E",
+        "yjsSsqdId": "ABD8CE802578466A801A68E3C961D534",
+        "yqtgyj": "建设项目开工“一件事”实施方案",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "需资料齐全，符合法定办理条件"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1763716253000
+          }
+        ],
+        "bzclId": "M43TCP00110012",
+        "cjsj": 1763716253000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "与处置单位签订处置合同",
+        "clxs": "2",
+        "clxz": "3",
+        "gxsj": 1783108828000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 12.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "城市建筑垃圾处置核准材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "65CAD858584E49B0A03F277164E0BE6C",
+        "yjsSsqdId": "ABD8CE802578466A801A68E3C961D534",
+        "yqtgyj": "建设项目开工“一件事”实施方案",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1763716253000
+          }
+        ],
+        "bzclId": "M43TCP00110008",
+        "cjsj": 1763716253000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "排水及排污隐蔽工程竣工报告，或者排水户承诺排水隐蔽工程合格且不存在雨水污水管网混接错接、雨水污水混排的书面承诺书",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783108828000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 8.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "城镇污水排入排水管网许可（临时）材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "612ED583115D4A618D2F6AB617B3FD59",
+        "yjsSsqdId": "ABD8CE802578466A801A68E3C961D534",
+        "yqtgyj": "建设项目开工“一件事”实施方案",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1763716253000
+          }
+        ],
+        "bzclId": "M43TCP00110007",
+        "cjsj": 1763716253000,
+        "clbyx": "1",
+        "clbz": "需资料齐全，符合法定办理条件",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "按照国家有关规定建设污水预处理设施的有关材料",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783108828000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 7.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "城镇污水排入排水管网许可（临时）材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "807D00AE6EFA406EA13CDD3A9197DA84",
+        "yjsSsqdId": "ABD8CE802578466A801A68E3C961D534",
+        "yqtgyj": "建设项目开工“一件事”实施方案",
+        "zt": "0",
+        "zzclfs": 1.0
+      }
+    ],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "流程申请",
+      "blxs": "1",
+      "bszt": "0",
+      "cjrId": "7t907fCmRzeek2ic6O3zNxw",
+      "cjsj": 1750303491000,
+      "cnbjsx": "18",
+      "dbsxccs": "1",
+      "dbsxcyyhhj": "选择线下办理",
+      "dndtzdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_25_005_project.jsp",
+      "gqbjlx": 2.0,
+      "gqblsx": 26.0,
+      "gqpdcs": 4.0,
+      "gqsbcl": 17.0,
+      "gxrId": "7t907fCmRzeek2ic6O3zNxw",
+      "gxsj": 1751331983000,
+      "hjsgq": 8.0,
+      "hjsxz": 1.0,
+      "jgsdsm": "无",
+      "jsms": "1",
+      "lbjgId": "17,04",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "A",
+      "xsblqd": "1",
+      "xxbldsm": "政务大厅窗口",
+      "xxcktzdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_25_005_project.jsp",
+      "xzbjlx": 2.0,
+      "xzblsx": 18.0,
+      "xzpdcs": 1.0,
+      "xzsbcl": 12.0,
+      "yjsMlBzhId": "20A584B074C3445683A03F410B0E7FE7",
+      "yjsbsznId": "6A6F59B7CBA348768D92D273F6CAF538",
+      "ywzjfw": "0",
+      "zcblqd": "1,4",
+      "zcblqdWbdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_25_005_project.jsp"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "建筑工程施工许可证核发(含工程质量安全监督手续、人防工程质量监督手续办理）",
+        "resultSampleName": "建筑工程施工许可证",
+        "tyywblxName": "建设工程质量安全监督手续办理并核发建筑工程施工许可证"
+      },
+      {
+        "cnsxsx": 10.0,
+        "lbsxfwmc": "施工图设计文件审查(含消防设计审查、人防工程设计审查)",
+        "resultSampleName": "特殊建设工程消防设计审查意见书",
+        "tyywblxName": "特殊建设工程消防设计审查"
+      },
+      {
+        "cnsxsx": 6.0,
+        "lbsxfwmc": "城市建筑垃圾处置核准",
+        "resultSampleName": "建筑垃圾处置许可证",
+        "tyywblxName": "城市建筑垃圾处置核准"
+      },
+      {
+        "cnsxsx": 7.0,
+        "lbsxfwmc": "城镇污水排入排水管网许可",
+        "resultSampleName": "城镇污水排入排水管网许可证",
+        "tyywblxName": "城镇污水排入排水管网许可"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "全省房屋建筑和市政基础设施工程项目（涉密项目除外）",
+        "cjsj": 1750303963000,
+        "processingConditions": "全省房屋建筑和市政基础设施工程项目（涉密项目除外）",
+        "pxh": 1.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "E80815BDBFEA4DD8BDDD581EB80A5A4F",
+        "yjsbsznId": "6A6F59B7CBA348768D92D273F6CAF538",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [],
+    "sxmc": "建设项目开工“一件事”",
+    "yjsSsqdbm": "43TCP0011A25J0481",
+    "basicInfo": {
+      "aheadFrequency": "1",
+      "areaName": "耒阳市",
+      "completedLimit": "18",
+      "cooperateName": "发改部门,住建部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0734-12345",
+      "lbjgId": "17,04",
+      "qtbmId": "3b8su7xaRiaK8G8aibmFa8aA",
+      "qtbmmc": "耒阳市住房和城乡建设局",
+      "reasonLink": "选择线下办理",
+      "yjsssqdbsznid": "AF7ACA537BDA4AE3AB2AC2E0D2B9F293",
+      "zxdh": "0734-4758368"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

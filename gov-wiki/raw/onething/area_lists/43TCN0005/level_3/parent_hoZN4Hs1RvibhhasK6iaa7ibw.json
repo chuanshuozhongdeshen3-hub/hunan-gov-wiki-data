@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "433174999000",
+      "benji": "1",
+      "orgId": "VibksibtWzTicWiaTFaKfo3nLQ",
+      "orgLevel": "3",
+      "orgName": "湖南湘西高新技术产业开发区管理委员会本级",
+      "orgShowName": "湖南湘西高新技术产业开发区管理委员会本级",
+      "orgSn": "1",
+      "parentCode": "433174000000",
+      "parentId": "hoZN4Hs1RvibhhasK6iaa7ibw",
+      "parentName": "湘西高新区",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430202006999",
+      "benji": "1",
+      "orgId": "11eZxDsgRic2fZILLw9icZxw",
+      "orgLevel": "4",
+      "orgName": "荷塘区明照街道本级",
+      "orgShowName": "荷塘区明照街道本级",
+      "orgSn": "1",
+      "parentCode": "430202006000",
+      "parentId": "Exqa5X8OSNKGeAckcR90VQ",
+      "parentName": "荷塘区明照街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430202006001",
+      "benji": "0",
+      "orgId": "S95ic6d4mTZmBlXC1mftt0A",
+      "orgLevel": "5",
+      "orgName": "荷塘区明照街道办事处青塘社区居民委员会",
+      "orgShowName": "青塘社区",
+      "orgSn": "1",
+      "parentCode": "430202006000",
+      "parentId": "Exqa5X8OSNKGeAckcR90VQ",
+      "parentName": "荷塘区明照街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430202006219",
+      "benji": "0",
+      "orgId": "iaibTGmUJsT9uoibIP2gxicZ1Q",
+      "orgLevel": "5",
+      "orgName": "荷塘区明照街道办事处金塘村村民委员会",
+      "orgShowName": "金塘村",
+      "orgSn": "999",
+      "parentCode": "430202006000",
+      "parentId": "Exqa5X8OSNKGeAckcR90VQ",
+      "parentName": "荷塘区明照街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430202006225",
+      "benji": "0",
+      "orgId": "VziaiabOsuRbaZEMK7XFCtuA",
+      "orgLevel": "5",
+      "orgName": "荷塘区明照街道办事处明照村村民委员会",
+      "orgShowName": "明照村",
+      "orgSn": "999",
+      "parentCode": "430202006000",
+      "parentId": "Exqa5X8OSNKGeAckcR90VQ",
+      "parentName": "荷塘区明照街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430202006229",
+      "benji": "0",
+      "orgId": "ED0crKvVTVyeyZjnQHBDGg",
+      "orgLevel": "5",
+      "orgName": "荷塘区明照街道办事处星星村村民委员会",
+      "orgShowName": "星星村",
+      "orgSn": "999",
+      "parentCode": "430202006000",
+      "parentId": "Exqa5X8OSNKGeAckcR90VQ",
+      "parentName": "荷塘区明照街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430202006230",
+      "benji": "0",
+      "orgId": "G3iavI696QNC4q5d6icY8y3A",
+      "orgLevel": "5",
+      "orgName": "荷塘区明照街道办事处东园村村民委员会",
+      "orgShowName": "东园村",
+      "orgSn": "999",
+      "parentCode": "430202006000",
+      "parentId": "Exqa5X8OSNKGeAckcR90VQ",
+      "parentName": "荷塘区明照街道",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

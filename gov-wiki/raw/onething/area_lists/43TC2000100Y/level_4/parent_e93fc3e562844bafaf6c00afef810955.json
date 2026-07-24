@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430602201999",
+      "benji": "1",
+      "orgId": "e93fc3e562844bafaf6c00afef813353",
+      "orgLevel": "4",
+      "orgName": "岳阳楼区郭镇乡乡本级",
+      "orgShowName": "区郭镇乡乡本级",
+      "orgSn": "1",
+      "parentCode": "430602201000",
+      "parentId": "e93fc3e562844bafaf6c00afef810955",
+      "parentName": "岳阳楼区郭镇乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430602201201",
+      "benji": "0",
+      "orgId": "LudaYTbQRiaKh50evXeriboA",
+      "orgLevel": "5",
+      "orgName": "岳阳楼区郭镇乡麻布村",
+      "orgShowName": "麻布村",
+      "orgSn": "999",
+      "parentCode": "430602201000",
+      "parentId": "e93fc3e562844bafaf6c00afef810955",
+      "parentName": "岳阳楼区郭镇乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430602201202",
+      "benji": "0",
+      "orgId": "vhnpzjV3SZuwibqyYYChzaw",
+      "orgLevel": "5",
+      "orgName": "岳阳楼区郭镇乡磨刀村",
+      "orgShowName": "磨刀村",
+      "orgSn": "999",
+      "parentCode": "430602201000",
+      "parentId": "e93fc3e562844bafaf6c00afef810955",
+      "parentName": "岳阳楼区郭镇乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430602201203",
+      "benji": "0",
+      "orgId": "6KMjL2NVTK2GpgWlEMWmpA",
+      "orgLevel": "5",
+      "orgName": "岳阳楼区郭镇乡建中村",
+      "orgShowName": "建中村",
+      "orgSn": "999",
+      "parentCode": "430602201000",
+      "parentId": "e93fc3e562844bafaf6c00afef810955",
+      "parentName": "岳阳楼区郭镇乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430602201204",
+      "benji": "0",
+      "orgId": "KKSaX7WVTIStaypJgCAIdA",
+      "orgLevel": "5",
+      "orgName": "岳阳楼区郭镇乡枣树村",
+      "orgShowName": "枣树村",
+      "orgSn": "999",
+      "parentCode": "430602201000",
+      "parentId": "e93fc3e562844bafaf6c00afef810955",
+      "parentName": "岳阳楼区郭镇乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430602201208",
+      "benji": "0",
+      "orgId": "3TTpMMqCSWuKbgd4VZH0mw",
+      "orgLevel": "5",
+      "orgName": "岳阳楼区郭镇乡马鞍村",
+      "orgShowName": "马鞍村",
+      "orgSn": "999",
+      "parentCode": "430602201000",
+      "parentId": "e93fc3e562844bafaf6c00afef810955",
+      "parentName": "岳阳楼区郭镇乡",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

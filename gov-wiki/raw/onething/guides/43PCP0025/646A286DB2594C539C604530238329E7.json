@@ -1,0 +1,218 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1780383494000,
+        "fjId": "1hdQF5nwSjGgv98zo2LB_A",
+        "fjbm": "100001",
+        "fjdx": 0.055,
+        "fjlj": "orchestrate/2026-06-02/1780383494010$$流程图.png",
+        "fjlx": ".png",
+        "fjmc": "流程图.png",
+        "s3tmc": "zwfw202606",
+        "sfyx": "Y",
+        "ywdxId": "8FE1606BAED749408BBA4EDDB1D29110"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "洪江市政务服务中心三楼“高效办成一件事”重点事项专区",
+        "blsj": "法定工作日9：00-12：00，13：00-16：30",
+        "cjsj": 1781659762130,
+        "gxsj": 1781659762000,
+        "infoAddr": "洪江市政务服务中心三楼“高效办成一件事”重点事项专区",
+        "pointName": "洪江市政务服务中心三楼“高效办成一件事”重点事项专区",
+        "processingTime": "法定工作日9：00-12：00，13：00-16：30",
+        "pxh": 1,
+        "xxdz": "洪江市政务服务中心三楼“高效办成一件事”重点事项专区",
+        "yjsBldId": "162F3C46175647378D7C526C9488C457",
+        "ywzjId": "48112CC1C2EC4655BD8E2776D7AD02DA",
+        "zt": "0"
+      }
+    ],
+    "materialList": [],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "期房、现房办理方式",
+      "blxs": "1",
+      "bszt": "1",
+      "cjsj": 1780383041000,
+      "cnbjsx": "7",
+      "dbsxccs": "0",
+      "dbsxcyyhhj": "无",
+      "dndtzdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "gqbjlx": 2.0,
+      "gqblsx": 15.0,
+      "gqpdcs": 3.0,
+      "gqsbcl": 5.0,
+      "hjsgq": 5.0,
+      "hjsxz": 1.0,
+      "jdtsdh": "12345",
+      "jdtsdz": "各政务服务大厅“高效办成一件事”窗口",
+      "jgsdsm": "无",
+      "jsms": "4",
+      "lbjgId": "17,09",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "A",
+      "xsblqd": "1",
+      "xxbldsm": "各政务服务大厅“高效办成一件事”窗口",
+      "xzbjlx": 2.0,
+      "xzblsx": 7.0,
+      "xzpdcs": 0.0,
+      "xzsbcl": 0.0,
+      "yddtzdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "yjsMlBzhId": "2905F4485C8547AF825A1DDA583E3CBE",
+      "yjsbsznId": "8FE1606BAED749408BBA4EDDB1D29110",
+      "ywzjfw": "0",
+      "zcblqd": "1,2",
+      "zcblqdWbdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "zxdh": "12345",
+      "zxdz": "各政务服务大厅“高效办成一件事”窗口"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "房屋交易合同网签备案",
+        "resultSampleName": "暂无结果样本",
+        "tyywblxName": "新建商品房（现售）买卖合同网签备案（变更、注销）"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "房屋交易合同网签备案",
+        "resultSampleName": "暂无结果样本",
+        "tyywblxName": "新建商品房（预售）买卖合同网签备案（变更、注销）"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "实测绘成果审核",
+        "resultSampleName": "",
+        "tyywblxName": "实测绘成果审核"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "住宅专项维修资金缴纳",
+        "resultSampleName": "",
+        "tyywblxName": "住宅专项维修资金缴纳"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "个人身份信息核验",
+        "resultSampleName": "",
+        "tyywblxName": "个人身份信息核验"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "电表开户",
+        "resultSampleName": "",
+        "tyywblxName": "电表开户(现房)"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "水表开户",
+        "resultSampleName": "",
+        "tyywblxName": "水表开户"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "天然气表开户",
+        "resultSampleName": "",
+        "tyywblxName": "天然气表开户"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "供暖表开户(集中供暖地区)",
+        "resultSampleName": "",
+        "tyywblxName": "供暖表开户(集中供暖地区)"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "购房人持有合法有效身份证件",
+        "cjsj": 1780383451000,
+        "processingConditions": "购房人持有合法有效身份证件",
+        "pxh": 1.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "B8E28A89B2414EC583454F15C5CA1BF8",
+        "yjsbsznId": "8FE1606BAED749408BBA4EDDB1D29110",
+        "zt": "0"
+      },
+      {
+        "bltj": "拟签订购房合同并办理网签备案",
+        "cjsj": 1780383465000,
+        "processingConditions": "拟签订购房合同并办理网签备案",
+        "pxh": 2.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "76750142E88C42C2860030DEA8625882",
+        "yjsbsznId": "8FE1606BAED749408BBA4EDDB1D29110",
+        "zt": "0"
+      },
+      {
+        "bltj": "自愿通过系统完成个人身份信息核验，并授权相关部门使用相关电子证照",
+        "cjsj": 1780383477000,
+        "processingConditions": "自愿通过系统完成个人身份信息核验，并授权相关部门使用相关电子证照",
+        "pxh": 3.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "3F7140FF9B8843F4874DF272276D2181",
+        "yjsbsznId": "8FE1606BAED749408BBA4EDDB1D29110",
+        "zt": "0"
+      },
+      {
+        "bltj": "准备足额资金用于缴纳住宅专项维修资金",
+        "cjsj": 1780383489000,
+        "processingConditions": "准备足额资金用于缴纳住宅专项维修资金",
+        "pxh": 4.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "7FDB62F3DDAD4CD88DA72E0342A7B80E",
+        "yjsbsznId": "8FE1606BAED749408BBA4EDDB1D29110",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [
+      {
+        "answer": "线上办理无需提交纸质材料，线下办理需填写《新房购置“一件事”申请表》",
+        "da": "线上办理无需提交纸质材料，线下办理需填写《新房购置“一件事”申请表》",
+        "problem": "是否需要线下提交材料？",
+        "pxh": 0.0,
+        "wt": "是否需要线下提交材料？",
+        "yjsMlSsqdQuestionId": "53BEC1721BFC46B396532737E53ED007",
+        "yjsSsqdId": "646A286DB2594C539C604530238329E7"
+      },
+      {
+        "answer": "可根据实际需求选择办理事项，系统支持按需勾选。",
+        "da": "可根据实际需求选择办理事项，系统支持按需勾选。",
+        "problem": "是否所有事项必须同时办理？",
+        "pxh": 1.0,
+        "wt": "是否所有事项必须同时办理？",
+        "yjsMlSsqdQuestionId": "CB6A4C345869469185B9E50DC99A2AC7",
+        "yjsSsqdId": "646A286DB2594C539C604530238329E7"
+      }
+    ],
+    "sxmc": "新房购置“一件事”",
+    "yjsSsqdbm": "43PCP0025A26J1281",
+    "basicInfo": {
+      "aheadFrequency": "0",
+      "areaName": "洪江市",
+      "completedLimit": "7",
+      "cooperateName": "公安部门,住建部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0745-12345",
+      "lbjgId": "17,09",
+      "qtbmId": "01766718675142e2b28ab18e30e2a249",
+      "qtbmmc": "洪江市住建局",
+      "reasonLink": "无",
+      "yjsssqdbsznid": "48112CC1C2EC4655BD8E2776D7AD02DA",
+      "zxdh": "0745-7736396"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

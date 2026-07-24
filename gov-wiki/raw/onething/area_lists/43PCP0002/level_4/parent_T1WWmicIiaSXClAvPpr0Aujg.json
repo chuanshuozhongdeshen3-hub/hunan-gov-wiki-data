@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430104019999",
+      "benji": "1",
+      "orgId": "c4U0X4tPRsqe8GPAI6QUfg",
+      "orgLevel": "4",
+      "orgName": "白马街道本级",
+      "orgShowName": "白马街道本级",
+      "orgSn": "1",
+      "parentCode": "430104019000",
+      "parentId": "T1WWmicIiaSXClAvPpr0Aujg",
+      "parentName": "白马街道（托管区）",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430104019001",
+      "benji": "0",
+      "orgId": "4sTfL3goTdW5ibuHGRHK8uQ",
+      "orgLevel": "5",
+      "orgName": "三益村委会",
+      "orgShowName": "三益村委会",
+      "orgSn": "0",
+      "parentCode": "430104019000",
+      "parentId": "T1WWmicIiaSXClAvPpr0Aujg",
+      "parentName": "白马街道（托管区）",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430104019002",
+      "benji": "0",
+      "orgId": "5nicGmSw0T5ibxyMQIbx79Rg",
+      "orgLevel": "5",
+      "orgName": "白马村委会",
+      "orgShowName": "白马村委会",
+      "orgSn": "0",
+      "parentCode": "430104019000",
+      "parentId": "T1WWmicIiaSXClAvPpr0Aujg",
+      "parentName": "白马街道（托管区）",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430104019003",
+      "benji": "0",
+      "orgId": "Jh2sKz5eTqSuoA7WheTtGA",
+      "orgLevel": "5",
+      "orgName": "长兴路社区",
+      "orgShowName": "长兴路社区",
+      "orgSn": "0",
+      "parentCode": "430104019000",
+      "parentId": "T1WWmicIiaSXClAvPpr0Aujg",
+      "parentName": "白马街道（托管区）",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430104019004",
+      "benji": "0",
+      "orgId": "WodBEyd4R8OLeorKwiaB6dg",
+      "orgLevel": "5",
+      "orgName": "廖家坪村委会",
+      "orgShowName": "廖家坪村委会",
+      "orgSn": "0",
+      "parentCode": "430104019000",
+      "parentId": "T1WWmicIiaSXClAvPpr0Aujg",
+      "parentName": "白马街道（托管区）",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

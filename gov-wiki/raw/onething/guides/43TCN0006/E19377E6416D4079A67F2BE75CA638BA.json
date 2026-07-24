@@ -1,0 +1,637 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1769398977000,
+        "fjId": "YoZKwW3MT46HbOwXbnyR_Q",
+        "fjbm": "100001",
+        "fjdx": 1.022,
+        "fjlj": "orchestrate/2026-01-26/1769398977045$$企业合法流程图.png",
+        "fjlx": ".png",
+        "fjmc": "企业合法流程图.png",
+        "s3tmc": "zwfw202601",
+        "sfyx": "Y",
+        "ywdxId": "A7030E29DF604A099008BC880FB13F85"
+      },
+      {
+        "cjsj": 1769399031000,
+        "fjId": "-k7zPPsOQKuKpNqBKA6N0g",
+        "fjbm": "100001",
+        "fjdx": 1.022,
+        "fjlj": "orchestrate/2026-01-26/1769399031076$$企业合法流程图.png",
+        "fjlx": ".png",
+        "fjmc": "企业合法流程图.png",
+        "s3tmc": "zwfw202601",
+        "sfyx": "Y",
+        "ywdxId": "A7030E29DF604A099008BC880FB13F85"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "株洲市天元区高科总部壹号一楼政务服务中心高效办成一件事综窗（可提供咨询）",
+        "blsj": "法定工作日上午9:00-12:00 下午13:30-17:00",
+        "cjsj": 1724896331721,
+        "gxsj": 1784274204000,
+        "infoAddr": "株洲市天元区高科总部壹号一楼政务服务中心高效办成一件事综窗（可提供咨询）",
+        "pointName": "株洲市天元区高科总部壹号一楼政务服务中心高效办成一件事综窗（可提供咨询）",
+        "processingTime": "法定工作日上午9:00-12:00 下午13:30-17:00",
+        "pxh": 1,
+        "xxdz": "株洲市天元区高科总部壹号一楼政务服务中心高效办成一件事综窗（可提供咨询）",
+        "yjsBldId": "957781480B564CA9898822BA9FEB4307",
+        "ywzjId": "E9A9EA07B1AF40A39608611838CDBDC2",
+        "zt": "0"
+      },
+      {
+        "bldmc": "株洲市天元区株洲大道高新大厦11楼1120办公室",
+        "blsj": "法定工作日8:30-12:00,14:30-17:30",
+        "cjsj": 1784274311613,
+        "gxsj": 1784274311000,
+        "infoAddr": "株洲市天元区株洲大道高新大厦11楼1120办公室",
+        "pointName": "株洲市天元区株洲大道高新大厦11楼1120办公室",
+        "processingTime": "法定工作日8:30-12:00,14:30-17:30",
+        "pxh": 2,
+        "xxdz": "株洲市天元区株洲大道高新大厦11楼1120办公室",
+        "yjsBldId": "0A7634436919451389F92EF83A055332",
+        "ywzjId": "E9A9EA07B1AF40A39608611838CDBDC2",
+        "zt": "0"
+      }
+    ],
+    "materialList": [],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "政务服务网进行申请核查，下载申请报告",
+      "blxs": "3",
+      "bszt": "0",
+      "cjrId": "3ZSWgwaLTeWbHFE273l9sw",
+      "cjsj": 1719647462000,
+      "cnbjsx": "1",
+      "dbsxccs": "0",
+      "dbsxcyyhhj": "无",
+      "dndtzdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_003_qyhfhg.jsp",
+      "gqbjlx": 2.0,
+      "gqblsx": 30.0,
+      "gqpdcs": 20.0,
+      "gqsbcl": 20.0,
+      "gxrId": "3ZSWgwaLTeWbHFE273l9sw",
+      "gxsj": 1719647771678,
+      "hjsgq": 20.0,
+      "hjsxz": 1.0,
+      "jgsdsm": "网上自行下载",
+      "jsms": "2",
+      "lbjgId": "04,17,14,15,16,31,23,22,25,06,18,30,19,09",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "D",
+      "xsblqd": "1,2,3",
+      "xsblqdQt": "信用中国",
+      "xxbldsm": "无",
+      "xzbjlx": 1.0,
+      "xzblsx": 1.0,
+      "xzpdcs": 0.0,
+      "xzsbcl": 0.0,
+      "yddtzdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_003_qyhfhg.jsp",
+      "yjsMlBzhId": "2A15BC9FF59745088CFF56E95A9BE901",
+      "yjsbsznId": "A7030E29DF604A099008BC880FB13F85",
+      "ywzjfw": "0",
+      "zcblqd": "1,2",
+      "zcblqdWbdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_003_qyhfhg.jsp",
+      "zxdh": "0731-89991047",
+      "zxdz": "湖南省发展和改革委员会"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业城市管理领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业城市管理领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业规划自然资源领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业规划自然资源领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业违反劳动保障法律法规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业违反劳动保障法律法规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业生态环境保护领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业生态环境保护领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业文化和旅游市场领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业文化和旅游市场领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业市场监管领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业市场监管领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业应急管理领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业应急管理领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业卫生和人员健康领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业卫生和人员健康领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业住房、工程建设领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业住房、工程建设领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业水资源保护领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业水资源保护领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "企业人员住房公积金缴存信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业人员住房公积金缴存信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业科技领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业科技领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业交通运输领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业交通运输领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业知识产权领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业知识产权领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业合法纳税情况无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业合法纳税情况无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "刑事犯罪领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "刑事犯罪领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "检察公诉领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "检察公诉领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "电信监管领域无行政处罚信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "电信监管领域无行政处罚信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "发展改革领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "发展改革领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业消防安全无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业消防安全无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "司法诉讼领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "司法诉讼领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "统筹相关申请核查信息的受理、分派、汇总和结果送达",
+        "resultSampleName": "",
+        "tyywblxName": "统筹相关申请核查信息的受理、分派、汇总和结果送达"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业民族宗教领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业民族宗教领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "公安(含犯罪记录)领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "公安(含犯罪记录)领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业教育领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业教育领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业工业和信息化管理领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业工业和信息化管理领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业民政领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业民政领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业商务领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业商务领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "退役军人管理领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "退役军人管理领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业国资监管领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业国资监管领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业审计领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业审计领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业档案管理领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业档案管理领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业地震领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业地震领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业气象领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业气象领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业烟草专卖领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业烟草专卖领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业林业领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业林业领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业电影领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业电影领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业体育领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业体育领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业统计领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业统计领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业国防动员领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业国防动员领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业地方金融监管领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业地方金融监管领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业广播电视领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业广播电视领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业医疗保障领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业医疗保障领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业邮政管理领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业邮政管理领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业药品监管管理领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业药品监管管理领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业粮食储备领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业粮食储备领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业农业农村领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业农业农村领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业新闻出版领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业新闻出版领域无违法违规信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业财政领域无违法违规信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "企业财政领域无违法违规信息核查"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "在湖南省区域内注册的公司、非公司法人及其分支机构、个人独资企业、个体工商户等经营主体。",
+        "cjsj": 1719647646000,
+        "processingConditions": "在湖南省区域内注册的公司、非公司法人及其分支机构、个人独资企业、个体工商户等经营主体。",
+        "pxh": 1.0,
+        "smmc": "在湖南省区域内注册的公司、非公司法人及其分支机构、个人独资企业、个体工商户等经营主体。",
+        "yjsBsznbltjId": "E94280CF316C42A8AA6296E86DE0040E",
+        "yjsbsznId": "A7030E29DF604A099008BC880FB13F85",
+        "zt": "0"
+      },
+      {
+        "bltj": "对存在违法违规记录的信用主体，需要进行信用修复(或开具信用修复承诺函)之后，再申请开具公共信用合法合规证明。",
+        "cjsj": 1719647651000,
+        "processingConditions": "对存在违法违规记录的信用主体，需要进行信用修复(或开具信用修复承诺函)之后，再申请开具公共信用合法合规证明。",
+        "pxh": 2.0,
+        "smmc": "对存在违法违规记录的信用主体，需要进行信用修复(或开具信用修复承诺函)之后，再申请开具公共信用合法合规证明。",
+        "yjsBsznbltjId": "D824433621834B97AD53AC96E55B1EE6",
+        "yjsbsznId": "A7030E29DF604A099008BC880FB13F85",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [
+      {
+        "answer": "省发展改革委按照各部门、各领域合法合规证明数据需求，依托省社会信用信息共享平台，建立数据常态化共享机制，加强违法违规行为信用信息等全面准确归集共享。",
+        "da": "省发展改革委按照各部门、各领域合法合规证明数据需求，依托省社会信用信息共享平台，建立数据常态化共享机制，加强违法违规行为信用信息等全面准确归集共享。",
+        "problem": "企业上市合法合规报告数据来源哪里？",
+        "pxh": 13.0,
+        "wt": "企业上市合法合规报告数据来源哪里？",
+        "yjsMlSsqdQuestionId": "FF6A2186340642DE91202ADD2966E00D",
+        "yjsSsqdId": "E19377E6416D4079A67F2BE75CA638BA"
+      },
+      {
+        "answer": "如经营主体认为报告信息存在错误、遗漏、收录期限不符合规定或与认定机关信息不一致等情况，请以数据源单位信息为准，并至“信用中国(湖南)”网站提出异议申诉。",
+        "da": "如经营主体认为报告信息存在错误、遗漏、收录期限不符合规定或与认定机关信息不一致等情况，请以数据源单位信息为准，并至“信用中国(湖南)”网站提出异议申诉。",
+        "problem": "对企业上市合法合规报告的数据存在异议，怎么样进行申诉",
+        "pxh": 14.0,
+        "wt": "对企业上市合法合规报告的数据存在异议，怎么样进行申诉",
+        "yjsMlSsqdQuestionId": "750AB5F6E0F34C46B822A34F708A7860",
+        "yjsSsqdId": "E19377E6416D4079A67F2BE75CA638BA"
+      },
+      {
+        "answer": "1、企业无失信记录，可当场下载打印报告。\n2、企业存在严重失信或者行政处罚记录，需要退出严重失信名单或者申请行政处罚信用修复后，出具企业合法合规报告。",
+        "da": "1、企业无失信记录，可当场下载打印报告。\n2、企业存在严重失信或者行政处罚记录，需要退出严重失信名单或者申请行政处罚信用修复后，出具企业合法合规报告。",
+        "problem": "查询打印企业上市合法合规报告需要多久",
+        "pxh": 15.0,
+        "wt": "查询打印企业上市合法合规报告需要多久",
+        "yjsMlSsqdQuestionId": "AB0157882A0E436FAC7151DD94F0266E",
+        "yjsSsqdId": "E19377E6416D4079A67F2BE75CA638BA"
+      },
+      {
+        "answer": "21个领域记录，分别为：企业城市管理领域、企业规划自然资源领域、企业违反劳动保障法律法规、企业生态环境保护领域、企业市场监管领域、企业卫生和人员健康领域、企业文化和旅游市场领域、企业应急管理领域、企业住房、工程建设领域、企业人员住房公积金缴存、企业科技领域无违法违规、企业交通运输领域无违法违规、企业合法纳税情况无违法违规、企业知识产权领域无违法违规、企业水资源保护领域无违法违规、企业消防安全无违法违规、电信监管领域无行政处罚、发展改革领域无违法违规、公安网络信用领域、检察公诉领域、司法诉讼领域。",
+        "da": "21个领域记录，分别为：企业城市管理领域、企业规划自然资源领域、企业违反劳动保障法律法规、企业生态环境保护领域、企业市场监管领域、企业卫生和人员健康领域、企业文化和旅游市场领域、企业应急管理领域、企业住房、工程建设领域、企业人员住房公积金缴存、企业科技领域无违法违规、企业交通运输领域无违法违规、企业合法纳税情况无违法违规、企业知识产权领域无违法违规、企业水资源保护领域无违法违规、企业消防安全无违法违规、电信监管领域无行政处罚、发展改革领域无违法违规、公安网络信用领域、检察公诉领域、司法诉讼领域。",
+        "problem": "企业上市合法合规报告查询多少单位的记录？",
+        "pxh": 16.0,
+        "wt": "企业上市合法合规报告查询多少单位的记录？",
+        "yjsMlSsqdQuestionId": "D1DFA52779724617A06A8CDB042F5A1B",
+        "yjsSsqdId": "E19377E6416D4079A67F2BE75CA638BA"
+      },
+      {
+        "answer": "\"1、对不存在严重失信记录和经营异常名录记录，仅存在行政处罚记录的信用主体，因行政处罚未满足最短公示期而暂时不能修复的，可经出证机关同意后，由相关信用主体出具信用修复承诺函，先行开具公共信用合法合规证明(上市专版)。\n2、可以信用中国开展信用修复。\"",
+        "da": "\"1、对不存在严重失信记录和经营异常名录记录，仅存在行政处罚记录的信用主体，因行政处罚未满足最短公示期而暂时不能修复的，可经出证机关同意后，由相关信用主体出具信用修复承诺函，先行开具公共信用合法合规证明(上市专版)。\n2、可以信用中国开展信用修复。\"",
+        "problem": "存在行政处罚怎么样进行修复？",
+        "pxh": 17.0,
+        "wt": "存在行政处罚怎么样进行修复？",
+        "yjsMlSsqdQuestionId": "35410AD750884D46A28642D832618FFB",
+        "yjsSsqdId": "E19377E6416D4079A67F2BE75CA638BA"
+      },
+      {
+        "answer": "需要在“湖南一件事一次办”完成注册，在“一网通办”系统、湘易办 APP或者“信用中国(湖南)”平台，“企业上市合法合规信息核查”专栏，使用“法人账号”在成功登录后方可查询打印自身湖南省公共信用合法合规证明报告(上市专版)。",
+        "da": "需要在“湖南一件事一次办”完成注册，在“一网通办”系统、湘易办 APP或者“信用中国(湖南)”平台，“企业上市合法合规信息核查”专栏，使用“法人账号”在成功登录后方可查询打印自身湖南省公共信用合法合规证明报告(上市专版)。",
+        "problem": "企业上市合法合规报告查询登录不了",
+        "pxh": 18.0,
+        "wt": "企业上市合法合规报告查询登录不了",
+        "yjsMlSsqdQuestionId": "817D2BBAD52B4CA2ABC38058F5882EE0",
+        "yjsSsqdId": "E19377E6416D4079A67F2BE75CA638BA"
+      },
+      {
+        "answer": "1、可能正在查询数据，需要等待1-2分钟；\n2、可通过清除浏览器缓存，再次查询。",
+        "da": "1、可能正在查询数据，需要等待1-2分钟；\n2、可通过清除浏览器缓存，再次查询。",
+        "problem": "查询企业上市合法合规报告，查询页面一直在转圈，查询不出来",
+        "pxh": 19.0,
+        "wt": "查询企业上市合法合规报告，查询页面一直在转圈，查询不出来",
+        "yjsMlSsqdQuestionId": "7B657498987248989653B4750B15172A",
+        "yjsSsqdId": "E19377E6416D4079A67F2BE75CA638BA"
+      },
+      {
+        "answer": "可以，各市州政务服务平台和信用网站均上线了查询功能。",
+        "da": "可以，各市州政务服务平台和信用网站均上线了查询功能。",
+        "problem": "各市州是否可以查询企业上市合法合规报告？",
+        "pxh": 20.0,
+        "wt": "各市州是否可以查询企业上市合法合规报告？",
+        "yjsMlSsqdQuestionId": "4D8C4C7D550546519052DC5049D8F67B",
+        "yjsSsqdId": "E19377E6416D4079A67F2BE75CA638BA"
+      },
+      {
+        "answer": "不行，在湖南省区域内注册的公司、非公司法人及其分支机构个人独资企业、合伙企业及其分支机构，农民专业合作社(联合社)及其分支机构，个体工商户，外国公司分支机构等经营主体可以开具公共信用合法合规证明。",
+        "da": "不行，在湖南省区域内注册的公司、非公司法人及其分支机构个人独资企业、合伙企业及其分支机构，农民专业合作社(联合社)及其分支机构，个体工商户，外国公司分支机构等经营主体可以开具公共信用合法合规证明。",
+        "problem": "是否可查询外地企业的合法合规报告",
+        "pxh": 2.0,
+        "wt": "是否可查询外地企业的合法合规报告",
+        "yjsMlSsqdQuestionId": "90AFA205F73D405D84E01472FCDC0AE5",
+        "yjsSsqdId": "E19377E6416D4079A67F2BE75CA638BA"
+      },
+      {
+        "answer": "严重失信记录不限时间，行政处罚查询近三年。",
+        "da": "严重失信记录不限时间，行政处罚查询近三年。",
+        "problem": "企业上市合法合规报告查询多久的数据",
+        "pxh": 3.0,
+        "wt": "企业上市合法合规报告查询多久的数据",
+        "yjsMlSsqdQuestionId": "6C3004CACACE4150AD3201CA08EEA5E5",
+        "yjsSsqdId": "E19377E6416D4079A67F2BE75CA638BA"
+      },
+      {
+        "answer": "没有不同，三个平台查询的是同一份报告。",
+        "da": "没有不同，三个平台查询的是同一份报告。",
+        "problem": "通过“一网通办”系统、湘易办 APP、“信用中国(湖南)”平台查询的报告有什么不同吗",
+        "pxh": 4.0,
+        "wt": "通过“一网通办”系统、湘易办 APP、“信用中国(湖南)”平台查询的报告有什么不同吗",
+        "yjsMlSsqdQuestionId": "7A7483CD37FF44A0AB3E0F8CD600FFEB",
+        "yjsSsqdId": "E19377E6416D4079A67F2BE75CA638BA"
+      },
+      {
+        "answer": "合法合规证明作为企业申请上市时提供的要件，证明企业在最近3年内没有因违反相关法律法规受到行政处罚且情节严重的情形。",
+        "da": "合法合规证明作为企业申请上市时提供的要件，证明企业在最近3年内没有因违反相关法律法规受到行政处罚且情节严重的情形。",
+        "problem": "什么是合法合规证明报告？",
+        "pxh": 5.0,
+        "wt": "什么是合法合规证明报告？",
+        "yjsMlSsqdQuestionId": "73EB13C20C1C4684AA34D88BC20BD500",
+        "yjsSsqdId": "E19377E6416D4079A67F2BE75CA638BA"
+      },
+      {
+        "answer": "没有时间要求，有需要随时可以查询下载。",
+        "da": "没有时间要求，有需要随时可以查询下载。",
+        "problem": "查询企业上市合法合规报告有没有时间要求，多久查一次？",
+        "pxh": 6.0,
+        "wt": "查询企业上市合法合规报告有没有时间要求，多久查一次？",
+        "yjsMlSsqdQuestionId": "41658CA0A10B4CEB869AC03F1DB778B0",
+        "yjsSsqdId": "E19377E6416D4079A67F2BE75CA638BA"
+      },
+      {
+        "answer": "省发改委联合19个单位印发《湖南省企业合法合规信息核查“一件事”工作方案》的通知，明确了报告了应用领域，在企业上市是可以代替无违法违规证明的。",
+        "da": "省发改委联合19个单位印发《湖南省企业合法合规信息核查“一件事”工作方案》的通知，明确了报告了应用领域，在企业上市是可以代替无违法违规证明的。",
+        "problem": "企业上市合法合规报告是否真的可以代替各单位开具的报告？",
+        "pxh": 7.0,
+        "wt": "企业上市合法合规报告是否真的可以代替各单位开具的报告？",
+        "yjsMlSsqdQuestionId": "475D3C878F7F458F8D7F327A1051729E",
+        "yjsSsqdId": "E19377E6416D4079A67F2BE75CA638BA"
+      },
+      {
+        "answer": "是可以的，主体可根据自身需求选择某个具体领域的信用报告，也可以选择出具完整版所有领域的报告。",
+        "da": "是可以的，主体可根据自身需求选择某个具体领域的信用报告，也可以选择出具完整版所有领域的报告。",
+        "problem": "企业上市合法合规报告是否可以自行选择核查领域？",
+        "pxh": 8.0,
+        "wt": "企业上市合法合规报告是否可以自行选择核查领域？",
+        "yjsMlSsqdQuestionId": "42AE08E8C72A4141A5906FBCDC9FA589",
+        "yjsSsqdId": "E19377E6416D4079A67F2BE75CA638BA"
+      },
+      {
+        "answer": "申请国(境)内外上市:发行公司债券、上市公司再融资、参与上市公司并购重组、场外交易市场挂牌等融资领域。",
+        "da": "申请国(境)内外上市:发行公司债券、上市公司再融资、参与上市公司并购重组、场外交易市场挂牌等融资领域。",
+        "problem": "企业上市合法合规报告可以应用在哪些领域",
+        "pxh": 9.0,
+        "wt": "企业上市合法合规报告可以应用在哪些领域",
+        "yjsMlSsqdQuestionId": "BF76F4A7864E41AEB418228D2D200A3F",
+        "yjsSsqdId": "E19377E6416D4079A67F2BE75CA638BA"
+      },
+      {
+        "answer": "不行，仅限市场主体查询。",
+        "da": "不行，仅限市场主体查询。",
+        "problem": "企业上市合法合规报告可以查询个人的吗",
+        "pxh": 10.0,
+        "wt": "企业上市合法合规报告可以查询个人的吗",
+        "yjsMlSsqdQuestionId": "509210F878894570A70138760C2685A7",
+        "yjsSsqdId": "E19377E6416D4079A67F2BE75CA638BA"
+      },
+      {
+        "answer": "通过湖南省政务服务网，点击忘记密码进行找回。",
+        "da": "通过湖南省政务服务网，点击忘记密码进行找回。",
+        "problem": "查询企业上市合法合规报告，忘记密码怎么处理？",
+        "pxh": 11.0,
+        "wt": "查询企业上市合法合规报告，忘记密码怎么处理？",
+        "yjsMlSsqdQuestionId": "706B450A4B43458285205BD35480C58B",
+        "yjsSsqdId": "E19377E6416D4079A67F2BE75CA638BA"
+      },
+      {
+        "answer": "由各执法部门进行报送。",
+        "da": "由各执法部门进行报送。",
+        "problem": "企业上市合法合规报告，失信记录来源哪里？",
+        "pxh": 12.0,
+        "wt": "企业上市合法合规报告，失信记录来源哪里？",
+        "yjsMlSsqdQuestionId": "04805954AF7147E1A7542FF5AC11F5DE",
+        "yjsSsqdId": "E19377E6416D4079A67F2BE75CA638BA"
+      },
+      {
+        "answer": "可通过“一网通办”系统、湘易办 APP、“信用中国(湖南)”平台查询。",
+        "da": "可通过“一网通办”系统、湘易办 APP、“信用中国(湖南)”平台查询。",
+        "problem": "企业上市合法合规报告在哪里查询下载",
+        "pxh": 0.0,
+        "wt": "企业上市合法合规报告在哪里查询下载",
+        "yjsMlSsqdQuestionId": "2B455D5137354CC0A367D1CFE981A1AD",
+        "yjsSsqdId": "E19377E6416D4079A67F2BE75CA638BA"
+      },
+      {
+        "answer": "不需要提交资料，通过“一网通办”系统、湘易办 APP、“信用中国(湖南)”平台登录，一键查询下载。",
+        "da": "不需要提交资料，通过“一网通办”系统、湘易办 APP、“信用中国(湖南)”平台登录，一键查询下载。",
+        "problem": "查询打印企业上市合法合规报告需要提交什么资料",
+        "pxh": 1.0,
+        "wt": "查询打印企业上市合法合规报告需要提交什么资料",
+        "yjsMlSsqdQuestionId": "A61A55F851C348299FF8180D977EAD27",
+        "yjsSsqdId": "E19377E6416D4079A67F2BE75CA638BA"
+      }
+    ],
+    "sxmc": "企业上市合法合规信息核查一件事",
+    "yjsSsqdbm": "43TCN0006D26J0211",
+    "basicInfo": {
+      "aheadFrequency": "0",
+      "areaName": "天元区",
+      "completedLimit": "1",
+      "cooperateName": "发改部门,科技部门,公安部门,人社部门,自规部门,生态部门,住建部门,交通部门,水利部门,文旅部门,卫健部门,应急部门,税务部门,市监部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0731-28686383",
+      "lbjgId": "04,17,14,15,16,31,23,22,25,06,18,30,19,09",
+      "qtbmId": "5gpeBRTWRrSSNRlxJzcGtA",
+      "qtbmmc": "天元区发展和改革局",
+      "reasonLink": "无",
+      "yjsssqdbsznid": "E9A9EA07B1AF40A39608611838CDBDC2",
+      "zxdh": "0731-28661147"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

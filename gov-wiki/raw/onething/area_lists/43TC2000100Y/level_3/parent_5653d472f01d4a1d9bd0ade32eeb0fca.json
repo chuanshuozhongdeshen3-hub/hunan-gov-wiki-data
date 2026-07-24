@@ -1,0 +1,64 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430412999000",
+      "benji": "1",
+      "orgId": "0b0c6bff0f6d402e86b6d7034ab5720a",
+      "orgLevel": "3",
+      "orgName": "南岳区区本级",
+      "orgShowName": "南岳区区本级",
+      "orgSn": "1",
+      "parentCode": "430412000000",
+      "parentId": "5653d472f01d4a1d9bd0ade32eeb0fca",
+      "parentName": "南岳区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430412001000",
+      "benji": "0",
+      "orgId": "e93fc3e562844bafaf6c00afef810548",
+      "orgLevel": "4",
+      "orgName": "南岳区祝融街道",
+      "orgShowName": "祝融街道",
+      "orgSn": "1",
+      "parentCode": "430412000000",
+      "parentId": "5653d472f01d4a1d9bd0ade32eeb0fca",
+      "parentName": "南岳区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "1",
+      "areaCode": "430412100000",
+      "benji": "0",
+      "orgId": "e93fc3e562844bafaf6c00afef810549",
+      "orgLevel": "4",
+      "orgName": "南岳区南岳镇",
+      "orgShowName": "南岳镇",
+      "orgSn": "1",
+      "parentCode": "430412000000",
+      "parentId": "5653d472f01d4a1d9bd0ade32eeb0fca",
+      "parentName": "南岳区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "1",
+      "areaCode": "430412203000",
+      "benji": "0",
+      "orgId": "aLe15CrjSTq7O6TsfVNicVQ",
+      "orgLevel": "4",
+      "orgName": "南岳区寿岳乡",
+      "orgShowName": "寿岳乡",
+      "orgSn": "999",
+      "parentCode": "430412000000",
+      "parentId": "5653d472f01d4a1d9bd0ade32eeb0fca",
+      "parentName": "南岳区",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

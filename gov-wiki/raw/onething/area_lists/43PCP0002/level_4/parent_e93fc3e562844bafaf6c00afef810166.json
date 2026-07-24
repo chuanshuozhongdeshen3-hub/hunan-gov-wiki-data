@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430105004999",
+      "benji": "1",
+      "orgId": "e93fc3e562844bafaf6c00afef813219",
+      "orgLevel": "4",
+      "orgName": "望麓园街道本级",
+      "orgShowName": "望麓园街道本级",
+      "orgSn": "1",
+      "parentCode": "430105004000",
+      "parentId": "e93fc3e562844bafaf6c00afef810166",
+      "parentName": "长沙市开福区望麓园街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430105004001",
+      "benji": "0",
+      "orgId": "s4vEFeKnQsWg9wQvr8jepw",
+      "orgLevel": "5",
+      "orgName": "水风井社区",
+      "orgShowName": "水风井社区",
+      "orgSn": "0",
+      "parentCode": "430105004000",
+      "parentId": "e93fc3e562844bafaf6c00afef810166",
+      "parentName": "长沙市开福区望麓园街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430105004003",
+      "benji": "0",
+      "orgId": "rh1jZQOpREGJpfC8LZXTmQ",
+      "orgLevel": "5",
+      "orgName": "营盘街社区",
+      "orgShowName": "营盘街社区",
+      "orgSn": "0",
+      "parentCode": "430105004000",
+      "parentId": "e93fc3e562844bafaf6c00afef810166",
+      "parentName": "长沙市开福区望麓园街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430105004004",
+      "benji": "0",
+      "orgId": "NQAvtkWYRuWUPPot71K4PA",
+      "orgLevel": "5",
+      "orgName": "荷花池社区",
+      "orgShowName": "荷花池社区",
+      "orgSn": "0",
+      "parentCode": "430105004000",
+      "parentId": "e93fc3e562844bafaf6c00afef810166",
+      "parentName": "长沙市开福区望麓园街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430105004005",
+      "benji": "0",
+      "orgId": "xv6ElDh9Q7OwCD1BAqpEUw",
+      "orgLevel": "5",
+      "orgName": "富雅坪社区",
+      "orgShowName": "富雅坪社区",
+      "orgSn": "0",
+      "parentCode": "430105004000",
+      "parentId": "e93fc3e562844bafaf6c00afef810166",
+      "parentName": "长沙市开福区望麓园街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430105004006",
+      "benji": "0",
+      "orgId": "hSB8icfs5ShuXR30XHU77LA",
+      "orgLevel": "5",
+      "orgName": "中山路社区",
+      "orgShowName": "中山路社区",
+      "orgSn": "0",
+      "parentCode": "430105004000",
+      "parentId": "e93fc3e562844bafaf6c00afef810166",
+      "parentName": "长沙市开福区望麓园街道",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

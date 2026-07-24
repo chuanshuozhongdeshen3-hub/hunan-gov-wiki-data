@@ -1,0 +1,537 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1722216774000,
+        "fjId": "_yUrNCVKRyWzuWpzKX8NCg",
+        "fjbm": "100001",
+        "fjdx": 0.062,
+        "fjlj": "orchestrate/2024-07-29/1722216774111$$开餐饮店.png",
+        "fjlx": ".png",
+        "fjmc": "开餐饮店.png",
+        "s3tmc": "zwfw202407",
+        "sfyx": "Y",
+        "ywdxId": "C900CED952764B6B83666B59848E86CE"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "开福区政务服务中心2楼“高效办成一件事”市监专窗",
+        "blsj": "法定工作日夏季（7月1日—9月30日） 上午：9：00—12：00 下午：13：30— 17：30  法定工作日冬季（10月1日—次年6月30日） 上午：9：00—12：00 下午：13：00—17：00",
+        "cjsj": 1723620414723,
+        "gxsj": 1758617274000,
+        "infoAddr": "长沙市开福区芙蓉北路盛世路1号开福区政务服务中心",
+        "pointName": "开福区政务服务中心2楼“高效办成一件事”市监专窗",
+        "processingTime": "法定工作日夏季（7月1日—9月30日） 上午：9：00—12：00 下午：13：30— 17：30  法定工作日冬季（10月1日—次年6月30日） 上午：9：00—12：00 下午：13：00—17：00",
+        "pxh": 1,
+        "xxdz": "长沙市开福区芙蓉北路盛世路1号开福区政务服务中心",
+        "yjsBldId": "2F7DD91E9ED043AE8A2EABD71282C270",
+        "ywzjId": "AB8C386BD6B14C108AD287472930C380",
+        "zt": "0"
+      }
+    ],
+    "materialList": [
+      {
+        "attachList": [
+          {
+            "cjsj": 1724124700000
+          },
+          {
+            "cjsj": 1724124700000
+          }
+        ],
+        "bzclId": "M43TCN00030003",
+        "cjsj": 1724124700000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "与食品经营相适应的主要设各设施布局、操作流程等文件",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783713612000,
+        "mtjfs": "4",
+        "pxh": 3.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "3D667DAED2AE4A97AECB68E702BA3C6C",
+        "yjsSsqdId": "D9B86C9AF9884D7CB6466BA905901608",
+        "yqtgyj": "食品安全相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1724124677000
+          },
+          {
+            "cjsj": 1724124677000
+          }
+        ],
+        "bzclId": "M43TCN00030002",
+        "cjsj": 1724124677000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "2",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "开办餐饮店“一件事”承诺书",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783713612000,
+        "mtjfs": "4",
+        "pxh": 2.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "DEC6E91C8D4A42B089997F23BD2E4580",
+        "yjsSsqdId": "D9B86C9AF9884D7CB6466BA905901608",
+        "yqtgyj": "食品安全相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1724125248000
+          },
+          {
+            "cjsj": 1724125248000
+          }
+        ],
+        "bzclId": "M43TCN00030011",
+        "cjsj": 1724125248000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "2",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "场所合法使用证明",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783713612000,
+        "mtjfs": "4",
+        "pxh": 11.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "EB766FC845EC4D25976B3A13CB701478",
+        "yjsSsqdId": "D9B86C9AF9884D7CB6466BA905901608",
+        "yqtgyj": "食品安全相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1724125173000
+          },
+          {
+            "cjsj": 1724125173000
+          }
+        ],
+        "bzclId": "M43TCN00030010",
+        "cjsj": 1724125173000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "3",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "消防安全制度（告知承诺制流程/一般流程）",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783713612000,
+        "mtjfs": "4",
+        "pxh": 10.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "47E6CDF1B59F42EEBA75CB5DFA777922",
+        "yjsSsqdId": "D9B86C9AF9884D7CB6466BA905901608",
+        "yqtgyj": "食品安全相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1724125126000
+          },
+          {
+            "cjsj": 1724125126000
+          }
+        ],
+        "bzclId": "M43TCN00030009",
+        "cjsj": 1724125126000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "场所消防设施平面图（告知承诺制流程/一般流程）",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783713612000,
+        "mtjfs": "4",
+        "pxh": 9.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "E066930A1F7B4FF284EB660F5E5A6449",
+        "yjsSsqdId": "D9B86C9AF9884D7CB6466BA905901608",
+        "yqtgyj": "食品安全相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1724124889000
+          },
+          {
+            "cjsj": 1724124889000
+          }
+        ],
+        "bzclId": "M43TCN00030007",
+        "cjsj": 1724124889000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "灭火和应急疏散预案（告知承诺制流程/一般流程）",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783713612000,
+        "mtjfs": "4",
+        "pxh": 7.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "E483D2AFBDC2420FB9ACD43C057BE92B",
+        "yjsSsqdId": "D9B86C9AF9884D7CB6466BA905901608",
+        "yqtgyj": "食品安全相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1724124913000
+          },
+          {
+            "cjsj": 1724124913000
+          }
+        ],
+        "bzclId": "M43TCN00030008",
+        "cjsj": 1724124913000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "场所平面布置图（告知承诺制流程/一般流程）",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783713612000,
+        "mtjfs": "4",
+        "pxh": 8.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "35862BBCF5E84AEB86FF09728438BE4F",
+        "yjsSsqdId": "D9B86C9AF9884D7CB6466BA905901608",
+        "yqtgyj": "食品安全相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1724124645000
+          },
+          {
+            "cjsj": 1724124645000
+          }
+        ],
+        "bzclId": "M43TCN00030001",
+        "cjsj": 1724124645000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "开办餐饮店“一件事”申请书",
+        "clxs": "2",
+        "clxz": "3",
+        "gxsj": 1783713612000,
+        "mtjfs": "4",
+        "pxh": 1.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "862AA3F9FA3C48A28C6214155E190F0E",
+        "yjsSsqdId": "D9B86C9AF9884D7CB6466BA905901608",
+        "yqtgyj": "食品安全相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1724124721000
+          },
+          {
+            "cjsj": 1724124721000
+          }
+        ],
+        "bzclId": "M43TCN00030004",
+        "cjsj": 1724124721000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "食品安全自查、从业人员健康管理、进货查验记录、食品安全事故处置等保证食品安全的规章制度目录清单",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783713612000,
+        "mtjfs": "4",
+        "pxh": 4.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "82B42FBCAE0B49BD8E2C9E10869B75B8",
+        "yjsSsqdId": "D9B86C9AF9884D7CB6466BA905901608",
+        "yqtgyj": "食品安全相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1724124750000
+          },
+          {
+            "cjsj": 1724124750000
+          }
+        ],
+        "bzclId": "M43TCN00030005",
+        "cjsj": 1724124750000,
+        "clbyx": "2",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "3",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "消防安全检查申报表 （一般流程）",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783713612000,
+        "mtjfs": "4",
+        "pxh": 5.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "0E57B094183D4AA2B4DA8EDEB87E4A93",
+        "yjsSsqdId": "D9B86C9AF9884D7CB6466BA905901608",
+        "yqtgyj": "食品安全相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      }
+    ],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "开办餐饮店一件事流程图",
+      "blxs": "1",
+      "bszt": "0",
+      "cjrId": "EzUt3u38Swa4yxTJsticp3Q",
+      "cjsj": 1722216335000,
+      "cnbjsx": "4",
+      "dbsxccs": "1",
+      "dbsxcyyhhj": "无",
+      "dndtzdz": "https://hnscjgj.amr.hunan.gov.cn:9080/qykb/",
+      "gqbjlx": 2.0,
+      "gqblsx": 37.0,
+      "gqpdcs": 5.0,
+      "gqsbcl": 32.0,
+      "gxrId": "EzUt3u38Swa4yxTJsticp3Q",
+      "gxsj": 1722216335000,
+      "hjsgq": 4.0,
+      "hjsxz": 1.0,
+      "jgsdsm": "结果物可采用邮寄或现场领取两种方式",
+      "jsms": "2",
+      "lbjgId": "31,17,25",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "2",
+      "xsblqd": "1",
+      "xxbldsm": "请到对应层级的市场监管部门办理",
+      "xxcktzdz": "https://hnscjgj.amr.hunan.gov.cn:9080/qykb/",
+      "xzbjlx": 2.0,
+      "xzblsx": 4.0,
+      "xzpdcs": 1.0,
+      "xzsbcl": 10.0,
+      "yjsMlBzhId": "E8A4ECEA4B1D44F18A9B95E3FEC5531C",
+      "yjsbsznId": "C900CED952764B6B83666B59848E86CE",
+      "ywzjfw": "0",
+      "zcblqd": "1,4",
+      "zcblqdWbdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_006_kbcyd.jsp"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业营业执照信息核验",
+        "resultSampleName": "",
+        "tyywblxName": "企业营业执照信息核验"
+      },
+      {
+        "cnsxsx": 10.0,
+        "lbsxfwmc": "《食品小经营许可证》新办",
+        "resultSampleName": "食品小经营许可证",
+        "tyywblxName": "《食品小经营许可证》新办"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "公众聚集场所投入使用、营业前消防安全检查（告知承诺制流程）",
+        "resultSampleName": "公众聚集场所投入使用、营业前消防安检检查意见书/不同意投入使用、营业决定书",
+        "tyywblxName": "公众聚集场所投入使用、营业前消防安全检查（告知承诺制流程）"
+      },
+      {
+        "cnsxsx": 10.0,
+        "lbsxfwmc": "公众聚集场所投入使用、营业前消防安全检查（一般流程）",
+        "resultSampleName": "公众聚集场所投入使用、营业前消防安检检查意见书/不同意投入使用、营业决定书",
+        "tyywblxName": "公众聚集场所投入使用、营业前消防安全检查（一般流程）"
+      },
+      {
+        "cnsxsx": 10.0,
+        "lbsxfwmc": "《食品经营许可证》新办",
+        "resultSampleName": "食品经营许可证",
+        "tyywblxName": "《食品经营许可证》新办"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "户外招牌设施规范管理",
+        "resultSampleName": "",
+        "tyywblxName": "户外招牌设施规范管理"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "符合申请要求",
+        "cjsj": 1722217423000,
+        "processingConditions": "符合申请要求",
+        "pxh": 1.0,
+        "smmc": "符合申请要求",
+        "yjsBsznbltjId": "53340B617D1E4B62B3DE6247C39962A7",
+        "yjsbsznId": "C900CED952764B6B83666B59848E86CE",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [
+      {
+        "answer": "营业执照信息核验、食品经营许可证（小餐饮经营许可证）核发、户外招牌设施设置规范管理、公众聚集场所投入使用、营业前消防安全检查",
+        "da": "营业执照信息核验、食品经营许可证（小餐饮经营许可证）核发、户外招牌设施设置规范管理、公众聚集场所投入使用、营业前消防安全检查",
+        "problem": "开办餐饮店一件事可提供的联办事项",
+        "pxh": 0.0,
+        "wt": "开办餐饮店一件事可提供的联办事项",
+        "yjsMlSsqdQuestionId": "ACBF982EA3F6431E91E0734A20AE95DB",
+        "yjsSsqdId": "D9B86C9AF9884D7CB6466BA905901608"
+      },
+      {
+        "answer": "已取得本省内登记注册的经营主体，具有符合食品安全相关规定和消防安全相关规定的经营场所。",
+        "da": "已取得本省内登记注册的经营主体，具有符合食品安全相关规定和消防安全相关规定的经营场所。",
+        "problem": "开办餐饮店一件事办理的条件",
+        "pxh": 1.0,
+        "wt": "开办餐饮店一件事办理的条件",
+        "yjsMlSsqdQuestionId": "E8D85A856A914E6084648C381F9A90A7",
+        "yjsSsqdId": "D9B86C9AF9884D7CB6466BA905901608"
+      },
+      {
+        "answer": "根据实际情况，对符合条件的部分，可正常发放相应许可证书。不符合部分，完成整改后，再单独向相应部门申请再次核查。",
+        "da": "根据实际情况，对符合条件的部分，可正常发放相应许可证书。不符合部分，完成整改后，再单独向相应部门申请再次核查。",
+        "problem": "联合核查中，某一个部门检查不通过的，影响联办结果吗？",
+        "pxh": 2.0,
+        "wt": "联合核查中，某一个部门检查不通过的，影响联办结果吗？",
+        "yjsMlSsqdQuestionId": "560E5C0B326646FF843FE903A76CEFD4",
+        "yjsSsqdId": "D9B86C9AF9884D7CB6466BA905901608"
+      }
+    ],
+    "sxmc": "开办餐饮店一件事",
+    "yjsSsqdbm": "43TCN0003225J0105",
+    "basicInfo": {
+      "aheadFrequency": "1",
+      "areaName": "开福区",
+      "completedLimit": "4",
+      "cooperateName": "住建部门,应急部门,市监部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0731-84204992",
+      "lbjgId": "31,17,25",
+      "qtbmId": "3JLEPicLuTbG05ubFXicOwDA",
+      "qtbmmc": "开福区市场监督管理局",
+      "reasonLink": "无",
+      "yjsssqdbsznid": "AB8C386BD6B14C108AD287472930C380",
+      "zxdh": "0731-84204992"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

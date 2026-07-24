@@ -1,0 +1,709 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1775014959000,
+        "fjId": "tiMoFw_IQgW90QmugxDcfg",
+        "fjbm": "100001",
+        "fjdx": 0.161,
+        "fjlj": "orchestrate/2026-04-01/1775014959604$$gxyjsgjj.png",
+        "fjlx": ".png",
+        "fjmc": "gxyjsgjj.png",
+        "s3tmc": "zwfw202604",
+        "sfyx": "Y",
+        "ywdxId": "5C84545A18C04FDE99F73D2078CD4665"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "湖南省湘潭市湘乡市东山街道涟滨南路761号人民政府政务服务中心三楼",
+        "blsj": "上午9:00-12:00；下午13:30-17:00，国家法定节假日除外",
+        "cjsj": 1781592404393,
+        "gxsj": 1781592404000,
+        "infoAddr": "湖南省湘潭市湘乡市东山街道涟滨南路761号人民政府政务服务中心三楼高效办成一件事重点事项服务专区",
+        "pointName": "湖南省湘潭市湘乡市东山街道涟滨南路761号人民政府政务服务中心三楼",
+        "processingTime": "上午9:00-12:00；下午13:30-17:00，国家法定节假日除外",
+        "pxh": 1,
+        "xxdz": "湖南省湘潭市湘乡市东山街道涟滨南路761号人民政府政务服务中心三楼高效办成一件事重点事项服务专区",
+        "yjsBldId": "00013F93B6D649EF8C5C24C9BE43E8BA",
+        "ywzjId": "72562442D6F14E95A3B322659CBDA563",
+        "zt": "0"
+      }
+    ],
+    "materialList": [
+      {
+        "attachList": [
+          {
+            "cjsj": 1775023582000
+          }
+        ],
+        "bzclId": "M43PCP00230009",
+        "cjsj": 1775023582000,
+        "clbyx": "2",
+        "clbz": "申请人自备",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "家庭无房证明",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783627240000,
+        "mtjfs": "4",
+        "pxh": 8.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "真实有效",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "475FF9BB53224D69B03EC94B79D5F82E",
+        "yjsSsqdId": "8B912004A50C4EFCAAF8917FD11E01CB",
+        "yqtgyj": "湘政办函〔2026〕10号",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1775023582000
+          }
+        ],
+        "bzclId": "M43PCP00230006",
+        "cjsj": 1775023582000,
+        "clbyx": "2",
+        "clbz": "申请人自备",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "房地产交易税费信息（契税相关信息）、增值税发票信息",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783627240000,
+        "mtjfs": "4",
+        "pxh": 5.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "真实有效",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "C858A0B3EFE14BC1857026AAB6ADB946",
+        "yjsSsqdId": "8B912004A50C4EFCAAF8917FD11E01CB",
+        "yqtgyj": "湘政办函〔2026〕10号",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1776410846000
+          }
+        ],
+        "bzclId": "M43PCP00230013",
+        "cjsj": 1776410846000,
+        "clbyx": "2",
+        "clbz": "申请人自备",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "户口本",
+        "clxs": "4",
+        "clxz": "2",
+        "gxsj": 1783627240000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 12.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "真实有效",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "770363FDB4C24606936E3D3884BB4C1B",
+        "yjsSsqdId": "8B912004A50C4EFCAAF8917FD11E01CB",
+        "yqtgyj": "湘政办函〔2026〕10号",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1775015354000
+          }
+        ],
+        "bzclId": "M43PCP00230014",
+        "cjsj": 1775015354000,
+        "clbyx": "2",
+        "clbz": "申请人自备",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "项目拆迁补偿安置协议",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783627240000,
+        "mtjfs": "4",
+        "pxh": 13.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "真实有效",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "5638B98994F741DD9F5CDB7B9C127973",
+        "yjsSsqdId": "8B912004A50C4EFCAAF8917FD11E01CB",
+        "yqtgyj": "湘政办函〔2026〕10号",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1775015354000
+          }
+        ],
+        "bzclId": "M43PCP00230019",
+        "cjsj": 1775015354000,
+        "clbyx": "2",
+        "clbz": "真实有效",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "购房批复和分户计算表",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783627240000,
+        "mtjfs": "4",
+        "pxh": 18.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "当“购房类型”为 购买保障性住房或公有住房 时，该档案材料必传",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "3DFA666E41584512BA43444F89F9E0CA",
+        "yjsSsqdId": "8B912004A50C4EFCAAF8917FD11E01CB",
+        "yqtgyj": "租房、购房一件事",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1775015354000
+          }
+        ],
+        "bzclId": "M43PCP00230018",
+        "cjsj": 1775015354000,
+        "clbyx": "2",
+        "clbz": "真实有效",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "定金票据",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783627240000,
+        "mtjfs": "4",
+        "pxh": 17.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "当“购房类型”为 支付购房首付款 、 支付购房首付款（代际互助） 时，该档案材料必传",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "64B2055B439E48E39D7A746AC9E45AA3",
+        "yjsSsqdId": "8B912004A50C4EFCAAF8917FD11E01CB",
+        "yqtgyj": "租房、购房一件事",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1775015354000
+          }
+        ],
+        "bzclId": "M43PCP00230016",
+        "cjsj": 1775015354000,
+        "clbyx": "2",
+        "clbz": "申请人自备",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "支付租金票据（公租房）",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783627240000,
+        "mtjfs": "4",
+        "pxh": 15.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "真实有效",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "542730579E9F49D39947B4E8F9883A89",
+        "yjsSsqdId": "8B912004A50C4EFCAAF8917FD11E01CB",
+        "yqtgyj": "湘政办函〔2026〕10号",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1775023582000
+          }
+        ],
+        "bzclId": "M43PCP00230010",
+        "cjsj": 1775023582000,
+        "clbyx": "2",
+        "clbz": "申请人自备",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "实际贷款本息还款记录",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783627240000,
+        "mtjfs": "4",
+        "pxh": 9.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "真实有效",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "964FAC4CDE644FEE9E7415816792BAAB",
+        "yjsSsqdId": "8B912004A50C4EFCAAF8917FD11E01CB",
+        "yqtgyj": "湘政办函〔2026〕10号",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1775023582000
+          }
+        ],
+        "bzclId": "M43PCP00230005",
+        "cjsj": 1775023582000,
+        "clbyx": "2",
+        "clbz": "申请人自备",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "不动产登记信息（购买现房的提供）",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783627240000,
+        "mtjfs": "4",
+        "pxh": 4.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "不动产权证书等证明文件",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "F33A6C43C519467284BD86C671F0F0FB",
+        "yjsSsqdId": "8B912004A50C4EFCAAF8917FD11E01CB",
+        "yqtgyj": "湘政办函〔2026〕10号",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1775023582000
+          },
+          {
+            "cjsj": 1775023582000
+          }
+        ],
+        "bzclId": "M43PCP00230003",
+        "cjsj": 1775023582000,
+        "clbyx": "1",
+        "clbz": "申请人自备",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "申请人本人一类银行储蓄卡信息",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783627240000,
+        "mtjfs": "4",
+        "pxh": 3.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "真实有效",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "D9CE96E0DEDD4E6BA57832C38E49F061",
+        "yjsSsqdId": "8B912004A50C4EFCAAF8917FD11E01CB",
+        "yqtgyj": "湘政办函〔2026〕10号",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1775023582000
+          }
+        ],
+        "bzclId": "M43PCP00230020",
+        "cjsj": 1775023582000,
+        "clbyx": "2",
+        "clbz": "申请人自备",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "购房合同",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783627240000,
+        "mtjfs": "4",
+        "pxh": 19.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "真实有效",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "56B0C4BBE5DF48708C65737F9FA984FA",
+        "yjsSsqdId": "8B912004A50C4EFCAAF8917FD11E01CB",
+        "yqtgyj": "湘政办函〔2026〕10号",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1775023582000
+          }
+        ],
+        "bzclId": "M43PCP00230008",
+        "cjsj": 1775023582000,
+        "clbyx": "2",
+        "clbz": "申请人自备",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "借款合同",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783627240000,
+        "mtjfs": "4",
+        "pxh": 7.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "真实有效",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "66C1B0B4315248748CBB0FD18195ACE0",
+        "yjsSsqdId": "8B912004A50C4EFCAAF8917FD11E01CB",
+        "yqtgyj": "湘政办函〔2026〕10号",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1781078053000
+          }
+        ],
+        "bzclId": "M43PCP00230017",
+        "cjsj": 1781078053000,
+        "clbyx": "2",
+        "clbz": "真实有效",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "商品房认购协议",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783627240000,
+        "mtjfs": "4",
+        "pxh": 16.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "当“购房类型”为 支付购房首付款 、 支付购房首付款（代际互助） 时提供",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "8C7024704301418FAE0D5EB9974CD778",
+        "yjsSsqdId": "8B912004A50C4EFCAAF8917FD11E01CB",
+        "yqtgyj": "租房、购房一件事",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1775023582000
+          }
+        ],
+        "bzclId": "M43PCP00230011",
+        "cjsj": 1775023582000,
+        "clbyx": "2",
+        "clbz": "申请人自备",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "退休证或退休批文（未达到法定退休年龄提前退休的提供）",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783627240000,
+        "mtjfs": "4",
+        "pxh": 10.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "真实有效",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "A99260F5F0494A87B073EB244A461BDF",
+        "yjsSsqdId": "8B912004A50C4EFCAAF8917FD11E01CB",
+        "yqtgyj": "湘政办函〔2026〕10号",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1775015354000
+          }
+        ],
+        "bzclId": "M43PCP00230015",
+        "cjsj": 1775015354000,
+        "clbyx": "2",
+        "clbz": "申请人自备",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "租住合同或协议（公租房）",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783627240000,
+        "mtjfs": "4",
+        "pxh": 14.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "真实有效",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "AE46AB348CC040C1919AA9880BEF7C95",
+        "yjsSsqdId": "8B912004A50C4EFCAAF8917FD11E01CB",
+        "yqtgyj": "湘政办函〔2026〕10号",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1775015354000
+          }
+        ],
+        "bzclId": "M43PCP00230001",
+        "cjsj": 1775015354000,
+        "clbyx": "1",
+        "clbz": "申请人自备",
+        "cllx": "4",
+        "cllyqd": "20",
+        "clmc": "申请人及配偶第二代有效身份证",
+        "clxs": "4",
+        "clxz": "2",
+        "gxsj": 1783627240000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 1.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "真实有效、有配偶的需上传配偶的身份证",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "A31E2B9A3B3A48B1A8071DBC63553597",
+        "yjsSsqdId": "8B912004A50C4EFCAAF8917FD11E01CB",
+        "yqtgyj": "湘政办函〔2026〕10号",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1775015536000
+          }
+        ],
+        "bzclId": "M43PCP00230002",
+        "cjsj": 1775015536000,
+        "clbyx": "2",
+        "clbz": "申请人自备",
+        "cllx": "4",
+        "cllyqd": "20",
+        "clmc": "婚姻状况证明",
+        "clxs": "4",
+        "clxz": "2",
+        "gxsj": 1783627240000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 2.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "真实有效",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "B3D671524D3B45B48C8F7FB97876D636",
+        "yjsSsqdId": "8B912004A50C4EFCAAF8917FD11E01CB",
+        "yqtgyj": "湘政办函〔2026〕10号",
+        "zt": "0",
+        "zzclfs": 1.0
+      }
+    ],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "流程图",
+      "blxs": "1",
+      "bszt": "1",
+      "cjsj": 1775013654000,
+      "cnbjsx": "10",
+      "dbsxccs": "1",
+      "dbsxcyyhhj": "面签",
+      "dndtzdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "gqbjlx": 2.0,
+      "gqblsx": 30.0,
+      "gqpdcs": 11.0,
+      "gqsbcl": 20.0,
+      "hjsgq": 14.0,
+      "hjsxz": 6.0,
+      "jgsdsm": "邮寄",
+      "jsms": "4",
+      "lbjgId": "17,30,15",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "A",
+      "xsblqd": "1,2",
+      "xxbldsm": "政务专窗",
+      "xxcktzdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "xzbjlx": 2.0,
+      "xzblsx": 10.0,
+      "xzpdcs": 1.0,
+      "xzsbcl": 4.0,
+      "yddtzdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "yjsMlBzhId": "858CFF265F3243608AA8418817E1EAA4",
+      "yjsbsznId": "5C84545A18C04FDE99F73D2078CD4665",
+      "ywzjfw": "0",
+      "zcblqd": "1,2,4",
+      "zcblqdWbdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "购买自住住房提取住房公积金",
+        "resultSampleName": "暂无",
+        "tyywblxName": "购买自住住房提取住房公积金"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "离休退休提取住房公积金",
+        "resultSampleName": "暂无",
+        "tyywblxName": "离休退休提取住房公积金"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "个人住房公积金缴存贷款等信息查询",
+        "resultSampleName": "暂无",
+        "tyywblxName": "个人住房公积金缴存贷款等信息查询"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "租赁自住房住房提取公积金",
+        "resultSampleName": "暂无",
+        "tyywblxName": "租赁自住房住房提取公积金"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "偿还购房贷款本息提取住房公积金",
+        "resultSampleName": "暂无",
+        "tyywblxName": "偿还购房贷款本息提取住房公积金"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "职工家庭购买自住住房的",
+        "cjsj": 1775014359000,
+        "processingConditions": "职工家庭购买自住住房的",
+        "pxh": 1.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "629EBCEA62E54FC8867247CA540BC0CC",
+        "yjsbsznId": "5C84545A18C04FDE99F73D2078CD4665",
+        "zt": "0"
+      },
+      {
+        "bltj": "职工家庭偿还自住住房贷款本息的",
+        "cjsj": 1775014847000,
+        "processingConditions": "职工家庭偿还自住住房贷款本息的",
+        "pxh": 2.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "600A1692F9F448718D4C062945CCDD7A",
+        "yjsbsznId": "5C84545A18C04FDE99F73D2078CD4665",
+        "zt": "0"
+      },
+      {
+        "bltj": "连续足额缴存住房公积金满 3 个月，无房职工家庭支付房租的",
+        "cjsj": 1775014859000,
+        "processingConditions": "连续足额缴存住房公积金满 3 个月，无房职工家庭支付房租的",
+        "pxh": 3.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "0255FF0FEB7C496A9F8E855CE2BDEC69",
+        "yjsbsznId": "5C84545A18C04FDE99F73D2078CD4665",
+        "zt": "0"
+      },
+      {
+        "bltj": "离休、退休的",
+        "cjsj": 1775014869000,
+        "processingConditions": "离休、退休的",
+        "pxh": 4.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "E42AD337BD374CEE8629244972D4C64D",
+        "yjsbsznId": "5C84545A18C04FDE99F73D2078CD4665",
+        "zt": "0"
+      },
+      {
+        "bltj": "职工住房公积金账户未被司法冻结",
+        "cjsj": 1775014878000,
+        "processingConditions": "职工住房公积金账户未被司法冻结",
+        "pxh": 5.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "0E6F5BA8C40043D785CCF5F65F144988",
+        "yjsbsznId": "5C84545A18C04FDE99F73D2078CD4665",
+        "zt": "0"
+      },
+      {
+        "bltj": "各市州住房公积金管理中心规定的其他条件",
+        "cjsj": 1775014894000,
+        "processingConditions": "各市州住房公积金管理中心规定的其他条件",
+        "pxh": 6.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "F57DF3081F4D41A18FBFE1D8B41085A8",
+        "yjsbsznId": "5C84545A18C04FDE99F73D2078CD4665",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [],
+    "sxmc": "租房、购房提取住房公积金“一件事”",
+    "yjsSsqdbm": "43PCP0023A26J0381",
+    "basicInfo": {
+      "aheadFrequency": "1",
+      "areaName": "湘乡市",
+      "completedLimit": "10",
+      "cooperateName": "自规部门,住建部门,税务部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0731-56777866",
+      "lbjgId": "17,30,15",
+      "qtbmId": "1d8c78cafe7e4d7db6e4b08932256cae",
+      "qtbmmc": "湘乡市住房与城乡建设局",
+      "reasonLink": "面签",
+      "yjsssqdbsznid": "72562442D6F14E95A3B322659CBDA563",
+      "zxdh": "0731-56779166"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

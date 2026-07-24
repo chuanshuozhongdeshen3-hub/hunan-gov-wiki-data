@@ -1,0 +1,527 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [
+      {
+        "FEENAME": "邮寄速递费",
+        "UNIFY_NAME": "死亡人员户口注销",
+        "UNIFY_ID": "nVkHM2bwToKid3jPgTZzVw",
+        "FEESTAND": "20元",
+        "CHARGE_BYLAW": "由邮政速递公司收取邮寄速递费20元/证。",
+        "IS_MINUS": "否",
+        "CHARGE_ID": "cs5F8D3GTe-b9dyyMYgKxQ"
+      }
+    ],
+    "attachInfo": [
+      {
+        "cjsj": 1755657714000,
+        "fjId": "tLSZSJPsSPeFKY5zbfEWDQ",
+        "fjbm": "100001",
+        "fjdx": 0.253,
+        "fjlj": "orchestrate/2025-08-20/1755657714402$$个人身后一件事流程图.png",
+        "fjlx": ".png",
+        "fjmc": "个人身后一件事流程图.png",
+        "s3tmc": "zwfw202508",
+        "sfyx": "Y",
+        "ywdxId": "C27B6673FD474E24A48F675237F99C1C"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "衡东县政务服务中心",
+        "blsj": "工作日夏季上午9；00——12;00，下午13:30：00——17：00；冬季上午9:00——12:00，下午13:30——17:00",
+        "cjsj": 1756949371131,
+        "gxsj": 1765353040000,
+        "infoAddr": "衡东县政务服务中心一楼高效办成一件事专窗",
+        "pointName": "衡东县政务服务中心",
+        "processingTime": "工作日夏季上午9；00——12;00，下午13:30：00——17：00；冬季上午9:00——12:00，下午13:30——17:00",
+        "pxh": 1,
+        "xxdz": "衡东县政务服务中心一楼高效办成一件事专窗",
+        "yjsBldId": "C8FCD51E4FCB4FC1BCF1289548163B7B",
+        "ywzjId": "9BC5BFA02338429AB71D0A5DE43E3D9C",
+        "zt": "0"
+      }
+    ],
+    "materialList": [
+      {
+        "attachList": [
+          {
+            "cjsj": 1739158402000,
+            "fjId": "ny7ylXzcRLqr7TNUcw_I9g",
+            "fjbm": "100002",
+            "fjdx": 0.012,
+            "fjlj": "orchestrate/2025-08-22/1755844038389$$20250822-湖南省个人身后“一件事”承诺函 （空表）.docx",
+            "fjlx": ".docx",
+            "fjmc": "20250822-湖南省个人身后“一件事”承诺函 （空表）.docx",
+            "s3tmc": "zwfw202508",
+            "sfyx": "Y",
+            "ywdxId": "A84AC3D40328498F8313D934853F7813"
+          },
+          {
+            "cjsj": 1739158402000,
+            "fjId": "b-GVo5zUQdGDBdNy0jdRzw",
+            "fjbm": "100003",
+            "fjdx": 0.012,
+            "fjlj": "orchestrate/2025-08-22/1755844040023$$20250822-湖南省个人身后“一件事”承诺函 （示例）.docx",
+            "fjlx": ".docx",
+            "fjmc": "20250822-湖南省个人身后“一件事”承诺函 （示例）.docx",
+            "s3tmc": "zwfw202508",
+            "sfyx": "Y",
+            "ywdxId": "A84AC3D40328498F8313D934853F7813"
+          }
+        ],
+        "bzclId": "M43PCP00080008",
+        "cjsj": 1739158402000,
+        "clbyx": "1",
+        "clbz": "真实有效",
+        "cljm": "0",
+        "cllx": "2",
+        "cllyqd": "10",
+        "clmc": "湖南省个人身后“一件事”承诺函",
+        "clxs": "4",
+        "clxz": "1",
+        "gxsj": 1772136305000,
+        "materialCode": "T1000NaN",
+        "materialTitle": "湖南省个人身后“一件事”承诺函",
+        "mtjfs": "1",
+        "mtjfssm": "由绑定的标准材料系统模板自动生成申请表,不再需要企业、群众上传或提交纸质申请表",
+        "pxh": 6.0,
+        "sfxtmb": "0",
+        "sfykb": "1",
+        "sfyslb": "1",
+        "tbxz": "真实有效",
+        "tgfs": "2",
+        "type": "1",
+        "yjsMlSsqdClId": "CC1C221C451B4753BD7ECA72AE009C94",
+        "yjsSsqdId": "B35B37F8176945DE8BABF3FCED60A8CE",
+        "yqtgyj": "暂无",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1739157585000,
+            "fjId": "oJ7MMOxdQnO0ao4l9j_79w",
+            "fjbm": "100003",
+            "fjdx": 0.022,
+            "fjlj": "orchestrate/2025-11-25/1764040294762$$湖南省个人身后“一件事”申请表（示例样表）.doc",
+            "fjlx": ".doc",
+            "fjmc": "湖南省个人身后“一件事”申请表（示例样表）.doc",
+            "s3tmc": "zwfw202511",
+            "sfyx": "Y",
+            "ywdxId": "B25375B2332C43F88EC9BB1DE3276B2F"
+          },
+          {
+            "cjsj": 1739157585000,
+            "fjId": "coXOeODPSHqpw8XBilS3mQ",
+            "fjbm": "100002",
+            "fjdx": 0.022,
+            "fjlj": "orchestrate/2025-11-25/1764040284941$$湖南省个人身后“一件事”申请表.doc",
+            "fjlx": ".doc",
+            "fjmc": "湖南省个人身后“一件事”申请表.doc",
+            "s3tmc": "zwfw202511",
+            "sfyx": "Y",
+            "ywdxId": "B25375B2332C43F88EC9BB1DE3276B2F"
+          }
+        ],
+        "bzclId": "M43PCP00080001",
+        "cjsj": 1739157585000,
+        "clbyx": "1",
+        "clbz": "真实有效",
+        "cljm": "0",
+        "cllx": "3",
+        "cllyqd": "10",
+        "clmc": "湖南省个人身后\"一件事\"申请表",
+        "clxs": "3",
+        "clxz": "1",
+        "gxsj": 1772136305000,
+        "materialCode": "T1000040",
+        "materialTitle": "湖南省个人身后\"一件事\"申请表",
+        "mtjfs": "1",
+        "mtjfssm": "由绑定的标准材料系统模板自动生成申请表,不再需要企业、群众上传或提交纸质申请表",
+        "pxh": 1.0,
+        "sfxtmb": "0",
+        "sfykb": "1",
+        "sfyslb": "1",
+        "tbxz": "真实有效",
+        "tgfs": "2",
+        "type": "1",
+        "yjsMlSsqdClId": "260914E25C79416FBE6BBC29C2F3FD0E",
+        "yjsSsqdId": "B35B37F8176945DE8BABF3FCED60A8CE",
+        "yqtgyj": "真实有效",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1739158237000
+          }
+        ],
+        "bzclId": "M43PCP00080002",
+        "cjsj": 1739158237000,
+        "clbyx": "1",
+        "clbz": "材料齐全",
+        "cljm": "0",
+        "cllx": "3",
+        "cllyqd": "10",
+        "cllyqdsm": "申请人自备",
+        "clmc": "死亡人员身份证",
+        "clxs": "3",
+        "clxz": "2",
+        "gxsj": 1772136305000,
+        "materialCode": "L2000016",
+        "materialTitle": "中华人民共和国居民身份证",
+        "mtjfs": "2",
+        "mtjfssm": "通过绑定的电子证照材料，提供证照材料自动关联实现免提交",
+        "pxh": 2.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "无法提供死亡人员户口页或身份证的，提交死亡人员户口注销证明具有同等效力。",
+        "tgfs": "2",
+        "type": "1",
+        "yjsMlSsqdClId": "2B47F4B8E4D04BECB7F8B21720166781",
+        "yjsSsqdId": "B35B37F8176945DE8BABF3FCED60A8CE",
+        "yqtgyj": "暂无",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1739158353000
+          }
+        ],
+        "bzclId": "M43PCP00080003",
+        "cjsj": 1739158353000,
+        "clbyx": "1",
+        "clbz": "真实有效",
+        "cljm": "0",
+        "cllx": "3",
+        "cllyqd": "10",
+        "clmc": "死亡人员户口页",
+        "clxs": "3",
+        "clxz": "2",
+        "gxsj": 1772136305000,
+        "materialCode": "L2000017",
+        "materialTitle": "居民户口簿",
+        "mtjfs": "2",
+        "mtjfssm": "通过绑定的电子证照材料，提供证照材料自动关联实现免提交",
+        "pxh": 3.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "真实有效",
+        "tgfs": "2",
+        "type": "1",
+        "yjsMlSsqdClId": "96066630ECEB4AC2A1116382DEB6716B",
+        "yjsSsqdId": "B35B37F8176945DE8BABF3FCED60A8CE",
+        "yqtgyj": "暂无",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1739158402000
+          }
+        ],
+        "bzclId": "M43PCP00080004",
+        "cjsj": 1739158402000,
+        "clbyx": "1",
+        "clbz": "真实有效",
+        "cljm": "0",
+        "cllx": "3",
+        "cllyqd": "10",
+        "clmc": "申请人身份证",
+        "clxs": "3",
+        "clxz": "2",
+        "gxsj": 1772136305000,
+        "materialCode": "L2000016",
+        "materialTitle": "中华人民共和国居民身份证",
+        "mtjfs": "2",
+        "mtjfssm": "通过绑定的电子证照材料，提供证照材料自动关联实现免提交",
+        "pxh": 4.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "真实有效",
+        "tgfs": "2",
+        "type": "1",
+        "yjsMlSsqdClId": "07F4BCC04CAF47AA957612A68F7F9960",
+        "yjsSsqdId": "B35B37F8176945DE8BABF3FCED60A8CE",
+        "yqtgyj": "暂无",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1739158466000
+          }
+        ],
+        "bzclId": "M43PCP00080005",
+        "cjsj": 1739158466000,
+        "clbyx": "1",
+        "clbz": "真实有效",
+        "cljm": "0",
+        "cllx": "3",
+        "cllyqd": "10",
+        "clmc": "《居民死亡医学证明（推断）书》、非正常死亡证明",
+        "clxs": "3",
+        "clxz": "3",
+        "gxsj": 1772136305000,
+        "mtjfs": "4",
+        "pxh": 5.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "真实有效",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "D53D2A621FD84425A7986E5408D8C162",
+        "yjsSsqdId": "B35B37F8176945DE8BABF3FCED60A8CE",
+        "yqtgyj": "暂无",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1739158402000
+          }
+        ],
+        "bzclId": "M43PCP00080009",
+        "cjsj": 1739158402000,
+        "clbyx": "2",
+        "clbz": "真实有效",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "公证书或法院生效判决书",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1772136305000,
+        "mtjfs": "4",
+        "pxh": 7.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "真实有效",
+        "tgfs": "0",
+        "type": "1",
+        "yjsMlSsqdClId": "E82D33C16C2142C29F4FB0027A3D3BD1",
+        "yjsSsqdId": "B35B37F8176945DE8BABF3FCED60A8CE",
+        "yqtgyj": "暂无",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1739158402000
+          }
+        ],
+        "bzclId": "M43PCP00080010",
+        "cjsj": 1739158402000,
+        "clbyx": "2",
+        "clbz": "真实有效",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "亲属关系证明",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1772136305000,
+        "mtjfs": "4",
+        "pxh": 8.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "户口本、出生证明或其他能证明关系的材料",
+        "tgfs": "0",
+        "type": "1",
+        "yjsMlSsqdClId": "FA685D067F1A471A8D8E7B64AAF8DA34",
+        "yjsSsqdId": "B35B37F8176945DE8BABF3FCED60A8CE",
+        "yqtgyj": "暂无",
+        "zt": "0",
+        "zzclfs": 1.0
+      }
+    ],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "提交申请->“一件事一次办”专窗收取材料->办件分发至业务办理部门->办理部门依据相关法律法规规章完成受理审批程序->“一件事一次办”专窗统一出件",
+      "blxs": "1",
+      "bszt": "1",
+      "cjrId": "p3tiabx8eSibiaS0Cd0Ny7RMg",
+      "cjsj": 1739155707000,
+      "cnbjsx": "30",
+      "dbsxccs": "0",
+      "dbsxcyyhhj": "暂无",
+      "dndtzdz": "暂无",
+      "gqbjlx": 2.0,
+      "gqblsx": 60.0,
+      "gqpdcs": 14.0,
+      "gqsbcl": 27.0,
+      "gxrId": "2iaESxHTtT6KRRMVBbG9xqQ",
+      "gxsj": 1749798749000,
+      "hjsgq": 35.0,
+      "hjsxz": 5.0,
+      "jgsdsm": "全省各市州、县市区政务服务大厅'一件事一次办'专窗、各乡镇（街道）均可办理",
+      "jsms": "1",
+      "lbjgId": "11,14,17,23,36,12,31,99,09",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "2",
+      "xsblqd": "1,2",
+      "xxbldsm": "线下办理",
+      "xxcktzdz": "暂无",
+      "xzbjlx": 2.0,
+      "xzblsx": 30.0,
+      "xzpdcs": 0.0,
+      "xzsbcl": 7.0,
+      "yddtzdz": "暂无",
+      "yjsMlBzhId": "804702D701164F608E3046EE66CDADA9",
+      "yjsbsznId": "C27B6673FD474E24A48F675237F99C1C",
+      "ywzjfw": "0",
+      "zcblqd": "1,2,4",
+      "zcblqdWbdz": "暂无"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "遗体火化证明开具",
+        "resultSampleName": "火化证明",
+        "tyywblxName": "遗体火化证明开具"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业职工养老保险待遇暂停",
+        "resultSampleName": "",
+        "tyywblxName": "暂停养老保险待遇申请"
+      },
+      {
+        "cnsxsx": 30.0,
+        "lbsxfwmc": "企业退休职工(无工伤信息)遗属待遇",
+        "resultSampleName": "",
+        "tyywblxName": "企业退休职工(无工伤信息)遗属待遇"
+      },
+      {
+        "cnsxsx": 30.0,
+        "lbsxfwmc": "企业退休职工(无工伤信息)个人账户余额申领",
+        "resultSampleName": "无",
+        "tyywblxName": "遗属待遇申领"
+      },
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "基本医疗保险减少登记（终止参保）",
+        "resultSampleName": "无",
+        "tyywblxName": "职工减少登记（终止参保）"
+      },
+      {
+        "cnsxsx": 10.0,
+        "lbsxfwmc": "参保人员个人账户一次性支取",
+        "resultSampleName": "一次性支取申请表",
+        "tyywblxName": "参保人员个人账户一次性支取"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "驾驶证注销",
+        "resultSampleName": "注销机动车驾驶许可决定书",
+        "tyywblxName": "驾驶证注销"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "已故人员股权登记信息查询(继承人查询)",
+        "resultSampleName": "",
+        "tyywblxName": "已故人员股权登记信息查询(继承人查询)"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "死亡或被宣告死亡提取住房公积金",
+        "resultSampleName": "暂无",
+        "tyywblxName": "死亡或被宣告死亡提取住房公积金"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "遗嘱公证信息核查",
+        "resultSampleName": "公证遗嘱登记信息查询单",
+        "tyywblxName": "遗嘱公证信息核查"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "户口注销",
+        "resultSampleName": "注销户口证明",
+        "tyywblxName": "死亡人员户口注销"
+      },
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "死亡证办理（正常）",
+        "resultSampleName": "死亡医学（推断）证明书",
+        "tyywblxName": "死亡医学（推断）证明书办理"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "出具死亡证明(非正常死亡)",
+        "resultSampleName": "",
+        "tyywblxName": "出具死亡证明(非正常死亡)"
+      },
+      {
+        "cnsxsx": 30.0,
+        "lbsxfwmc": "已故存款人小额存款提取(继承人提取)",
+        "resultSampleName": "",
+        "tyywblxName": "已故存款人小额存款提取(继承人提取)"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "湖南省省内户籍死亡人员的继承人",
+        "cjsj": 1739156233000,
+        "processingConditions": "湖南省省内户籍死亡人员的继承人",
+        "pxh": 1.0,
+        "smmc": "湖南省省内户籍死亡人员的继承人",
+        "yjsBsznbltjId": "8EE2A954BE0F47A689B5E1E4303498CE",
+        "yjsbsznId": "C27B6673FD474E24A48F675237F99C1C",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [
+      {
+        "answer": "因为非正常死亡涉及案件办理，只能线下办理。",
+        "da": "因为非正常死亡涉及案件办理，只能线下办理。",
+        "problem": "请问非正常死亡的是否能办理身后一件事？",
+        "pxh": 0.0,
+        "wt": "请问非正常死亡的是否能办理身后一件事？",
+        "yjsMlSsqdQuestionId": "D993126C2E71480989B5701A1DB3A9C2",
+        "yjsSsqdId": "B35B37F8176945DE8BABF3FCED60A8CE"
+      }
+    ],
+    "sxmc": "个人身后“一件事”",
+    "yjsSsqdbm": "43PCP0008225J0424",
+    "basicInfo": {
+      "aheadFrequency": "0",
+      "areaName": "衡东县",
+      "completedLimit": "30",
+      "cooperateName": "公安部门,民政部门,司法部门,人社部门,住建部门,卫健部门,市监部门,医保部门,其他部门",
+      "isCharge": "1",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0734-12345",
+      "lbjgId": "11,14,17,23,36,12,31,99,09",
+      "qtbmId": "ac2c5099eba4427e9339a301b115b7de",
+      "qtbmmc": "衡东县民政局",
+      "reasonLink": "暂无",
+      "yjsssqdbsznid": "9BC5BFA02338429AB71D0A5DE43E3D9C",
+      "zxdh": "0734-5222461"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

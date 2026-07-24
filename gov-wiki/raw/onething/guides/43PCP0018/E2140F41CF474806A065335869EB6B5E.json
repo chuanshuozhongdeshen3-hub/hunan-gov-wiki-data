@@ -1,0 +1,166 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1758695686000,
+        "fjId": "px1Il5kzSI2D8usJIOG-cA",
+        "fjbm": "100001",
+        "fjdx": 0.059,
+        "fjlj": "orchestrate/2025-09-24/1758695686860$$1.png",
+        "fjlx": ".png",
+        "fjmc": "1.png",
+        "s3tmc": "zwfw202509",
+        "sfyx": "Y",
+        "ywdxId": "A950CF3F5C5146E08B925116F95956A4"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "郴州市政务服务中心",
+        "blsj": "法定工作日,夏季（5月1日—9月30日）：上午9:00—12:00,下午2:30—5:30；冬季（10月1日—次年4月30日）：上午9:00—12:00,下午2:00—5:00",
+        "cjsj": 1762156910898,
+        "gxsj": 1762156910000,
+        "infoAddr": "郴州市苏仙区青年大道下白水村城投大厦二号栋市政务服务中心一楼“高效办成一件事”重点事项服务专区",
+        "pointName": "郴州市政务服务中心",
+        "processingTime": "法定工作日,夏季（5月1日—9月30日）：上午9:00—12:00,下午2:30—5:30；冬季（10月1日—次年4月30日）：上午9:00—12:00,下午2:00—5:00",
+        "pxh": 1,
+        "xxdz": "郴州市苏仙区青年大道下白水村城投大厦二号栋市政务服务中心一楼“高效办成一件事”重点事项服务专区",
+        "yjsBldId": "61EF41CC0EA24B8E85D269B04ABA4A01",
+        "ywzjId": "E58E93CBBF814AF3B5CB789D242F013B",
+        "zt": "0"
+      }
+    ],
+    "materialList": [],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "1.邮件查询、政策查询直接通过邮件“一站式”办理平台办理。 2.邮件确认、补充申报、缴税、税款复核申请、申请退税、申请退运等业务，在收到短信通知后，登录邮件“一站式”办理平台，在业务办理功能模块按提示要求办理。",
+      "blxs": "1",
+      "bszt": "1",
+      "cjrId": "7t907fCmRzeek2ic6O3zNxw",
+      "cjsj": 1758621548000,
+      "cnbjsx": "1",
+      "dbsxccs": "0",
+      "dbsxcyyhhj": "无",
+      "dndtzdz": "https://customs.chinaport.gov.cn/ociswebserver/pages/cus/#/oneStopService/index?id=pac",
+      "gqbjlx": 2.0,
+      "gqblsx": 5.0,
+      "gqpdcs": 1.0,
+      "gqsbcl": 4.0,
+      "gxrId": "7t907fCmRzeek2ic6O3zNxw",
+      "gxsj": 1758621548000,
+      "hjsgq": 5.0,
+      "hjsxz": 1.0,
+      "jgsdsm": "邮寄",
+      "jsms": "2",
+      "lbjgId": "29",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "2",
+      "xsblqd": "1",
+      "xxbldsm": "政务专窗",
+      "xzbjlx": 1.0,
+      "xzblsx": 1.0,
+      "xzpdcs": 0.0,
+      "xzsbcl": 4.0,
+      "yjsMlBzhId": "A40D296F714743BC9A9CC6E0545A9D4E",
+      "yjsbsznId": "A950CF3F5C5146E08B925116F95956A4",
+      "ywzjfw": "0",
+      "zcblqd": "1",
+      "zcblqdWbdz": "https://customs.chinaport.gov.cn/ociswebserver/pages/cus/#/oneStopService/index?id=pac",
+      "zxdh": "0731-84801052"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "进出境邮件通关手续办理",
+        "resultSampleName": "",
+        "tyywblxName": "进出境邮件通关手续办理"
+      },
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "邮件“一站式”办理平台接入办理税款功能",
+        "resultSampleName": "",
+        "tyywblxName": "邮件“一站式”办理平台接入办理税款功能"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "进出境邮件海关监管政策宣传、解读",
+        "resultSampleName": "",
+        "tyywblxName": "进出境邮件海关监管政策宣传、解读"
+      },
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "邮政寄递业务信息系统对接",
+        "resultSampleName": "",
+        "tyywblxName": "邮政寄递业务信息系统对接"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "通过提供姓名、身份证件号码等身份信息在邮件“一站式”办理平台注册账号，登录后即可办理相关事项。",
+        "cjsj": 1758695800000,
+        "processingConditions": "通过提供姓名、身份证件号码等身份信息在邮件“一站式”办理平台注册账号，登录后即可办理相关事项。",
+        "pxh": 1.0,
+        "smmc": "通过提供姓名、身份证件号码等身份信息在邮件“一站式”办理平台注册账号，登录后即可办理相关事项。",
+        "yjsBsznbltjId": "2F1021120BAE40FC8735BDB3B909BC1C",
+        "yjsbsznId": "A950CF3F5C5146E08B925116F95956A4",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [
+      {
+        "answer": "4个移动端：“掌上海关”APP、“掌上海关”微信小程序、“掌上单一窗口”APP 、“掌上单一窗口” 微信小程序。\n 2个电脑端：“互联网+海关”一体化平台（网址：online.customs.gov.cn）、“中国国际贸易单一窗口”（网址：www.singlewindow.cn）。",
+        "da": "4个移动端：“掌上海关”APP、“掌上海关”微信小程序、“掌上单一窗口”APP 、“掌上单一窗口” 微信小程序。\n 2个电脑端：“互联网+海关”一体化平台（网址：online.customs.gov.cn）、“中国国际贸易单一窗口”（网址：www.singlewindow.cn）。",
+        "problem": "邮件“一站式”办理平台可通过哪些平台登录操作？",
+        "pxh": 0.0,
+        "wt": "邮件“一站式”办理平台可通过哪些平台登录操作？",
+        "yjsMlSsqdQuestionId": "F42FDC46F78F4111936EF0014BFCB9DD",
+        "yjsSsqdId": "E2140F41CF474806A065335869EB6B5E"
+      },
+      {
+        "answer": "您可以在“掌上海关”APP/微信小程序--我的--意见反馈，或者“掌上单一窗口”APP--我的--关于--意见反馈，填写有关意见或者优化建议。您也可以通过12360热线电话反馈存在的问题。",
+        "da": "您可以在“掌上海关”APP/微信小程序--我的--意见反馈，或者“掌上单一窗口”APP--我的--关于--意见反馈，填写有关意见或者优化建议。您也可以通过12360热线电话反馈存在的问题。",
+        "problem": "邮件“一站式”办理平台有关意见建议，在哪里反馈？",
+        "pxh": 1.0,
+        "wt": "邮件“一站式”办理平台有关意见建议，在哪里反馈？",
+        "yjsMlSsqdQuestionId": "E316795013764F1DA9EA00E1DB2B3BA3",
+        "yjsSsqdId": "E2140F41CF474806A065335869EB6B5E"
+      },
+      {
+        "answer": "通过海关线上渠道办理或到海关现场业务窗口办理的，海关不收取任何费用。",
+        "da": "通过海关线上渠道办理或到海关现场业务窗口办理的，海关不收取任何费用。",
+        "problem": "邮件“一站式”办理平台中的补充申报、退运申请等操作，是否收费？",
+        "pxh": 2.0,
+        "wt": "邮件“一站式”办理平台中的补充申报、退运申请等操作，是否收费？",
+        "yjsMlSsqdQuestionId": "E3264AE918AB4FC78CBAA6A6F692C882",
+        "yjsSsqdId": "E2140F41CF474806A065335869EB6B5E"
+      }
+    ],
+    "sxmc": "进出境邮件通关“一件事”",
+    "yjsSsqdbm": "43PCP0018226J1000",
+    "basicInfo": {
+      "aheadFrequency": "0",
+      "areaName": "郴州市",
+      "completedLimit": "1",
+      "cooperateName": "海关部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0735-12345",
+      "lbjgId": "29",
+      "qtbmId": "Qu8iauibzmSOWnt6rr43525A",
+      "qtbmmc": "郴州海关",
+      "reasonLink": "无",
+      "yjsssqdbsznid": "E58E93CBBF814AF3B5CB789D242F013B",
+      "zxdh": "0735-2877415"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

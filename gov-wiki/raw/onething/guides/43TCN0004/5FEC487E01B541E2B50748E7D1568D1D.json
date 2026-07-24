@@ -1,0 +1,773 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1735033620000,
+        "fjId": "2bdaWFmZRiCnoVTnp3xwYQ",
+        "fjbm": "100001",
+        "fjdx": 0.086,
+        "fjlj": "orchestrate/2024-12-24/1735033620423$$水电气网流程图.png",
+        "fjlx": ".png",
+        "fjmc": "水电气网流程图.png",
+        "s3tmc": "zwfw202412",
+        "sfyx": "Y",
+        "ywdxId": "8937716BCAC440FE844AE1DB3EE75065"
+      },
+      {
+        "cjsj": 1735097308000,
+        "fjId": "O1A6Swm7QF6DP1Bu2ntxpg",
+        "fjbm": "100001",
+        "fjdx": 0.11,
+        "fjlj": "orchestrate/2024-12-25/1735097308794$$水电气网流程图.png",
+        "fjlx": ".png",
+        "fjmc": "水电气网流程图.png",
+        "s3tmc": "zwfw202412",
+        "sfyx": "Y",
+        "ywdxId": "8937716BCAC440FE844AE1DB3EE75065"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "靖州县政务服务中心",
+        "blsj": "全年法定工作日,上午9:00--12:00；下午13:30--17:00",
+        "cjsj": 1723622620049,
+        "gxsj": 1760063505000,
+        "infoAddr": "湖南省怀化市靖州县渠阳镇体育路政务服务中心大楼二楼工改专区94号窗口",
+        "pointName": "靖州县政务服务中心",
+        "processingTime": "全年法定工作日,上午9:00--12:00；下午13:30--17:00",
+        "pxh": 1,
+        "xxdz": "湖南省怀化市靖州县渠阳镇体育路政务服务中心大楼二楼工改专区94号窗口",
+        "yjsBldId": "8F6F83D092A147918BB22635C695F8AA",
+        "ywzjId": "DA08A76FAFE0405B8D7FB9BDEE911FFF",
+        "zt": "0"
+      },
+      {
+        "bldmc": "靖州县政务服务中心",
+        "blsj": "全年法定工作日,上午9:00--12:00;下午13:30--17:00",
+        "cjsj": 1766113433512,
+        "gxsj": 1774594656000,
+        "infoAddr": "湖南省怀化市靖州县渠阳镇体育路政务服务中心大楼二楼“高效办成一件事”重点事项服务专窗27、28号窗口",
+        "pointName": "靖州县政务服务中心",
+        "processingTime": "全年法定工作日,上午9:00--12:00;下午13:30--17:00",
+        "pxh": 2,
+        "xxdz": "湖南省怀化市靖州县渠阳镇体育路政务服务中心大楼二楼“高效办成一件事”重点事项服务专窗27、28号窗口",
+        "yjsBldId": "72E42FC0125E44AF866289FE0D0A438F",
+        "ywzjId": "DA08A76FAFE0405B8D7FB9BDEE911FFF",
+        "zt": "0"
+      }
+    ],
+    "materialList": [
+      {
+        "attachList": [
+          {
+            "cjsj": 1725268592000
+          }
+        ],
+        "bzclId": "M43TCN00040011",
+        "cjsj": 1725268592000,
+        "clbyx": "3",
+        "clbz": "用户报装容量符合低压接入标准，报装所需资料齐全。",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "用电工程项目批准文件",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1774594665000,
+        "mtjfs": "4",
+        "pxh": 12.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "自动生成",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "592E3F3001F0422E9A1364A8191512FE",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1725268347000
+          }
+        ],
+        "bzclId": "M43TCN00040007",
+        "cjsj": 1725268347000,
+        "clbyx": "3",
+        "clbz": "用户在供气企业供气管网覆盖范围内",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "室内外水、暖、电、道路平面图",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1774594665000,
+        "mtjfs": "4",
+        "pxh": 8.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "自动生成",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "D9A373023A4A400188CA539F58076B08",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1719638626000
+          },
+          {
+            "cjsj": 1719638626000
+          }
+        ],
+        "bzclId": "M43TCN00040001",
+        "cjsj": 1719638626000,
+        "clbyx": "1",
+        "clbz": "材料齐全，内容真实",
+        "cljm": "0",
+        "cllx": "3",
+        "cllyqd": "10",
+        "cllyqdsm": "A4",
+        "clmc": "法人或经办人（授权委托书）身份证",
+        "clxs": "3",
+        "clxz": "2",
+        "gxsj": 1774594665000,
+        "mtjfs": "4",
+        "pxh": 1.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "需要提供法人的有效身份证件",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "D147882C46CB4A9388E84E998B6BEC0B",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D",
+        "yqtgyj": "申请人自备",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "申请人自备"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1724643301000
+          },
+          {
+            "cjsj": 1724643301000
+          }
+        ],
+        "bzclId": "M43TCN00040001",
+        "cjsj": 1724643301000,
+        "clbyx": "1",
+        "clbz": "申请人自备",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "20",
+        "clmc": "统一社会信用代码证",
+        "clxs": "4",
+        "clxz": "2",
+        "gxsj": 1774594665000,
+        "mtjfs": "4",
+        "pxh": 2.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "申请人自备",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "407A5F6234FE4A0FAE278D1854BD1261",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D",
+        "yqtgyj": "国务院关于进一步优化政务服务提升行政效能推动“高效办成一件事”的指导意见国发〔2024〕3号",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1725268293000
+          }
+        ],
+        "bzclId": "M43TCN00040005",
+        "cjsj": 1725268293000,
+        "clbyx": "3",
+        "clbz": "用户在供气企业供气管网覆盖范围内",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "区域1:500总平面地形图",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1774594665000,
+        "mtjfs": "4",
+        "pxh": 6.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "自动生成",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "B5F58F20C4DA431597810A751F50B52B",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1725268321000
+          }
+        ],
+        "bzclId": "M43TCN00040006",
+        "cjsj": 1725268321000,
+        "clbyx": "3",
+        "clbz": "用户在供气企业供气管网覆盖范围内",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "1:100用气点平面图",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1774594665000,
+        "mtjfs": "4",
+        "pxh": 7.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "自动生成",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "8AB21E49D62D447B9495578821854B65",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1725268234000
+          }
+        ],
+        "bzclId": "M43TCN00040004",
+        "cjsj": 1725268234000,
+        "clbyx": "3",
+        "clbz": "用户在供气企业供气管网覆盖范围内",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "委托设计及施工确认函",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1774594665000,
+        "mtjfs": "4",
+        "pxh": 5.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "自动生成",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "3A0C276CF4C9497AB521A9C2B47B09B5",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1725268426000
+          }
+        ],
+        "bzclId": "M43TCN00040008",
+        "cjsj": 1725268426000,
+        "clbyx": "3",
+        "clbz": "新建民用住宅小区、楼宇建筑物、园区建设项目符合国家、省光纤到户、移动通信建设标准。\n既有住宅小区、楼宇建筑物、园区等建筑产权或管理单位提供配套设施，具备通信设施安装及施工条件。",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "光纤到户及通信基础设施报装申请表",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1774594665000,
+        "mtjfs": "4",
+        "pxh": 9.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "自动生成",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "4E04AA02E2F742D8B9B9BDFF0702864D",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1725268111000
+          }
+        ],
+        "bzclId": "M43TCN00040002",
+        "cjsj": 1725268111000,
+        "clbyx": "3",
+        "clbz": "用户在供气企业供气管网覆盖范围内",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "用气报装申请函",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1774594665000,
+        "mtjfs": "4",
+        "pxh": 3.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "自动生成",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "FA191D04133A4D3A83BBB1AA2EAC3F2D",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1725268455000
+          }
+        ],
+        "bzclId": "M43TCN00040009",
+        "cjsj": 1725268455000,
+        "clbyx": "3",
+        "clbz": "新建民用住宅小区、楼宇建筑物、园区建设项目符合国家、省光纤到户、移动通信建设标准。\n既有住宅小区、楼宇建筑物、园区等建筑产权或管理单位提供配套设施，具备通信设施安装及施工条件。",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "光纤到户及通信设施建设执行标准承诺函",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1774594665000,
+        "mtjfs": "4",
+        "pxh": 10.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "自动生成",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "86ED0248009E41BCA89A0A4E7967C78E",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D",
+        "yqtgyj": "国务院关于进一步优化政务服务提升行政效能推动“高效办成一件事”的指导意见国发〔2024〕3号",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1729739537000
+          }
+        ],
+        "bzclId": "M43TCN00040013",
+        "cjsj": 1729739537000,
+        "clbyx": "1",
+        "clbz": "全省各类住宅区及住宅建筑、商业楼宇（含写字楼、商住楼、酒店）、医院、园区（含校园）等建设项目提供配套广播电视有线网络接入服务",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "99",
+        "clmc": "建筑总平面图和工程项目弱电图纸",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1774594665000,
+        "mtjfs": "4",
+        "pxh": 14.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "自动生成",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "638B38E0F1614306BB62B42307FE023A",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D",
+        "yqtgyj": "湖南省工程建设领域市政公用服务报装接入办事指南",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1725268491000
+          }
+        ],
+        "bzclId": "M43TCN00040010",
+        "cjsj": 1725268491000,
+        "clbyx": "3",
+        "clbz": "用户报装容量符合低压接入标准，报装所需资料齐全。",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "用电地址物业权属证明（房屋产权证明或土地权属证明文件等）",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1774594665000,
+        "mtjfs": "4",
+        "pxh": 11.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "自动生成",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "61FEDA3F7AF24FC0819E2664F89618D4",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1729738457000
+          }
+        ],
+        "bzclId": "M43TCN00040012",
+        "cjsj": 1729738457000,
+        "clbyx": "1",
+        "clbz": "全省各类住宅区及住宅建设、商业楼宇（含写字楼、商住楼、酒店）、医院、园区(含校园）等建设项目提供配套广播电视有限网络接入服务",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "20",
+        "clmc": "建设工程规划许可证",
+        "clxs": "4",
+        "clxz": "2",
+        "gxsj": 1774594665000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 13.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "自动生成",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "123614C2532141359699F45190451450",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D",
+        "yqtgyj": "湖南省工程建设领域市政公用服务报装接入办事指南",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1725268136000
+          }
+        ],
+        "bzclId": "M43TCN00040003",
+        "cjsj": 1725268136000,
+        "clbyx": "3",
+        "clbz": "用户在供气企业供气管网覆盖范围内",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "用气地址权属证明",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1774594665000,
+        "mtjfs": "4",
+        "pxh": 4.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "自动生成",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "9BB85A9BD1F34B7DB20AD94A4DC6B272",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D",
+        "zt": "0",
+        "zzclfs": 1.0
+      }
+    ],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "流程申请",
+      "blxs": "1",
+      "bszt": "0",
+      "cjrId": "KPrcgEhQTcuktJLw0GHTIw",
+      "cjsj": 1719637404000,
+      "cnbjsx": "2",
+      "dbsxccs": "1",
+      "dbsxcyyhhj": "提交材料信息",
+      "dndtzdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_008_ydqwlhbz.jsp",
+      "gqbjlx": 2.0,
+      "gqblsx": 12.0,
+      "gqpdcs": 5.0,
+      "gqsbcl": 12.0,
+      "gxrId": "KPrcgEhQTcuktJLw0GHTIw",
+      "gxsj": 1719638662666,
+      "hjsgq": 12.0,
+      "hjsxz": 1.0,
+      "jdtsdh": "0731-88950406",
+      "jgsdsm": "无",
+      "jsms": "1",
+      "lbjgId": "17,32,99",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "A",
+      "xsblqd": "1",
+      "xxbldsm": "政务大厅窗口",
+      "xxcktzdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_008_ydqwlhbz.jsp",
+      "xzbjlx": 2.0,
+      "xzblsx": 2.0,
+      "xzpdcs": 1.0,
+      "xzsbcl": 2.0,
+      "yjsMlBzhId": "01AE79F2866A44638233C5C3C416D92A",
+      "yjsbsznId": "8937716BCAC440FE844AE1DB3EE75065",
+      "ywzjfw": "0",
+      "zcblqd": "1,4",
+      "zcblqdWbdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_008_ydqwlhbz.jsp",
+      "zxdh": "0731-88950406",
+      "zxdz": "http://zjsz.hunanjs.gov.cn/szjcs/#/mhMainPage/selectionNotice?menuId=9"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "供排水报装",
+        "resultSampleName": "",
+        "tyywblxName": "供排水报装"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "供电报装",
+        "resultSampleName": "",
+        "tyywblxName": "供电报装"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "燃气报装",
+        "resultSampleName": "",
+        "tyywblxName": "燃气报装"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "通信报装",
+        "resultSampleName": "",
+        "tyywblxName": "通信报装"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "广播电视报装",
+        "resultSampleName": "",
+        "tyywblxName": "广播电视报装"
+      },
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "水电气网接入外线工程联合审批",
+        "resultSampleName": "",
+        "tyywblxName": "水电气网接入外线工程联合审批"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "服务对象",
+        "cjsj": 1723532547000,
+        "processingConditions": "服务对象",
+        "pxh": 1.0,
+        "smmc": "城市建成区新建（改建、扩建）房屋建筑和市政工程建设项目需要办理市政水电气网报装事项以及市政水电气网接入外线工程审批的建设单位",
+        "yjsBsznbltjId": "D69658E805FA430A9D8AACEBF0802AE9",
+        "yjsbsznId": "8937716BCAC440FE844AE1DB3EE75065",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [
+      {
+        "answer": "供水报装、供电报装、供气报装、通信报装、广播电视报装、排水报装和水电气网接入外线工程涉及联合审批事项。",
+        "da": "供水报装、供电报装、供气报装、通信报装、广播电视报装、排水报装和水电气网接入外线工程涉及联合审批事项。",
+        "problem": "水电气网联合报装办理事项有哪些？",
+        "pxh": 0.0,
+        "wt": "水电气网联合报装办理事项有哪些？",
+        "yjsMlSsqdQuestionId": "65B9C15E462944B587A5C65AADF8C79F",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D"
+      },
+      {
+        "answer": "审核后由各市州牵头服务单位组织",
+        "da": "审核后由各市州牵头服务单位组织",
+        "problem": "“水电气网联合报装”由哪个部门组织联合踏勘？",
+        "pxh": 1.0,
+        "wt": "“水电气网联合报装”由哪个部门组织联合踏勘？",
+        "yjsMlSsqdQuestionId": "A62E0BA230304B8DA44FBAD07BCF6427",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D"
+      },
+      {
+        "answer": "审核后由各市州牵头服务单位组织，与企业预约上门时间",
+        "da": "审核后由各市州牵头服务单位组织，与企业预约上门时间",
+        "problem": "“水电气网联合报装”联合踏勘可否预约时间？",
+        "pxh": 2.0,
+        "wt": "“水电气网联合报装”联合踏勘可否预约时间？",
+        "yjsMlSsqdQuestionId": "4BDB2F733EB64BA292AA8122C563141E",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D"
+      },
+      {
+        "answer": "1.法人或经办人（授权委托书）身份证\n2.统一社会信用代码证",
+        "da": "1.法人或经办人（授权委托书）身份证\n2.统一社会信用代码证",
+        "problem": "联合报装的材料清单有哪些？",
+        "pxh": 3.0,
+        "wt": "联合报装的材料清单有哪些？",
+        "yjsMlSsqdQuestionId": "2971F1CEB6BF43CCA9B7408B2F81504B",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D"
+      },
+      {
+        "answer": "一共5个环节",
+        "da": "一共5个环节",
+        "problem": "无外线工程一共几个环节？",
+        "pxh": 4.0,
+        "wt": "无外线工程一共几个环节？",
+        "yjsMlSsqdQuestionId": "A820C3162CB44183B1DA650B678D188B",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D"
+      },
+      {
+        "answer": "申请报装环节无收费",
+        "da": "申请报装环节无收费",
+        "problem": "水电气网联合报装事项是否收费？",
+        "pxh": 5.0,
+        "wt": "水电气网联合报装事项是否收费？",
+        "yjsMlSsqdQuestionId": "F347D63AC0584781A5AFE0C47662B00B",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D"
+      },
+      {
+        "answer": "可根据企业需求自主选择报装类别",
+        "da": "可根据企业需求自主选择报装类别",
+        "problem": "可以不可单独报装？",
+        "pxh": 6.0,
+        "wt": "可以不可单独报装？",
+        "yjsMlSsqdQuestionId": "C10AB587998A491DAC8F22295EC07A61",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D"
+      },
+      {
+        "answer": "可以，采用按需报装原则",
+        "da": "可以，采用按需报装原则",
+        "problem": "之前申报过其中一两项的项目，后续其他内容是否可以申请联合报装",
+        "pxh": 7.0,
+        "wt": "之前申报过其中一两项的项目，后续其他内容是否可以申请联合报装",
+        "yjsMlSsqdQuestionId": "88E0B9D6F25B48109D16F7C6EA8735DE",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D"
+      },
+      {
+        "answer": "在湖南省政务网站——高效办成一件事栏目中可以查询到市州具体咨询电话。",
+        "da": "在湖南省政务网站——高效办成一件事栏目中可以查询到市州具体咨询电话。",
+        "problem": "是否能够提供相关市州或县城的报装咨询电话？",
+        "pxh": 8.0,
+        "wt": "是否能够提供相关市州或县城的报装咨询电话？",
+        "yjsMlSsqdQuestionId": "7DEE621B1D694B64BFF94827239E76C9",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D"
+      },
+      {
+        "answer": "可以",
+        "da": "可以",
+        "problem": "是否支持全流程线上报装？",
+        "pxh": 9.0,
+        "wt": "是否支持全流程线上报装？",
+        "yjsMlSsqdQuestionId": "3C5DB7D1EC95462CA2BDBF1B2A5CB98A",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D"
+      },
+      {
+        "answer": "线上办理零跑腿、线下一次",
+        "da": "线上办理零跑腿、线下一次",
+        "problem": "水电气网报装需要跑动几次?",
+        "pxh": 10.0,
+        "wt": "水电气网报装需要跑动几次?",
+        "yjsMlSsqdQuestionId": "9610BF23FC2D4234BD3F04ECC2D44708",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D"
+      },
+      {
+        "answer": "城市建成区新建（改建、扩建）房屋建筑和市政工程建设项目需要办理市政水电气网报装事项以及市政水电气网接入外线工程审批的建设单位",
+        "da": "城市建成区新建（改建、扩建）房屋建筑和市政工程建设项目需要办理市政水电气网报装事项以及市政水电气网接入外线工程审批的建设单位",
+        "problem": "请问水电气网联合报装具备的条件有哪些？",
+        "pxh": 11.0,
+        "wt": "请问水电气网联合报装具备的条件有哪些？",
+        "yjsMlSsqdQuestionId": "2C61F565352E4643A51B689054982792",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D"
+      },
+      {
+        "answer": "是的，需填写联合报装申请表",
+        "da": "是的，需填写联合报装申请表",
+        "problem": "请问水电气网联合报装是否只填写一份申请？",
+        "pxh": 12.0,
+        "wt": "请问水电气网联合报装是否只填写一份申请？",
+        "yjsMlSsqdQuestionId": "E5CA205F76384CB99920504FACFD339B",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D"
+      },
+      {
+        "answer": "请前往湖南省政务服务网注册登录账号后，进入高效办成一件事服务专区，选择企业办事中的水电气网联合报装“一件事”，点击“办理指南”查看",
+        "da": "请前往湖南省政务服务网注册登录账号后，进入高效办成一件事服务专区，选择企业办事中的水电气网联合报装“一件事”，点击“办理指南”查看",
+        "problem": "请问水电气网联合报装需要哪些资料吗？",
+        "pxh": 13.0,
+        "wt": "请问水电气网联合报装需要哪些资料吗？",
+        "yjsMlSsqdQuestionId": "F695CF84B6C749D8B28893977AFD6161",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D"
+      },
+      {
+        "answer": "暂时还不能在\"湘易办”APP办理此业务，可登录湖南省政务网站办理",
+        "da": "暂时还不能在\"湘易办”APP办理此业务，可登录湖南省政务网站办理",
+        "problem": "请问水电气网联合报装现在可以在湘易办App办理吗？",
+        "pxh": 14.0,
+        "wt": "请问水电气网联合报装现在可以在湘易办App办理吗？",
+        "yjsMlSsqdQuestionId": "2F62D366895F47EEA4529E6456F86A54",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D"
+      },
+      {
+        "answer": "支持帮代办业务",
+        "da": "支持帮代办业务",
+        "problem": "请问水电气网联合报装在政务服务中心是否支持帮代办？",
+        "pxh": 15.0,
+        "wt": "请问水电气网联合报装在政务服务中心是否支持帮代办？",
+        "yjsMlSsqdQuestionId": "7AC9D51D64D04F6A9F86FD0697C1812A",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D"
+      },
+      {
+        "answer": "不可以申报，暂只面对企业用户",
+        "da": "不可以申报，暂只面对企业用户",
+        "problem": "个人能申请联合报装吗?",
+        "pxh": 16.0,
+        "wt": "个人能申请联合报装吗?",
+        "yjsMlSsqdQuestionId": "A65F256CFCE447BD8EBFA67F3E7A6704",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D"
+      },
+      {
+        "answer": "在湖南省政务网站——高效办成一件事栏目中，选择企业项目归属地办理",
+        "da": "在湖南省政务网站——高效办成一件事栏目中，选择企业项目归属地办理",
+        "problem": "可以跨区域办理吗？",
+        "pxh": 17.0,
+        "wt": "可以跨区域办理吗？",
+        "yjsMlSsqdQuestionId": "38744DF128F245E486066A07E8DD90A5",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D"
+      },
+      {
+        "answer": "各市州县区政务中心“高效办成一件事”专区专柜",
+        "da": "各市州县区政务中心“高效办成一件事”专区专柜",
+        "problem": "这项业务线下在哪里办理？",
+        "pxh": 18.0,
+        "wt": "这项业务线下在哪里办理？",
+        "yjsMlSsqdQuestionId": "0F73C5CC0E1844A6897CFCCD1F5C4DAC",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D"
+      },
+      {
+        "answer": "湖南省政务网站",
+        "da": "湖南省政务网站",
+        "problem": "报装结果在哪里查询？",
+        "pxh": 19.0,
+        "wt": "报装结果在哪里查询？",
+        "yjsMlSsqdQuestionId": "B880DDA27CF84910A4771F58CA68F96B",
+        "yjsSsqdId": "5FEC487E01B541E2B50748E7D1568D1D"
+      }
+    ],
+    "sxmc": "水电气网联合报装“一件事”",
+    "yjsSsqdbm": "43TCN0004A26J1229",
+    "basicInfo": {
+      "aheadFrequency": "1",
+      "areaName": "靖州县",
+      "completedLimit": "2",
+      "cooperateName": "住建部门,广电部门,其他部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0745-8250756",
+      "lbjgId": "17,32,99",
+      "qtbmId": "7e7ec493e4384df0944853c4277f166d",
+      "qtbmmc": "靖州苗族侗族自治县住房和城乡建设局",
+      "reasonLink": "提交材料信息",
+      "yjsssqdbsznid": "DA08A76FAFE0405B8D7FB9BDEE911FFF",
+      "zxdh": "0745-8239169"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

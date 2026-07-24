@@ -1,0 +1,64 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "0",
+      "areaCode": "430771999000",
+      "benji": "1",
+      "orgId": "186a5d5cf5e640d28bfc57548ad59266",
+      "orgLevel": "3",
+      "orgName": "西洞庭管理区区本级",
+      "orgShowName": "西洞庭管理区区本级",
+      "orgSn": "1",
+      "parentCode": "430771000000",
+      "parentId": "e7c22e3d527543e7b9f3da928cbda45f",
+      "parentName": "西洞庭管理区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "1",
+      "areaCode": "430771004000",
+      "benji": "0",
+      "orgId": "tZctcJqIRFiaAOiaTkE6kbzg",
+      "orgLevel": "4",
+      "orgName": "西洞庭管理区龙泉街道",
+      "orgShowName": "龙泉街道",
+      "orgSn": "999",
+      "parentCode": "430771000000",
+      "parentId": "e7c22e3d527543e7b9f3da928cbda45f",
+      "parentName": "西洞庭管理区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "1",
+      "areaCode": "430771005000",
+      "benji": "0",
+      "orgId": "0A8yvVasQibWKhibiaEAeQMwQ",
+      "orgLevel": "4",
+      "orgName": "西洞庭管理区金凤街道",
+      "orgShowName": "金凤街道",
+      "orgSn": "999",
+      "parentCode": "430771000000",
+      "parentId": "e7c22e3d527543e7b9f3da928cbda45f",
+      "parentName": "西洞庭管理区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "1",
+      "areaCode": "430771101000",
+      "benji": "0",
+      "orgId": "ZDusiapjIQqC1qibPLGZaic6g",
+      "orgLevel": "4",
+      "orgName": "西洞庭管理区祝丰镇",
+      "orgShowName": "祝丰镇",
+      "orgSn": "999",
+      "parentCode": "430771000000",
+      "parentId": "e7c22e3d527543e7b9f3da928cbda45f",
+      "parentName": "西洞庭管理区",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

@@ -1,0 +1,296 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1750300690000,
+        "fjId": "nmSZNHclSU-NFmTQAVzhWw",
+        "fjbm": "100001",
+        "fjdx": 0.042,
+        "fjlj": "orchestrate/2025-06-19/1750300690500$$流程图.png",
+        "fjlx": ".png",
+        "fjmc": "流程图.png",
+        "s3tmc": "zwfw202506",
+        "sfyx": "Y",
+        "ywdxId": "FFA762BBE29E4419B150577FB780AE94"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "湖南省邵阳市大祥区西湖路国土大厦二楼“高效办成一件事”重点事项服务专区",
+        "blsj": "工作日：上午9:00-12:00,下午13:30-17:00",
+        "cjsj": 1745808686975,
+        "gxsj": 1766377996000,
+        "infoAddr": "湖南省邵阳市大祥区西湖路国土大厦二楼“高效办成一件事”重点事项服务专区",
+        "pointName": "湖南省邵阳市大祥区西湖路国土大厦二楼“高效办成一件事”重点事项服务专区",
+        "processingTime": "工作日：上午9:00-12:00,下午13:30-17:00",
+        "pxh": 1,
+        "xxdz": "湖南省邵阳市大祥区西湖路国土大厦二楼“高效办成一件事”重点事项服务专区",
+        "yjsBldId": "6D6B26AE33724699860A7FD2CF14723B",
+        "ywzjId": "A28AB8EB5C4B4BD78E0E4B0CFE4FE3AF",
+        "zt": "0"
+      }
+    ],
+    "materialList": [
+      {
+        "attachList": [
+          {
+            "cjsj": 1743576748000,
+            "fjId": "eEECVY4hRdu_xxhi5G_mPw",
+            "fjbm": "100002",
+            "fjdx": 0.112,
+            "fjlj": "orchestrate/2025-11-18/1763428901616$$个人创业“一件事”联办申请表 -示例样表.pdf",
+            "fjlx": ".pdf",
+            "fjmc": "个人创业“一件事”联办申请表 -示例样表.pdf",
+            "s3tmc": "zwfw202511",
+            "sfyx": "Y",
+            "ywdxId": "D73D1DFB4186454A8C8E92CFA297E4FB"
+          },
+          {
+            "cjsj": 1743576748000,
+            "fjId": "4GuLrq9OStOUdwan3t-kTw",
+            "fjbm": "100003",
+            "fjdx": 0.112,
+            "fjlj": "orchestrate/2025-11-18/1763428827872$$个人创业“一件事”联办申请表 -示例样表.pdf",
+            "fjlx": ".pdf",
+            "fjmc": "个人创业“一件事”联办申请表 -示例样表.pdf",
+            "s3tmc": "zwfw202511",
+            "sfyx": "Y",
+            "ywdxId": "D73D1DFB4186454A8C8E92CFA297E4FB"
+          }
+        ],
+        "bzclId": "M43PCP00100010",
+        "cjsj": 1743576748000,
+        "clbyx": "1",
+        "clbz": "材料齐全，内容真实",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "99",
+        "clmc": "个人创业一件事申请表",
+        "clxs": "4",
+        "clxz": "1",
+        "gxsj": 1775160006000,
+        "materialCode": "T0000015",
+        "materialTitle": "个人创业一件事申请表",
+        "mtjfs": "1",
+        "mtjfssm": "由绑定的标准材料系统模板自动生成申请表,不再需要企业、群众上传或提交纸质申请表",
+        "pxh": 1.0,
+        "sfxtmb": "1",
+        "sfykb": "1",
+        "sfyslb": "1",
+        "tbxz": "材料齐全，内容真实",
+        "tgfs": "2",
+        "type": "1",
+        "yjsMlSsqdClId": "E4F399D973F340BE8AF7D56370C63F7E",
+        "yjsSsqdId": "51317394ECB74A60A54F3C73B4686996",
+        "yqtgyj": "材料齐全，内容真实",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1744797058000
+          }
+        ],
+        "bzclId": "M43PCP00100014",
+        "cjsj": 1744797058000,
+        "clbyx": "1",
+        "clbz": "材料齐全，内容真实",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "20",
+        "cllyqdsm": "材料齐全，内容真实",
+        "clmc": "中华人民共和国居民身份证",
+        "clxs": "3",
+        "clxz": "2",
+        "gxsj": 1775160006000,
+        "materialCode": "L2000016",
+        "materialTitle": "中华人民共和国居民身份证",
+        "mtjfs": "2",
+        "mtjfssm": "通过绑定的电子证照材料，提供证照材料自动关联实现免提交",
+        "pxh": 2.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "材料齐全，内容真实",
+        "tgfs": "2",
+        "type": "1",
+        "yjsMlSsqdClId": "D6A63DD4872A4A13BE8BD32946588A0F",
+        "yjsSsqdId": "51317394ECB74A60A54F3C73B4686996",
+        "yqtgyj": "材料齐全，内容真实",
+        "zt": "0",
+        "zzclfs": 1.0
+      }
+    ],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "申请人办理完经营主体登记注册和纳税人信息确认之后，再进行创业事项申请",
+      "blxs": "1",
+      "bszt": "2",
+      "cjrId": "7Op7IPYYQLeUibsPAXxO72Q",
+      "cjsj": 1743046665000,
+      "cnbjsx": "20",
+      "dbsxccs": "1",
+      "dbsxcyyhhj": "如需补充材料提交，需要现场提交",
+      "dndtzdz": "http://zwfw-new.hunan.gov.cn/hnzwfw/1/index.htm",
+      "gqbjlx": 2.0,
+      "gqblsx": 36.0,
+      "gqpdcs": 8.0,
+      "gqsbcl": 15.0,
+      "gxrId": "7Op7IPYYQLeUibsPAXxO72Q",
+      "gxsj": 1743046665000,
+      "hjsgq": 8.0,
+      "hjsxz": 2.0,
+      "jdtsdh": "0731-84900139",
+      "jdtsdz": "省政务大厅",
+      "jgsdsm": "无",
+      "jsms": "2",
+      "lbjgId": "14,30,31",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "2",
+      "xsblqd": "1,2",
+      "xxbldsm": "省市县区政务大厅窗口",
+      "xxcktzdz": "省市县区政务大厅医保窗口",
+      "xzbjlx": 2.0,
+      "xzblsx": 20.0,
+      "xzpdcs": 1.0,
+      "xzsbcl": 2.0,
+      "yddtzdz": "无",
+      "yjsMlBzhId": "71676EDA25734EB786967025DE7C5609",
+      "yjsbsznId": "FFA762BBE29E4419B150577FB780AE94",
+      "ywzjfw": "0",
+      "zcblqd": "1,2,4",
+      "zcblqdWbdz": "http://zwfw-new.hunan.gov.cn/hnzwfw/1/index.htm",
+      "zxdh": "0731-84900136",
+      "zxdz": "省政务大厅"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "就业创业证申领",
+        "resultSampleName": "《就业创业证》",
+        "tyywblxName": "就业创业证申领"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "无雇工个体工商户及灵活就业人员参加养老保险登记",
+        "resultSampleName": "无",
+        "tyywblxName": "职工参保登记（灵活就业人员参保）"
+      },
+      {
+        "cnsxsx": 10.0,
+        "lbsxfwmc": "创业补贴申领",
+        "resultSampleName": "无",
+        "tyywblxName": "创业补贴申领"
+      },
+      {
+        "cnsxsx": 20.0,
+        "lbsxfwmc": "申请创业担保贷款",
+        "resultSampleName": "无",
+        "tyywblxName": "申请创业担保贷款"
+      },
+      {
+        "cnsxsx": 20.0,
+        "lbsxfwmc": "申请入驻创业孵化基地",
+        "resultSampleName": "",
+        "tyywblxName": "申请入驻创业孵化基地"
+      },
+      {
+        "cnsxsx": 20.0,
+        "lbsxfwmc": "申请参加创业培训",
+        "resultSampleName": "",
+        "tyywblxName": "申请参加创业培训"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "经营主体登记注册",
+        "resultSampleName": "",
+        "tyywblxName": "经营主体登记注册"
+      },
+      {
+        "cnsxsx": 30.0,
+        "lbsxfwmc": "纳税人信息确认",
+        "resultSampleName": "",
+        "tyywblxName": "纳税人信息确认"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "需要符合什么条件才能申请创业担保贷款和财政贴息支持？",
+        "cjsj": 1743066539000,
+        "processingConditions": "需要符合什么条件才能申请创业担保贷款和财政贴息支持？",
+        "pxh": 1.0,
+        "smmc": "（一）属于重点就业群体。包括城镇登记失业人员或登记自主创业人员、就业困难人员（含残疾人）、退役军人、刑满释放人员、高校毕业生（含大学生村官和留学回国学生）、化解过剩产能企业职工和失业人员、返乡创业农民工、网络商户、脱贫人口、农村自主创业农民、新市民； （二）除助学贷款、脱贫人口小额信贷、住房贷款、购车贷款、10万元以下小额消费贷款（含信用卡消费）以外，申请人提交创业担保贷款申请时，本人及其配偶无其他贷款。",
+        "yjsBsznbltjId": "9780C2FD3B3648CC949D1E1BA56046CA",
+        "yjsbsznId": "FFA762BBE29E4419B150577FB780AE94",
+        "zt": "0"
+      },
+      {
+        "bltj": "需要什么条件才能申请一次性创业补贴？",
+        "cjsj": 1743152413000,
+        "processingConditions": "需要什么条件才能申请一次性创业补贴？",
+        "pxh": 2.0,
+        "smmc": "（一）身份条件：申请人需满足相应身份条件：1.大学生（在校大学生或离校2年内高校毕业生）；2.就业困难人员；3.返乡入乡农民工。 （二）创业条件：在省内初次创办小微企业或从事个体经济，且所创办企业或个体工商户自工商登记注册之日起正常运营1年以上",
+        "yjsBsznbltjId": "D7BF4826DF15482C8CF1553521031923",
+        "yjsbsznId": "FFA762BBE29E4419B150577FB780AE94",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [
+      {
+        "answer": "（一）属于重点就业群体。包括城镇登记失业人员或登记自主创业人员、就业困难人员（含残疾人）、退役军人、刑满释放人员、高校毕业生（含大学生村官和留学回国学生）、化解过剩产能企业职工和失业人员、返乡创业农民工、网络商户、脱贫人口、农村自主创业农民、新市民；\n（二）除助学贷款、脱贫人口小额信贷、住房贷款、购车贷款、10万元以下小额消费贷款（含信用卡消费）以外，申请人提交创业担保贷款申请时，本人及其配偶无其他贷款。",
+        "da": "（一）属于重点就业群体。包括城镇登记失业人员或登记自主创业人员、就业困难人员（含残疾人）、退役军人、刑满释放人员、高校毕业生（含大学生村官和留学回国学生）、化解过剩产能企业职工和失业人员、返乡创业农民工、网络商户、脱贫人口、农村自主创业农民、新市民；\n（二）除助学贷款、脱贫人口小额信贷、住房贷款、购车贷款、10万元以下小额消费贷款（含信用卡消费）以外，申请人提交创业担保贷款申请时，本人及其配偶无其他贷款。",
+        "problem": "需要符合什么条件才能申请创业担保贷款和财政贴息支持？",
+        "pxh": 0.0,
+        "wt": "需要符合什么条件才能申请创业担保贷款和财政贴息支持？",
+        "yjsMlSsqdQuestionId": "438FB6FFA3DE45BF880447D90167F99D",
+        "yjsSsqdId": "51317394ECB74A60A54F3C73B4686996"
+      },
+      {
+        "answer": "（一）身份条件：申请人需满足相应身份条件：1.大学生（在校大学生或离校2年内高校毕业生）；2.就业困难人员；3.返乡入乡农民工。\n（二）创业条件：在省内初次创办小微企业或从事个体经济，且所创办企业或个体工商户自工商登记注册之日起正常运营1年以上",
+        "da": "（一）身份条件：申请人需满足相应身份条件：1.大学生（在校大学生或离校2年内高校毕业生）；2.就业困难人员；3.返乡入乡农民工。\n（二）创业条件：在省内初次创办小微企业或从事个体经济，且所创办企业或个体工商户自工商登记注册之日起正常运营1年以上",
+        "problem": "需要什么条件才能申请一次性创业补贴？",
+        "pxh": 1.0,
+        "wt": "需要什么条件才能申请一次性创业补贴？",
+        "yjsMlSsqdQuestionId": "5ED61AEF58C348019A0110E75AE8B5CC",
+        "yjsSsqdId": "51317394ECB74A60A54F3C73B4686996"
+      },
+      {
+        "answer": "详情可复制链接跳转 查看个人创业一件事办理手册及相关问题（一网通办系统）\nhttps://docs.qq.com/doc/DZnF2THVwQ2FkUnZi",
+        "da": "详情可复制链接跳转 查看个人创业一件事办理手册及相关问题（一网通办系统）\nhttps://docs.qq.com/doc/DZnF2THVwQ2FkUnZi",
+        "problem": "如何申请个人创业一件事？",
+        "pxh": 2.0,
+        "wt": "如何申请个人创业一件事？",
+        "yjsMlSsqdQuestionId": "F9899218ADD74F17A68F197E60CBE7D3",
+        "yjsSsqdId": "51317394ECB74A60A54F3C73B4686996"
+      }
+    ],
+    "sxmc": "个人创业“一件事”",
+    "yjsSsqdbm": "43PCP0010225J0503",
+    "basicInfo": {
+      "aheadFrequency": "1",
+      "areaName": "大祥区",
+      "completedLimit": "20",
+      "cooperateName": "人社部门,税务部门,市监部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0739-12345",
+      "lbjgId": "14,30,31",
+      "qtbmId": "85455c703a4d475eb872f7686ffe78ae",
+      "qtbmmc": "大祥区人社局",
+      "reasonLink": "如需补充材料提交，需要现场提交",
+      "yjsssqdbsznid": "A28AB8EB5C4B4BD78E0E4B0CFE4FE3AF",
+      "zxdh": "0739-5278336"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

@@ -1,0 +1,36 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "431123402999",
+      "benji": "1",
+      "orgId": "6e3T1V3pQmykCvvrMhV1xA",
+      "orgLevel": "4",
+      "orgName": "湖南阳明山国家森林公园管理局本级",
+      "orgShowName": "双牌县阳明山国家森林公园管理局本级",
+      "orgSn": "999",
+      "parentCode": "431123402000",
+      "parentId": "AZGcSVF7SWe8rMcUHmaAlQ",
+      "parentName": "湖南阳明山国家森林公园管理局",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431123402205",
+      "benji": "0",
+      "orgId": "sgfiap4teQZyhM4ADbAYysw",
+      "orgLevel": "5",
+      "orgName": "湖南阳明山国家森林公园管理局阳明山村",
+      "orgShowName": "阳明山村",
+      "orgSn": "999",
+      "parentCode": "431123402000",
+      "parentId": "AZGcSVF7SWe8rMcUHmaAlQ",
+      "parentName": "湖南阳明山国家森林公园管理局",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

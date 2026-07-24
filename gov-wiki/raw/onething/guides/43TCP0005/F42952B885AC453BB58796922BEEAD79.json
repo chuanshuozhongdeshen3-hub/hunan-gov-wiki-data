@@ -1,0 +1,192 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1727699786000,
+        "fjId": "1K7lrZvfQ5ONqRLBuOaATA",
+        "fjbm": "100001",
+        "fjdx": 2.888,
+        "fjlj": "orchestrate/2024-09-30/1727699786698$$企业数据填报一件事流程图.png",
+        "fjlx": ".png",
+        "fjmc": "企业数据填报一件事流程图.png",
+        "s3tmc": "zwfw202409",
+        "sfyx": "Y",
+        "ywdxId": "D5F4F57D70C142598B5E824C80AD6C5D"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "湖南省衡阳市创新中心C栋二楼15、16、17号窗口",
+        "blsj": "9:00-12:00；1:30-5:00",
+        "cjsj": 1737425445598,
+        "gxsj": 1737425445000,
+        "infoAddr": "湖南省衡阳市创新中心C栋二楼15、16、17号窗口",
+        "pointName": "湖南省衡阳市创新中心C栋二楼15、16、17号窗口",
+        "processingTime": "9:00-12:00；1:30-5:00",
+        "pxh": 1,
+        "xxdz": "湖南省衡阳市创新中心C栋二楼15、16、17号窗口",
+        "yjsBldId": "10F0B085CCB74AFF84EA61733D80C137",
+        "ywzjId": "12E4795E69764891B1101334D8A6AF06",
+        "zt": "0"
+      }
+    ],
+    "materialList": [],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "流程图",
+      "blxs": "3",
+      "bszt": "0",
+      "cjrId": "7t907fCmRzeek2ic6O3zNxw",
+      "cjsj": 1727573281000,
+      "cnbjsx": "1",
+      "dbsxccs": "0",
+      "dbsxcyyhhj": "无",
+      "dndtzdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "gqbjlx": 2.0,
+      "gqblsx": 8.0,
+      "gqpdcs": 8.0,
+      "gqsbcl": 0.0,
+      "gxrId": "7t907fCmRzeek2ic6O3zNxw",
+      "gxsj": 1727575550000,
+      "hjsgq": 8.0,
+      "hjsxz": 1.0,
+      "jgsdsm": "无",
+      "jsms": "2",
+      "lbjgId": "31,30,34,14,29,21,36",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "0",
+      "sfzdysl": "0",
+      "sfztxsbl": "0",
+      "sxlx": "5",
+      "xsblqd": "1",
+      "xxbldsm": "政务专窗",
+      "xzbjlx": 1.0,
+      "xzblsx": 1.0,
+      "xzpdcs": 0.0,
+      "xzsbcl": 0.0,
+      "yddtzdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "yjsMlBzhId": "654A792B623746F38EE843CC71E68519",
+      "yjsbsznId": "D5F4F57D70C142598B5E824C80AD6C5D",
+      "zcblqd": "1,2",
+      "zcblqdWbdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "市场监管年报填报",
+        "resultSampleName": "",
+        "tyywblxName": "市场监管年报填报"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "工业产品获证企业年报填报",
+        "resultSampleName": "",
+        "tyywblxName": "工业产品获证企业年报填报"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "统计报表填报",
+        "resultSampleName": "",
+        "tyywblxName": "统计报表填报"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "社保信息填报",
+        "resultSampleName": "",
+        "tyywblxName": "社保信息填报"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "海关管理企业年报填报",
+        "resultSampleName": "",
+        "tyywblxName": "海关管理企业年报填报"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "外商投资企业（机构）年报填报",
+        "resultSampleName": "",
+        "tyywblxName": "外商投资企业（机构）年报填报"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "年度财务报表填报（税务行业领域）",
+        "resultSampleName": "",
+        "tyywblxName": "年度财务报表填报（税务行业领域）"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "每年1月1日至6月30日，经营主体在湖南省“一网通办”系统“高效办成一件事”专区填报上一年度市场监管年报时，同步填写工业产品获证企业年报、税务年度财务报表、统计报表、社保信息、海关管理企业年报、外商投资企业（机构）年报，实现企业数据填报“多报合一”。国家法律、法规、规章对报送时间另有规定的，从其规定。",
+        "cjsj": 1727575394000,
+        "processingConditions": "每年1月1日至6月30日，经营主体在湖南省“一网通办”系统“高效办成一件事”专区填报上一年度市场监管年报时，同步填写工业产品获证企业年报、税务年度财务报表、统计报表、社保信息、海关管理企业年报、外商投资企业（机构）年报，实现企业数据填报“多报合一”。国家法律、法规、规章对报送时间另有规定的，从其规定。",
+        "pxh": 1.0,
+        "smmc": "每年1月1日至6月30日，经营主体在湖南省“一网通办”系统“高效办成一件事”专区填报上一年度市场监管年报时，同步填写工业产品获证企业年报、税务年度财务报表、统计报表、社保信息、海关管理企业年报、外商投资企业（机构）年报，实现企业数据填报“多报合一”。国家法律、法规、规章对报送时间另有规定的，从其规定。",
+        "yjsBsznbltjId": "9CBBF13EB1694FC680BE5DB03BE17043",
+        "yjsbsznId": "D5F4F57D70C142598B5E824C80AD6C5D",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [
+      {
+        "answer": "企业年报是每年1月1日至6月30日由经营主体在线上自行填报，具体办理时限以经营主体填报完成时间为准。",
+        "da": "企业年报是每年1月1日至6月30日由经营主体在线上自行填报，具体办理时限以经营主体填报完成时间为准。",
+        "problem": "企业年报办理时限多久",
+        "pxh": 0.0,
+        "wt": "企业年报办理时限多久",
+        "yjsMlSsqdQuestionId": "1ECAC737AE874D3C9D04BE153E9D6524",
+        "yjsSsqdId": "F42952B885AC453BB58796922BEEAD79"
+      },
+      {
+        "answer": "企业年报是每年1月1日至6月30日由经营主体在线上自行填报，按提示要求进行数据填报，无需递交材料。",
+        "da": "企业年报是每年1月1日至6月30日由经营主体在线上自行填报，按提示要求进行数据填报，无需递交材料。",
+        "problem": "申请企业年报的材料是什么",
+        "pxh": 1.0,
+        "wt": "申请企业年报的材料是什么",
+        "yjsMlSsqdQuestionId": "A14F4C962BA4470BB2C18E477195BF95",
+        "yjsSsqdId": "F42952B885AC453BB58796922BEEAD79"
+      },
+      {
+        "answer": "上一年度12月31日前成立的经营主体，包括企业、农民专业合作社和个体工商户等各类在市场监管部门登记注册的经营主体均需在本年度填报上一年度年报。",
+        "da": "上一年度12月31日前成立的经营主体，包括企业、农民专业合作社和个体工商户等各类在市场监管部门登记注册的经营主体均需在本年度填报上一年度年报。",
+        "problem": "申请企业年报的条件有什么？",
+        "pxh": 2.0,
+        "wt": "申请企业年报的条件有什么？",
+        "yjsMlSsqdQuestionId": "397C2426DEF443159683A22AB8438080",
+        "yjsSsqdId": "F42952B885AC453BB58796922BEEAD79"
+      },
+      {
+        "answer": "可以的，下载“湘易办”APP，点击“高效办成一件事”专区，找到“企业年报”提交申请，目前湘易办APP仅支持限个体工商户进行年报。",
+        "da": "可以的，下载“湘易办”APP，点击“高效办成一件事”专区，找到“企业年报”提交申请，目前湘易办APP仅支持限个体工商户进行年报。",
+        "problem": "企业年报可以在手机APP上申请吗？",
+        "pxh": 3.0,
+        "wt": "企业年报可以在手机APP上申请吗？",
+        "yjsMlSsqdQuestionId": "2C21EA7EAFD64F3ABCECDF3A8827CA2D",
+        "yjsSsqdId": "F42952B885AC453BB58796922BEEAD79"
+      }
+    ],
+    "sxmc": "企业数据填报“一件事”",
+    "yjsSsqdbm": "43TCP0005525J0472",
+    "basicInfo": {
+      "aheadFrequency": "0",
+      "areaName": "衡阳高新技术产业开发区",
+      "completedLimit": "1",
+      "cooperateName": "人社部门,商务部门,海关部门,税务部门,市监部门,统计部门,医保部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "2880117",
+      "lbjgId": "31,30,34,14,29,21,36",
+      "qtbmId": "cxKiaRk0URPOmmt53mojAyA",
+      "qtbmmc": "衡阳市市场监督管理局园区分局",
+      "reasonLink": "无",
+      "yjsssqdbsznid": "12E4795E69764891B1101334D8A6AF06",
+      "zxdh": "2880109"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

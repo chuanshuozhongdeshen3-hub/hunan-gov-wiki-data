@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430801000000",
+      "benji": "1",
+      "orgId": "f420382f76c948809f409c905ae3771a",
+      "orgLevel": "2",
+      "orgName": "张家界市本级",
+      "orgShowName": "张家界市本级",
+      "orgSn": "1",
+      "parentCode": "430800000000",
+      "parentId": "95d6b1b6ecd44ee981a94616154b75eb",
+      "parentName": "张家界市",
+      "subIndex": 0
+    },
+    {
+      "approveId": "1",
+      "areaCode": "430802000000",
+      "benji": "0",
+      "orgId": "6de3eb3c987b432582089a39bf425882",
+      "orgLevel": "3",
+      "orgName": "永定区",
+      "orgShowName": "永定区",
+      "orgSn": "2",
+      "parentCode": "430800000000",
+      "parentId": "95d6b1b6ecd44ee981a94616154b75eb",
+      "parentName": "张家界市",
+      "subIndex": 0
+    },
+    {
+      "approveId": "1",
+      "areaCode": "430811000000",
+      "benji": "0",
+      "orgId": "6325bbf56f354d90b3c423d76f1f5ba0",
+      "orgLevel": "3",
+      "orgName": "武陵源区",
+      "orgShowName": "武陵源区",
+      "orgSn": "3",
+      "parentCode": "430800000000",
+      "parentId": "95d6b1b6ecd44ee981a94616154b75eb",
+      "parentName": "张家界市",
+      "subIndex": 0
+    },
+    {
+      "approveId": "1",
+      "areaCode": "430821000000",
+      "benji": "0",
+      "orgId": "844da91e050c42fa91bfbaab1fd05bad",
+      "orgLevel": "3",
+      "orgName": "慈利县",
+      "orgShowName": "慈利县",
+      "orgSn": "4",
+      "parentCode": "430800000000",
+      "parentId": "95d6b1b6ecd44ee981a94616154b75eb",
+      "parentName": "张家界市",
+      "subIndex": 0
+    },
+    {
+      "approveId": "2",
+      "areaCode": "430822000000",
+      "benji": "0",
+      "orgId": "aa97c5c3ff57482d9f76c6c61fe68808",
+      "orgLevel": "3",
+      "orgName": "桑植县",
+      "orgShowName": "桑植县",
+      "orgSn": "5",
+      "parentCode": "430800000000",
+      "parentId": "95d6b1b6ecd44ee981a94616154b75eb",
+      "parentName": "张家界市",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430823000000",
+      "benji": "0",
+      "orgId": "jRnPlZ1ibQPWxh8dFW2TCGQ",
+      "orgLevel": "3",
+      "orgName": "张家界高新区",
+      "orgShowName": "张家界高新区",
+      "orgSn": "6",
+      "parentCode": "430800000000",
+      "parentId": "95d6b1b6ecd44ee981a94616154b75eb",
+      "parentName": "张家界市",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

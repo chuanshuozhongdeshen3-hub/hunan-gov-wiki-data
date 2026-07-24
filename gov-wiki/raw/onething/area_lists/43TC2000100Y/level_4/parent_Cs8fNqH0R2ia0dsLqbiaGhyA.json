@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430181131999",
+      "benji": "1",
+      "orgId": "IT17E9fpTziaE6QHDViaPH9g",
+      "orgLevel": "4",
+      "orgName": "葛家镇镇本级",
+      "orgShowName": "葛家镇镇本级",
+      "orgSn": "1",
+      "parentCode": "430181131000",
+      "parentId": "Cs8fNqH0R2ia0dsLqbiaGhyA",
+      "parentName": "葛家镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430181131202",
+      "benji": "0",
+      "orgId": "SPaicfibCXRWycANE9pR6wYA",
+      "orgLevel": "5",
+      "orgName": "葛家园村",
+      "orgShowName": "葛家园村",
+      "orgSn": "0",
+      "parentCode": "430181131000",
+      "parentId": "Cs8fNqH0R2ia0dsLqbiaGhyA",
+      "parentName": "葛家镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430181131204",
+      "benji": "0",
+      "orgId": "zuRe5ibrsTCiaosibfCXvcgog",
+      "orgLevel": "5",
+      "orgName": "新宏村",
+      "orgShowName": "新宏村",
+      "orgSn": "0",
+      "parentCode": "430181131000",
+      "parentId": "Cs8fNqH0R2ia0dsLqbiaGhyA",
+      "parentName": "葛家镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430181131205",
+      "benji": "0",
+      "orgId": "WibBLOPI0TribPHBEBFzfUOA",
+      "orgLevel": "5",
+      "orgName": "金源村",
+      "orgShowName": "金源村",
+      "orgSn": "0",
+      "parentCode": "430181131000",
+      "parentId": "Cs8fNqH0R2ia0dsLqbiaGhyA",
+      "parentName": "葛家镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430181131221",
+      "benji": "0",
+      "orgId": "3HzqL8tTSQqZB54h8UDOnw",
+      "orgLevel": "5",
+      "orgName": "新建村",
+      "orgShowName": "新建村",
+      "orgSn": "0",
+      "parentCode": "430181131000",
+      "parentId": "Cs8fNqH0R2ia0dsLqbiaGhyA",
+      "parentName": "葛家镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430181131224",
+      "benji": "0",
+      "orgId": "GaArxia8xRH6GT2qVgrgZbw",
+      "orgLevel": "5",
+      "orgName": "玉潭村",
+      "orgShowName": "玉潭村",
+      "orgSn": "0",
+      "parentCode": "430181131000",
+      "parentId": "Cs8fNqH0R2ia0dsLqbiaGhyA",
+      "parentName": "葛家镇",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

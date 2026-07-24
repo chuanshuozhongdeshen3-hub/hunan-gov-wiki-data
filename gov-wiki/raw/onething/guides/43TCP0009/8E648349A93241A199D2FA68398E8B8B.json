@@ -1,0 +1,284 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1748942727000,
+        "fjId": "DzAwpuYtSaScUq7xK9bq8Q",
+        "fjbm": "100001",
+        "fjdx": 0.124,
+        "fjlj": "orchestrate/2025-06-03/1748942727873$$流程图.png",
+        "fjlx": ".png",
+        "fjmc": "流程图.png",
+        "s3tmc": "zwfw202506",
+        "sfyx": "Y",
+        "ywdxId": "0993BE88232C423C9D2989D8F0B266E2"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "麻阳苗族自治县政务中心",
+        "blsj": "全年法定工作日,上午 09:00~12:00,下午 13:30~17:00",
+        "cjsj": 1756092179195,
+        "gxsj": 1756092179000,
+        "infoAddr": "湖南省怀化市麻阳苗族自治县自治县高村镇城东滨江大道政务服务大厅A栋二楼高效办成一件事重点事项服务专区A224、A225、A226、A227窗口；政务服务大厅A栋三楼住房公积金A3183—320窗口",
+        "pointName": "麻阳苗族自治县政务中心",
+        "processingTime": "全年法定工作日,上午 09:00~12:00,下午 13:30~17:00",
+        "pxh": 1,
+        "xxdz": "湖南省怀化市麻阳苗族自治县自治县高村镇城东滨江大道政务服务大厅A栋二楼高效办成一件事重点事项服务专区A224、A225、A226、A227窗口；政务服务大厅A栋三楼住房公积金A3183—320窗口",
+        "yjsBldId": "3B92321B71C9401A8F81CEF8943CFA86",
+        "ywzjId": "EF383303BF02409DA245BB6D10651437",
+        "zt": "0"
+      }
+    ],
+    "materialList": [
+      {
+        "attachList": [
+          {
+            "cjsj": 1764140703000,
+            "fjId": "FtjQZzlSSMqVfkFzP6S6_Q",
+            "fjbm": "100003",
+            "fjdx": 0.029,
+            "fjlj": "orchestrate/2025-11-26/1764140702243$$个体工商户登记（备案）申请书.docx",
+            "fjlx": ".docx",
+            "fjmc": "个体工商户登记（备案）申请书.docx",
+            "s3tmc": "zwfw202511",
+            "sfyx": "Y",
+            "ywdxId": "6BBC31518B8344169B6A6F9190416A4D"
+          },
+          {
+            "cjsj": 1764140703000,
+            "fjId": "H3yx5WKATxifyHFiYb_vXg",
+            "fjbm": "100002",
+            "fjdx": 0.029,
+            "fjlj": "orchestrate/2025-11-26/1764140691309$$个体工商户登记（备案）申请书.docx",
+            "fjlx": ".docx",
+            "fjmc": "个体工商户登记（备案）申请书.docx",
+            "s3tmc": "zwfw202511",
+            "sfyx": "Y",
+            "ywdxId": "6BBC31518B8344169B6A6F9190416A4D"
+          }
+        ],
+        "bzclId": "M43TCP00090001",
+        "cjsj": 1764140703000,
+        "clbyx": "1",
+        "clbz": "6.申请人通过电子化登记系统上传的手写签名申请材料图片或影像（印）件，在登记机关审核后，需将纸质资料送达登记注册窗口存档。电子化存档能够满足档案管理要求的，登记机关可以免除申请人提交相关纸质材料。 \n7.提交材料涉及签署，参照申请书中申请人的注释，未注明签署人的，自然人由本人签字，法人和其他组织由法定代表人、负责人或有权签字人签字，并加盖公章。\n8.在办理登记、备案事项时，申请人应当配合登记机关通过实名认证系统，采用人脸识别等方式对相关人员进行实名验证。因特殊原因，当事人无法通过实名认证系统核验身份信息的，可以提交经依法公证的自然人身份证明文件，或者由本人持身份证件到现场办理。 \n9.管辖地登记机关和其他政府部门已共享身份认证信息、清税信息或电子证照等数据信息，且可以在线核验、存档的，无需申请人另行提交纸质材料。\n符合填报须知的要求，并符合法定形式。",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "20",
+        "cllyqdsm": "《个体工商户登记（备案）申请书》（以下简称申请书）空白表由登记机关发放，申请书由申请人填报并向登记机关提交（其中经营者、指定代表或委托代理人、联络员的身份证复印件或影印件由相关人员提供）。《“多证合一”政府部门共享信息表》（以下简称申请表）空白表由登记机关发放，申请表由申请人填报并按填报须知的要求向登记机关提交。",
+        "clmc": "《个体工商户登记（备案）申请书》",
+        "clxs": "3",
+        "clxz": "1",
+        "gxsj": 1777579249000,
+        "mtjfs": "4",
+        "pxh": 1.0,
+        "sfxtmb": "0",
+        "sfykb": "1",
+        "sfyslb": "1",
+        "tbxz": "1.填报的信息及提交的材料真实、准确、有效、完整。 \n2.提交的登记申请文书与其它申请材料应当使用A4型白色纸张。依本表打印生成的，使用黑色或蓝色墨水钢笔或签字笔签字；手工填写的，使用黑色或蓝色墨水钢笔或签字笔工整填写、签字。 \n3.申请书指定位置粘贴经营者、指定代表或委托代理人、联络员的身份证复印件或影印件正、反面。对于现场窗口提交材料的，未注明提交复印件的，应当提交原件（未注明复印件的即为原件）；提交复印件的，应当注明“与原件一致”并由申请人签署，或者由其指定的代表或共同委托的代理人签字。 \n4.申请人须根据企业自身情况填写《企业登记政府部门共享信息表》相关内容，即根据湖南省商事制度改革领导小组关于深入推进“多证合一”“证照联办”提高企业开办效率的意见（湘商改〔2018〕5号）文件，提交《“多证合一”政府部门共享信息表》。 \n5.通过全程电子化方式申请登记注册的，主体资格证明、身份证明、批准证书、章程、决议等文件可通过全程电子化登记系统提交原件影像（印）件，或通过登记业务系统设置的申请文书格式规范生成相关材料并使用。\n（请继续查看受理标准）",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "9681543292104B65B69BA5F4737B014D",
+        "yjsSsqdId": "8E648349A93241A199D2FA68398E8B8B",
+        "yqtgyj": "2022-11-15市场监管总局办公厅关于做好个体工商户经营者变更登记工作的通知（市监注发（2022）102号）\n2022-7-8《市场监管总局登记注册局关于更新〈市场主体登记提交材料规范〉〈市场主体登记文书规范〉的通知》（市监注（司）函〔2022〕169号） \n2018-6-13湖南省商事制度改革领导小组关于深入推进“多证合一”“证照联办”提高企业开办效率的意见（湘商改〔2018〕5号）",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4纸"
+      }
+    ],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "流程图",
+      "blxs": "1",
+      "bszt": "0",
+      "cjrId": "A3cl2oibTSfia3PvzrpUU4Bg",
+      "cjsj": 1748941706000,
+      "cnbjsx": "8",
+      "dbsxccs": "1",
+      "dbsxcyyhhj": "暂无",
+      "dndtzdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "gqbjlx": 2.0,
+      "gqblsx": 21.0,
+      "gqpdcs": 11.0,
+      "gqsbcl": 27.0,
+      "gxrId": "A3cl2oibTSfia3PvzrpUU4Bg",
+      "gxsj": 1748941706000,
+      "hjsgq": 11.0,
+      "hjsxz": 1.0,
+      "jgsdsm": "暂无",
+      "jsms": "2",
+      "lbjgId": "09,14,17,18,30,31,62,99",
+      "sfczlct": "0",
+      "sfjxtz": "1",
+      "sfzdtybj": "0",
+      "sfzdysl": "0",
+      "sfztxsbl": "0",
+      "sxlx": "2",
+      "xsblqd": "1,2",
+      "xxbldsm": "各县市区政务服务大厅",
+      "xxcktzdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "xzbjlx": 2.0,
+      "xzblsx": 8.0,
+      "xzpdcs": 1.0,
+      "xzsbcl": 10.0,
+      "yddtzdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "yjsMlBzhId": "7A34EF3AFF9E4BD28D6AE251B3F219E1",
+      "yjsbsznId": "0993BE88232C423C9D2989D8F0B266E2",
+      "ywzjfw": "0",
+      "zcblqd": "1,4,2",
+      "zcblqdWbdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 8.0,
+        "lbsxfwmc": "烟草专卖零售许可证核发",
+        "resultSampleName": "烟草专卖零售许可证",
+        "tyywblxName": "烟草专卖零售许可证变更办理"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "公章刻制备案",
+        "resultSampleName": "特种行业公章刻制备案",
+        "tyywblxName": "公章刻制备案"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "发票领用",
+        "resultSampleName": "无",
+        "tyywblxName": "发票领用"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "银行账户开户预约",
+        "resultSampleName": "",
+        "tyywblxName": "银行账户开户预约"
+      },
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "银行账户变更预约",
+        "resultSampleName": "",
+        "tyywblxName": "银行账户变更预约"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "企业登记注册",
+        "resultSampleName": "营业执照",
+        "tyywblxName": "有限（责任）公司设立登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "个体工商户登记注册",
+        "resultSampleName": "《登记通知书》",
+        "tyywblxName": "个体工商户注销登记"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "企业登记注册",
+        "resultSampleName": "营业执照",
+        "tyywblxName": "有限合伙企业设立登记"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "企业登记注册",
+        "resultSampleName": "营业执照",
+        "tyywblxName": "股份有限公司设立登记"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "企业登记注册",
+        "resultSampleName": "营业执照",
+        "tyywblxName": "普通合伙企业设立登记"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "企业登记注册",
+        "resultSampleName": "营业执照",
+        "tyywblxName": "一人有限责任公司设立登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "个体工商户登记注册",
+        "resultSampleName": "《营业执照》",
+        "tyywblxName": "个体工商户变更登记"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "住房公积金缴存业务",
+        "resultSampleName": "暂无",
+        "tyywblxName": "住房公积金缴存业务-住房公积金单位登记开户"
+      },
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "社会保险登记",
+        "resultSampleName": "无",
+        "tyywblxName": "企业参保信息录入"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "企业登记注册",
+        "resultSampleName": "《营业执照》",
+        "tyywblxName": "个人独资企业设立登记"
+      },
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "道路货运经营许可",
+        "resultSampleName": "道路运输经营许可证",
+        "tyywblxName": "道路货物运输经营许可（含普货运输、专用运输、大件运输和网络货运）"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "企业登记注册",
+        "resultSampleName": "营业执照",
+        "tyywblxName": "特殊普通合伙企业设立登记"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "住房公积金缴存业务",
+        "resultSampleName": "暂无",
+        "tyywblxName": "住房公积金缴存业务-住房公积金单位及个人缴存信息变更"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "清税信息核验",
+        "resultSampleName": "",
+        "tyywblxName": "清税信息核验"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "主体资格要求",
+        "cjsj": 1748942742000,
+        "processingConditions": "主体资格要求",
+        "pxh": 1.0,
+        "smmc": "已在湖南省内登记注册的个体工商户",
+        "yjsBsznbltjId": "CA214CCDA661455B9E4F79660EEB973E",
+        "yjsbsznId": "0993BE88232C423C9D2989D8F0B266E2",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [],
+    "sxmc": "个体工商户转型为企业“一件事”",
+    "yjsSsqdbm": "43TCP0009225J1226",
+    "basicInfo": {
+      "aheadFrequency": "1",
+      "areaName": "麻阳县",
+      "completedLimit": "8",
+      "cooperateName": "公安部门,人社部门,住建部门,交通部门,税务部门,市监部门,烟草部门,其他部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "1",
+      "jdtsdh": "0745-5828459",
+      "lbjgId": "09,14,17,18,30,31,62,99",
+      "qtbmId": "7c87ed82ec5149f487abb74723b31025",
+      "qtbmmc": "麻阳苗族自治县市场监督管理局",
+      "reasonLink": "暂无",
+      "yjsssqdbsznid": "EF383303BF02409DA245BB6D10651437",
+      "zxdh": "0745-5827390"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

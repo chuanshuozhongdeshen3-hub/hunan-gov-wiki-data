@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430687999000",
+      "benji": "1",
+      "orgId": "RZQrdQPUSuqhia4dttttJEg",
+      "orgLevel": "3",
+      "orgName": "岳阳经开区区本级",
+      "orgShowName": "岳阳经开区区本级",
+      "orgSn": "1",
+      "parentCode": "430687000000",
+      "parentId": "Qo4k5gmHR3GJkqgn5PTEmw",
+      "parentName": "岳阳经开区",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

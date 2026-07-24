@@ -1,0 +1,307 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [
+      {
+        "FEENAME": "不动产登记费",
+        "UNIFY_NAME": "抵押权首次登记",
+        "UNIFY_ID": "8Q--UDGLTvqV0W5y91jDlw",
+        "FEESTAND": "住宅登记费80元每件、非住宅登记费550元每件。证书工本费10元/本（核发一本不动产权属证书的不收取证书工本费，向一个以上房屋权利人核发权属证书时，每增加一本证书加收工本费10元）",
+        "CHARGE_BYLAW": "湘发改价费〔2019〕597号",
+        "IS_MINUS": "否",
+        "CHARGE_ID": "02488f7676b246008279cf67c71474ea"
+      },
+      {
+        "FEENAME": "不动产登记费",
+        "UNIFY_NAME": "国有建设用地使用权及房屋所有权转移登记",
+        "UNIFY_ID": "52d4d2a808a8477788c7331c4a0e15d9",
+        "FEESTAND": "住宅登记费80元每件、非住宅登记费550元每件。证书工本费10元/本（核发一本不动产权属证书的不收取证书工本费，向一个以上房屋权利人核发权属证书时，每增加一本证书加收工本费10元）",
+        "CHARGE_BYLAW": "湘发改价费〔2019〕597号",
+        "IS_MINUS": "否",
+        "CHARGE_ID": "oWoCjH68SUSIbQJGJHNJWQ"
+      }
+    ],
+    "attachInfo": [
+      {
+        "cjsj": 1781574991000,
+        "fjId": "grkj739qTJuNqFIYafyB6w",
+        "fjbm": "100001",
+        "fjdx": 1.764,
+        "fjlj": "orchestrate/2026-06-16/1781574990929$$流程图.png",
+        "fjlx": ".png",
+        "fjmc": "流程图.png",
+        "s3tmc": "zwfw202606",
+        "sfyx": "Y",
+        "ywdxId": "D7F4B71CDE1941348BCA789917189FE2"
+      },
+      {
+        "cjsj": 1781574677000,
+        "fjId": "XYSbsBkQSZy2EJlMHM3usw",
+        "fjbm": "100001",
+        "fjdx": 1.764,
+        "fjlj": "orchestrate/2026-06-16/1781574676801$$流程图.png",
+        "fjlx": ".png",
+        "fjmc": "流程图.png",
+        "s3tmc": "zwfw202606",
+        "sfyx": "Y",
+        "ywdxId": "D7F4B71CDE1941348BCA789917189FE2"
+      },
+      {
+        "cjsj": 1781573495000,
+        "fjId": "GsbUfpE8RViEUtQbB_Ck1Q",
+        "fjbm": "100001",
+        "fjdx": 1.504,
+        "fjlj": "orchestrate/2026-06-16/1781573495736$$流程图.png",
+        "fjlx": ".png",
+        "fjmc": "流程图.png",
+        "s3tmc": "zwfw202606",
+        "sfyx": "Y",
+        "ywdxId": "D7F4B71CDE1941348BCA789917189FE2"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "中心点",
+        "blsj": "9：00-12：00，13：30-17：30 （夏季）；9：00-12：00，13：00-17：00（冬季）",
+        "cjsj": 1781662353681,
+        "gxsj": 1781662757000,
+        "infoAddr": "雨花区石坝路6号中心点服务大厅一、二楼；",
+        "pointName": "中心点",
+        "processingTime": "9：00-12：00，13：30-17：30 （夏季）；9：00-12：00，13：00-17：00（冬季）",
+        "pxh": 1,
+        "xxdz": "雨花区石坝路6号中心点服务大厅一、二楼；",
+        "yjsBldId": "9D59A3B8B2D446D6B328D3160AA7A797",
+        "ywzjId": "37C2F6F0DFCD4C229425806C3AF0F27C",
+        "zt": "0"
+      },
+      {
+        "bldmc": "芙蓉点",
+        "blsj": "9：00-12：00，13：30-17：30 （夏季）；9：00-12：00，13：00-17：00（冬季）",
+        "cjsj": 1781662393133,
+        "gxsj": 1781662760000,
+        "infoAddr": "芙蓉区人民东路189号芙蓉区政务服务中心二楼；",
+        "pointName": "芙蓉点",
+        "processingTime": "9：00-12：00，13：30-17：30 （夏季）；9：00-12：00，13：00-17：00（冬季）",
+        "pxh": 2,
+        "xxdz": "芙蓉区人民东路189号芙蓉区政务服务中心二楼；",
+        "yjsBldId": "12A66DEBA7F14A7C806EDB0A825CCD86",
+        "ywzjId": "37C2F6F0DFCD4C229425806C3AF0F27C",
+        "zt": "0"
+      },
+      {
+        "bldmc": "天心点",
+        "blsj": "9：00-12：00，13：30-17：30 （夏季）；9：00-12：00，13：00-17：00（冬季）",
+        "cjsj": 1781662417769,
+        "gxsj": 1781662764000,
+        "infoAddr": "天心区湘府中路298号天心区政务服务中心二楼；",
+        "pointName": "天心点",
+        "processingTime": "9：00-12：00，13：30-17：30 （夏季）；9：00-12：00，13：00-17：00（冬季）",
+        "pxh": 3,
+        "xxdz": "天心区湘府中路298号天心区政务服务中心二楼；",
+        "yjsBldId": "E83D30F547EF46B185607A9C0581F043",
+        "ywzjId": "37C2F6F0DFCD4C229425806C3AF0F27C",
+        "zt": "0"
+      },
+      {
+        "bldmc": "开福点",
+        "blsj": "9：00-12：00，13：30-17：30 （夏季）；9：00-12：00，13：00-17：00（冬季）",
+        "cjsj": 1781662616401,
+        "gxsj": 1781662751000,
+        "infoAddr": "开福区芙蓉北路盛世路1号开福区政务服务中心三楼；",
+        "pointName": "开福点",
+        "processingTime": "9：00-12：00，13：30-17：30 （夏季）；9：00-12：00，13：00-17：00（冬季）",
+        "pxh": 4,
+        "xxdz": "开福区芙蓉北路盛世路1号开福区政务服务中心三楼；",
+        "yjsBldId": "BC57FD2E914448C58461D59006A8CA9D",
+        "ywzjId": "37C2F6F0DFCD4C229425806C3AF0F27C",
+        "zt": "0"
+      },
+      {
+        "bldmc": "雨花点",
+        "blsj": "9：00-12：00，13：30-17：30 （夏季）；9：00-12：00，13：00-17：00（冬季）",
+        "cjsj": 1781662641359,
+        "gxsj": 1781662768000,
+        "infoAddr": "雨花区香樟路592号雨花市民之家三楼F厅；",
+        "pointName": "雨花点",
+        "processingTime": "9：00-12：00，13：30-17：30 （夏季）；9：00-12：00，13：00-17：00（冬季）",
+        "pxh": 5,
+        "xxdz": "雨花区香樟路592号雨花市民之家三楼F厅；",
+        "yjsBldId": "C475000761C7461D840EB05F7B56FD30",
+        "ywzjId": "37C2F6F0DFCD4C229425806C3AF0F27C",
+        "zt": "0"
+      },
+      {
+        "bldmc": "河西点",
+        "blsj": "9：00-12：00，13：30-17：30 （夏季）；9：00-12：00，13：00-17：00（冬季）",
+        "cjsj": 1781662656766,
+        "gxsj": 1781662772000,
+        "infoAddr": "岳麓区岳麓大道218号长沙市政府第二办公楼一楼政务服务中心；",
+        "pointName": "河西点",
+        "processingTime": "9：00-12：00，13：30-17：30 （夏季）；9：00-12：00，13：00-17：00（冬季）",
+        "pxh": 6,
+        "xxdz": "岳麓区岳麓大道218号长沙市政府第二办公楼一楼政务服务中心；",
+        "yjsBldId": "FF7B0EF2C47B45708B94D7B3FABFDE1D",
+        "ywzjId": "37C2F6F0DFCD4C229425806C3AF0F27C",
+        "zt": "0"
+      }
+    ],
+    "materialList": [
+      {
+        "attachList": [
+          {
+            "cjsj": 1779245045000
+          }
+        ],
+        "bzclId": "M43TCP00210001",
+        "cjsj": 1779245045000,
+        "clbyx": "1",
+        "clbz": "企业购置不动产转移登记“一件事”",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "不动产登记申请书",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1781726407000,
+        "mtjfs": "4",
+        "pxh": 1.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "真实有效",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "03B9403937E34181B5D1B700227CF425",
+        "yjsSsqdId": "E48CD92EF3B64C708053D34AF602F61D",
+        "yqtgyj": "企业购置不动产转移登记“一件事”",
+        "zt": "0",
+        "zzclfs": 1.0
+      }
+    ],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "登录注册联办事项",
+      "blxs": "1",
+      "bszt": "0",
+      "cjrId": "7t907fCmRzeek2ic6O3zNxw",
+      "cjsj": 1779243034000,
+      "cnbjsx": "5",
+      "dbsxccs": "1",
+      "dbsxcyyhhj": "1.有“带押过户”需求的，需要到办事现场提供不动产发生转移导致抵押人发生变化的，提交能够证实其变化的材料；禁止或者限制转让抵押不动产的约定发生变化的，提交变更的材料。 2.对税务核税结果有异议的，需要线下核实。",
+      "dndtzdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "gqbjlx": 2.0,
+      "gqblsx": 30.0,
+      "gqpdcs": 3.0,
+      "gqsbcl": 11.0,
+      "gxrId": "7t907fCmRzeek2ic6O3zNxw",
+      "gxsj": 1781169627000,
+      "hjsgq": 6.0,
+      "hjsxz": 4.0,
+      "jgsdsm": "线下办理",
+      "jsms": "2",
+      "lbjgId": "15,30,09,31",
+      "sfczlct": "0",
+      "sfjxtz": "1",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "A",
+      "xsblqd": "1,2",
+      "xxbldsm": "政务大厅一件事窗口",
+      "xxcktzdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "xzbjlx": 2.0,
+      "xzblsx": 5.0,
+      "xzpdcs": 1.0,
+      "xzsbcl": 4.0,
+      "yddtzdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "yjsMlBzhId": "B00E185147564FD88EB7B493C533C168",
+      "yjsbsznId": "D7F4B71CDE1941348BCA789917189FE2",
+      "ywzjfw": "0",
+      "zcblqd": "1,2,4",
+      "zcblqdWbdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "国有建设用地使用权及房屋所有权转移登记",
+        "resultSampleName": "不动产权证书",
+        "tyywblxName": "国有建设用地使用权及房屋所有权转移登记"
+      },
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "抵押权注销登记",
+        "resultSampleName": "不动产登记簿",
+        "tyywblxName": "抵押权注销登记"
+      },
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "抵押权首次登记",
+        "resultSampleName": "不动产登记证明",
+        "tyywblxName": "抵押权首次登记"
+      },
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "抵押权变更登记",
+        "resultSampleName": "不动产登记证明",
+        "tyywblxName": "抵押权变更登记"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业营业执照信息核验",
+        "resultSampleName": "",
+        "tyywblxName": "企业营业执照信息核验"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "代理人个人身份信息核验",
+        "resultSampleName": "",
+        "tyywblxName": "个人身份信息核验"
+      },
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "贷款审批",
+        "resultSampleName": "",
+        "tyywblxName": "贷款审批"
+      },
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "不动产交易纳税申报",
+        "resultSampleName": "",
+        "tyywblxName": "不动产交易纳税申报"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "全省范围内企业购置不动产一般转移登记，历史遗留问题、复杂产权转移等特殊情形除外。",
+        "cjsj": 1779244142000,
+        "processingConditions": "全省范围内企业购置不动产一般转移登记，历史遗留问题、复杂产权转移等特殊情形除外。",
+        "pxh": 1.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "2AC8B1CB44F749F3953503F983C9D444",
+        "yjsbsznId": "D7F4B71CDE1941348BCA789917189FE2",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [],
+    "sxmc": "企业购置不动产转移登记“一件事”",
+    "yjsSsqdbm": "43TCP0021A26J0100",
+    "basicInfo": {
+      "aheadFrequency": "1",
+      "areaName": "长沙市",
+      "completedLimit": "5",
+      "cooperateName": "公安部门,自规部门,税务部门,市监部门",
+      "isCharge": "1",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0731-84529109",
+      "lbjgId": "15,30,09,31",
+      "qtbmId": "T8weIo0fTNSiaib118yfnyPQ",
+      "qtbmmc": "长沙市自然资源和规划局",
+      "reasonLink": "1.有“带押过户”需求的，需要到办事现场提供不动产发生转移导致抵押人发生变化的，提交能够证实其变化的材料；禁止或者限制转让抵押不动产的约定发生变化的，提交变更的材料。 2.对税务核税结果有异议的，需要线下核实。",
+      "yjsssqdbsznid": "37C2F6F0DFCD4C229425806C3AF0F27C",
+      "zxdh": "0731-84522900"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430602010999",
+      "benji": "1",
+      "orgId": "e93fc3e562844bafaf6c00afef813346",
+      "orgLevel": "4",
+      "orgName": "岳阳楼区奇家岭街道街道本级",
+      "orgShowName": "区奇家岭街道街道本级",
+      "orgSn": "1",
+      "parentCode": "430602010000",
+      "parentId": "e93fc3e562844bafaf6c00afef810948",
+      "parentName": "岳阳楼区奇家岭街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430602010003",
+      "benji": "0",
+      "orgId": "y4xfuTMsSnSmt9NuxJqyIA",
+      "orgLevel": "5",
+      "orgName": "岳阳楼区奇家岭街道学院路社区",
+      "orgShowName": "学院路社区",
+      "orgSn": "999",
+      "parentCode": "430602010000",
+      "parentId": "e93fc3e562844bafaf6c00afef810948",
+      "parentName": "岳阳楼区奇家岭街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430602010004",
+      "benji": "0",
+      "orgId": "enMkqCE1Ticqwwa8KURKF0A",
+      "orgLevel": "5",
+      "orgName": "岳阳楼区奇家岭街道奇家社区",
+      "orgShowName": "奇家社区",
+      "orgSn": "999",
+      "parentCode": "430602010000",
+      "parentId": "e93fc3e562844bafaf6c00afef810948",
+      "parentName": "岳阳楼区奇家岭街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430602010005",
+      "benji": "0",
+      "orgId": "jNC1getZQDia3eknDb4etuA",
+      "orgLevel": "5",
+      "orgName": "岳阳楼区奇家岭街道蔡家社区",
+      "orgShowName": "蔡家社区",
+      "orgSn": "999",
+      "parentCode": "430602010000",
+      "parentId": "e93fc3e562844bafaf6c00afef810948",
+      "parentName": "岳阳楼区奇家岭街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430602010007",
+      "benji": "0",
+      "orgId": "lT8WSuJ9R56LjB38stibNkw",
+      "orgLevel": "5",
+      "orgName": "岳阳楼区奇家岭街道仓田社区",
+      "orgShowName": "仓田社区",
+      "orgSn": "999",
+      "parentCode": "430602010000",
+      "parentId": "e93fc3e562844bafaf6c00afef810948",
+      "parentName": "岳阳楼区奇家岭街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430602010008",
+      "benji": "0",
+      "orgId": "ZbV2D2zNQkyBuEDDDz4bAg",
+      "orgLevel": "5",
+      "orgName": "岳阳楼区奇家岭街道奇西社区",
+      "orgShowName": "奇西社区",
+      "orgSn": "999",
+      "parentCode": "430602010000",
+      "parentId": "e93fc3e562844bafaf6c00afef810948",
+      "parentName": "岳阳楼区奇家岭街道",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

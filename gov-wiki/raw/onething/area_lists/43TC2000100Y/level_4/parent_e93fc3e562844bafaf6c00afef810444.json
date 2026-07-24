@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "2",
+      "areaCode": "430302101999",
+      "benji": "1",
+      "orgId": "e93fc3e562844bafaf6c00afef812581",
+      "orgLevel": "4",
+      "orgName": "雨湖区楠竹山镇镇本级",
+      "orgShowName": "楠竹山镇镇本级",
+      "orgSn": "1",
+      "parentCode": "430302101000",
+      "parentId": "e93fc3e562844bafaf6c00afef810444",
+      "parentName": "雨湖区楠竹山镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430302101001",
+      "benji": "0",
+      "orgId": "Pvd2RZIySTy2GDia7oicm91g",
+      "orgLevel": "5",
+      "orgName": "雨湖区楠竹山镇永丰社区",
+      "orgShowName": "永丰社区",
+      "orgSn": "999",
+      "parentCode": "430302101000",
+      "parentId": "e93fc3e562844bafaf6c00afef810444",
+      "parentName": "雨湖区楠竹山镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430302101002",
+      "benji": "0",
+      "orgId": "wZgVUqsISgmTMNSo2ibELqA",
+      "orgLevel": "5",
+      "orgName": "雨湖区楠竹山镇楠竹社区",
+      "orgShowName": "楠竹社区",
+      "orgSn": "999",
+      "parentCode": "430302101000",
+      "parentId": "e93fc3e562844bafaf6c00afef810444",
+      "parentName": "雨湖区楠竹山镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430302101003",
+      "benji": "0",
+      "orgId": "GNJZN5dUTVu9fibvdeA4PxQ",
+      "orgLevel": "5",
+      "orgName": "雨湖区楠竹山镇爱国社区",
+      "orgShowName": "爱国社区",
+      "orgSn": "999",
+      "parentCode": "430302101000",
+      "parentId": "e93fc3e562844bafaf6c00afef810444",
+      "parentName": "雨湖区楠竹山镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430302101004",
+      "benji": "0",
+      "orgId": "FP4vv2EySn2herjDv5PQ2w",
+      "orgLevel": "5",
+      "orgName": "雨湖区楠竹山镇新桥社区",
+      "orgShowName": "新桥社区",
+      "orgSn": "999",
+      "parentCode": "430302101000",
+      "parentId": "e93fc3e562844bafaf6c00afef810444",
+      "parentName": "雨湖区楠竹山镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430302101201",
+      "benji": "0",
+      "orgId": "aJRqAStpQv2ZrKPX5pNd2Q",
+      "orgLevel": "5",
+      "orgName": "雨湖区楠竹山镇罗金塘村",
+      "orgShowName": "罗金塘村",
+      "orgSn": "999",
+      "parentCode": "430302101000",
+      "parentId": "e93fc3e562844bafaf6c00afef810444",
+      "parentName": "雨湖区楠竹山镇",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430726104999",
+      "benji": "1",
+      "orgId": "e93fc3e562844bafaf6c00afef814138",
+      "orgLevel": "4",
+      "orgName": "石门县新关镇镇本级",
+      "orgShowName": "石门县新关镇镇本级",
+      "orgSn": "1",
+      "parentCode": "430726104000",
+      "parentId": "e93fc3e562844bafaf6c00afef811308",
+      "parentName": "石门县新关镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430726104002",
+      "benji": "0",
+      "orgId": "EwzlgsqzRh28XBSe5KFdTw",
+      "orgLevel": "5",
+      "orgName": "石门县新关镇新关社区",
+      "orgShowName": "新关社区",
+      "orgSn": "999",
+      "parentCode": "430726104000",
+      "parentId": "e93fc3e562844bafaf6c00afef811308",
+      "parentName": "石门县新关镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430726104003",
+      "benji": "0",
+      "orgId": "LibictAhsSTq6GqPlqwxpJlQ",
+      "orgLevel": "5",
+      "orgName": "石门县新关镇新桥社区",
+      "orgShowName": "新桥社区",
+      "orgSn": "999",
+      "parentCode": "430726104000",
+      "parentId": "e93fc3e562844bafaf6c00afef811308",
+      "parentName": "石门县新关镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430726104201",
+      "benji": "0",
+      "orgId": "pWnzbHENRRuHFpa4tyIPnw",
+      "orgLevel": "5",
+      "orgName": "石门县新关镇五桂桥村",
+      "orgShowName": "五桂桥村",
+      "orgSn": "999",
+      "parentCode": "430726104000",
+      "parentId": "e93fc3e562844bafaf6c00afef811308",
+      "parentName": "石门县新关镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430726104202",
+      "benji": "0",
+      "orgId": "A8x4SWNsS5WMNywLnxicBmQ",
+      "orgLevel": "5",
+      "orgName": "石门县新关镇松林村",
+      "orgShowName": "松林村",
+      "orgSn": "999",
+      "parentCode": "430726104000",
+      "parentId": "e93fc3e562844bafaf6c00afef811308",
+      "parentName": "石门县新关镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430726104218",
+      "benji": "0",
+      "orgId": "ibKM7UmAPQA2djcjzXTxBTw",
+      "orgLevel": "5",
+      "orgName": "石门县新关镇长岭村",
+      "orgShowName": "长岭村",
+      "orgSn": "999",
+      "parentCode": "430726104000",
+      "parentId": "e93fc3e562844bafaf6c00afef811308",
+      "parentName": "石门县新关镇",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

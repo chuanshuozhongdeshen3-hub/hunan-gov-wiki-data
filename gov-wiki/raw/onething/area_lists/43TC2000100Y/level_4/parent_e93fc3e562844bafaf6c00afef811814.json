@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "431229201999",
+      "benji": "1",
+      "orgId": "e93fc3e562844bafaf6c00afef814644",
+      "orgLevel": "4",
+      "orgName": "靖州县三锹乡乡本级",
+      "orgShowName": "靖州县三锹乡乡本级",
+      "orgSn": "1",
+      "parentCode": "431229201000",
+      "parentId": "e93fc3e562844bafaf6c00afef811814",
+      "parentName": "靖州县三锹乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431229201201",
+      "benji": "0",
+      "orgId": "HbibkcNOtQqS35ibFqnWLFicA",
+      "orgLevel": "5",
+      "orgName": "靖州县三锹乡菜地村",
+      "orgShowName": "菜地村",
+      "orgSn": "999",
+      "parentCode": "431229201000",
+      "parentId": "e93fc3e562844bafaf6c00afef811814",
+      "parentName": "靖州县三锹乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431229201202",
+      "benji": "0",
+      "orgId": "PPotrkcuSmqxoeDiboOyYlQ",
+      "orgLevel": "5",
+      "orgName": "靖州县三锹乡地妙村",
+      "orgShowName": "地妙村",
+      "orgSn": "999",
+      "parentCode": "431229201000",
+      "parentId": "e93fc3e562844bafaf6c00afef811814",
+      "parentName": "靖州县三锹乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431229201206",
+      "benji": "0",
+      "orgId": "ic7r9OeJ5Se6aK97kIWYAuw",
+      "orgLevel": "5",
+      "orgName": "靖州县三锹乡地笋村",
+      "orgShowName": "地笋村",
+      "orgSn": "999",
+      "parentCode": "431229201000",
+      "parentId": "e93fc3e562844bafaf6c00afef811814",
+      "parentName": "靖州县三锹乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431229201208",
+      "benji": "0",
+      "orgId": "zNR8833NQXeUbAn0aUGgIw",
+      "orgLevel": "5",
+      "orgName": "靖州县三锹乡三锹村",
+      "orgShowName": "三锹村",
+      "orgSn": "999",
+      "parentCode": "431229201000",
+      "parentId": "e93fc3e562844bafaf6c00afef811814",
+      "parentName": "靖州县三锹乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431229201209",
+      "benji": "0",
+      "orgId": "eDibiazZxibSY2pibHyLyJZBCA",
+      "orgLevel": "5",
+      "orgName": "靖州县三锹乡元贞凤冲村",
+      "orgShowName": "元贞凤冲村",
+      "orgSn": "999",
+      "parentCode": "431229201000",
+      "parentId": "e93fc3e562844bafaf6c00afef811814",
+      "parentName": "靖州县三锹乡",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

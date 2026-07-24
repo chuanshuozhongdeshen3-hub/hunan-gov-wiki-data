@@ -1,0 +1,419 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1723533745000,
+        "fjId": "ZhUlZtkJTs23-nnNG9ETLA",
+        "fjbm": "100001",
+        "fjdx": 0.09,
+        "fjlj": "orchestrate/2024-08-13/1723533745587$$经营性项日申请验收开业“一件事”办理流程终.jpg",
+        "fjlx": ".jpg",
+        "fjmc": "经营性项日申请验收开业“一件事”办理流程终.jpg",
+        "s3tmc": "zwfw202408",
+        "sfyx": "Y",
+        "ywdxId": "23847F9F689F4EA784588CCA91E213C6"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "嘉禾县政务服务中心",
+        "blsj": "法定工作日：上午8:30-12:00，下午14:00-17:00",
+        "cjsj": 1724901165519,
+        "gxsj": 1765418924000,
+        "infoAddr": "湖南省郴州市嘉禾县嘉府路5号政务服务中心一楼住建局窗口",
+        "pointName": "嘉禾县政务服务中心",
+        "processingTime": "法定工作日：上午8:30-12:00，下午14:00-17:00",
+        "pxh": 1,
+        "xxdz": "湖南省郴州市嘉禾县嘉府路5号政务服务中心一楼住建局窗口",
+        "yjsBldId": "971CE03EA0CD475F8F72432FCD80EBEB",
+        "ywzjId": "F86D493A21724256A878FCB519E76398",
+        "zt": "0"
+      },
+      {
+        "bldmc": "嘉禾县政务服务中心",
+        "blsj": "法定工作日，上午8:30-12:00，下午14:00-17:00",
+        "cjsj": 1765418994407,
+        "gxsj": 1765418994000,
+        "infoAddr": "湖南省郴州市嘉禾县嘉府路5号政务服务中心一楼“高效办成一件事”重点事项服务专区",
+        "pointName": "嘉禾县政务服务中心",
+        "processingTime": "法定工作日，上午8:30-12:00，下午14:00-17:00",
+        "pxh": 2,
+        "xxdz": "湖南省郴州市嘉禾县嘉府路5号政务服务中心一楼“高效办成一件事”重点事项服务专区",
+        "yjsBldId": "2AFCBC44BBFA4C64B13E77185B63ACBE",
+        "ywzjId": "F86D493A21724256A878FCB519E76398",
+        "zt": "0"
+      }
+    ],
+    "materialList": [
+      {
+        "attachList": [
+          {
+            "cjsj": 1723533991000,
+            "fjId": "f_UZCYDtSQ6AgqTBHA3gQA",
+            "fjbm": "100002",
+            "fjdx": 0.032,
+            "fjlj": "orchestrate/2024-10-19/1729323937867$$经营性项目验收开业“一件事”申请表.docx",
+            "fjlx": ".docx",
+            "fjmc": "经营性项目验收开业“一件事”申请表.docx",
+            "s3tmc": "zwfw202410",
+            "sfyx": "Y",
+            "ywdxId": "49C4938981604C9E9169DD14BBDDE612"
+          },
+          {
+            "cjsj": 1723533991000,
+            "fjId": "1ucSMt21Q7e21b-AkVEvTw",
+            "fjbm": "100003",
+            "fjdx": 0.032,
+            "fjlj": "orchestrate/2024-10-19/1729323939159$$经营性项目验收开业“一件事”示例表.docx",
+            "fjlx": ".docx",
+            "fjmc": "经营性项目验收开业“一件事”示例表.docx",
+            "s3tmc": "zwfw202410",
+            "sfyx": "Y",
+            "ywdxId": "49C4938981604C9E9169DD14BBDDE612"
+          }
+        ],
+        "bzclId": "M43TC1700200Y0002",
+        "cjsj": 1723533991000,
+        "clbyx": "1",
+        "clbz": "申请人自备",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "经营性项目“验收即开业”申请表",
+        "clxs": "4",
+        "clxz": "1",
+        "gxsj": 1772136140000,
+        "mtjfs": "4",
+        "pxh": 1.0,
+        "sfykb": "1",
+        "sfyslb": "1",
+        "tbxz": "申请人自备",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "76B14E135F4B4089B5A5DB6B8765B839",
+        "yjsSsqdId": "3C660188C9AB4E798B0069DA15EE721B",
+        "yqtgyj": "《湖南省人民政府办公厅关于进一步优化政务服务提升行政效能推动“高效办成一件事”的通知》（湘政办函〔2024〕16号）",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1723533991000
+          }
+        ],
+        "bzclId": "M43TC1700200Y0005",
+        "cjsj": 1723533991000,
+        "clbyx": "2",
+        "clbz": "申请人自备",
+        "cljm": "0",
+        "cllx": "3",
+        "cllyqd": "10",
+        "clmc": "涉及消防的工程竣工图纸",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1772136140000,
+        "mtjfs": "4",
+        "pxh": 4.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "申请人自备",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "247CC15722FD48B98230D46C14B9B01E",
+        "yjsSsqdId": "3C660188C9AB4E798B0069DA15EE721B",
+        "yqtgyj": "《湖南省人民政府办公厅关于进一步优化政务服务提升行政效能推动“高效办成一件事”的通知》（湘政办函〔2024〕16号）",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1723533991000
+          }
+        ],
+        "bzclId": "M43TC1700200Y0006",
+        "cjsj": 1723533991000,
+        "clbyx": "1",
+        "clbz": "申请人自备",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "20",
+        "clmc": "营业执照",
+        "clxs": "4",
+        "clxz": "2",
+        "gxsj": 1772136140000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 5.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "申请人自备",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "85F776E143384536B8E871C17E86B317",
+        "yjsSsqdId": "3C660188C9AB4E798B0069DA15EE721B",
+        "yqtgyj": "《湖南省人民政府办公厅关于进一步优化政务服务提升行政效能推动“高效办成一件事”的通知》（湘政办函〔2024〕16号）",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1723533991000
+          }
+        ],
+        "bzclId": "M43TC1700200Y0008",
+        "cjsj": 1723533991000,
+        "clbyx": "2",
+        "clbz": "申请人自备",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "场所平面布置图、场所消防设施平面图",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1772136140000,
+        "mtjfs": "4",
+        "pxh": 7.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "申请人自备",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "411F802D49BD457F9AB69E6F8023F154",
+        "yjsSsqdId": "3C660188C9AB4E798B0069DA15EE721B",
+        "yqtgyj": "《湖南省人民政府办公厅关于进一步优化政务服务提升行政效能推动“高效办成一件事”的通知》（湘政办函〔2024〕16号）",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1723533991000
+          }
+        ],
+        "bzclId": "M43TC1700200Y0004",
+        "cjsj": 1723533991000,
+        "clbyx": "1",
+        "clbz": "申请人自备",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "消防工程竣工验收报告",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1772136140000,
+        "mtjfs": "4",
+        "pxh": 3.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "申请人自备",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "00C07E5543474FC6B5BB55835A34D1A8",
+        "yjsSsqdId": "3C660188C9AB4E798B0069DA15EE721B",
+        "yqtgyj": "《湖南省人民政府办公厅关于进一步优化政务服务提升行政效能推动“高效办成一件事”的通知》（湘政办函〔2024〕16号）",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1723533991000
+          }
+        ],
+        "bzclId": "M43TC1700200Y0007",
+        "cjsj": 1723533991000,
+        "clbyx": "2",
+        "clbz": "申请人自备",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "消防安全制度、灭火和应急疏散预案",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1772136140000,
+        "mtjfs": "4",
+        "pxh": 6.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "申请人自备",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "009AF935F130444F9BC4E187241FBE07",
+        "yjsSsqdId": "3C660188C9AB4E798B0069DA15EE721B",
+        "yqtgyj": "《湖南省人民政府办公厅关于进一步优化政务服务提升行政效能推动“高效办成一件事”的通知》（湘政办函〔2024〕16号）",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1723533991000
+          }
+        ],
+        "bzclId": "M43TC1700200Y0003",
+        "cjsj": 1723533991000,
+        "clbyx": "1",
+        "clbz": "申请人自备",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "建设工程消防验收备案表或特殊建设工程消防验收申请表",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1772136140000,
+        "mtjfs": "4",
+        "pxh": 2.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "申请人自备",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "DB4AFCA5A0EF4AD8BC4F5478F290CBD7",
+        "yjsSsqdId": "3C660188C9AB4E798B0069DA15EE721B",
+        "yqtgyj": "《湖南省人民政府办公厅关于进一步优化政务服务提升行政效能推动“高效办成一件事”的通知》（湘政办函〔2024〕16号）",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1723533991000
+          }
+        ],
+        "bzclId": "M43TC1700200Y0009",
+        "cjsj": 1723533991000,
+        "clbyx": "2",
+        "clbz": "申请人自备",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "99",
+        "clmc": "法律、行政法规规定的其他材料",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1772136140000,
+        "mtjfs": "4",
+        "pxh": 8.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "申请人自备",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "CF6AC2A502B449F2AAE50FFB6167086A",
+        "yjsSsqdId": "3C660188C9AB4E798B0069DA15EE721B",
+        "yqtgyj": "《湖南省人民政府办公厅关于进一步优化政务服务提升行政效能推动“高效办成一件事”的通知》（湘政办函〔2024〕16号）",
+        "zt": "0",
+        "zzclfs": 1.0
+      }
+    ],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "流程申请",
+      "blxs": "1",
+      "bszt": "0",
+      "cjrId": "fBt5Zv6icQicSpjOzKrdManw",
+      "cjsj": 1722304104000,
+      "cnbjsx": "8",
+      "dbsxccs": "1",
+      "dbsxcyyhhj": "提交材料信息",
+      "dndtzdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_015_jyxxm.jsp",
+      "gqbjlx": 2.0,
+      "gqblsx": 22.0,
+      "gqpdcs": 3.0,
+      "gqsbcl": 7.0,
+      "gxrId": "LaJZKkcNTmSEwHTA9zNiaUw",
+      "gxsj": 1723530399000,
+      "hjsgq": 4.0,
+      "hjsxz": 2.0,
+      "jgsdsm": "无",
+      "jsms": "1",
+      "lbjgId": "17",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "A",
+      "xsblqd": "1",
+      "xxbldsm": "政务大厅窗口",
+      "xxcktzdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_015_jyxxm.jsp",
+      "xzbjlx": 2.0,
+      "xzblsx": 8.0,
+      "xzpdcs": 1.0,
+      "xzsbcl": 6.0,
+      "yjsMlBzhId": "0E5679BDEB564A5781412C773FD2C3AD",
+      "yjsbsznId": "23847F9F689F4EA784588CCA91E213C6",
+      "ywzjfw": "0",
+      "zcblqd": "1,4",
+      "zcblqdWbdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_015_jyxxm.jsp"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 35.0,
+        "lbsxfwmc": "竣工联合验收",
+        "resultSampleName": "",
+        "tyywblxName": "竣工联合验收"
+      },
+      {
+        "cnsxsx": 7.0,
+        "lbsxfwmc": "公众聚集场所投入使用、营业前消防安全检查（一般流程）",
+        "resultSampleName": "公众聚集场所投入使用、营业前消防安检检查意见书/不同意投入使用、营业决定书",
+        "tyywblxName": "公众聚集场所投入使用、营业前消防安全检查（一般流程）"
+      },
+      {
+        "cnsxsx": 35.0,
+        "lbsxfwmc": "营业执照办理",
+        "resultSampleName": "",
+        "tyywblxName": "营业执照办理"
+      },
+      {
+        "cnsxsx": 35.0,
+        "lbsxfwmc": "经营许可",
+        "resultSampleName": "",
+        "tyywblxName": "经营许可"
+      },
+      {
+        "cnsxsx": 35.0,
+        "lbsxfwmc": "施工许可办理",
+        "resultSampleName": "",
+        "tyywblxName": "施工许可办理"
+      },
+      {
+        "cnsxsx": 35.0,
+        "lbsxfwmc": "消防设计施工图审查备案",
+        "resultSampleName": "",
+        "tyywblxName": "消防设计施工图审查备案"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "经营主体申请办理经营性项目验收即开业“一件事”的，在依法办理登记注册、施工许可及消防设计审查后，申请人对照《经营性项目申请验收即开业“一件事”材料清单》准备齐全资料，可自行登录申请办理验收开业“一件事”。",
+        "cjsj": 1723530996000,
+        "processingConditions": "经营主体申请办理经营性项目验收即开业“一件事”的，在依法办理登记注册、施工许可及消防设计审查后，申请人对照《经营性项目申请验收即开业“一件事”材料清单》准备齐全资料，可自行登录申请办理验收开业“一件事”。",
+        "pxh": 1.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "9CAB7826991143718D2CC1D856EF51D9",
+        "yjsbsznId": "23847F9F689F4EA784588CCA91E213C6",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [],
+    "sxmc": "经营性项目验收开业“一件事”",
+    "yjsSsqdbm": "43TC1700200YA25J1024",
+    "basicInfo": {
+      "aheadFrequency": "1",
+      "areaName": "嘉禾县",
+      "completedLimit": "8",
+      "cooperateName": "住建部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0735-12345",
+      "lbjgId": "17",
+      "qtbmId": "952b2ca70b35499e9c143e3b08f1045b",
+      "qtbmmc": "嘉禾县住房和城乡建设局",
+      "reasonLink": "提交材料信息",
+      "yjsssqdbsznid": "F86D493A21724256A878FCB519E76398",
+      "zxdh": "0735-6622541"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430771005999",
+      "benji": "1",
+      "orgId": "6ZmlRS89Sic2jU63eFzCM9A",
+      "orgLevel": "4",
+      "orgName": "西洞庭管理区金凤街道本级",
+      "orgShowName": "西洞庭管理区金凤街道本级",
+      "orgSn": "999",
+      "parentCode": "430771005000",
+      "parentId": "0A8yvVasQibWKhibiaEAeQMwQ",
+      "parentName": "西洞庭管理区金凤街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430771005001",
+      "benji": "0",
+      "orgId": "nEfwwHzvSiaqPZh8txicursg",
+      "orgLevel": "5",
+      "orgName": "西洞庭管理区东北湾社区",
+      "orgShowName": "东北湾社区",
+      "orgSn": "999",
+      "parentCode": "430771005000",
+      "parentId": "0A8yvVasQibWKhibiaEAeQMwQ",
+      "parentName": "西洞庭管理区金凤街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430771005002",
+      "benji": "0",
+      "orgId": "5icWJQyODQXCoM4FZOnyVVA",
+      "orgLevel": "5",
+      "orgName": "西洞庭管理区白芷湖社区",
+      "orgShowName": "白芷湖社区",
+      "orgSn": "999",
+      "parentCode": "430771005000",
+      "parentId": "0A8yvVasQibWKhibiaEAeQMwQ",
+      "parentName": "西洞庭管理区金凤街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430771005003",
+      "benji": "0",
+      "orgId": "D6iapCCiaicTFib88MNiaxOUY8w",
+      "orgLevel": "5",
+      "orgName": "西洞庭管理区望洲社区",
+      "orgShowName": "望洲社区",
+      "orgSn": "999",
+      "parentCode": "430771005000",
+      "parentId": "0A8yvVasQibWKhibiaEAeQMwQ",
+      "parentName": "西洞庭管理区金凤街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430771005004",
+      "benji": "0",
+      "orgId": "OWkMNic65SpaYRdHLuxXlmA",
+      "orgLevel": "5",
+      "orgName": "西洞庭管理区中洲社区",
+      "orgShowName": "中洲社区",
+      "orgSn": "999",
+      "parentCode": "430771005000",
+      "parentId": "0A8yvVasQibWKhibiaEAeQMwQ",
+      "parentName": "西洞庭管理区金凤街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430771005005",
+      "benji": "0",
+      "orgId": "6RAj6gibwTMOxXws2UrsDpQ",
+      "orgLevel": "5",
+      "orgName": "西洞庭管理区清水塘社区",
+      "orgShowName": "清水塘社区",
+      "orgSn": "999",
+      "parentCode": "430771005000",
+      "parentId": "0A8yvVasQibWKhibiaEAeQMwQ",
+      "parentName": "西洞庭管理区金凤街道",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

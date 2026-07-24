@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430771004999",
+      "benji": "1",
+      "orgId": "B0e9NPia6RT2diaarXUMPGSw",
+      "orgLevel": "4",
+      "orgName": "西洞庭管理区龙泉街道本级",
+      "orgShowName": "西洞庭管理区龙泉街道本级",
+      "orgSn": "999",
+      "parentCode": "430771004000",
+      "parentId": "tZctcJqIRFiaAOiaTkE6kbzg",
+      "parentName": "西洞庭管理区龙泉街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430771004001",
+      "benji": "0",
+      "orgId": "q5Pg3ibjmSYaHefhagkSRKw",
+      "orgLevel": "5",
+      "orgName": "西洞庭管理区育才社区",
+      "orgShowName": "育才社区",
+      "orgSn": "999",
+      "parentCode": "430771004000",
+      "parentId": "tZctcJqIRFiaAOiaTkE6kbzg",
+      "parentName": "西洞庭管理区龙泉街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430771004002",
+      "benji": "0",
+      "orgId": "c5mfIWUHR0eSYE3TuH84eQ",
+      "orgLevel": "5",
+      "orgName": "西洞庭管理区沙河社区",
+      "orgShowName": "沙河社区",
+      "orgSn": "999",
+      "parentCode": "430771004000",
+      "parentId": "tZctcJqIRFiaAOiaTkE6kbzg",
+      "parentName": "西洞庭管理区龙泉街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430771004003",
+      "benji": "0",
+      "orgId": "XnOQxGZicRr2x6uHw9TRGFQ",
+      "orgLevel": "5",
+      "orgName": "西洞庭管理区天福社区",
+      "orgShowName": "天福社区",
+      "orgSn": "999",
+      "parentCode": "430771004000",
+      "parentId": "tZctcJqIRFiaAOiaTkE6kbzg",
+      "parentName": "西洞庭管理区龙泉街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430771004004",
+      "benji": "0",
+      "orgId": "Ou7O5rQeSkyfxNUdSuenPw",
+      "orgLevel": "5",
+      "orgName": "西洞庭管理区东郊社区",
+      "orgShowName": "东郊社区",
+      "orgSn": "999",
+      "parentCode": "430771004000",
+      "parentId": "tZctcJqIRFiaAOiaTkE6kbzg",
+      "parentName": "西洞庭管理区龙泉街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430771004005",
+      "benji": "0",
+      "orgId": "1jyePbiagRYibMtGlQ2KDiaWQ",
+      "orgLevel": "5",
+      "orgName": "西洞庭管理区果园社区",
+      "orgShowName": "果园社区",
+      "orgSn": "999",
+      "parentCode": "430771004000",
+      "parentId": "tZctcJqIRFiaAOiaTkE6kbzg",
+      "parentName": "西洞庭管理区龙泉街道",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

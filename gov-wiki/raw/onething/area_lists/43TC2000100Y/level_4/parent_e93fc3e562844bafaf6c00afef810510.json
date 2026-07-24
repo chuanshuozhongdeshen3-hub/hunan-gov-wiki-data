@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430382101999",
+      "benji": "1",
+      "orgId": "e93fc3e562844bafaf6c00afef812647",
+      "orgLevel": "4",
+      "orgName": "韶山市银田镇镇本级",
+      "orgShowName": "韶山市银田镇镇本级",
+      "orgSn": "1",
+      "parentCode": "430382101000",
+      "parentId": "e93fc3e562844bafaf6c00afef810510",
+      "parentName": "韶山市银田镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430382101004",
+      "benji": "0",
+      "orgId": "MrrMrB8JQnOojic3m9iaXOBw",
+      "orgLevel": "5",
+      "orgName": "韶山市银田镇银田寺社区",
+      "orgShowName": "韶山市银田镇银田寺社区",
+      "orgSn": "999",
+      "parentCode": "430382101000",
+      "parentId": "e93fc3e562844bafaf6c00afef810510",
+      "parentName": "韶山市银田镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430382101202",
+      "benji": "0",
+      "orgId": "2Y2bl6tQQvObckV2PWEB4g",
+      "orgLevel": "5",
+      "orgName": "韶山市银田镇南村村",
+      "orgShowName": "韶山市银田镇南村村",
+      "orgSn": "999",
+      "parentCode": "430382101000",
+      "parentId": "e93fc3e562844bafaf6c00afef810510",
+      "parentName": "韶山市银田镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430382101212",
+      "benji": "0",
+      "orgId": "bgnWbWaKRUufXEvjwiaFQwA",
+      "orgLevel": "5",
+      "orgName": "韶山市银田镇银田村",
+      "orgShowName": "韶山市银田镇银田村",
+      "orgSn": "999",
+      "parentCode": "430382101000",
+      "parentId": "e93fc3e562844bafaf6c00afef810510",
+      "parentName": "韶山市银田镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430382101213",
+      "benji": "0",
+      "orgId": "8KMicN5DzT26IhhrOjSKU9A",
+      "orgLevel": "5",
+      "orgName": "韶山市银田镇华南村",
+      "orgShowName": "韶山市银田镇华南村",
+      "orgSn": "999",
+      "parentCode": "430382101000",
+      "parentId": "e93fc3e562844bafaf6c00afef810510",
+      "parentName": "韶山市银田镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430382101214",
+      "benji": "0",
+      "orgId": "5ALD2UesRViapGa9BiaFEKmg",
+      "orgLevel": "5",
+      "orgName": "韶山市银田镇银园村",
+      "orgShowName": "韶山市银田镇银园村",
+      "orgSn": "999",
+      "parentCode": "430382101000",
+      "parentId": "e93fc3e562844bafaf6c00afef810510",
+      "parentName": "韶山市银田镇",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

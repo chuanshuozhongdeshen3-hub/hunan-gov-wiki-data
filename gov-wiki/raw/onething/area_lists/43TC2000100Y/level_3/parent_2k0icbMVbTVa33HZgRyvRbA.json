@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430686999000",
+      "benji": "1",
+      "orgId": "02tlFB4DS8y72XInMyJ0Kg",
+      "orgLevel": "3",
+      "orgName": "南湖新区本级",
+      "orgShowName": "区本级",
+      "orgSn": "999",
+      "parentCode": "430686000000",
+      "parentId": "2k0icbMVbTVa33HZgRyvRbA",
+      "parentName": "南湖新区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430686013000",
+      "benji": "0",
+      "orgId": "e93fc3e562844bafaf6c00afef810951",
+      "orgLevel": "4",
+      "orgName": "南湖新区南湖街道",
+      "orgShowName": "南湖街道",
+      "orgSn": "1",
+      "parentCode": "430686000000",
+      "parentId": "2k0icbMVbTVa33HZgRyvRbA",
+      "parentName": "南湖新区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430686016000",
+      "benji": "0",
+      "orgId": "ktS6AiaArQ9iaKUY1d9z0AQg",
+      "orgLevel": "4",
+      "orgName": "南湖新区求索街道",
+      "orgShowName": "求索街道",
+      "orgSn": "999",
+      "parentCode": "430686000000",
+      "parentId": "2k0icbMVbTVa33HZgRyvRbA",
+      "parentName": "南湖新区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430686017000",
+      "benji": "0",
+      "orgId": "hVITmnMpQMqlw94g5Un4sA",
+      "orgLevel": "4",
+      "orgName": "南湖新区湖滨街道",
+      "orgShowName": "湖滨街道",
+      "orgSn": "999",
+      "parentCode": "430686000000",
+      "parentId": "2k0icbMVbTVa33HZgRyvRbA",
+      "parentName": "南湖新区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430686018000",
+      "benji": "0",
+      "orgId": "4nvCzuXySImyRAZfODR9jw",
+      "orgLevel": "4",
+      "orgName": "南湖新区龙山管理处",
+      "orgShowName": "龙山管理处",
+      "orgSn": "999",
+      "parentCode": "430686000000",
+      "parentId": "2k0icbMVbTVa33HZgRyvRbA",
+      "parentName": "南湖新区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430686019000",
+      "benji": "0",
+      "orgId": "l7atEsNGTfibr5F5AIxia0JA",
+      "orgLevel": "4",
+      "orgName": "南湖新区月山管理处",
+      "orgShowName": "月山管理处",
+      "orgSn": "999",
+      "parentCode": "430686000000",
+      "parentId": "2k0icbMVbTVa33HZgRyvRbA",
+      "parentName": "南湖新区",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

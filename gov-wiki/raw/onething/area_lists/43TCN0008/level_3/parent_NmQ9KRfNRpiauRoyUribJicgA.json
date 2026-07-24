@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430371999000",
+      "benji": "1",
+      "orgId": "mzIDuwrPRPmmIFjIdLziapw",
+      "orgLevel": "3",
+      "orgName": "湘潭高新区本级",
+      "orgShowName": "湘潭高新区本级",
+      "orgSn": "1",
+      "parentCode": "430371000000",
+      "parentId": "NmQ9KRfNRpiauRoyUribJicgA",
+      "parentName": "湘潭高新区",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

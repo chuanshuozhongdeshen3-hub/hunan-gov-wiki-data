@@ -1,0 +1,64 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430811002999",
+      "benji": "1",
+      "orgId": "xDhkY2OZR8OaVACbZp8dFw",
+      "orgLevel": "4",
+      "orgName": "武陵源区锣鼓塔街道街道本级",
+      "orgShowName": "武陵源区锣鼓塔街道街道本级",
+      "orgSn": "999",
+      "parentCode": "430811002000",
+      "parentId": "kakqsQpmQ9mZyyRLuuTticw",
+      "parentName": "武陵源区锣鼓塔街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430811002001",
+      "benji": "0",
+      "orgId": "4nj1VCKMSibePoudTAlLhEA",
+      "orgLevel": "5",
+      "orgName": "武陵源区锣鼓塔街道锣鼓塔社区",
+      "orgShowName": "锣鼓塔社区",
+      "orgSn": "999",
+      "parentCode": "430811002000",
+      "parentId": "kakqsQpmQ9mZyyRLuuTticw",
+      "parentName": "武陵源区锣鼓塔街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430811002002",
+      "benji": "0",
+      "orgId": "O2AB6jNicS3Wo73gqjQ2EPg",
+      "orgLevel": "5",
+      "orgName": "武陵源区锣鼓塔街道袁家界社区",
+      "orgShowName": "袁家界社区",
+      "orgSn": "999",
+      "parentCode": "430811002000",
+      "parentId": "kakqsQpmQ9mZyyRLuuTticw",
+      "parentName": "武陵源区锣鼓塔街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430811002003",
+      "benji": "0",
+      "orgId": "tAegH7WqQSGUINL4jemHIw",
+      "orgLevel": "5",
+      "orgName": "武陵源区锣鼓塔街道张家界社区",
+      "orgShowName": "张家界社区",
+      "orgSn": "999",
+      "parentCode": "430811002000",
+      "parentId": "kakqsQpmQ9mZyyRLuuTticw",
+      "parentName": "武陵源区锣鼓塔街道",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

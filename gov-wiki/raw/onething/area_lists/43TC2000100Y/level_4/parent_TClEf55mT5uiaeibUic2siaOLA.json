@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "431127203999",
+      "benji": "1",
+      "orgId": "ELHUJwNDRK6q3NKpYqRpSQ",
+      "orgLevel": "4",
+      "orgName": "蓝山县湘江源瑶族乡本级",
+      "orgShowName": "蓝山县湘江源瑶族乡本级",
+      "orgSn": "999",
+      "parentCode": "431127203000",
+      "parentId": "TClEf55mT5uiaeibUic2siaOLA",
+      "parentName": "蓝山县湘江源瑶族乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431127203201",
+      "benji": "0",
+      "orgId": "4I4FVxqTQeGibg9nv4rq92Q",
+      "orgLevel": "5",
+      "orgName": "蓝山县湘江源瑶族乡高沅村委会",
+      "orgShowName": "高沅村",
+      "orgSn": "999",
+      "parentCode": "431127203000",
+      "parentId": "TClEf55mT5uiaeibUic2siaOLA",
+      "parentName": "蓝山县湘江源瑶族乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431127203202",
+      "benji": "0",
+      "orgId": "iaLQEepAQQa6uUYZRILpzTA",
+      "orgLevel": "5",
+      "orgName": "蓝山县湘江源瑶族乡坪源村委会",
+      "orgShowName": "坪源村",
+      "orgSn": "999",
+      "parentCode": "431127203000",
+      "parentId": "TClEf55mT5uiaeibUic2siaOLA",
+      "parentName": "蓝山县湘江源瑶族乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431127203203",
+      "benji": "0",
+      "orgId": "eBqlRX2nRySAtSN39IIGdw",
+      "orgLevel": "5",
+      "orgName": "蓝山县湘江源瑶族乡桐村委会",
+      "orgShowName": "桐村",
+      "orgSn": "999",
+      "parentCode": "431127203000",
+      "parentId": "TClEf55mT5uiaeibUic2siaOLA",
+      "parentName": "蓝山县湘江源瑶族乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431127203204",
+      "benji": "0",
+      "orgId": "98QeTvInR4yZRXQ5KA0oaw",
+      "orgLevel": "5",
+      "orgName": "蓝山县湘江源瑶族乡联村委会",
+      "orgShowName": "联村",
+      "orgSn": "999",
+      "parentCode": "431127203000",
+      "parentId": "TClEf55mT5uiaeibUic2siaOLA",
+      "parentName": "蓝山县湘江源瑶族乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431127203205",
+      "benji": "0",
+      "orgId": "DL2qiaz0kTXq8S3nn5dQttA",
+      "orgLevel": "5",
+      "orgName": "蓝山县湘江源瑶族乡竹林村委会",
+      "orgShowName": "竹林村",
+      "orgSn": "999",
+      "parentCode": "431127203000",
+      "parentId": "TClEf55mT5uiaeibUic2siaOLA",
+      "parentName": "蓝山县湘江源瑶族乡",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

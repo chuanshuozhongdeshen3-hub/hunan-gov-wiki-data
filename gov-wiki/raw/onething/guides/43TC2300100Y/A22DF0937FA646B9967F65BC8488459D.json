@@ -1,0 +1,404 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1777432351000,
+        "fjId": "sgW5HlA0RSyz7waipulKcQ",
+        "fjbm": "100001",
+        "fjdx": 0.187,
+        "fjlj": "orchestrate/2026-04-29/1777432351044$$就医一件事流程图.png",
+        "fjlx": ".png",
+        "fjmc": "就医一件事流程图.png",
+        "s3tmc": "zwfw202604",
+        "sfyx": "Y",
+        "ywdxId": "6B89C95928C4464385567E8FE0733A41"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "汝城县政务服务中心",
+        "blsj": "法定工作日：上午9:00—12:00；下午2:00—5:00",
+        "cjsj": 1724036614626,
+        "gxsj": 1772673566000,
+        "infoAddr": "湖南省郴州市汝城县九龙大道229号政务服务中心5楼H27号窗口",
+        "pointName": "汝城县政务服务中心",
+        "processingTime": "法定工作日：上午9:00—12:00；下午2:00—5:00",
+        "pxh": 1,
+        "xxdz": "湖南省郴州市汝城县九龙大道229号政务服务中心5楼H27号窗口",
+        "yjsBldId": "3D3E08C4785B4EEEA5D523A33345CAA5",
+        "ywzjId": "51943F093B5247398FAFE03C3D0ADB3D",
+        "zt": "0"
+      }
+    ],
+    "materialList": [
+      {
+        "attachList": [
+          {
+            "cjsj": 1754472635000,
+            "fjId": "lDWdgvCuRQKzL9wUprbrVA",
+            "fjbm": "100003",
+            "fjdx": 0.015,
+            "fjlj": "orchestrate/2025-08-06/1754472597567$$湖南省城乡居民基本医疗保险参保登记表.docx",
+            "fjlx": ".docx",
+            "fjmc": "湖南省城乡居民基本医疗保险参保登记表.docx",
+            "s3tmc": "zwfw202508",
+            "sfyx": "Y",
+            "ywdxId": "74A2B115C9F04EF1A9920CFC4E94906E"
+          },
+          {
+            "cjsj": 1754472635000,
+            "fjId": "de_3l5OsQSaCF_DYTLo01Q",
+            "fjbm": "100002",
+            "fjdx": 0.015,
+            "fjlj": "orchestrate/2025-08-06/1754472596949$$湖南省城乡居民基本医疗保险参保登记表.docx",
+            "fjlx": ".docx",
+            "fjmc": "湖南省城乡居民基本医疗保险参保登记表.docx",
+            "s3tmc": "zwfw202508",
+            "sfyx": "Y",
+            "ywdxId": "74A2B115C9F04EF1A9920CFC4E94906E"
+          }
+        ],
+        "bzclId": "M43TC2300100Y0004",
+        "cjsj": 1754472635000,
+        "clbyx": "1",
+        "clbz": "参保人持本人有效证件办理；变更姓名、性别、身份证号、出生日期等关键信息的可要求提供必要的对应辅助材料。",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "99",
+        "cllyqdsm": "申请人可到村（社区）领取填写",
+        "clmc": "《湖南省城乡居民基本医疗保险参保登记表》（含新增、中止、终止、恢复）",
+        "clxs": "3",
+        "clxz": "1",
+        "gxsj": 1777579217000,
+        "mtjfs": "4",
+        "pxh": 4.0,
+        "sfxtmb": "0",
+        "sfykb": "1",
+        "sfyslb": "1",
+        "tbxz": "内容填写完整准确",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "DDBB08E2517C4B88BE9E2E6109B2C7D2",
+        "yjsSsqdId": "A22DF0937FA646B9967F65BC8488459D",
+        "yqtgyj": "社会保险法等",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1754472556000,
+            "fjId": "-BR0j-RLRBawbihJRgDhjw",
+            "fjbm": "100002",
+            "fjdx": 0.015,
+            "fjlj": "orchestrate/2025-08-06/1754472533462$$湖南省异地就医登记备案表 (1).docx",
+            "fjlx": ".docx",
+            "fjmc": "湖南省异地就医登记备案表 (1).docx",
+            "s3tmc": "zwfw202508",
+            "sfyx": "Y",
+            "ywdxId": "D07485A4B35D46EC909790C07B4ADB0F"
+          },
+          {
+            "cjsj": 1754472556000,
+            "fjId": "wLG8cw3RTHOKr6olVsum-Q",
+            "fjbm": "100003",
+            "fjdx": 0.015,
+            "fjlj": "orchestrate/2025-08-06/1754472534204$$湖南省异地就医登记备案表样表.docx",
+            "fjlx": ".docx",
+            "fjmc": "湖南省异地就医登记备案表样表.docx",
+            "s3tmc": "zwfw202508",
+            "sfyx": "Y",
+            "ywdxId": "D07485A4B35D46EC909790C07B4ADB0F"
+          }
+        ],
+        "bzclId": "M43TC2300100Y0003",
+        "cjsj": 1754472556000,
+        "clbyx": "1",
+        "clbz": "内容完整准确，清晰可见",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "99",
+        "cllyqdsm": "网上办理系统自带，现场办理现场提供。",
+        "clmc": "《湖南省异地就医备案登记表》",
+        "clxs": "3",
+        "clxz": "9",
+        "gxsj": 1777579217000,
+        "mtjfs": "4",
+        "pxh": 3.0,
+        "sfxtmb": "0",
+        "sfykb": "1",
+        "sfyslb": "1",
+        "tbxz": "内容真实，齐全",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "4E679D282B004082A8C4715DD8480B76",
+        "yjsSsqdId": "A22DF0937FA646B9967F65BC8488459D",
+        "yqtgyj": "湖南省医疗保障局 湖南省财政厅关于印发《湖南省基本医疗保险异地就医直接结算管理办法（试行）》的通知（湘医保发〔2022〕61号）",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "暂无纸质材料规格"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1754472482000,
+            "fjId": "XLX3KHW5QCixbmxKzUBGTA",
+            "fjbm": "100003",
+            "fjdx": 0.014,
+            "fjlj": "orchestrate/2026-03-11/1773213626518$$基本医疗保险异地就医备案个人承诺书样表.docx",
+            "fjlx": ".docx",
+            "fjmc": "基本医疗保险异地就医备案个人承诺书样表.docx",
+            "s3tmc": "zwfw202603",
+            "sfyx": "Y",
+            "ywdxId": "83679758031F48F4A5C89C5864C91765"
+          },
+          {
+            "cjsj": 1754472482000,
+            "fjId": "TIM3BC9ZQMiDUOrcx8D8vg",
+            "fjbm": "100002",
+            "fjdx": 0.014,
+            "fjlj": "orchestrate/2026-03-11/1773213622242$$基本医疗保险异地就医备案个人承诺书 (1).docx",
+            "fjlx": ".docx",
+            "fjmc": "基本医疗保险异地就医备案个人承诺书 (1).docx",
+            "s3tmc": "zwfw202603",
+            "sfyx": "Y",
+            "ywdxId": "83679758031F48F4A5C89C5864C91765"
+          }
+        ],
+        "bzclId": "M43TC2300100Y0002",
+        "cjsj": 1754472482000,
+        "clbyx": "3",
+        "clbz": "材料齐全，清晰可见",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "20",
+        "cllyqdsm": "公安部门核发有效证件，“湘医保\"自动生成个人承诺书电子版。",
+        "clmc": "长期居住认定材料（居住证或个人承诺书）",
+        "clxs": "3",
+        "clxz": "2",
+        "gxsj": 1777579217000,
+        "materialCode": "L2000018",
+        "materialTitle": "居住证",
+        "mtjfs": "2",
+        "mtjfssm": "通过绑定的电子证照材料，提供证照材料自动关联实现免提交",
+        "pxh": 2.0,
+        "sfxtmb": "0",
+        "sfykb": "1",
+        "sfyslb": "1",
+        "tbxz": "材料真实、齐全，若以个人承诺方式备案，需6个月内补齐资料，才可继续享受异地就医待遇。补齐备案材料，且审核通过后，备案将长期有效。",
+        "tgfs": "2",
+        "type": "1",
+        "yjsMlSsqdClId": "201F996D49D947F6BA68F2F96870CFA1",
+        "yjsSsqdId": "A22DF0937FA646B9967F65BC8488459D",
+        "yqtgyj": "湖南省医疗保障局 湖南省财政厅关于印发《湖南省基本医疗保险异地就医直接结算管理办法（试行）》的通知（湘医保发〔2022〕61号）",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "暂无纸质材料规格"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1754472433000
+          }
+        ],
+        "bzclId": "M43TC2300100Y0001",
+        "cjsj": 1754472433000,
+        "clbyx": "1",
+        "clbz": "材料齐全，清晰可见",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "20",
+        "clmc": "参保人员中华人民共和国居民身份证或社会保障卡或医保电子凭证",
+        "clxs": "3",
+        "clxz": "2",
+        "gxsj": 1777579217000,
+        "materialCode": "L2000016",
+        "materialTitle": "中华人民共和国居民身份证",
+        "mtjfs": "2",
+        "mtjfssm": "通过绑定的电子证照材料，提供证照材料自动关联实现免提交",
+        "pxh": 1.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "材料真实，齐全",
+        "tgfs": "2",
+        "type": "1",
+        "yjsMlSsqdClId": "24D40963D8494ACAB8BC016E0E585318",
+        "yjsSsqdId": "A22DF0937FA646B9967F65BC8488459D",
+        "yqtgyj": "湖南省医疗保障局 湖南省财政厅关于印发《湖南省基本医疗保险异地就医直接结算管理办法（试行）》的通知（湘医保发〔2022〕61号）",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "暂无纸质材料规格"
+      }
+    ],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "提交申请->“一件事一次办”专窗收取材料->办件分发至业务办理部门->办理部门依据相关法律法规规章完成受理审批程序->“一件事一次办”专窗统一出件",
+      "blxs": "1",
+      "bszt": "1",
+      "cjrId": "p3tiabx8eSibiaS0Cd0Ny7RMg",
+      "cjsj": 1721889878000,
+      "cnbjsx": "2",
+      "dbsxccs": "1",
+      "dbsxcyyhhj": "自取时需到现场。",
+      "dndtzdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_010_jy.jsp",
+      "gqbjlx": 2.0,
+      "gqblsx": 2.0,
+      "gqpdcs": 2.0,
+      "gqsbcl": 3.0,
+      "gxrId": "p3tiabx8eSibiaS0Cd0Ny7RMg",
+      "gxsj": 1721891176000,
+      "hjsgq": 2.0,
+      "hjsxz": 1.0,
+      "jgsdsm": "自行前往现场领取。",
+      "jsms": "2",
+      "lbjgId": "23,36",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "1",
+      "xsblqd": "1,2",
+      "xxbldsm": "政务大厅",
+      "xzbjlx": 2.0,
+      "xzblsx": 2.0,
+      "xzpdcs": 1.0,
+      "xzsbcl": 1.0,
+      "yjsMlBzhId": "75780305F47A45568A24CFA329466DD4",
+      "yjsbsznId": "6B89C95928C4464385567E8FE0733A41",
+      "ywzjfw": "0",
+      "zcblqd": "1",
+      "zcblqdWbdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_010_jy.jsp"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "预约挂号",
+        "resultSampleName": "",
+        "tyywblxName": "预约挂号"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "异地长期居住人员备案",
+        "resultSampleName": "",
+        "tyywblxName": "异地长期居住人员备案"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "其他临时外出就医人员备案",
+        "resultSampleName": "",
+        "tyywblxName": "其他临时外出就医人员备案"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "城乡居民参保登记",
+        "resultSampleName": "无",
+        "tyywblxName": "城乡居民参保登记"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "生育保险缴费历史查询",
+        "resultSampleName": "",
+        "tyywblxName": "生育保险缴费历史查询"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "普通门诊统筹医院结算费用查询",
+        "resultSampleName": "",
+        "tyywblxName": "普通门诊统筹医院结算费用查询"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "医保个人账户查询",
+        "resultSampleName": "",
+        "tyywblxName": "医保个人账户查询"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "个人门诊统筹签约信息",
+        "resultSampleName": "",
+        "tyywblxName": "个人门诊统筹签约信息"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "基本医疗保险参保人员医疗费用手工（零星）报销进度查询",
+        "resultSampleName": "",
+        "tyywblxName": "基本医疗保险参保人员医疗费用手工（零星）报销进度查询"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "生育保险报销情况",
+        "resultSampleName": "",
+        "tyywblxName": "生育保险报销情况"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "有就医需求的人员。",
+        "cjsj": 1721890899000,
+        "processingConditions": "有就医需求的人员。",
+        "pxh": 1.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "CE3C0B98220E40EC8CC338DBEDF1D1CE",
+        "yjsbsznId": "6B89C95928C4464385567E8FE0733A41",
+        "zt": "0"
+      },
+      {
+        "bltj": "异地长期居住的参保人员。",
+        "cjsj": 1721890907000,
+        "processingConditions": "异地长期居住的参保人员。",
+        "pxh": 2.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "0B497E6C664346738FF7E79595F4E041",
+        "yjsbsznId": "6B89C95928C4464385567E8FE0733A41",
+        "zt": "0"
+      },
+      {
+        "bltj": "外出就医的参保人员。",
+        "cjsj": 1721890933000,
+        "processingConditions": "外出就医的参保人员。",
+        "pxh": 3.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "2927BDC26EB74A18AA9555FFBF90A262",
+        "yjsbsznId": "6B89C95928C4464385567E8FE0733A41",
+        "zt": "0"
+      },
+      {
+        "bltj": "除职工基本医疗保险应参保人员以及按国家规定享有其他保障的人员以外，其他所有城乡居民均属居民医保制度覆盖范围。",
+        "cjsj": 1721890963000,
+        "processingConditions": "除职工基本医疗保险应参保人员以及按国家规定享有其他保障的人员以外，其他所有城乡居民均属居民医保制度覆盖范围。",
+        "pxh": 4.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "031754772FCC406E83BAE75549B0AF4E",
+        "yjsbsznId": "6B89C95928C4464385567E8FE0733A41",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [],
+    "sxmc": "就医一件事",
+    "yjsSsqdbm": "43TC2300100Y126J1026",
+    "basicInfo": {
+      "aheadFrequency": "1",
+      "areaName": "汝城县",
+      "completedLimit": "2",
+      "cooperateName": "卫健部门,医保部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0735-8412345",
+      "lbjgId": "23,36",
+      "qtbmId": "8ba1bbb6a3d8495c98fa9d97055f0ae1",
+      "qtbmmc": "汝城县卫生健康局",
+      "reasonLink": "自取时需到现场。",
+      "yjsssqdbsznid": "51943F093B5247398FAFE03C3D0ADB3D",
+      "zxdh": "0735-8198055"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

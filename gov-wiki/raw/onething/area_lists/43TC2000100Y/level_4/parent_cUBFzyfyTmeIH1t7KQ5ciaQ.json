@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430523401999",
+      "benji": "1",
+      "orgId": "Te6owiaJsTTOCySEAqaJLicw",
+      "orgLevel": "4",
+      "orgName": "邵阳县七里山园艺场本级",
+      "orgShowName": "邵阳县七里山园艺场本级",
+      "orgSn": "999",
+      "parentCode": "430523401000",
+      "parentId": "cUBFzyfyTmeIH1t7KQ5ciaQ",
+      "parentName": "邵阳县七里山园艺场",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430523401201",
+      "benji": "0",
+      "orgId": "pLv8X8drRA2epBbVLdhFYw",
+      "orgLevel": "5",
+      "orgName": "邵阳县七里山园艺场飞云村",
+      "orgShowName": "飞云村",
+      "orgSn": "999",
+      "parentCode": "430523401000",
+      "parentId": "cUBFzyfyTmeIH1t7KQ5ciaQ",
+      "parentName": "邵阳县七里山园艺场",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430523401202",
+      "benji": "0",
+      "orgId": "Yve7lUoqRdWxmyATGYQrpQ",
+      "orgLevel": "5",
+      "orgName": "邵阳县七里山园艺场木铎村",
+      "orgShowName": "木铎村",
+      "orgSn": "999",
+      "parentCode": "430523401000",
+      "parentId": "cUBFzyfyTmeIH1t7KQ5ciaQ",
+      "parentName": "邵阳县七里山园艺场",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430523401203",
+      "benji": "0",
+      "orgId": "ricJjscRDS7yUuAwfZEicFLQ",
+      "orgLevel": "5",
+      "orgName": "邵阳县七里山园艺场新田村",
+      "orgShowName": "新田村",
+      "orgSn": "999",
+      "parentCode": "430523401000",
+      "parentId": "cUBFzyfyTmeIH1t7KQ5ciaQ",
+      "parentName": "邵阳县七里山园艺场",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430523401501",
+      "benji": "0",
+      "orgId": "wxEdic5MJTOWfnnMdKjdibFw",
+      "orgLevel": "5",
+      "orgName": "邵阳县七里山园艺场全民工区",
+      "orgShowName": "全民工区",
+      "orgSn": "999",
+      "parentCode": "430523401000",
+      "parentId": "cUBFzyfyTmeIH1t7KQ5ciaQ",
+      "parentName": "邵阳县七里山园艺场",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

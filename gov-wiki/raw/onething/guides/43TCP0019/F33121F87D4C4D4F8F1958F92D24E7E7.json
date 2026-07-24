@@ -1,0 +1,221 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1779084307000,
+        "fjId": "rQT6sWHuSQOjfXHyyQUzfw",
+        "fjbm": "100001",
+        "fjdx": 0.452,
+        "fjlj": "orchestrate/2026-05-18/1779084307121$$图片1.png",
+        "fjlx": ".png",
+        "fjmc": "图片1.png",
+        "s3tmc": "zwfw202605",
+        "sfyx": "Y",
+        "ywdxId": "18B67B48B77B4F2EBA70F496242A1761"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "张家界市政务服务中心",
+        "blsj": "法定工作日,夏季（07月01日~09月30日）：上午 08:30~12:00,下午 14:00~17:30;法定工作日,冬季（10月01日~次年06月30日）：上午 08:30~12:00,下午 13:30~17:00",
+        "cjsj": 1781667737114,
+        "gxsj": 1782268520000,
+        "infoAddr": "湖南省张家界市永定区永定大道558号市政务服务中心一楼“高效办成一件事”专窗",
+        "pointName": "张家界市政务服务中心",
+        "processingTime": "法定工作日,夏季（07月01日~09月30日）：上午 08:30~12:00,下午 14:00~17:30;法定工作日,冬季（10月01日~次年06月30日）：上午 08:30~12:00,下午 13:30~17:00",
+        "pxh": 1,
+        "xxdz": "湖南省张家界市永定区永定大道558号市政务服务中心一楼“高效办成一件事”专窗",
+        "yjsBldId": "9E709A97A8404B3688B4CE71057BF97E",
+        "ywzjId": "83CC1CD74E5A45D2A180EC265642A961",
+        "zt": "0"
+      }
+    ],
+    "materialList": [],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "登录注册联办事项",
+      "blxs": "1",
+      "bszt": "0",
+      "cjrId": "7t907fCmRzeek2ic6O3zNxw",
+      "cjsj": 1778838736000,
+      "cnbjsx": "30",
+      "dbsxccs": "0",
+      "dbsxcyyhhj": "无",
+      "dndtzdz": "https://zwfw-new.hunan.gov.cn/onething/ztjd/ztjd_26_004_teisp.jsp",
+      "gqbjlx": 2.0,
+      "gqblsx": 60.0,
+      "gqpdcs": 2.0,
+      "gqsbcl": 2.0,
+      "gxrId": "7t907fCmRzeek2ic6O3zNxw",
+      "gxsj": 1778839047000,
+      "hjsgq": 7.0,
+      "hjsxz": 5.0,
+      "jdtsdh": "0731-88988999",
+      "jdtsdz": "长沙市岳麓大道233号科技大厦",
+      "jgsdsm": "线下办理",
+      "jsms": "1",
+      "lbjgId": "06,07,13,25,29,30,31",
+      "sfczlct": "0",
+      "sfjxtz": "1",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "A",
+      "xsblqd": "1,2",
+      "xxbldsm": "一件事窗口",
+      "xxcktzdz": "https://zwfw-new.hunan.gov.cn/onething/ztjd/ztjd_26_004_teisp.jsp",
+      "xzbjlx": 2.0,
+      "xzblsx": 30.0,
+      "xzpdcs": 0.0,
+      "xzsbcl": 1.0,
+      "yddtzdz": "https://zwfw-new.hunan.gov.cn/onething/ztjd/ztjd_26_004_teisp.jsp",
+      "yjsMlBzhId": "1FEB88EE18174ACEB338F5B283FDDCDC",
+      "yjsbsznId": "18B67B48B77B4F2EBA70F496242A1761",
+      "ywzjfw": "0",
+      "zcblqd": "1,2,4",
+      "zcblqdWbdz": "https://zwfw-new.hunan.gov.cn/onething/ztjd/ztjd_26_004_teisp.jsp",
+      "zxdh": "0731-88988818/88988755/88988749",
+      "zxdz": "长沙市岳麓大道233号科技大厦"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "高新技术企业营业执照信息核验",
+        "resultSampleName": "",
+        "tyywblxName": "企业营业执照信息核验"
+      },
+      {
+        "cnsxsx": 10.0,
+        "lbsxfwmc": "高新技术企业知识产权信息共享(包括专利信息、知识产权权利变更情况等)",
+        "resultSampleName": "",
+        "tyywblxName": "高新技术企业知识产权信息共享(包括专利信息、知识产权权利变更情况等)"
+      },
+      {
+        "cnsxsx": 10.0,
+        "lbsxfwmc": "高新技术企业审计报告报备信息共享",
+        "resultSampleName": "",
+        "tyywblxName": "高新技术企业审计报告报备信息共享"
+      },
+      {
+        "cnsxsx": 10.0,
+        "lbsxfwmc": "高新技术企业进出口信息共享(包括进出口总额、出口总额等)",
+        "resultSampleName": "",
+        "tyywblxName": "进出口信息共享、海关失信和处罚信息核验"
+      },
+      {
+        "cnsxsx": 10.0,
+        "lbsxfwmc": "高新技术企业重特大生产安全事故处罚信息核验",
+        "resultSampleName": "",
+        "tyywblxName": "重特大生产安全事故信息核验"
+      },
+      {
+        "cnsxsx": 10.0,
+        "lbsxfwmc": "高新技术企业税务信息核验",
+        "resultSampleName": "",
+        "tyywblxName": "高新技术企业税务信息核验"
+      },
+      {
+        "cnsxsx": 10.0,
+        "lbsxfwmc": "高新技术企业市场监管行政处罚信息查询",
+        "resultSampleName": "",
+        "tyywblxName": "高新技术企业市场监管行政处罚信息查询"
+      },
+      {
+        "cnsxsx": 10.0,
+        "lbsxfwmc": "高新技术企业质量管理体系认证信息共享",
+        "resultSampleName": "",
+        "tyywblxName": "高新技术企业质量管理体系认证信息共享"
+      },
+      {
+        "cnsxsx": 10.0,
+        "lbsxfwmc": "高新技术企业评价认定结果查询",
+        "resultSampleName": "",
+        "tyywblxName": "高新技术企业评价认定信息核验"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "企业对照《高新技术企业认定管理办法》和《高新技术企业认定管理工作指引》进行自我评价，认为符合申报条件的企业。",
+        "cjsj": 1778839018000,
+        "processingConditions": "企业对照《高新技术企业认定管理办法》和《高新技术企业认定管理工作指引》进行自我评价，认为符合申报条件的企业。",
+        "pxh": 1.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "188E793E5C374EA481A536C097983EE3",
+        "yjsbsznId": "18B67B48B77B4F2EBA70F496242A1761",
+        "zt": "0"
+      },
+      {
+        "bltj": "企业需在“高企创新政策扶持一件事”服务平台完成注册登记。",
+        "cjsj": 1778839032000,
+        "processingConditions": "企业需在“高企创新政策扶持一件事”服务平台完成注册登记。",
+        "pxh": 2.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "FD61F2E8E8D84B4C88B2B6443D25176F",
+        "yjsbsznId": "18B67B48B77B4F2EBA70F496242A1761",
+        "zt": "0"
+      },
+      {
+        "bltj": "企业根据需办理的具体联办事项，在线完成相应授权。",
+        "cjsj": 1778839044000,
+        "processingConditions": "企业根据需办理的具体联办事项，在线完成相应授权。",
+        "pxh": 3.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "4B32F6FE305649F9A56F70B2D9BC1AE3",
+        "yjsbsznId": "18B67B48B77B4F2EBA70F496242A1761",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [
+      {
+        "answer": "由于涉及企业核心纳税数据及研发费用加计扣除等专业审核，为保障数据安全与审核准确性，税务信息暂采取“企业填报+人工核验”相结合的方式。",
+        "da": "由于涉及企业核心纳税数据及研发费用加计扣除等专业审核，为保障数据安全与审核准确性，税务信息暂采取“企业填报+人工核验”相结合的方式。",
+        "problem": "税务信息为什么是人工核验？",
+        "pxh": 0.0,
+        "wt": "税务信息为什么是人工核验？",
+        "yjsMlSsqdQuestionId": "B30639C449E04BD39ACC7013E28D34EB",
+        "yjsSsqdId": "F33121F87D4C4D4F8F1958F92D24E7E7"
+      },
+      {
+        "answer": "企业可对平台预填信息进行核对和修改。若发现数据不一致，请及时联系数据提供部门核实，并在申报材料中上传情况说明及相关佐证材料。",
+        "da": "企业可对平台预填信息进行核对和修改。若发现数据不一致，请及时联系数据提供部门核实，并在申报材料中上传情况说明及相关佐证材料。",
+        "problem": "平台自动填充的信息有误怎么办？",
+        "pxh": 1.0,
+        "wt": "平台自动填充的信息有误怎么办？",
+        "yjsMlSsqdQuestionId": "AEEEA86AE1054B8DABD9AA7A19A61427",
+        "yjsSsqdId": "F33121F87D4C4D4F8F1958F92D24E7E7"
+      },
+      {
+        "answer": "可以。本服务充分尊重企业意愿，部分联办事项为“可选”项，企业选择是否同步办理。",
+        "da": "可以。本服务充分尊重企业意愿，部分联办事项为“可选”项，企业选择是否同步办理。",
+        "problem": "如果不想办理联办事项，只申请高企认定可以吗？",
+        "pxh": 2.0,
+        "wt": "如果不想办理联办事项，只申请高企认定可以吗？",
+        "yjsMlSsqdQuestionId": "90FE0B8CEC464DAE834CE6993FB9A2DC",
+        "yjsSsqdId": "F33121F87D4C4D4F8F1958F92D24E7E7"
+      }
+    ],
+    "sxmc": "科技型企业创新政策扶持（以高新技术企业为例）“一件事”",
+    "yjsSsqdbm": "43TCP0019A26J0800",
+    "basicInfo": {
+      "aheadFrequency": "0",
+      "areaName": "张家界市",
+      "completedLimit": "30",
+      "cooperateName": "科技部门,工信部门,财政部门,应急部门,海关部门,税务部门,市监部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0744-12345",
+      "lbjgId": "06,07,13,25,29,30,31",
+      "qtbmId": "36943f4edd5a43f787d5745fc674e489",
+      "qtbmmc": "张家界市科技局",
+      "reasonLink": "无",
+      "yjsssqdbsznid": "83CC1CD74E5A45D2A180EC265642A961",
+      "zxdh": "0744-8281225；0744-8598111"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

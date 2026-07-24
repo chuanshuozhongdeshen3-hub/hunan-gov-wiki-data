@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "431127201999",
+      "benji": "1",
+      "orgId": "e93fc3e562844bafaf6c00afef814224",
+      "orgLevel": "4",
+      "orgName": "蓝山县犁头瑶族乡本级",
+      "orgShowName": "蓝山县犁头瑶族乡本级",
+      "orgSn": "1",
+      "parentCode": "431127201000",
+      "parentId": "e93fc3e562844bafaf6c00afef811394",
+      "parentName": "蓝山县犁头瑶族乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431127201200",
+      "benji": "0",
+      "orgId": "ochWpVeXSn6Y0qrPE3U2qQ",
+      "orgLevel": "5",
+      "orgName": "蓝山县犁头瑶族乡犁头村委会",
+      "orgShowName": "犁头村",
+      "orgSn": "999",
+      "parentCode": "431127201000",
+      "parentId": "e93fc3e562844bafaf6c00afef811394",
+      "parentName": "蓝山县犁头瑶族乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431127201201",
+      "benji": "0",
+      "orgId": "7mFVcicv7QISPxopN6YaMbA",
+      "orgLevel": "5",
+      "orgName": "蓝山县犁头瑶族乡山背村委会",
+      "orgShowName": "山背村",
+      "orgSn": "999",
+      "parentCode": "431127201000",
+      "parentId": "e93fc3e562844bafaf6c00afef811394",
+      "parentName": "蓝山县犁头瑶族乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431127201202",
+      "benji": "0",
+      "orgId": "ibDfdb8IlRYC1HibhzsnU44Q",
+      "orgLevel": "5",
+      "orgName": "蓝山县犁头瑶族乡毛利坪村委会",
+      "orgShowName": "毛利坪村",
+      "orgSn": "999",
+      "parentCode": "431127201000",
+      "parentId": "e93fc3e562844bafaf6c00afef811394",
+      "parentName": "蓝山县犁头瑶族乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431127201203",
+      "benji": "0",
+      "orgId": "9Bqx33RjSHKZpBuzVZkJXA",
+      "orgLevel": "5",
+      "orgName": "蓝山县犁头瑶族乡新屋地村委会",
+      "orgShowName": "新屋地村",
+      "orgSn": "999",
+      "parentCode": "431127201000",
+      "parentId": "e93fc3e562844bafaf6c00afef811394",
+      "parentName": "蓝山县犁头瑶族乡",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

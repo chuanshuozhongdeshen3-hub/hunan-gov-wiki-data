@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430624201999",
+      "benji": "1",
+      "orgId": "e93fc3e562844bafaf6c00afef813424",
+      "orgLevel": "4",
+      "orgName": "湘阴县六塘乡乡本级",
+      "orgShowName": "湘阴县六塘乡乡本级",
+      "orgSn": "1",
+      "parentCode": "430624201000",
+      "parentId": "e93fc3e562844bafaf6c00afef811026",
+      "parentName": "湘阴县六塘乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430624201001",
+      "benji": "0",
+      "orgId": "qqsiaelLqQicuvibFlQXXp43A",
+      "orgLevel": "5",
+      "orgName": "湘阴县六塘乡六塘铺社区",
+      "orgShowName": "六塘铺社区",
+      "orgSn": "999",
+      "parentCode": "430624201000",
+      "parentId": "e93fc3e562844bafaf6c00afef811026",
+      "parentName": "湘阴县六塘乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430624201212",
+      "benji": "0",
+      "orgId": "dpGYXN5mRNOqxkBTe9OfnA",
+      "orgLevel": "5",
+      "orgName": "湘阴县六塘乡旭日村",
+      "orgShowName": "旭日村",
+      "orgSn": "999",
+      "parentCode": "430624201000",
+      "parentId": "e93fc3e562844bafaf6c00afef811026",
+      "parentName": "湘阴县六塘乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430624201213",
+      "benji": "0",
+      "orgId": "upJVA8FJSLqReDKL2FxT8g",
+      "orgLevel": "5",
+      "orgName": "湘阴县六塘乡龙潭村",
+      "orgShowName": "龙潭村",
+      "orgSn": "999",
+      "parentCode": "430624201000",
+      "parentId": "e93fc3e562844bafaf6c00afef811026",
+      "parentName": "湘阴县六塘乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430624201214",
+      "benji": "0",
+      "orgId": "9nhYD5gzTfSDgN0iaopsia1A",
+      "orgLevel": "5",
+      "orgName": "湘阴县六塘乡文丰源村",
+      "orgShowName": "文丰源村",
+      "orgSn": "999",
+      "parentCode": "430624201000",
+      "parentId": "e93fc3e562844bafaf6c00afef811026",
+      "parentName": "湘阴县六塘乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430624201215",
+      "benji": "0",
+      "orgId": "UKPZvkJtR8KrJX6OsUic4aw",
+      "orgLevel": "5",
+      "orgName": "湘阴县六塘乡金珠口村",
+      "orgShowName": "金珠口村",
+      "orgSn": "999",
+      "parentCode": "430624201000",
+      "parentId": "e93fc3e562844bafaf6c00afef811026",
+      "parentName": "湘阴县六塘乡",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

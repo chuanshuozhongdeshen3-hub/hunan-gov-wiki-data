@@ -1,0 +1,207 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1780301193000,
+        "fjId": "pf_4vKtwSLGEuf5hN4TE3w",
+        "fjbm": "100001",
+        "fjdx": 0.056,
+        "fjlj": "orchestrate/2026-06-01/1780301193460$$流程图.png",
+        "fjlx": ".png",
+        "fjmc": "流程图.png",
+        "s3tmc": "zwfw202606",
+        "sfyx": "Y",
+        "ywdxId": "FA7717E5423940F083980FEF5BC58162"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "北湖区政务服务中心",
+        "blsj": "法定工作日,夏季（5月1日~9月30日）：上午9:00~12:00,下午2:30~5:30；冬季（10月1日~次年4月30日）：上午9:00~12:00,下午2:00~5:00。",
+        "cjsj": 1782442539387,
+        "gxsj": 1782442539000,
+        "infoAddr": "湖南省郴州市北湖区骆仙西路2号北湖区政府一楼政务服务中心综合受理大厅“高效办成一件事”重点事项服务专区",
+        "pointName": "北湖区政务服务中心",
+        "processingTime": "法定工作日,夏季（5月1日~9月30日）：上午9:00~12:00,下午2:30~5:30；冬季（10月1日~次年4月30日）：上午9:00~12:00,下午2:00~5:00。",
+        "pxh": 1,
+        "xxdz": "湖南省郴州市北湖区骆仙西路2号北湖区政府一楼政务服务中心综合受理大厅“高效办成一件事”重点事项服务专区",
+        "yjsBldId": "05CE15454AC640E18FB13B9B3D593DDD",
+        "ywzjId": "5E1A84F02063439BAE77B807A84215AD",
+        "zt": "0"
+      }
+    ],
+    "materialList": [],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "登录注册联办事项",
+      "blxs": "1",
+      "bszt": "1",
+      "cjsj": 1780299920000,
+      "cnbjsx": "1",
+      "dbsxccs": "0",
+      "dbsxcyyhhj": "无",
+      "dndtzdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "gqbjlx": 1.0,
+      "gqblsx": 1.0,
+      "gqpdcs": 1.0,
+      "gqsbcl": 1.0,
+      "hjsgq": 1.0,
+      "hjsxz": 1.0,
+      "jdtsdh": "073182287183",
+      "jdtsdz": "长沙市芙蓉区五一大道98号",
+      "jgsdsm": "线下办理",
+      "jsms": "2",
+      "lbjgId": "21,09,31,14",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "A",
+      "xsblqd": "1,2",
+      "xxbldsm": "一件事窗口",
+      "xxcktzdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "xzbjlx": 1.0,
+      "xzblsx": 1.0,
+      "xzpdcs": 0.0,
+      "xzsbcl": 0.0,
+      "yddtzdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "yjsMlBzhId": "FBB1EC351B7E414A8C16307800AC6442",
+      "yjsbsznId": "FA7717E5423940F083980FEF5BC58162",
+      "ywzjfw": "0",
+      "zcblqd": "1,2,4",
+      "zcblqdWbdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "zxdh": "073182282841、073182287113",
+      "zxdz": "长沙市芙蓉区五一大道98号"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "家政服务人员信用信息核验",
+        "resultSampleName": "",
+        "tyywblxName": "家政服务人员信用信息核验"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "职业技能等级信息查询",
+        "resultSampleName": "",
+        "tyywblxName": "职业技能等级信息查询"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "家政服务企业市场监管行政处罚信息查询",
+        "resultSampleName": "",
+        "tyywblxName": "家政服务企业市场监管行政处罚信息查询"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "企业营业执照信息核验",
+        "resultSampleName": "",
+        "tyywblxName": "企业营业执照信息核验"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "家政服务人员信用信息查询",
+        "resultSampleName": "",
+        "tyywblxName": "家政服务人员信用信息查询"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "家政服务企业信用信息查询",
+        "resultSampleName": "",
+        "tyywblxName": "家政服务企业信用信息查询"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "企业登录家政信用查APP（使用手机号（短信验证）登录注册消费者用户",
+        "cjsj": 1780301370000,
+        "processingConditions": "企业登录家政信用查APP（使用手机号（短信验证）登录注册消费者用户",
+        "pxh": 1.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "3BF98FEA2F684C5385EAA4420264CFDF",
+        "yjsbsznId": "FA7717E5423940F083980FEF5BC58162",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [
+      {
+        "answer": "根据商务部规定，消费者通过“家政信用查”小程序查询家政服务员或企业信用信息是免费的。",
+        "da": "根据商务部规定，消费者通过“家政信用查”小程序查询家政服务员或企业信用信息是免费的。",
+        "problem": "查询是否免费？",
+        "pxh": 0.0,
+        "wt": "查询是否免费？",
+        "yjsMlSsqdQuestionId": "8A5FF5690B5A466EADA7362A57905AF8",
+        "yjsSsqdId": "F893E2A866D1489E88A9D5F21EA7D9A4"
+      },
+      {
+        "answer": "· 家政服务员：包括个人身份信息、国家职业技能等级证书、培训记录、从业经历、犯罪背景核查结果（如是否涉及盗窃、虐待等严重犯罪）、健康状况及保险信息等。  \n· 家政企业：包括企业名称、地址、联系方式、营业执照信息、信用评级及是否纳入信用监管等。",
+        "da": "· 家政服务员：包括个人身份信息、国家职业技能等级证书、培训记录、从业经历、犯罪背景核查结果（如是否涉及盗窃、虐待等严重犯罪）、健康状况及保险信息等。  \n· 家政企业：包括企业名称、地址、联系方式、营业执照信息、信用评级及是否纳入信用监管等。",
+        "problem": "能查询到哪些信息？",
+        "pxh": 1.0,
+        "wt": "能查询到哪些信息？",
+        "yjsMlSsqdQuestionId": "885BD05B287D49689D007978029657AA",
+        "yjsSsqdId": "F893E2A866D1489E88A9D5F21EA7D9A4"
+      },
+      {
+        "answer": "查询家政服务员信用记录需获得其授权。消费者扫描二维码或通过小程序查询时，系统会提示需服务员确认授权，未授权则无法查看详细信息。",
+        "da": "查询家政服务员信用记录需获得其授权。消费者扫描二维码或通过小程序查询时，系统会提示需服务员确认授权，未授权则无法查看详细信息。",
+        "problem": "查询时需要授权吗？",
+        "pxh": 2.0,
+        "wt": "查询时需要授权吗？",
+        "yjsMlSsqdQuestionId": "CFD446383D204B439B63F6BA2D5F780F",
+        "yjsSsqdId": "F893E2A866D1489E88A9D5F21EA7D9A4"
+      },
+      {
+        "answer": "平台会定期更新信用记录，但具体更新频率因信息来源和审核流程而异。若发现信息不准确，可向平台反馈，平台将核实并修正。",
+        "da": "平台会定期更新信用记录，但具体更新频率因信息来源和审核流程而异。若发现信息不准确，可向平台反馈，平台将核实并修正。",
+        "problem": "信用记录是否实时更新？",
+        "pxh": 3.0,
+        "wt": "信用记录是否实时更新？",
+        "yjsMlSsqdQuestionId": "762B5ACEA160467DA6E585121F7A87BD",
+        "yjsSsqdId": "F893E2A866D1489E88A9D5F21EA7D9A4"
+      },
+      {
+        "answer": "若发现信用记录存在错误、虚假信息或侵权行为，可通过“家政信用查”小程序内的反馈渠道或联系当地商务部门、家政协会投诉，平台将进行调查处理。",
+        "da": "若发现信用记录存在错误、虚假信息或侵权行为，可通过“家政信用查”小程序内的反馈渠道或联系当地商务部门、家政协会投诉，平台将进行调查处理。",
+        "problem": "如何投诉或反馈信用记录问题？",
+        "pxh": 4.0,
+        "wt": "如何投诉或反馈信用记录问题？",
+        "yjsMlSsqdQuestionId": "DCEED587E8864BA4A180BC7599F8F588",
+        "yjsSsqdId": "F893E2A866D1489E88A9D5F21EA7D9A4"
+      },
+      {
+        "answer": "· 若显示“无记录”，可能是该家政服务员或企业未注册或未通过信用认证，建议核实信息或联系当地家政协会确认。  \n· 若显示“未认证”，说明该主体未完成信用档案建立或信息审核，需督促其完善信息或选择已认证的服务对象。",
+        "da": "· 若显示“无记录”，可能是该家政服务员或企业未注册或未通过信用认证，建议核实信息或联系当地家政协会确认。  \n· 若显示“未认证”，说明该主体未完成信用档案建立或信息审核，需督促其完善信息或选择已认证的服务对象。",
+        "problem": "查询结果显示“无记录”或“未认证”怎么办？",
+        "pxh": 5.0,
+        "wt": "查询结果显示“无记录”或“未认证”怎么办？",
+        "yjsMlSsqdQuestionId": "52BEFEC5309843E7A1AB7D3E51B69EAA",
+        "yjsSsqdId": "F893E2A866D1489E88A9D5F21EA7D9A4"
+      }
+    ],
+    "sxmc": "家政信用信息查询“一件事”",
+    "yjsSsqdbm": "43PCP0024A26J1002",
+    "basicInfo": {
+      "aheadFrequency": "0",
+      "areaName": "北湖区",
+      "completedLimit": "1",
+      "cooperateName": "公安部门,人社部门,商务部门,市监部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0735-12345",
+      "lbjgId": "21,09,31,14",
+      "qtbmId": "021fc8ec5402439d87229bca588a9546",
+      "qtbmmc": "北湖区商务局",
+      "reasonLink": "无",
+      "yjsssqdbsznid": "5E1A84F02063439BAE77B807A84215AD",
+      "zxdh": "0735-2167399"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

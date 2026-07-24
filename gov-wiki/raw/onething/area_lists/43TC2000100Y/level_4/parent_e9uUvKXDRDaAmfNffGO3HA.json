@@ -1,0 +1,64 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430529109999",
+      "benji": "1",
+      "orgId": "39V4OrTbQ6mnbFrpg403dg",
+      "orgLevel": "4",
+      "orgName": "城步县土桥管理区本级",
+      "orgShowName": "城步县土桥管理区本级",
+      "orgSn": "1",
+      "parentCode": "430529109000",
+      "parentId": "e9uUvKXDRDaAmfNffGO3HA",
+      "parentName": "城步县土桥管理区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430529109001",
+      "benji": "0",
+      "orgId": "vCSfPM7vQ3K35WmesbhzSw",
+      "orgLevel": "5",
+      "orgName": "城步县土桥管理区青龙居委会",
+      "orgShowName": "青龙居委会",
+      "orgSn": "2",
+      "parentCode": "430529109000",
+      "parentId": "e9uUvKXDRDaAmfNffGO3HA",
+      "parentName": "城步县土桥管理区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430529109002",
+      "benji": "0",
+      "orgId": "EU3ao1lsR6CKxDjfdn9eOA",
+      "orgLevel": "5",
+      "orgName": "城步县土桥管理区茅坪居委会",
+      "orgShowName": "茅坪居委会",
+      "orgSn": "3",
+      "parentCode": "430529109000",
+      "parentId": "e9uUvKXDRDaAmfNffGO3HA",
+      "parentName": "城步县土桥管理区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430529109003",
+      "benji": "0",
+      "orgId": "Sibpticp4gTibOKVOnyezNbDw",
+      "orgLevel": "5",
+      "orgName": "城步县土桥管理区文田居委会",
+      "orgShowName": "文田居委会",
+      "orgSn": "4",
+      "parentCode": "430529109000",
+      "parentId": "e9uUvKXDRDaAmfNffGO3HA",
+      "parentName": "城步县土桥管理区",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

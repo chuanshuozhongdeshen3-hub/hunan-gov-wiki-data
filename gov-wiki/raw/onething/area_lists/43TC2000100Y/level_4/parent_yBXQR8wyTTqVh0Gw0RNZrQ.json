@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430112005999",
+      "benji": "1",
+      "orgId": "Ae2PCMbKRmCzL2lou7b6wg",
+      "orgLevel": "4",
+      "orgName": "大泽湖街道本级",
+      "orgShowName": "大泽湖街道本级",
+      "orgSn": "999",
+      "parentCode": "430112005000",
+      "parentId": "yBXQR8wyTTqVh0Gw0RNZrQ",
+      "parentName": "大泽湖街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430112005001",
+      "benji": "0",
+      "orgId": "DohZxlSicTnSXmaxf1GrLuA",
+      "orgLevel": "5",
+      "orgName": "长沙市望城区大泽湖街道东马社区居民委员会",
+      "orgShowName": "东马社区",
+      "orgSn": "0",
+      "parentCode": "430112005000",
+      "parentId": "yBXQR8wyTTqVh0Gw0RNZrQ",
+      "parentName": "大泽湖街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430112005201",
+      "benji": "0",
+      "orgId": "dojQfvRBT7G5HTNl1JWxKQ",
+      "orgLevel": "5",
+      "orgName": "长沙市望城区大泽湖街道南塘村村民委员会",
+      "orgShowName": "南塘村",
+      "orgSn": "0",
+      "parentCode": "430112005000",
+      "parentId": "yBXQR8wyTTqVh0Gw0RNZrQ",
+      "parentName": "大泽湖街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430112005202",
+      "benji": "0",
+      "orgId": "Av4gPicCJRibWYy7SficJ3UjA",
+      "orgLevel": "5",
+      "orgName": "长沙市望城区大泽湖街道西塘村村民委员会",
+      "orgShowName": "西塘村",
+      "orgSn": "0",
+      "parentCode": "430112005000",
+      "parentId": "yBXQR8wyTTqVh0Gw0RNZrQ",
+      "parentName": "大泽湖街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430112005204",
+      "benji": "0",
+      "orgId": "UdDIY0iaLRy65iamylO6sn4Q",
+      "orgLevel": "5",
+      "orgName": "沙市望城区大泽湖街道回龙村村民委员会",
+      "orgShowName": "回龙村",
+      "orgSn": "0",
+      "parentCode": "430112005000",
+      "parentId": "yBXQR8wyTTqVh0Gw0RNZrQ",
+      "parentName": "大泽湖街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430112005002",
+      "benji": "0",
+      "orgId": "VekAE7LiaRiaaYBO2gbMnRBw",
+      "orgLevel": "5",
+      "orgName": "长沙市望城区大泽湖街道金星北路社区居民委员会",
+      "orgShowName": "金星北路社区",
+      "orgSn": "1",
+      "parentCode": "430112005000",
+      "parentId": "yBXQR8wyTTqVh0Gw0RNZrQ",
+      "parentName": "大泽湖街道",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

@@ -1,0 +1,64 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "431322501999",
+      "benji": "1",
+      "orgId": "7cYCx7asRPKkehuHKSP2aQ",
+      "orgLevel": "4",
+      "orgName": "新化县古台山国有林场本级",
+      "orgShowName": "新化县古台山国有林场本级",
+      "orgSn": "999",
+      "parentCode": "431322501000",
+      "parentId": "JXIBBsX2SDStjvtOxtaUMg",
+      "parentName": "新化县古台山国有林场",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431322501201",
+      "benji": "0",
+      "orgId": "rZ72byLvThibNbrpOlbPyMA",
+      "orgLevel": "5",
+      "orgName": "新化县古台山国有林场董家村委会",
+      "orgShowName": "董家村",
+      "orgSn": "999",
+      "parentCode": "431322501000",
+      "parentId": "JXIBBsX2SDStjvtOxtaUMg",
+      "parentName": "新化县古台山国有林场",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431322501202",
+      "benji": "0",
+      "orgId": "icIK22OV9SrWCicCvAOWj5QA",
+      "orgLevel": "5",
+      "orgName": "新化县古台山国有林场横茶村委会",
+      "orgShowName": "横茶村",
+      "orgSn": "999",
+      "parentCode": "431322501000",
+      "parentId": "JXIBBsX2SDStjvtOxtaUMg",
+      "parentName": "新化县古台山国有林场",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431322501206",
+      "benji": "0",
+      "orgId": "Mm6MWl82SAGr2WPL51n9FQ",
+      "orgLevel": "5",
+      "orgName": "新化县古台山国有林场古台工区村委会",
+      "orgShowName": "古台工区村",
+      "orgSn": "999",
+      "parentCode": "431322501000",
+      "parentId": "JXIBBsX2SDStjvtOxtaUMg",
+      "parentName": "新化县古台山国有林场",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

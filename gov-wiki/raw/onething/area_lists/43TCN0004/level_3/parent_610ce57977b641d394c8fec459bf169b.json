@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430382999000",
+      "benji": "1",
+      "orgId": "e2734a559eaa4f93ba841f8f9518767f",
+      "orgLevel": "3",
+      "orgName": "韶山市市本级",
+      "orgShowName": "韶山市市本级",
+      "orgSn": "1",
+      "parentCode": "430382000000",
+      "parentId": "610ce57977b641d394c8fec459bf169b",
+      "parentName": "韶山市",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430382100000",
+      "benji": "0",
+      "orgId": "e93fc3e562844bafaf6c00afef810509",
+      "orgLevel": "4",
+      "orgName": "韶山市清溪镇",
+      "orgShowName": "清溪镇",
+      "orgSn": "1",
+      "parentCode": "430382000000",
+      "parentId": "610ce57977b641d394c8fec459bf169b",
+      "parentName": "韶山市",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430382101000",
+      "benji": "0",
+      "orgId": "e93fc3e562844bafaf6c00afef810510",
+      "orgLevel": "4",
+      "orgName": "韶山市银田镇",
+      "orgShowName": "银田镇",
+      "orgSn": "1",
+      "parentCode": "430382000000",
+      "parentId": "610ce57977b641d394c8fec459bf169b",
+      "parentName": "韶山市",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430382200000",
+      "benji": "0",
+      "orgId": "e93fc3e562844bafaf6c00afef810512",
+      "orgLevel": "4",
+      "orgName": "韶山市韶山乡",
+      "orgShowName": "韶山乡",
+      "orgSn": "1",
+      "parentCode": "430382000000",
+      "parentId": "610ce57977b641d394c8fec459bf169b",
+      "parentName": "韶山市",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430382203000",
+      "benji": "0",
+      "orgId": "e93fc3e562844bafaf6c00afef810514",
+      "orgLevel": "4",
+      "orgName": "韶山市杨林乡",
+      "orgShowName": "杨林乡",
+      "orgSn": "1",
+      "parentCode": "430382000000",
+      "parentId": "610ce57977b641d394c8fec459bf169b",
+      "parentName": "韶山市",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

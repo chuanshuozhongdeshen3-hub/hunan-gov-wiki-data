@@ -1,0 +1,64 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430405007999",
+      "benji": "1",
+      "orgId": "nuVIsph2QTyHVG1cU7VIDw",
+      "orgLevel": "4",
+      "orgName": "珠晖区衡州路街道街道本级",
+      "orgShowName": "珠晖区衡州路街道街道本级",
+      "orgSn": "999",
+      "parentCode": "430405007000",
+      "parentId": "qNLHdpb8TEWIDYA5ia6kGfg",
+      "parentName": "珠晖区衡州路街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430405007006",
+      "benji": "0",
+      "orgId": "vCwib5SaOTmyg3yYDfv1LUw",
+      "orgLevel": "5",
+      "orgName": "珠晖区衡州路街道王江社区居委会",
+      "orgShowName": "王江社区",
+      "orgSn": "999",
+      "parentCode": "430405007000",
+      "parentId": "qNLHdpb8TEWIDYA5ia6kGfg",
+      "parentName": "珠晖区衡州路街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430405007007",
+      "benji": "0",
+      "orgId": "ZVoAicqwWSviaChpHCqCoPjA",
+      "orgLevel": "5",
+      "orgName": "珠晖区衡州路街道新园社区居委会",
+      "orgShowName": "新园社区",
+      "orgSn": "999",
+      "parentCode": "430405007000",
+      "parentId": "qNLHdpb8TEWIDYA5ia6kGfg",
+      "parentName": "珠晖区衡州路街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430405007008",
+      "benji": "0",
+      "orgId": "6uRaichp0SbiavrH2xoqz84g",
+      "orgLevel": "5",
+      "orgName": "珠晖区衡州路街道白渔潭社区居委会",
+      "orgShowName": "白渔潭社区",
+      "orgSn": "999",
+      "parentCode": "430405007000",
+      "parentId": "qNLHdpb8TEWIDYA5ia6kGfg",
+      "parentName": "珠晖区衡州路街道",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

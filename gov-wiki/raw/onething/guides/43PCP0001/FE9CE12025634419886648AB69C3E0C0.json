@@ -1,0 +1,994 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1744705553000,
+        "fjId": "gMJ6Q8WjRKat9-pwqKvVQw",
+        "fjbm": "100001",
+        "fjdx": 0.909,
+        "fjlj": "orchestrate/2025-04-15/1744705553838$$流程图.png",
+        "fjlx": ".png",
+        "fjmc": "流程图.png",
+        "s3tmc": "zwfw202504",
+        "sfyx": "Y",
+        "ywdxId": "17D6B4630AF44339957D2024F1E495EE"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "洪江区政务服务中心",
+        "blsj": "全年法定工作日：上午9:00—12:00,下午13:30—17:00",
+        "cjsj": 1731312012028,
+        "gxsj": 1732608234000,
+        "infoAddr": "湖南省怀化市洪江区川山大道仁园小区4栋洪江区政务服务中心一楼9号综合窗口",
+        "pointName": "洪江区政务服务中心",
+        "processingTime": "全年法定工作日：上午9:00—12:00,下午13:30—17:00",
+        "pxh": 1,
+        "xxdz": "湖南省怀化市洪江区川山大道仁园小区4栋洪江区政务服务中心一楼9号综合窗口",
+        "yjsBldId": "83F5D2D3E60C4A9582A2C75B8F4DDAED",
+        "ywzjId": "1911D68943094412965965F7800C9E38",
+        "zt": "0"
+      }
+    ],
+    "materialList": [
+      {
+        "attachList": [
+          {
+            "cjsj": 1727088140000,
+            "fjId": "YgUcunOoTGGKuglGQ_tAEQ",
+            "fjbm": "100003",
+            "fjdx": 0.018,
+            "fjlj": "orchestrate/2024-10-14/1728892022584$$住房公积金个人住房贷款买房“一件事”示例表.docx",
+            "fjlx": ".docx",
+            "fjmc": "住房公积金个人住房贷款买房“一件事”示例表.docx",
+            "s3tmc": "zwfw202410",
+            "sfyx": "Y",
+            "ywdxId": "DBF3B167FB314F68ACB5ABAC41B0ECB9"
+          },
+          {
+            "cjsj": 1727088140000,
+            "fjId": "6Jni43DvQ-S23JsQnzR6yg",
+            "fjbm": "100002",
+            "fjdx": 0.018,
+            "fjlj": "orchestrate/2024-10-14/1728892013713$$住房公积金个人住房贷款买房“一件事”申请表 - 副本.docx",
+            "fjlx": ".docx",
+            "fjmc": "住房公积金个人住房贷款买房“一件事”申请表 - 副本.docx",
+            "s3tmc": "zwfw202410",
+            "sfyx": "Y",
+            "ywdxId": "DBF3B167FB314F68ACB5ABAC41B0ECB9"
+          }
+        ],
+        "bzclId": "M43PCP00010014",
+        "cjsj": 1727088140000,
+        "clbyx": "1",
+        "clbz": "符合条件",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "cllyqdsm": "内容真实有效",
+        "clmc": "住房公积金个人住房贷款购房“一件事”申请表通用",
+        "clxs": "4",
+        "clxz": "1",
+        "gxsj": 1783540824000,
+        "materialCode": "T1000025",
+        "materialTitle": "住房公积金个人住房贷款购房“一件事”申请表通用",
+        "mtjfs": "1",
+        "mtjfssm": "由绑定的标准材料系统模板自动生成申请表,不再需要企业、群众上传或提交纸质申请表",
+        "pxh": 14.0,
+        "sfxtmb": "0",
+        "sfykb": "1",
+        "sfyslb": "1",
+        "tbxz": "内容真实有效",
+        "tgfs": "2",
+        "type": "1",
+        "yjsMlSsqdClId": "C818CA6CE5BB422BBECD368B82B76FA3",
+        "yjsSsqdId": "FE9CE12025634419886648AB69C3E0C0",
+        "yqtgyj": "国务院办公厅关于印发《“高效办成一件事”2024年度新一批重点事项清单》的通知",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1726627237000
+          }
+        ],
+        "bzclId": "M43PCP00010009",
+        "cjsj": 1726627237000,
+        "clbyx": "1",
+        "clbz": "申请人自备",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "首付款发票（收据）或销售不动产发票",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783540824000,
+        "mtjfs": "4",
+        "pxh": 10.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "如数据不能共享需上传",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "5EEDD5B36A0643F19DF9376B0F706CC0",
+        "yjsSsqdId": "FE9CE12025634419886648AB69C3E0C0",
+        "yqtgyj": "国务院办公厅关于印发《“高效办成一件事”2024年度新一批重点事项清单》的通知",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1726627237000
+          }
+        ],
+        "bzclId": "M43PCP00010013",
+        "cjsj": 1726627237000,
+        "clbyx": "2",
+        "clbz": "申请人自备",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "婚姻关系证明",
+        "clxs": "4",
+        "clxz": "2",
+        "gxsj": 1783540824000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 5.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "1、当【婚姻状态】为“已婚”时需提供结婚证\n2、当【婚姻状态】为“离异”时需提供离婚证、离婚协议或法院判决书\n3、当【婚姻状态】为“丧偶”时需提供证明（结婚证与配偶死亡证明）。\n4、如果不是配偶关系，请提交其他关系证明",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "1C0833980357413E8A18CA3586C2D4DF",
+        "yjsSsqdId": "FE9CE12025634419886648AB69C3E0C0",
+        "yqtgyj": "国务院办公厅关于印发《“高效办成一件事”2024年度新一批重点事项清单》的通知",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1726627237000
+          }
+        ],
+        "bzclId": "M43PCP00010017",
+        "cjsj": 1726627237000,
+        "clbyx": "1",
+        "clbz": "真实有效",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "申请人身份证（电子影像）",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783540824000,
+        "mtjfs": "4",
+        "pxh": 16.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "贷款申请人手持证件照",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "F217E50AA8A947918FC812F74BEF266D",
+        "yjsSsqdId": "FE9CE12025634419886648AB69C3E0C0",
+        "yqtgyj": "国务院办公厅关于印发《“高效办成一件事”2024年度新一批重点事项清单》的通知",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1726627237000
+          }
+        ],
+        "bzclId": "M43PCP00010005",
+        "cjsj": 1726627237000,
+        "clbyx": "2",
+        "clbz": "仅未查到结婚/离婚信息或涉未成年子女业务的需提供",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "20",
+        "clmc": "户籍证明",
+        "clxs": "4",
+        "clxz": "2",
+        "gxsj": 1783540824000,
+        "materialCode": "L2000017",
+        "materialTitle": "居民户口簿",
+        "mtjfs": "2",
+        "mtjfssm": "通过绑定的电子证照材料，提供证照材料自动关联实现免提交",
+        "pxh": 6.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "仅未查到结婚/离婚信息或涉未成年子女业务的需提供",
+        "tgfs": "2",
+        "type": "1",
+        "yjsMlSsqdClId": "904B0C4775AB40219DE5A1AE7E81F81C",
+        "yjsSsqdId": "FE9CE12025634419886648AB69C3E0C0",
+        "yqtgyj": "国务院办公厅关于印发《“高效办成一件事”2024年度新一批重点事项清单》的通知",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1726627237000
+          }
+        ],
+        "bzclId": "M43PCP00010008",
+        "cjsj": 1726627237000,
+        "clbyx": "1",
+        "clbz": "申请人自备",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "网签备案合同",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783540824000,
+        "mtjfs": "4",
+        "pxh": 9.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "如数据不能共享需上传",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "FA1BFD81CACD476BBAA415C4C4C733E4",
+        "yjsSsqdId": "FE9CE12025634419886648AB69C3E0C0",
+        "yqtgyj": "国务院办公厅关于印发《“高效办成一件事”2024年度新一批重点事项清单》的通知",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1726627237000
+          }
+        ],
+        "bzclId": "M43PCP00010022",
+        "cjsj": 1726627237000,
+        "clbyx": "2",
+        "clbz": "真实有效",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "20",
+        "clmc": "担保人身份证",
+        "clxs": "4",
+        "clxz": "2",
+        "gxsj": 1783540824000,
+        "mtjfs": "4",
+        "pxh": 22.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "申请人自备",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "59B5103DF1724636ADA1C5D42D6944B9",
+        "yjsSsqdId": "FE9CE12025634419886648AB69C3E0C0",
+        "yqtgyj": "国务院办公厅关于印发《“高效办成一件事”2024年度新一批重点事项清单》的通知",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1726627237000
+          }
+        ],
+        "bzclId": "M43PCP00010025",
+        "cjsj": 1726627237000,
+        "clbyx": "2",
+        "clbz": "真实有效",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "99",
+        "clmc": "其他",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783540824000,
+        "mtjfs": "4",
+        "pxh": 25.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "请根据各市州的公积金贷款政策提交其他材料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "C202DF02D386492480F090E5C7453CD3",
+        "yjsSsqdId": "FE9CE12025634419886648AB69C3E0C0",
+        "yqtgyj": "国务院办公厅关于印发《“高效办成一件事”2024年度新一批重点事项清单》的通知",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1726627237000
+          }
+        ],
+        "bzclId": "M43PCP00010003",
+        "cjsj": 1726627237000,
+        "clbyx": "2",
+        "clbz": "自动生成",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "20",
+        "clmc": "共同借贷人身份证",
+        "clxs": "4",
+        "clxz": "2",
+        "gxsj": 1783540824000,
+        "mtjfs": "4",
+        "pxh": 3.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "申请人自备",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "73C818C27C8648F5A0F6AB8DEC934DF8",
+        "yjsSsqdId": "FE9CE12025634419886648AB69C3E0C0",
+        "yqtgyj": "国务院办公厅关于印发《“高效办成一件事”2024年度新一批重点事项清单》的通知",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1726627237000
+          }
+        ],
+        "bzclId": "M43PCP00010020",
+        "cjsj": 1726627237000,
+        "clbyx": "2",
+        "clbz": "真实有效",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "99",
+        "clmc": "共有产权人（照相）",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783540824000,
+        "mtjfs": "4",
+        "pxh": 20.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "申请人自备",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "8A0EFE1DF9E0416999429D6F9D2B4968",
+        "yjsSsqdId": "FE9CE12025634419886648AB69C3E0C0",
+        "yqtgyj": "国务院办公厅关于印发《“高效办成一件事”2024年度新一批重点事项清单》的通知",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1726627237000
+          }
+        ],
+        "bzclId": "M43PCP00010001",
+        "cjsj": 1726627237000,
+        "clbyx": "1",
+        "clbz": "申请人自备",
+        "cljm": "0",
+        "cllx": "3",
+        "cllyqd": "20",
+        "clmc": "申请人身份证",
+        "clxs": "4",
+        "clxz": "2",
+        "gxsj": 1783540824000,
+        "materialCode": "L2000016",
+        "materialTitle": "中华人民共和国居民身份证",
+        "mtjfs": "2",
+        "mtjfssm": "通过绑定的电子证照材料，提供证照材料自动关联实现免提交",
+        "pxh": 2.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "申请人自备",
+        "tgfs": "2",
+        "type": "1",
+        "yjsMlSsqdClId": "AA5059A336744928B2E670A14FD579FF",
+        "yjsSsqdId": "FE9CE12025634419886648AB69C3E0C0",
+        "yqtgyj": "国办函〔2024〕53号",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1726627237000
+          }
+        ],
+        "bzclId": "M43PCP00010023",
+        "cjsj": 1726627237000,
+        "clbyx": "2",
+        "clbz": "真实有效",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "担保人（照相）",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783540824000,
+        "mtjfs": "4",
+        "pxh": 23.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "申请人自备",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "4D72E002854044E8A6F25FC0EFB252AC",
+        "yjsSsqdId": "FE9CE12025634419886648AB69C3E0C0",
+        "yqtgyj": "国务院办公厅关于印发《“高效办成一件事”2024年度新一批重点事项清单》的通知",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1726627237000
+          }
+        ],
+        "bzclId": "M43PCP00010012",
+        "cjsj": 1726627237000,
+        "clbyx": "2",
+        "clbz": "申请人自备",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "子女户口簿或者（出生证明）",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783540824000,
+        "mtjfs": "4",
+        "pxh": 13.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "有多孩家庭和有未成年子女时上传资料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "23A4DC31F99D49E08BB076D9598E347C",
+        "yjsSsqdId": "FE9CE12025634419886648AB69C3E0C0",
+        "yqtgyj": "国务院办公厅关于印发《“高效办成一件事”2024年度新一批重点事项清单》的通知",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1726627237000
+          }
+        ],
+        "bzclId": "M43PCP00010021",
+        "cjsj": 1726627237000,
+        "clbyx": "2",
+        "clbz": "真实有效",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "99",
+        "clmc": "共有产权人婚姻状况证明",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783540824000,
+        "mtjfs": "4",
+        "pxh": 21.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "申请人自备",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "67DF7700D99647AEB1FD2C2C51288B38",
+        "yjsSsqdId": "FE9CE12025634419886648AB69C3E0C0",
+        "yqtgyj": "国务院办公厅关于印发《“高效办成一件事”2024年度新一批重点事项清单》的通知",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1726627237000
+          }
+        ],
+        "bzclId": "M43PCP00010019",
+        "cjsj": 1726627237000,
+        "clbyx": "2",
+        "clbz": "真实有效",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "20",
+        "clmc": "共有产权人身份证",
+        "clxs": "4",
+        "clxz": "2",
+        "gxsj": 1783540824000,
+        "mtjfs": "4",
+        "pxh": 19.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "申请人自备",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "2D4B7A4FFC6E46D4893EB6B6971A4982",
+        "yjsSsqdId": "FE9CE12025634419886648AB69C3E0C0",
+        "yqtgyj": "国务院办公厅关于印发《“高效办成一件事”2024年度新一批重点事项清单》的通知",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1726627237000
+          }
+        ],
+        "bzclId": "M43PCP00010016",
+        "cjsj": 1726627237000,
+        "clbyx": "2",
+        "clbz": "真实有效",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "借款人及共同借款人征信报告",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783540824000,
+        "mtjfs": "4",
+        "pxh": 17.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "上传申请人、共同借贷人的征信报告",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "436A2B05DBEE48B39C8DC687DA8E4C5F",
+        "yjsSsqdId": "FE9CE12025634419886648AB69C3E0C0",
+        "yqtgyj": "国务院办公厅关于印发《“高效办成一件事”2024年度新一批重点事项清单》的通知国办函〔2024〕53号",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1726627237000
+          }
+        ],
+        "bzclId": "M43PCP00010010",
+        "cjsj": 1726627237000,
+        "clbyx": "2",
+        "clbz": "申请人自备",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "人才引进部门认定为高层次人才的证明资料",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783540824000,
+        "mtjfs": "4",
+        "pxh": 11.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "新引进人才必须上传",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "3F61A5744FD7444EA635FD81006010F6",
+        "yjsSsqdId": "FE9CE12025634419886648AB69C3E0C0",
+        "yqtgyj": "国务院办公厅关于印发《“高效办成一件事”2024年度新一批重点事项清单》的通知",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1726627237000
+          }
+        ],
+        "bzclId": "M43PCP00010018",
+        "cjsj": 1726627237000,
+        "clbyx": "2",
+        "clbz": "真实有效",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "99",
+        "clmc": "共同借贷人身份证（电子影像）",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783540824000,
+        "mtjfs": "4",
+        "pxh": 18.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "申请人自备",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "944A5CFABB3C4183BED5FB0961065198",
+        "yjsSsqdId": "FE9CE12025634419886648AB69C3E0C0",
+        "yqtgyj": "共同借贷人身份证（电子影像）",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1726627237000
+          }
+        ],
+        "bzclId": "M43PCP00010006",
+        "cjsj": 1726627237000,
+        "clbyx": "1",
+        "clbz": "申请人自备",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "工资收入证明",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783540824000,
+        "mtjfs": "4",
+        "pxh": 7.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "共同借款人未缴存住房公积金的或公积金缴存基数过低的，需提供近6个月的收入银行流水明细或缴税纳税相关资料",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "2F320182F7914162A7C8DAE61BEAF51C",
+        "yjsSsqdId": "FE9CE12025634419886648AB69C3E0C0",
+        "yqtgyj": "国务院办公厅关于印发《“高效办成一件事”2024年度新一批重点事项清单》的通知",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1730182909000
+          }
+        ],
+        "bzclId": "M43PCP00010015",
+        "cjsj": 1730182909000,
+        "clbyx": "1",
+        "clbz": "1.内容真实、形式有效；2.符合《住房公积金管理条例》和省市州贷款管理办法的规定。 备注：需提供的详细材料见各相关省市州公积金中心官网公布的进行提供。",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "收款、还款银行卡",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783540824000,
+        "mtjfs": "4",
+        "pxh": 15.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "借款人本人名下有效I类借记卡\n若委托开发商收款，仅需提供还款银行卡",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "D58569CD75B041E186C5FDDAA2D25496",
+        "yjsSsqdId": "FE9CE12025634419886648AB69C3E0C0",
+        "yqtgyj": "1.《住房公积金管理条例》2.省市州贷款管理办法的规定。",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1726627237000
+          }
+        ],
+        "bzclId": "M43PCP00010011",
+        "cjsj": 1726627237000,
+        "clbyx": "2",
+        "clbz": "申请人自备",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "99",
+        "clmc": "处级干部文件或高级职称证书、聘书",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783540824000,
+        "mtjfs": "4",
+        "pxh": 12.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "新引进人才必须上传",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "CC54628B8AE842D0890A295E64E40383",
+        "yjsSsqdId": "FE9CE12025634419886648AB69C3E0C0",
+        "yqtgyj": "国务院办公厅关于印发《“高效办成一件事”2024年度新一批重点事项清单》的通知",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1726627237000
+          }
+        ],
+        "bzclId": "M43PCP00010007",
+        "cjsj": 1726627237000,
+        "clbyx": "2",
+        "clbz": "申请人自备",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "20",
+        "clmc": "预告登记证/不动产权证",
+        "clxs": "4",
+        "clxz": "2",
+        "gxsj": 1783540824000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 8.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "（仅可办证一手现房需提供）",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "41890DD89C2F416292A51D38887F4503",
+        "yjsSsqdId": "FE9CE12025634419886648AB69C3E0C0",
+        "yqtgyj": "国务院办公厅关于印发《“高效办成一件事”2024年度新一批重点事项清单》的通知",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1726627237000
+          }
+        ],
+        "bzclId": "M43PCP00010024",
+        "cjsj": 1726627237000,
+        "clbyx": "2",
+        "clbz": "真实有效",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "clmc": "担保人婚姻状况证明",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783540824000,
+        "mtjfs": "4",
+        "pxh": 24.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "申请人自备",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "F2F71BB1F3424AC1A29FB8877921AC8E",
+        "yjsSsqdId": "FE9CE12025634419886648AB69C3E0C0",
+        "yqtgyj": "国务院办公厅关于印发《“高效办成一件事”2024年度新一批重点事项清单》的通知",
+        "zt": "0",
+        "zzclfs": 1.0
+      }
+    ],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "流程图",
+      "blxs": "1",
+      "bszt": "1",
+      "cjrId": "7t907fCmRzeek2ic6O3zNxw",
+      "cjsj": 1725936068000,
+      "cnbjsx": "10",
+      "dbsxccs": "1",
+      "dbsxcyyhhj": "面签",
+      "dndtzdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "gqbjlx": 2.0,
+      "gqblsx": 30.0,
+      "gqpdcs": 11.0,
+      "gqsbcl": 20.0,
+      "gxrId": "7t907fCmRzeek2ic6O3zNxw",
+      "gxsj": 1725936068000,
+      "hjsgq": 14.0,
+      "hjsxz": 6.0,
+      "jgsdsm": "邮寄",
+      "jsms": "4",
+      "lbjgId": "17,11,15,09",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "A",
+      "xsblqd": "1,2",
+      "xxbldsm": "政务专窗",
+      "xxcktzdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "xzbjlx": 2.0,
+      "xzblsx": 10.0,
+      "xzpdcs": 1.0,
+      "xzsbcl": 4.0,
+      "yddtzdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "yjsMlBzhId": "D1D0F98A920A4D9FBDAA6DEE51FDA8A0",
+      "yjsbsznId": "17D6B4630AF44339957D2024F1E495EE",
+      "ywzjfw": "0",
+      "zcblqd": "1,2,4",
+      "zcblqdWbdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "新建商品房（现售）买卖合同备案",
+        "resultSampleName": "暂无结果样本",
+        "tyywblxName": "新建商品房（现售）买卖合同备案"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "个人身份信息核验(户籍信息、居住证信息)",
+        "resultSampleName": "",
+        "tyywblxName": "个人身份信息核验(户籍信息、居住证信息)"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "婚姻信息核验",
+        "resultSampleName": "",
+        "tyywblxName": "婚姻信息核验"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "征信信息查询",
+        "resultSampleName": "",
+        "tyywblxName": "征信信息查询"
+      },
+      {
+        "cnsxsx": 6.0,
+        "lbsxfwmc": "购买自住住房（含新建、再交易）个人贷款",
+        "resultSampleName": "暂无",
+        "tyywblxName": "住房公积金贷款业务-一手房住房公积金贷款"
+      },
+      {
+        "cnsxsx": 10.0,
+        "lbsxfwmc": "贷款审批",
+        "resultSampleName": "",
+        "tyywblxName": "贷款审批"
+      },
+      {
+        "cnsxsx": 10.0,
+        "lbsxfwmc": "借款合同面签",
+        "resultSampleName": "",
+        "tyywblxName": "借款合同面签"
+      },
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "房地产交易税费申报",
+        "resultSampleName": "",
+        "tyywblxName": "房地产交易税费申报"
+      },
+      {
+        "cnsxsx": 10.0,
+        "lbsxfwmc": "不动产抵押登记",
+        "resultSampleName": "",
+        "tyywblxName": "不动产抵押登记"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "申请人公积金账户缴存状态须为正常",
+        "cjsj": 1726642114000,
+        "processingConditions": "申请人公积金账户缴存状态须为正常",
+        "pxh": 1.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "80B6590ECA5A442D8C4C4B36E3208BF0",
+        "yjsbsznId": "17D6B4630AF44339957D2024F1E495EE",
+        "zt": "0"
+      },
+      {
+        "bltj": "申请人公积金连续缴存6个月(可根据参数调整)及以上",
+        "cjsj": 1783409993000,
+        "processingConditions": "申请人公积金连续缴存6个月(可根据参数调整)及以上",
+        "pxh": 2.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "BCB2C20019E048E79F4D0FE4D32BE21C",
+        "yjsbsznId": "17D6B4630AF44339957D2024F1E495EE",
+        "zt": "0"
+      },
+      {
+        "bltj": "在购买、建造、翻建、大修自住住房24个月以内提出贷款申请",
+        "cjsj": 1783410006000,
+        "processingConditions": "在购买、建造、翻建、大修自住住房24个月以内提出贷款申请",
+        "pxh": 3.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "539473ACB7A2407F870F7B01BFBF29F2",
+        "yjsbsznId": "17D6B4630AF44339957D2024F1E495EE",
+        "zt": "0"
+      },
+      {
+        "bltj": "申请人公积金账户停缴不能超过6个月(可根据参数调整)",
+        "cjsj": 1783410017000,
+        "processingConditions": "申请人公积金账户停缴不能超过6个月(可根据参数调整)",
+        "pxh": 4.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "BFC8476633FD4D008114526A79907BFB",
+        "yjsbsznId": "17D6B4630AF44339957D2024F1E495EE",
+        "zt": "0"
+      },
+      {
+        "bltj": "计算贷款期限不能超过法定退休年龄后5年，且贷款期限不超过30年(可根据参数调整)",
+        "cjsj": 1783410032000,
+        "processingConditions": "计算贷款期限不能超过法定退休年龄后5年，且贷款期限不超过30年(可根据参数调整)",
+        "pxh": 5.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "37E54C95B456463FBCA6F1CE396080F4",
+        "yjsbsznId": "17D6B4630AF44339957D2024F1E495EE",
+        "zt": "0"
+      },
+      {
+        "bltj": "具有较稳定的经济收入，并有按期偿还贷款本息的能力;有良好的信用记录，无可能影响贷款偿还的债务",
+        "cjsj": 1783410047000,
+        "processingConditions": "具有较稳定的经济收入，并有按期偿还贷款本息的能力;有良好的信用记录，无可能影响贷款偿还的债务",
+        "pxh": 6.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "33E126AAECBC45808F9DF5FE1E101447",
+        "yjsbsznId": "17D6B4630AF44339957D2024F1E495EE",
+        "zt": "0"
+      },
+      {
+        "bltj": "家庭首套住房或家庭二套房且无未结清住房商业按揭贷款的，首付比例不低于20％；购买第二套改善型住房且有未结清住房商业按揭贷款的，首付比例不低于30%",
+        "cjsj": 1783410061000,
+        "processingConditions": "家庭首套住房或家庭二套房且无未结清住房商业按揭贷款的，首付比例不低于20％；购买第二套改善型住房且有未结清住房商业按揭贷款的，首付比例不低于30%",
+        "pxh": 7.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "DD4C4FAFDB0B49B2AA949F997C8FCA5C",
+        "yjsbsznId": "17D6B4630AF44339957D2024F1E495EE",
+        "zt": "0"
+      },
+      {
+        "bltj": "购房项目已在贷款中心备案",
+        "cjsj": 1783410071000,
+        "processingConditions": "购房项目已在贷款中心备案",
+        "pxh": 8.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "653859D96D8F4095A8C709F8C29E0987",
+        "yjsbsznId": "17D6B4630AF44339957D2024F1E495EE",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [
+      {
+        "answer": "住房公积金贷款最长期限为30年，不得超过借款人自贷款发放之日到国家法定离退休年龄延长5年。",
+        "da": "住房公积金贷款最长期限为30年，不得超过借款人自贷款发放之日到国家法定离退休年龄延长5年。",
+        "problem": "贷款年限如何确定？可以贷多少年？",
+        "pxh": 0.0,
+        "wt": "贷款年限如何确定？可以贷多少年？",
+        "yjsMlSsqdQuestionId": "3F93BAA3F07F4852AF1FFF2A590EC39B",
+        "yjsSsqdId": "FE9CE12025634419886648AB69C3E0C0"
+      }
+    ],
+    "sxmc": "住房公积金个人住房贷款购房“一件事”",
+    "yjsSsqdbm": "43PCP0001A25J1271",
+    "basicInfo": {
+      "aheadFrequency": "1",
+      "areaName": "洪江区",
+      "completedLimit": "10",
+      "cooperateName": "公安部门,民政部门,自规部门,住建部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0745-7631576",
+      "lbjgId": "17,11,15,09",
+      "qtbmId": "90fd3d593cc2487c919fc952885b7f86",
+      "qtbmmc": "洪江区住建局",
+      "reasonLink": "面签",
+      "yjsssqdbsznid": "1911D68943094412965965F7800C9E38",
+      "zxdh": "0745-7636595"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430137999000",
+      "benji": "1",
+      "orgId": "KlM3qMOuSXGDAfbX57Wqmw",
+      "orgLevel": "3",
+      "orgName": "浏阳经开区区本级",
+      "orgShowName": "区本级",
+      "orgSn": "17",
+      "parentCode": "430137000000",
+      "parentId": "T46QPsztRwOTdVicwhfMUrw",
+      "parentName": "浏阳经开区",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

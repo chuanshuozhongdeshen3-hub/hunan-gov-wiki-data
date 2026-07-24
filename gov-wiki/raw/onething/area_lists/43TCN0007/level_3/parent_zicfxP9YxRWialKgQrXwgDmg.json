@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "431323999000",
+      "benji": "1",
+      "orgId": "Wic5wRiaiaGQjKw60DLDPGEicg",
+      "orgLevel": "3",
+      "orgName": "娄底市经开区区本级",
+      "orgShowName": "娄底市经开区区本级",
+      "orgSn": "999",
+      "parentCode": "431323000000",
+      "parentId": "zicfxP9YxRWialKgQrXwgDmg",
+      "parentName": "娄底经开区",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

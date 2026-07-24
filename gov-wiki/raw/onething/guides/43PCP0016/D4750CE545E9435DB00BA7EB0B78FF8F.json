@@ -1,0 +1,342 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [
+      {
+        "FEENAME": "丢失、损坏补办居民户口簿收取费用",
+        "UNIFY_NAME": "户口簿换补领",
+        "UNIFY_ID": "g9-SAIyyRfusxhWKeyQZnQ",
+        "FEESTAND": "丢失、损坏补办居民户口簿收取费用：居民户口簿，含1个外壳、5页内芯，每证8元；居民户口簿内芯，每页2元。",
+        "CHARGE_BYLAW": "湖南省发展和改革委员会、湖南省财政厅关于发布湖南省公安系统行政事业性收费标准的通知（湘发改价费规[2021]226号）",
+        "IS_MINUS": "否",
+        "CHARGE_ID": "8c56ab8c1b1443b6bf6d8dbbee3472ba"
+      },
+      {
+        "FEENAME": "邮寄速递费",
+        "UNIFY_NAME": "变更更正姓名",
+        "UNIFY_ID": "HpbmMhFRTm-AUPCReDFFiQ",
+        "FEESTAND": "20元",
+        "CHARGE_BYLAW": "由邮政速递公司收取邮寄速递费20元/证。",
+        "IS_MINUS": "否",
+        "CHARGE_ID": "FrtmwVZLR76hrVfn9bCILQ"
+      },
+      {
+        "FEENAME": "邮寄速递费",
+        "UNIFY_NAME": "户口簿换补领",
+        "UNIFY_ID": "g9-SAIyyRfusxhWKeyQZnQ",
+        "FEESTAND": "20元",
+        "CHARGE_BYLAW": "由邮政速递公司收取邮寄速递费20元/证。",
+        "IS_MINUS": "否",
+        "CHARGE_ID": "mTNcXE93QOe1eJNp5zno2g"
+      },
+      {
+        "FEENAME": "居民身份证到期换领工本费",
+        "UNIFY_NAME": "居民身份证换领",
+        "UNIFY_ID": "H0AH-poRQmmLMzdsfYjBaw",
+        "FEESTAND": "20元/证",
+        "CHARGE_BYLAW": "湖南省发展和改革委员会、湖南省财政厅关于发布湖南省公安系统行政事业性收费标准的通知（湘发改价费规[2021]226号）",
+        "IS_MINUS": "否",
+        "CHARGE_ID": "68e1ecdd4aab4708911cc971c41aff4e"
+      },
+      {
+        "FEENAME": "邮寄速递费",
+        "UNIFY_NAME": "户口登记项目变更更正证明",
+        "UNIFY_ID": "L-pPSzHXQyefHJr8OzHLZA",
+        "FEESTAND": "20元",
+        "CHARGE_BYLAW": "由邮政速递公司收取邮寄速递费20元/证。",
+        "IS_MINUS": "否",
+        "CHARGE_ID": "Qy_TQxIbQHSX3nmbh5n0ow"
+      }
+    ],
+    "attachInfo": [
+      {
+        "cjsj": 1763538766000,
+        "fjId": "CDmIQvckRc-U3NDOE5RcwQ",
+        "fjbm": "100001",
+        "fjdx": 0.154,
+        "fjlj": "orchestrate/2025-11-19/1763538766887$$流程图.png",
+        "fjlx": ".png",
+        "fjmc": "流程图.png",
+        "s3tmc": "zwfw202511",
+        "sfyx": "Y",
+        "ywdxId": "92BE732B2FA643CE90B8B2078061363E"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "湘江新区辖区内各派出所",
+        "blsj": "法定工作日（夏季上午9:00-12:00 下午13:30-17:30；冬季上午9:00-12:00 下午13:00-17:00）",
+        "cjsj": 1768894037695,
+        "gxsj": 1768897249000,
+        "infoAddr": "湘江新区辖区内各派出所",
+        "pointName": "湘江新区辖区内各派出所",
+        "processingTime": "法定工作日（夏季上午9:00-12:00 下午13:30-17:30；冬季上午9:00-12:00 下午13:00-17:00）",
+        "pxh": 1,
+        "xxdz": "湘江新区辖区内各派出所",
+        "yjsBldId": "6C280CD48690409D8CBF7450B50E016F",
+        "ywzjId": "1481A6863A5E40D79D1905E61BE48C2C",
+        "zt": "0"
+      }
+    ],
+    "materialList": [
+      {
+        "attachList": [
+          {
+            "cjsj": 1765873999000,
+            "fjId": "TqrPzkfMRe-ZkK1YItUULw",
+            "fjbm": "100003",
+            "fjdx": 0.01,
+            "fjlj": "orchestrate/2026-01-16/1768548252176$$姓名变更更正申请书模板 (2).docx",
+            "fjlx": ".docx",
+            "fjmc": "姓名变更更正申请书模板 (2).docx",
+            "s3tmc": "zwfw202601",
+            "sfyx": "Y",
+            "ywdxId": "E31641CF05A1453A9DE633C7455C018C"
+          },
+          {
+            "cjsj": 1765873999000,
+            "fjId": "dr5UUHkJTFiNm4TYEFgSUQ",
+            "fjbm": "100002",
+            "fjdx": 0.01,
+            "fjlj": "orchestrate/2026-01-16/1768548248068$$姓名变更更正申请书模板 (1).docx",
+            "fjlx": ".docx",
+            "fjmc": "姓名变更更正申请书模板 (1).docx",
+            "s3tmc": "zwfw202601",
+            "sfyx": "Y",
+            "ywdxId": "E31641CF05A1453A9DE633C7455C018C"
+          }
+        ],
+        "bzclId": "M43PCP00160001",
+        "cjsj": 1765873999000,
+        "clbyx": "1",
+        "clbz": "材料齐全",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "申请人自备",
+        "clmc": "姓名变更申请书",
+        "clxs": "1",
+        "clxz": "1",
+        "gxsj": 1778184051000,
+        "mtjfs": "4",
+        "pxh": 1.0,
+        "sfxtmb": "1",
+        "sfykb": "1",
+        "sfyslb": "1",
+        "tbxz": "变更更正人的书面申请（未成年人变更姓名的，提供父母双方共同签名确认的书面申请，其中8周岁以上未成年人变更姓名的还应由本人签名确认）",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "65C02E9FF81B49508C72F4CE9DB5D309",
+        "yjsSsqdId": "D4750CE545E9435DB00BA7EB0B78FF8F",
+        "yqtgyj": "《中华人民共和国户口登记条例》第十八条；《湖南省人民政府办公厅关于印发〈湖南省户口登记管理办法〉的通知（湘政办发〔2020〕57号）第五十条；《湖南省公安厅关于印发〈湖南省户口登记管理办法操作细则〉的通知》（湘公发〔2023〕2号）第六十二条、第六十三条。",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1765875571000
+          }
+        ],
+        "bzclId": "M43PCP00160004",
+        "cjsj": 1765875571000,
+        "clbyx": "1",
+        "clbz": "证件真实、有效",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "20",
+        "cllyqdsm": "公安机关核发",
+        "clmc": "居民身份证",
+        "clxs": "1",
+        "clxz": "2",
+        "gxsj": 1778184051000,
+        "mtjfs": "4",
+        "pxh": 4.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "申领人本人居民身份证",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "904ECBA59E974FEA9009CB0A15458BC2",
+        "yjsSsqdId": "D4750CE545E9435DB00BA7EB0B78FF8F",
+        "yqtgyj": "《中华人民共和国居民身份证法》第十一条。",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1765874109000
+          }
+        ],
+        "bzclId": "M43PCP00160002",
+        "cjsj": 1765874109000,
+        "clbyx": "1",
+        "clbz": "证件真实、有效。",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "20",
+        "cllyqdsm": "公安机关核发",
+        "clmc": "居民户口簿内页",
+        "clxs": "1",
+        "clxz": "2",
+        "gxsj": 1778184051000,
+        "mtjfs": "4",
+        "pxh": 2.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "变更更正人的居民户口簿内页。",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "F7FF7D597BEA434880F566C6E790F909",
+        "yjsSsqdId": "D4750CE545E9435DB00BA7EB0B78FF8F",
+        "yqtgyj": "《中华人民共和国户口登记条例》第十八条；《湖南省人民政府办公厅关于印发〈湖南省户口登记管理办法〉的通知（湘政办发〔2020〕57号）第五十条；《湖南省公安厅关于印发〈湖南省户口登记管理办法操作细则〉的通知》（湘公发〔2023〕2号）第六十二条、第六十三条。",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      }
+    ],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "申请人登陆省政务服务网、湘易办APP、湖南公安服务平台微信公众号办理",
+      "blxs": "3",
+      "bszt": "1",
+      "cjrId": "oSwnOkIERa6cteNhibWFGZw",
+      "cjsj": 1763538299000,
+      "cnbjsx": "39",
+      "dbsxccs": "0",
+      "dbsxcyyhhj": "暂无",
+      "dndtzdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "gqbjlx": 2.0,
+      "gqblsx": 40.0,
+      "gqpdcs": 7.0,
+      "gqsbcl": 6.0,
+      "gxrId": "oSwnOkIERa6cteNhibWFGZw",
+      "gxsj": 1765779195000,
+      "hjsgq": 8.0,
+      "hjsxz": 1.0,
+      "jgsdsm": "邮寄",
+      "jsms": "1",
+      "lbjgId": "09",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "2",
+      "xsblqd": "1,2",
+      "xxbldsm": "向户口所在地派出所办理",
+      "xzbjlx": 2.0,
+      "xzblsx": 35.0,
+      "xzpdcs": 0.0,
+      "xzsbcl": 3.0,
+      "yddtzdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "yjsMlBzhId": "0C9B6996134543FC85F4CCA90BE2B147",
+      "yjsbsznId": "92BE732B2FA643CE90B8B2078061363E",
+      "ywzjfw": "0",
+      "zcblqd": "1,2",
+      "zcblqdWbdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 20.0,
+        "lbsxfwmc": "变更更正姓名",
+        "resultSampleName": "居民户口簿",
+        "tyywblxName": "变更更正姓名"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "户口簿换补领",
+        "resultSampleName": "居民户口簿",
+        "tyywblxName": "户口簿换补领"
+      },
+      {
+        "cnsxsx": 15.0,
+        "lbsxfwmc": "居民身份证换领",
+        "resultSampleName": "居民身份证",
+        "tyywblxName": "居民身份证换领"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "户口登记项目变更更正证明",
+        "resultSampleName": "公民身份号码更正证明",
+        "tyywblxName": "户口登记项目变更更正证明"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "湖南户籍人口在公安机关申请变更个人姓名信息后，需要联办长沙市内社保、医保、住房公积金等涉及个人姓名信息变更业务的人员（不含单位参保人员和已办理住房公积金贷款的人员）",
+        "cjsj": 1763538779000,
+        "processingConditions": "湖南户籍人口在公安机关申请变更个人姓名信息后，需要联办长沙市内社保、医保、住房公积金等涉及个人姓名信息变更业务的人员（不含单位参保人员和已办理住房公积金贷款的人员）",
+        "pxh": 1.0,
+        "smmc": "湖南户籍人口在公安机关申请变更个人姓名信息后，需要联办长沙市内社保、医保、住房公积金等涉及个人姓名信息变更业务的人员（不含单位参保人员和已办理住房公积金贷款的人员）",
+        "yjsBsznbltjId": "CEE29565ACD24D18A75B095DB6F6DDA0",
+        "yjsbsznId": "92BE732B2FA643CE90B8B2078061363E",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [
+      {
+        "answer": "可以线上申请，全程网办，办理结果物可寄递至申请人填写的地址。",
+        "da": "可以线上申请，全程网办，办理结果物可寄递至申请人填写的地址。",
+        "problem": "变更更正姓名是否可以在线上申请？",
+        "pxh": 0.0,
+        "wt": "变更更正姓名是否可以在线上申请？",
+        "yjsMlSsqdQuestionId": "E90C5F906A1E432BADE28599F6133E4D",
+        "yjsSsqdId": "D4750CE545E9435DB00BA7EB0B78FF8F"
+      },
+      {
+        "answer": "可以线上申请，全程网办，办理结果物可寄递至申请人填写的地址。",
+        "da": "可以线上申请，全程网办，办理结果物可寄递至申请人填写的地址。",
+        "problem": "户口簿换补领是否可以在线上申请？",
+        "pxh": 1.0,
+        "wt": "户口簿换补领是否可以在线上申请？",
+        "yjsMlSsqdQuestionId": "B866348D815641C3B38483F80BF6B294",
+        "yjsSsqdId": "D4750CE545E9435DB00BA7EB0B78FF8F"
+      },
+      {
+        "answer": "可以线上申请，全程网办，办理结果物可寄递至申请人填写的地址。",
+        "da": "可以线上申请，全程网办，办理结果物可寄递至申请人填写的地址。",
+        "problem": "居民身份证换领是否可以在线上申请？",
+        "pxh": 2.0,
+        "wt": "居民身份证换领是否可以在线上申请？",
+        "yjsMlSsqdQuestionId": "F6DB185881DE4671B6139AE4EF1F5C8E",
+        "yjsSsqdId": "D4750CE545E9435DB00BA7EB0B78FF8F"
+      },
+      {
+        "answer": "可以线上申请，全程网办，办理结果物可寄递至申请人填写的地址。",
+        "da": "可以线上申请，全程网办，办理结果物可寄递至申请人填写的地址。",
+        "problem": "开具户口登记项目内容变更更正证明是否可以在线上申请？",
+        "pxh": 3.0,
+        "wt": "开具户口登记项目内容变更更正证明是否可以在线上申请？",
+        "yjsMlSsqdQuestionId": "5878112983034945BC19773D4AC2AEAD",
+        "yjsSsqdId": "D4750CE545E9435DB00BA7EB0B78FF8F"
+      }
+    ],
+    "sxmc": "居民个人信息变更一件事",
+    "yjsSsqdbm": "43PCP0016226J0104",
+    "basicInfo": {
+      "aheadFrequency": "0",
+      "areaName": "湖南湘江新区",
+      "completedLimit": "39",
+      "cooperateName": "公安部门",
+      "isCharge": "1",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0731-88614629",
+      "lbjgId": "09",
+      "qtbmId": "3ebdc53b63a84ecb872b543602a9bff7",
+      "qtbmmc": "湖南湘江新区公安局（长沙市公安局岳麓分局）",
+      "reasonLink": "暂无",
+      "yjsssqdbsznid": "1481A6863A5E40D79D1905E61BE48C2C",
+      "zxdh": "0731-12345"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

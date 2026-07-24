@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "431027208999",
+      "benji": "1",
+      "orgId": "e93fc3e562844bafaf6c00afef813738",
+      "orgLevel": "4",
+      "orgName": "桂东县新坊乡本级",
+      "orgShowName": "桂东县新坊乡本级",
+      "orgSn": "1",
+      "parentCode": "431027208000",
+      "parentId": "e93fc3e562844bafaf6c00afef812128",
+      "parentName": "桂东县新坊乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431027208200",
+      "benji": "0",
+      "orgId": "S9aKJMwzS9WYnwXZCOXjJg",
+      "orgLevel": "5",
+      "orgName": "桂东县新坊乡新坊村村委会",
+      "orgShowName": "新坊村",
+      "orgSn": "999",
+      "parentCode": "431027208000",
+      "parentId": "e93fc3e562844bafaf6c00afef812128",
+      "parentName": "桂东县新坊乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431027208201",
+      "benji": "0",
+      "orgId": "qaAYNqibpSjOm1yQGJQWPvA",
+      "orgLevel": "5",
+      "orgName": "桂东县新坊乡龙溪村村委会",
+      "orgShowName": "龙溪村",
+      "orgSn": "999",
+      "parentCode": "431027208000",
+      "parentId": "e93fc3e562844bafaf6c00afef812128",
+      "parentName": "桂东县新坊乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431027208202",
+      "benji": "0",
+      "orgId": "6XOrgia2YQfm6pmTLIM63DQ",
+      "orgLevel": "5",
+      "orgName": "桂东县新坊乡溪源村村委会",
+      "orgShowName": "溪源村",
+      "orgSn": "999",
+      "parentCode": "431027208000",
+      "parentId": "e93fc3e562844bafaf6c00afef812128",
+      "parentName": "桂东县新坊乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431027208206",
+      "benji": "0",
+      "orgId": "tJp7CfVibT06zT1pYr9veJw",
+      "orgLevel": "5",
+      "orgName": "桂东县新坊乡荷塘村",
+      "orgShowName": "荷塘村",
+      "orgSn": "999",
+      "parentCode": "431027208000",
+      "parentId": "e93fc3e562844bafaf6c00afef812128",
+      "parentName": "桂东县新坊乡",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

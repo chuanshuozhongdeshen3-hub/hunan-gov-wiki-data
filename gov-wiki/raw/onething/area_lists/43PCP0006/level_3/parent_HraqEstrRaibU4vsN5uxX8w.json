@@ -1,0 +1,50 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430793999000",
+      "benji": "1",
+      "orgId": "VLb1IY2pRwKYibdW82aLAzg",
+      "orgLevel": "3",
+      "orgName": "西湖管理区区本级",
+      "orgShowName": "西湖管理区区本级",
+      "orgSn": "1",
+      "parentCode": "430793000000",
+      "parentId": "HraqEstrRaibU4vsN5uxX8w",
+      "parentName": "西湖管理区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430793702000",
+      "benji": "0",
+      "orgId": "My1dic8skQ8eq5DGcr1chgg",
+      "orgLevel": "4",
+      "orgName": "常德市西湖管理区西湖镇",
+      "orgShowName": "西湖镇",
+      "orgSn": "1",
+      "parentCode": "430793000000",
+      "parentId": "HraqEstrRaibU4vsN5uxX8w",
+      "parentName": "西湖管理区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430793703000",
+      "benji": "0",
+      "orgId": "kZXJ3lRIQ3ia7ym2jSqb8SA",
+      "orgLevel": "4",
+      "orgName": "常德市西湖管理区西洲乡",
+      "orgShowName": "西洲乡",
+      "orgSn": "101",
+      "parentCode": "430793000000",
+      "parentId": "HraqEstrRaibU4vsN5uxX8w",
+      "parentName": "西湖管理区",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

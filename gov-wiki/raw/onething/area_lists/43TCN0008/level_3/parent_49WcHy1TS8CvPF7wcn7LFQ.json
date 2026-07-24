@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "2",
+      "areaCode": "430133999000",
+      "benji": "1",
+      "orgId": "QA0LBJ8ERoqp4lHcc8kqZg",
+      "orgLevel": "3",
+      "orgName": "宁乡经开区区本级",
+      "orgShowName": "宁乡经开区区本级",
+      "orgSn": "1",
+      "parentCode": "430133000000",
+      "parentId": "49WcHy1TS8CvPF7wcn7LFQ",
+      "parentName": "宁乡经开区",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

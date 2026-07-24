@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430781002999",
+      "benji": "1",
+      "orgId": "e93fc3e562844bafaf6c00afef814154",
+      "orgLevel": "4",
+      "orgName": "津市市汪家桥街道本级",
+      "orgShowName": "津市市汪家桥街道本级",
+      "orgSn": "1",
+      "parentCode": "430781002000",
+      "parentId": "e93fc3e562844bafaf6c00afef811324",
+      "parentName": "津市市汪家桥街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430781002004",
+      "benji": "0",
+      "orgId": "lYeGplicCQibO5iaafKia38iajg",
+      "orgLevel": "5",
+      "orgName": "津市市汪家桥街道汪家桥社区",
+      "orgShowName": "汪家桥社区",
+      "orgSn": "999",
+      "parentCode": "430781002000",
+      "parentId": "e93fc3e562844bafaf6c00afef811324",
+      "parentName": "津市市汪家桥街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430781002005",
+      "benji": "0",
+      "orgId": "E35sgg1ISLqExctUwghgmg",
+      "orgLevel": "5",
+      "orgName": "津市市汪家桥街道新村社区",
+      "orgShowName": "新村社区",
+      "orgSn": "999",
+      "parentCode": "430781002000",
+      "parentId": "e93fc3e562844bafaf6c00afef811324",
+      "parentName": "津市市汪家桥街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430781002007",
+      "benji": "0",
+      "orgId": "WPNdhsmnTf6AH8OZ9a0u3A",
+      "orgLevel": "5",
+      "orgName": "津市市汪家桥街道油榨坊社区",
+      "orgShowName": "油榨坊社区",
+      "orgSn": "999",
+      "parentCode": "430781002000",
+      "parentId": "e93fc3e562844bafaf6c00afef811324",
+      "parentName": "津市市汪家桥街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430781002009",
+      "benji": "0",
+      "orgId": "X4yh5D85S9SlhtcrNfnUrA",
+      "orgLevel": "5",
+      "orgName": "津市市汪家桥街道城东社区",
+      "orgShowName": "城东社区",
+      "orgSn": "999",
+      "parentCode": "430781002000",
+      "parentId": "e93fc3e562844bafaf6c00afef811324",
+      "parentName": "津市市汪家桥街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430781002010",
+      "benji": "0",
+      "orgId": "sT30GBIMS0qYib0lNyfsYMw",
+      "orgLevel": "5",
+      "orgName": "津市市汪家桥街道澹津社区",
+      "orgShowName": "澹津社区",
+      "orgSn": "999",
+      "parentCode": "430781002000",
+      "parentId": "e93fc3e562844bafaf6c00afef811324",
+      "parentName": "津市市汪家桥街道",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

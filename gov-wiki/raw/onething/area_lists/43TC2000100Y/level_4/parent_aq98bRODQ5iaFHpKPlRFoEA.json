@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "431382118999",
+      "benji": "1",
+      "orgId": "yPfFtBTNRby7U6gibW4tm0A",
+      "orgLevel": "4",
+      "orgName": "湖南娄底高新技术产业开发区管理委员会本级",
+      "orgShowName": "湖南娄底高新技术产业开发区管理委员会本级",
+      "orgSn": "1",
+      "parentCode": "431382118000",
+      "parentId": "aq98bRODQ5iaFHpKPlRFoEA",
+      "parentName": "湖南娄底高新技术产业开发区管理委员会",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

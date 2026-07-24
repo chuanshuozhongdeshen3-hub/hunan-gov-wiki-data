@@ -1,0 +1,50 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "431202400999",
+      "benji": "1",
+      "orgId": "43NJFYudRM24FOro4wasoA",
+      "orgLevel": "4",
+      "orgName": "鹤城区黄岩旅游度假区本级",
+      "orgShowName": "鹤城区黄岩旅游度假区本级",
+      "orgSn": "999",
+      "parentCode": "431202400000",
+      "parentId": "sS6TusXRTwiaaWsWf3L70Fw",
+      "parentName": "鹤城区黄岩旅游度假区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431202400201",
+      "benji": "0",
+      "orgId": "YicjC2u1sRoypkZcZAKzSkw",
+      "orgLevel": "5",
+      "orgName": "鹤城区黄岩旅游度假区白马村",
+      "orgShowName": "白马村",
+      "orgSn": "999",
+      "parentCode": "431202400000",
+      "parentId": "sS6TusXRTwiaaWsWf3L70Fw",
+      "parentName": "鹤城区黄岩旅游度假区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431202400202",
+      "benji": "0",
+      "orgId": "yvibiaMjUCTYmIoTcmxCAD3g",
+      "orgLevel": "5",
+      "orgName": "鹤城区黄岩旅游度假区大坪村",
+      "orgShowName": "大坪村",
+      "orgSn": "999",
+      "parentCode": "431202400000",
+      "parentId": "sS6TusXRTwiaaWsWf3L70Fw",
+      "parentName": "鹤城区黄岩旅游度假区",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

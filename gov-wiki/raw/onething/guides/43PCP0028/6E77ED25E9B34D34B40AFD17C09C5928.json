@@ -1,0 +1,281 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1782460262000,
+        "fjId": "2wud04LZQLm3hWMIXvH2BA",
+        "fjbm": "100001",
+        "fjdx": 0.782,
+        "fjlj": "orchestrate/2026-06-26/1782460262724$$流程图.png",
+        "fjlx": ".png",
+        "fjmc": "流程图.png",
+        "s3tmc": "zwfw202606",
+        "sfyx": "Y",
+        "ywdxId": "3CF2C2DFDC884D199529AA965D47CA5E"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "政务服务中心",
+        "blsj": "法定工作日：（上午9：00----12：00；下午13：30---17：00）",
+        "cjsj": 1783928422469,
+        "gxsj": 1783928442000,
+        "infoAddr": "湖南省衡南县云集街道富园路政务服务中心一楼高效办成一件事专区",
+        "pointName": "政务服务中心",
+        "processingTime": "法定工作日：（上午9：00----12：00；下午13：30---17：00）",
+        "pxh": 1,
+        "xxdz": "湖南省衡南县云集街道富园路政务服务中心一楼高效办成一件事专区",
+        "yjsBldId": "2A65564D29FB4BC581C8D327B264147D",
+        "ywzjId": "FECFFB35727147298B331FAFBD4614DC",
+        "zt": "0"
+      }
+    ],
+    "materialList": [],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "登录注册联办事项",
+      "blxs": "1",
+      "bszt": "1",
+      "cjrId": "7t907fCmRzeek2ic6O3zNxw",
+      "cjsj": 1782459494000,
+      "cnbjsx": "25",
+      "dbsxccs": "0",
+      "dbsxcyyhhj": "审核环节如有未核验通过的材料，如普通话证、学历证书等无法线上核验通过的需现场提供佐证材料完成审核",
+      "dndtzdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "gqbjlx": 2.0,
+      "gqblsx": 30.0,
+      "gqpdcs": 1.0,
+      "gqsbcl": 7.0,
+      "gxrId": "7t907fCmRzeek2ic6O3zNxw",
+      "gxsj": 1783328700000,
+      "hjsgq": 7.0,
+      "hjsxz": 6.0,
+      "jdtsdh": "0731-84110450",
+      "jdtsdz": "湖南省教师资格认定机构地址",
+      "jgsdsm": "线下办理",
+      "jsms": "2",
+      "lbjgId": "05,09,23",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "A",
+      "xsblqd": "1,2",
+      "xxbldsm": "湖南省教育厅（湖南省长沙市东二环2段238号）",
+      "xxcktzdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "xzbjlx": 2.0,
+      "xzblsx": 25.0,
+      "xzpdcs": 0.0,
+      "xzsbcl": 5.0,
+      "yddtzdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "yjsMlBzhId": "D880BA89AAC2479789CB5DB2463BE0C5",
+      "yjsbsznId": "3CF2C2DFDC884D199529AA965D47CA5E",
+      "ywzjfw": "0",
+      "zcblqd": "1,2,4",
+      "zcblqdWbdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "zxdh": "0731-84110450",
+      "zxdz": "湖南省教师资格认定机构地址"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "体格检查结果信息共享",
+        "resultSampleName": "",
+        "tyywblxName": "体格检查结果信息共享"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "无犯罪记录证明核验",
+        "resultSampleName": "",
+        "tyywblxName": "无犯罪记录证明核验"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "个人身份信息核验",
+        "resultSampleName": "",
+        "tyywblxName": "个人身份信息核验"
+      },
+      {
+        "cnsxsx": 25.0,
+        "lbsxfwmc": "学历证明核验",
+        "resultSampleName": "",
+        "tyywblxName": "学历证明核验"
+      },
+      {
+        "cnsxsx": 25.0,
+        "lbsxfwmc": "教师资格考试合格证明核验",
+        "resultSampleName": "",
+        "tyywblxName": "教师资格考试合格证明核验"
+      },
+      {
+        "cnsxsx": 25.0,
+        "lbsxfwmc": "普通话水平测试等级证明核验",
+        "resultSampleName": "",
+        "tyywblxName": "普通话水平测试等级证明核验"
+      },
+      {
+        "cnsxsx": 25.0,
+        "lbsxfwmc": "教师资格认定审核",
+        "resultSampleName": "",
+        "tyywblxName": "教师资格认定审核"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "拥护党的基本路线，全面贯彻党的教育方针，自觉遵守《中华人民共和国教师法》等法律法规，遵守教师职业道德，热爱教育事业，热爱学生，为人师表，且未达到国家法定退休年龄的中国公民。",
+        "cjsj": 1782460587000,
+        "processingConditions": "拥护党的基本路线，全面贯彻党的教育方针，自觉遵守《中华人民共和国教师法》等法律法规，遵守教师职业道德，热爱教育事业，热爱学生，为人师表，且未达到国家法定退休年龄的中国公民。",
+        "pxh": 1.0,
+        "smmc": "申请认定中小学教师资格者应当具备",
+        "yjsBsznbltjId": "3C9C73687C764AEDAEC8CF923FCD8273",
+        "yjsbsznId": "3CF2C2DFDC884D199529AA965D47CA5E",
+        "zt": "0"
+      },
+      {
+        "bltj": "申请认定中小学教师资格，申请人户籍所在地、居住地（须持有当地居住证且在有效期内，临时居住证、暂住证、居住证明等均不能等同）或就读学校所在地（仅限全日制应届毕业生、全日制专升本学生和在读研究生）应在湖南省行政区域内。",
+        "cjsj": 1782460640000,
+        "processingConditions": "申请认定中小学教师资格，申请人户籍所在地、居住地（须持有当地居住证且在有效期内，临时居住证、暂住证、居住证明等均不能等同）或就读学校所在地（仅限全日制应届毕业生、全日制专升本学生和在读研究生）应在湖南省行政区域内。",
+        "pxh": 2.0,
+        "smmc": "申请认定中小学教师资格者应当具备",
+        "yjsBsznbltjId": "48EFD0C8133442C1829CC54501BA8F72",
+        "yjsbsznId": "3CF2C2DFDC884D199529AA965D47CA5E",
+        "zt": "0"
+      },
+      {
+        "bltj": "具备《中华人民共和国教师法》规定的相应学历。应届毕业生在教师资格认定机构作出认定教师资格的结论前应取得毕业证书。",
+        "cjsj": 1782460664000,
+        "processingConditions": "具备《中华人民共和国教师法》规定的相应学历。应届毕业生在教师资格认定机构作出认定教师资格的结论前应取得毕业证书。",
+        "pxh": 3.0,
+        "smmc": "申请认定中小学教师资格者应当具备",
+        "yjsBsznbltjId": "756ED2A621BB4BE08449EB985FEA4B80",
+        "yjsbsznId": "3CF2C2DFDC884D199529AA965D47CA5E",
+        "zt": "0"
+      },
+      {
+        "bltj": "参加国家中小学教师资格考试人员应当笔试、面试均合格，获得《中小学教师资格考试合格证明》，且在有效期内。纳入免试认定改革范围的教育类研究生和师范生，应当通过师范生教育教学能力考核，取得《师范生教师职业能力证书》，且在有效期内。",
+        "cjsj": 1782460690000,
+        "processingConditions": "参加国家中小学教师资格考试人员应当笔试、面试均合格，获得《中小学教师资格考试合格证明》，且在有效期内。纳入免试认定改革范围的教育类研究生和师范生，应当通过师范生教育教学能力考核，取得《师范生教师职业能力证书》，且在有效期内。",
+        "pxh": 4.0,
+        "smmc": "申请人应当参加相关考试、测试，并达到相应要求。",
+        "yjsBsznbltjId": "79F4C3E9EBD64A5B85D69E3D4B446FAB",
+        "yjsbsznId": "3CF2C2DFDC884D199529AA965D47CA5E",
+        "zt": "0"
+      },
+      {
+        "bltj": "普通话水平应当达到国家语言文字工作委员会颁布的《普通话水平测试等级标准》二级乙等及以上标准。其中申请语文、小学全科和对外汉语教学教师资格的普通话应当达到二级甲等及以上水平，申请语音教师资格的普通话应当达到一级乙等及以上水平。",
+        "cjsj": 1782460711000,
+        "processingConditions": "普通话水平应当达到国家语言文字工作委员会颁布的《普通话水平测试等级标准》二级乙等及以上标准。其中申请语文、小学全科和对外汉语教学教师资格的普通话应当达到二级甲等及以上水平，申请语音教师资格的普通话应当达到一级乙等及以上水平。",
+        "pxh": 5.0,
+        "smmc": "申请认定中小学教师资格者应当具备",
+        "yjsBsznbltjId": "14D9C1DC4673462EAA74791E8BD1A7CF",
+        "yjsbsznId": "3CF2C2DFDC884D199529AA965D47CA5E",
+        "zt": "0"
+      },
+      {
+        "bltj": "具有良好的身体素质和心理素质，无传染性疾病，无精神病史，适应教育教学工作的需要，要求认定当年在教师资格认定机构指定的县级以上医院体检合格。",
+        "cjsj": 1782460727000,
+        "processingConditions": "具有良好的身体素质和心理素质，无传染性疾病，无精神病史，适应教育教学工作的需要，要求认定当年在教师资格认定机构指定的县级以上医院体检合格。",
+        "pxh": 6.0,
+        "smmc": "申请认定中小学、高校教师资格者应当具备",
+        "yjsBsznbltjId": "51295CF9DD7849D68A4A97B88F656CDE",
+        "yjsbsznId": "3CF2C2DFDC884D199529AA965D47CA5E",
+        "zt": "0"
+      },
+      {
+        "bltj": "无犯罪记录和准入查询。认定过程中，认定机构将对申请人的无犯罪记录情况进行核查，根据核查结果和国家法律法规及有关规定作出认定结论。同时，根据《最高人民检察院 教育部 公安部关于建立教职员工准入查询性侵违法犯罪信息制度的意见》(高检发〔2020〕14号)，在作出教师资格认定结论前，对经准入查询发现有性侵违法犯罪信息的，不予认定。",
+        "cjsj": 1782460747000,
+        "processingConditions": "无犯罪记录和准入查询。认定过程中，认定机构将对申请人的无犯罪记录情况进行核查，根据核查结果和国家法律法规及有关规定作出认定结论。同时，根据《最高人民检察院 教育部 公安部关于建立教职员工准入查询性侵违法犯罪信息制度的意见》(高检发〔2020〕14号)，在作出教师资格认定结论前，对经准入查询发现有性侵违法犯罪信息的，不予认定。",
+        "pxh": 7.0,
+        "smmc": "申请认定中小学、高校教师资格者应当具备",
+        "yjsBsznbltjId": "62BD9DFEA23E40519AC815A009AA2063",
+        "yjsbsznId": "3CF2C2DFDC884D199529AA965D47CA5E",
+        "zt": "0"
+      },
+      {
+        "bltj": "申请中等职业学校实习指导教师资格，应当具备有相当助理工程师以上专业技术职务或者中级以上工人技术等级。",
+        "cjsj": 1782462083000,
+        "processingConditions": "申请中等职业学校实习指导教师资格，应当具备有相当助理工程师以上专业技术职务或者中级以上工人技术等级。",
+        "pxh": 8.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "91D48077784846DFA2BFC27A402B90FC",
+        "yjsbsznId": "3CF2C2DFDC884D199529AA965D47CA5E",
+        "zt": "0"
+      },
+      {
+        "bltj": "具备研究生或者大学本科学历，且为湖南省行政区域内高等学校拟聘任从事教育教学工作人员。",
+        "cjsj": 1782462133000,
+        "processingConditions": "具备研究生或者大学本科学历，且为湖南省行政区域内高等学校拟聘任从事教育教学工作人员。",
+        "pxh": 9.0,
+        "smmc": "申请认定高校教师资格者应当具备",
+        "yjsBsznbltjId": "DC0F33E3287E47CEAF006EC21E62BB8B",
+        "yjsbsznId": "3CF2C2DFDC884D199529AA965D47CA5E",
+        "zt": "0"
+      },
+      {
+        "bltj": "达到国家语言文字工作委员会颁发的《普通话水平测试等级标准》二级乙等及以上标准。其中申请语文、对外汉语教学教师资格的普通话水平应当达到二级甲等及以上，申请语音教师资格的普通话应当达到一级乙等及以上。具有副高及以上专业技术职务或博士学位者可免除普通话测试。",
+        "cjsj": 1782462205000,
+        "processingConditions": "达到国家语言文字工作委员会颁发的《普通话水平测试等级标准》二级乙等及以上标准。其中申请语文、对外汉语教学教师资格的普通话水平应当达到二级甲等及以上，申请语音教师资格的普通话应当达到一级乙等及以上。具有副高及以上专业技术职务或博士学位者可免除普通话测试。",
+        "pxh": 10.0,
+        "smmc": "申请认定高校教师资格者应当具备",
+        "yjsBsznbltjId": "7F392AF923BF4167857E249B139FA7E0",
+        "yjsbsznId": "3CF2C2DFDC884D199529AA965D47CA5E",
+        "zt": "0"
+      },
+      {
+        "bltj": "参加湖南省高等学校教师岗前培训及考试并获得《湖南省高等学校教师岗前培训合格证书》。院士及入选国家人才计划的高校拟聘用教师，经学校考核具备教育教学能力的，可免除岗前培训及考试。",
+        "cjsj": 1782462225000,
+        "processingConditions": "参加湖南省高等学校教师岗前培训及考试并获得《湖南省高等学校教师岗前培训合格证书》。院士及入选国家人才计划的高校拟聘用教师，经学校考核具备教育教学能力的，可免除岗前培训及考试。",
+        "pxh": 11.0,
+        "smmc": "申请认定高校教师资格者应当具备",
+        "yjsBsznbltjId": "5CFA177F61FC43F2882C77F430FF5EA3",
+        "yjsbsznId": "3CF2C2DFDC884D199529AA965D47CA5E",
+        "zt": "0"
+      },
+      {
+        "bltj": "根据学校统一安排，参加本校或其他高校组织的教育教学基本素质和能力测试并合格。具有副高及以上专业技术职务或博士学位者可免除教育教学基本素质和能力测试。",
+        "cjsj": 1782462242000,
+        "processingConditions": "根据学校统一安排，参加本校或其他高校组织的教育教学基本素质和能力测试并合格。具有副高及以上专业技术职务或博士学位者可免除教育教学基本素质和能力测试。",
+        "pxh": 12.0,
+        "smmc": "申请认定高校教师资格者应当具备",
+        "yjsBsznbltjId": "A74BB3B1573B4A1E86F4E7BB4AFBC622",
+        "yjsbsznId": "3CF2C2DFDC884D199529AA965D47CA5E",
+        "zt": "0"
+      },
+      {
+        "bltj": "具有良好的身体素质和心理素质，无传染性疾病，无精神病史，适应教育教学工作的需要。",
+        "cjsj": 1782462266000,
+        "processingConditions": "具有良好的身体素质和心理素质，无传染性疾病，无精神病史，适应教育教学工作的需要。",
+        "pxh": 13.0,
+        "smmc": "申请认定高校教师资格者应当具备",
+        "yjsBsznbltjId": "FDB80B54BB3B4CF79C44DF3E2C5CD63F",
+        "yjsbsznId": "3CF2C2DFDC884D199529AA965D47CA5E",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [],
+    "sxmc": "教师资格认定“一件事”",
+    "yjsSsqdbm": "43PCP0028A26J0422",
+    "basicInfo": {
+      "aheadFrequency": "0",
+      "areaName": "衡南县",
+      "completedLimit": "25",
+      "cooperateName": "教育部门,公安部门,卫健部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0734-8551156",
+      "lbjgId": "05,09,23",
+      "qtbmId": "75083eb2f1ad46ffa2694e8fbe5a2d7f",
+      "qtbmmc": "衡南县教育局",
+      "reasonLink": "审核环节如有未核验通过的材料，如普通话证、学历证书等无法线上核验通过的需现场提供佐证材料完成审核",
+      "yjsssqdbsznid": "FECFFB35727147298B331FAFBD4614DC",
+      "zxdh": "0734-8559379"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

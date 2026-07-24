@@ -1,0 +1,450 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1728444722000,
+        "fjId": "M4hyM8M2Shm1JZzq83TvHw",
+        "fjbm": "100001",
+        "fjdx": 0.085,
+        "fjlj": "orchestrate/2024-10-09/1728444722331$$变更流程图.png",
+        "fjlx": ".png",
+        "fjmc": "变更流程图.png",
+        "s3tmc": "zwfw202410",
+        "sfyx": "Y",
+        "ywdxId": "CB184EF1B9B348FE89DAED99EEC5CB5C"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "平江县政务服务中心一楼“高效办成一件事”专窗",
+        "blsj": "工作日,夏季（7月1日—9月30日）8:30—12:00,14:30—17:30,冬季（10月1日—次年6月30日）8:30—12:00,14:00—17:00（法定节假日除外）",
+        "cjsj": 1724835192157,
+        "gxsj": 1731036839000,
+        "infoAddr": "平江县天岳新区东兴北路创新创业园1号楼一楼“高效办成一件事”专区",
+        "pointName": "平江县政务服务中心一楼“高效办成一件事”专窗",
+        "processingTime": "工作日,夏季（7月1日—9月30日）8:30—12:00,14:30—17:30,冬季（10月1日—次年6月30日）8:30—12:00,14:00—17:00（法定节假日除外）",
+        "pxh": 1,
+        "xxdz": "平江县天岳新区东兴北路创新创业园1号楼一楼“高效办成一件事”专区",
+        "yjsBldId": "A6A189E1EBD247D0A825D2C9C579A377",
+        "ywzjId": "6024E560B5CB4D41BE75B62B5F36A305",
+        "zt": "0"
+      }
+    ],
+    "materialList": [
+      {
+        "attachList": [
+          {
+            "cjsj": 1722337342000
+          }
+        ],
+        "bzclId": "M43TCN00010006",
+        "cjsj": 1722337342000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "20",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "法定代表人身份证明",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1772136286000,
+        "mtjfs": "2",
+        "pxh": 6.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合企业变更相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "915988EAA00D49DDA2A43CA7BCB5C83D",
+        "yjsSsqdId": "47637E7BE8564023AE59E56A39B4B123",
+        "yqtgyj": "企业变更相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1722337146000
+          }
+        ],
+        "bzclId": "M43TCN00010001",
+        "cjsj": 1722337146000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "《企业信息变更“一件事”申请书》",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1772136286000,
+        "mtjfs": "4",
+        "pxh": 1.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合企业变更相关规定",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "2CDEDF6FECA345D188E73A832E6B26C9",
+        "yjsSsqdId": "47637E7BE8564023AE59E56A39B4B123",
+        "yqtgyj": "企业变更相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1722337232000
+          }
+        ],
+        "bzclId": "M43TCN00010003",
+        "cjsj": 1722337232000,
+        "clbyx": "2",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "变更事项相关证明文件",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1772136286000,
+        "mtjfs": "4",
+        "pxh": 3.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合企业变更相关规定",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "9061B329CA7C4699B856024BDED37297",
+        "yjsSsqdId": "47637E7BE8564023AE59E56A39B4B123",
+        "yqtgyj": "企业变更相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1722337265000
+          }
+        ],
+        "bzclId": "M43TCN00010004",
+        "cjsj": 1722337265000,
+        "clbyx": "2",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "批准文件或者许可证件复印件",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1772136286000,
+        "mtjfs": "4",
+        "pxh": 4.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合企业变更相关规定",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "605022421E964D339EFFC1FA28AE2081",
+        "yjsSsqdId": "47637E7BE8564023AE59E56A39B4B123",
+        "yqtgyj": "企业变更相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1722337320000
+          }
+        ],
+        "bzclId": "M43TCN00010005",
+        "cjsj": 1722337320000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "20",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "营业执照",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1772136286000,
+        "mtjfs": "2",
+        "pxh": 5.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合企业变更相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "72616951EEB04A8395E66824CBCFADA3",
+        "yjsSsqdId": "47637E7BE8564023AE59E56A39B4B123",
+        "yqtgyj": "企业变更相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1722337380000
+          }
+        ],
+        "bzclId": "M43TCN00010007",
+        "cjsj": 1722337380000,
+        "clbyx": "2",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "委托人身份证明和授权委托书",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1772136286000,
+        "mtjfs": "2",
+        "pxh": 7.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合企业变更相关规定",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "759E01CD8BAE45AEBF8E64E6F3DD43F8",
+        "yjsSsqdId": "47637E7BE8564023AE59E56A39B4B123",
+        "yqtgyj": "企业变更相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1722337191000
+          }
+        ],
+        "bzclId": "M43TCN00010002",
+        "cjsj": 1722337191000,
+        "clbyx": "2",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "公司章程",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1772136286000,
+        "mtjfs": "4",
+        "pxh": 2.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合企业变更相关规定",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "84DB69735F1440108CD6DE2C1A24F232",
+        "yjsSsqdId": "47637E7BE8564023AE59E56A39B4B123",
+        "yqtgyj": "企业变更相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      }
+    ],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "无",
+      "blxs": "1",
+      "bszt": "0",
+      "cjrId": "EzUt3u38Swa4yxTJsticp3Q",
+      "cjsj": 1722218961000,
+      "cnbjsx": "6",
+      "dbsxccs": "1",
+      "dbsxcyyhhj": "无",
+      "dndtzdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_012_qyxxbg.jsp",
+      "gqbjlx": 2.0,
+      "gqblsx": 34.0,
+      "gqpdcs": 6.0,
+      "gqsbcl": 30.0,
+      "gxrId": "EzUt3u38Swa4yxTJsticp3Q",
+      "gxsj": 1722218961000,
+      "hjsgq": 6.0,
+      "hjsxz": 1.0,
+      "jgsdsm": "领取结果物",
+      "jsms": "2",
+      "lbjgId": "31,09,30,14,17",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "0",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "2",
+      "xsblqd": "1",
+      "xxbldsm": "对应层级市场监督部门",
+      "xxcktzdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_012_qyxxbg.jsp",
+      "xzbjlx": 2.0,
+      "xzblsx": 6.0,
+      "xzpdcs": 1.0,
+      "xzsbcl": 7.0,
+      "yjsMlBzhId": "663E321956244EB68B241A9ECE0E167E",
+      "yjsbsznId": "CB184EF1B9B348FE89DAED99EEC5CB5C",
+      "ywzjfw": "0",
+      "zcblqd": "1,4",
+      "zcblqdWbdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_012_qyxxbg.jsp"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "个人独资企业分支机构变更登记",
+        "resultSampleName": "《营业执照》",
+        "tyywblxName": "个人独资企业分支机构变更登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "普通合伙企业变更登记",
+        "resultSampleName": "营业执照",
+        "tyywblxName": "普通合伙企业变更登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "有限合伙企业变更登记",
+        "resultSampleName": "营业执照",
+        "tyywblxName": "有限合伙企业变更登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "非公司企业法人分支机构变更登记",
+        "resultSampleName": "《营业执照》",
+        "tyywblxName": "非公司企业法人分支机构变更登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "合伙企业分支机构变更登记",
+        "resultSampleName": "《营业执照》",
+        "tyywblxName": "合伙企业分支机构变更登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "个人独资企业变更登记",
+        "resultSampleName": "《营业执照》",
+        "tyywblxName": "个人独资企业变更登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "一人有限责任公司变更登记",
+        "resultSampleName": "营业执照",
+        "tyywblxName": "一人有限责任公司变更登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "非公司企业法人变更登记",
+        "resultSampleName": "《营业执照》",
+        "tyywblxName": "非公司企业法人变更登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "特殊普通合伙企业变更登记",
+        "resultSampleName": "营业执照",
+        "tyywblxName": "特殊普通合伙企业变更登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "有限（责任）公司变更登记",
+        "resultSampleName": "营业执照",
+        "tyywblxName": "有限（责任）公司变更登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "股份有限公司变更登记",
+        "resultSampleName": "营业执照",
+        "tyywblxName": "股份有限公司变更登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "分公司变更登记",
+        "resultSampleName": "《营业执照》",
+        "tyywblxName": "分公司变更登记"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "增值税税控系统专用设备变更发行",
+        "resultSampleName": "无",
+        "tyywblxName": "增值税税控系统专用设备变更发行"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "公章刻制备案",
+        "resultSampleName": "特种行业公章刻制备案",
+        "tyywblxName": "公章刻制备案"
+      },
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "企业参保信息录入",
+        "resultSampleName": "无",
+        "tyywblxName": "企业参保信息录入"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "住房公积金缴存业务-住房公积金单位及个人缴存信息变更",
+        "resultSampleName": "暂无",
+        "tyywblxName": "住房公积金缴存业务-住房公积金单位及个人缴存信息变更"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "农民专业合作社（联合社）分支机构变更登记",
+        "resultSampleName": "《营业执照》",
+        "tyywblxName": "农民专业合作社（联合社）分支机构变更登记"
+      },
+      {
+        "cnsxsx": 3.0,
+        "lbsxfwmc": "农民专业合作社（联合社）变更登记",
+        "resultSampleName": "《营业执照》",
+        "tyywblxName": "农民专业合作社（联合社）变更登记"
+      },
+      {
+        "cnsxsx": 15.0,
+        "lbsxfwmc": "基本账户变更",
+        "resultSampleName": "",
+        "tyywblxName": "基本账户变更"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "符合申请要求办理",
+        "cjsj": 1722219529000,
+        "processingConditions": "符合申请要求办理",
+        "pxh": 1.0,
+        "smmc": "符合申请要求办理",
+        "yjsBsznbltjId": "882D5F729CA2471C83B80AFBD7378AC9",
+        "yjsbsznId": "CB184EF1B9B348FE89DAED99EEC5CB5C",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [],
+    "sxmc": "企业信息变更一件事",
+    "yjsSsqdbm": "43TCN0001225J0626",
+    "basicInfo": {
+      "aheadFrequency": "1",
+      "areaName": "平江县",
+      "completedLimit": "6",
+      "cooperateName": "公安部门,人社部门,住建部门,税务部门,市监部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0730-6235875/12345",
+      "lbjgId": "31,09,30,14,17",
+      "qtbmId": "c9ee4665c6274a338e930df75ebc02cc",
+      "qtbmmc": "平江县市场监督管理局",
+      "reasonLink": "无",
+      "yjsssqdbsznid": "6024E560B5CB4D41BE75B62B5F36A305",
+      "zxdh": "0730-6233578"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

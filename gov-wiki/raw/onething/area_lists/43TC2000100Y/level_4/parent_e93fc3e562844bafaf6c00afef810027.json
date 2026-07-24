@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430181123999",
+      "benji": "1",
+      "orgId": "e93fc3e562844bafaf6c00afef813080",
+      "orgLevel": "4",
+      "orgName": "柏加镇镇本级",
+      "orgShowName": "柏加镇镇本级",
+      "orgSn": "1",
+      "parentCode": "430181123000",
+      "parentId": "e93fc3e562844bafaf6c00afef810027",
+      "parentName": "柏加镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430181123208",
+      "benji": "0",
+      "orgId": "BtOGVZ20QzaIdtET5a7ZKQ",
+      "orgLevel": "5",
+      "orgName": "渡头村",
+      "orgShowName": "渡头村",
+      "orgSn": "0",
+      "parentCode": "430181123000",
+      "parentId": "e93fc3e562844bafaf6c00afef810027",
+      "parentName": "柏加镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430181123210",
+      "benji": "0",
+      "orgId": "M2ZvXpuBSrat41Y7ibKdkSw",
+      "orgLevel": "5",
+      "orgName": "楠洲村",
+      "orgShowName": "楠洲村",
+      "orgSn": "0",
+      "parentCode": "430181123000",
+      "parentId": "e93fc3e562844bafaf6c00afef810027",
+      "parentName": "柏加镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430181123211",
+      "benji": "0",
+      "orgId": "x5TrXnzNREyvptAjaX09qw",
+      "orgLevel": "5",
+      "orgName": "仙湖村",
+      "orgShowName": "仙湖村",
+      "orgSn": "0",
+      "parentCode": "430181123000",
+      "parentId": "e93fc3e562844bafaf6c00afef810027",
+      "parentName": "柏加镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430181123212",
+      "benji": "0",
+      "orgId": "BFxckJl3Q3SWiavlWMbXhdA",
+      "orgLevel": "5",
+      "orgName": "双源村",
+      "orgShowName": "双源村",
+      "orgSn": "0",
+      "parentCode": "430181123000",
+      "parentId": "e93fc3e562844bafaf6c00afef810027",
+      "parentName": "柏加镇",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430181123002",
+      "benji": "0",
+      "orgId": "5wOzgEsLTgWaDBMNphO6TQ",
+      "orgLevel": "5",
+      "orgName": "柏铃村",
+      "orgShowName": "柏铃村",
+      "orgSn": "999",
+      "parentCode": "430181123000",
+      "parentId": "e93fc3e562844bafaf6c00afef810027",
+      "parentName": "柏加镇",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

@@ -1,0 +1,50 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430682003999",
+      "benji": "1",
+      "orgId": "e93fc3e562844bafaf6c00afef813493",
+      "orgLevel": "4",
+      "orgName": "临湘市桃矿街道街道本级",
+      "orgShowName": "临湘市桃矿街道街道本级",
+      "orgSn": "1",
+      "parentCode": "430682003000",
+      "parentId": "e93fc3e562844bafaf6c00afef811095",
+      "parentName": "临湘市桃矿街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430682003001",
+      "benji": "0",
+      "orgId": "flmOEmxpQtmOKKvDMJ3AOg",
+      "orgLevel": "5",
+      "orgName": "临湘市桃矿街道金鑫社区",
+      "orgShowName": "金鑫社区",
+      "orgSn": "999",
+      "parentCode": "430682003000",
+      "parentId": "e93fc3e562844bafaf6c00afef811095",
+      "parentName": "临湘市桃矿街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430682003002",
+      "benji": "0",
+      "orgId": "b5WJSQ4HS5K0Bc5ajaJvUQ",
+      "orgLevel": "5",
+      "orgName": "临湘市桃矿街道金坡社区",
+      "orgShowName": "金坡社区",
+      "orgSn": "999",
+      "parentCode": "430682003000",
+      "parentId": "e93fc3e562844bafaf6c00afef811095",
+      "parentName": "临湘市桃矿街道",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

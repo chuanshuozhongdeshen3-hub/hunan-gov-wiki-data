@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430181201999",
+      "benji": "1",
+      "orgId": "e93fc3e562844bafaf6c00afef813085",
+      "orgLevel": "4",
+      "orgName": "小河乡镇本级",
+      "orgShowName": "小河乡镇本级",
+      "orgSn": "1",
+      "parentCode": "430181201000",
+      "parentId": "e93fc3e562844bafaf6c00afef810032",
+      "parentName": "小河乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430181201204",
+      "benji": "0",
+      "orgId": "UCxUY1KTTN2OgAmhuuxLSQ",
+      "orgLevel": "5",
+      "orgName": "潭湾村",
+      "orgShowName": "潭湾村",
+      "orgSn": "0",
+      "parentCode": "430181201000",
+      "parentId": "e93fc3e562844bafaf6c00afef810032",
+      "parentName": "小河乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430181201205",
+      "benji": "0",
+      "orgId": "8jSbh0zCRwqhVtFaqCzZ7w",
+      "orgLevel": "5",
+      "orgName": "新河村",
+      "orgShowName": "新河村",
+      "orgSn": "0",
+      "parentCode": "430181201000",
+      "parentId": "e93fc3e562844bafaf6c00afef810032",
+      "parentName": "小河乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430181201215",
+      "benji": "0",
+      "orgId": "0LTicr0dJSwiaMOiam3eSRX6A",
+      "orgLevel": "5",
+      "orgName": "皇碑村",
+      "orgShowName": "皇碑村",
+      "orgSn": "0",
+      "parentCode": "430181201000",
+      "parentId": "e93fc3e562844bafaf6c00afef810032",
+      "parentName": "小河乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430181201218",
+      "benji": "0",
+      "orgId": "xXTcspJ0TicCxkGicxkUxRPQ",
+      "orgLevel": "5",
+      "orgName": "乌石村",
+      "orgShowName": "乌石村",
+      "orgSn": "0",
+      "parentCode": "430181201000",
+      "parentId": "e93fc3e562844bafaf6c00afef810032",
+      "parentName": "小河乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430181201219",
+      "benji": "0",
+      "orgId": "zM1jGHrkRoCtwv3wiaXyXOQ",
+      "orgLevel": "5",
+      "orgName": "田心村",
+      "orgShowName": "田心村",
+      "orgSn": "0",
+      "parentCode": "430181201000",
+      "parentId": "e93fc3e562844bafaf6c00afef810032",
+      "parentName": "小河乡",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

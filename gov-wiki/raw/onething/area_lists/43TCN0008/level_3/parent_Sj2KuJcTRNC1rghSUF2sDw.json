@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430791999000",
+      "benji": "1",
+      "orgId": "qEiasjJTtQWCb0D7g1Z83kg",
+      "orgLevel": "3",
+      "orgName": "高新区区本级",
+      "orgShowName": "高新区区本级",
+      "orgSn": "1",
+      "parentCode": "430791000000",
+      "parentId": "Sj2KuJcTRNC1rghSUF2sDw",
+      "parentName": "高新区",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

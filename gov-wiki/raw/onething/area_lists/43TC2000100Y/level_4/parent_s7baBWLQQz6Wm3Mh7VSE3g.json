@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "431123210999",
+      "benji": "1",
+      "orgId": "S4kSOM1KSKCkD8LoCTfF7Q",
+      "orgLevel": "4",
+      "orgName": "双牌县打鼓坪乡本级",
+      "orgShowName": "双牌县打鼓坪乡本级",
+      "orgSn": "999",
+      "parentCode": "431123210000",
+      "parentId": "s7baBWLQQz6Wm3Mh7VSE3g",
+      "parentName": "双牌县打鼓坪乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431123210201",
+      "benji": "0",
+      "orgId": "cKEMJaBmTcufJYMsQbxMag",
+      "orgLevel": "5",
+      "orgName": "双牌县打鼓坪乡单江村委会",
+      "orgShowName": "单江村",
+      "orgSn": "999",
+      "parentCode": "431123210000",
+      "parentId": "s7baBWLQQz6Wm3Mh7VSE3g",
+      "parentName": "双牌县打鼓坪乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431123210204",
+      "benji": "0",
+      "orgId": "kJSrGTVUSUOBbIsrJkDZuA",
+      "orgLevel": "5",
+      "orgName": "双牌县打鼓坪乡打鼓坪村委会",
+      "orgShowName": "打鼓坪村",
+      "orgSn": "999",
+      "parentCode": "431123210000",
+      "parentId": "s7baBWLQQz6Wm3Mh7VSE3g",
+      "parentName": "双牌县打鼓坪乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431123210205",
+      "benji": "0",
+      "orgId": "iaeiaJgxj5TKqJeXBo8NLYeQ",
+      "orgLevel": "5",
+      "orgName": "双牌县打鼓坪乡双丰村委会",
+      "orgShowName": "双丰村",
+      "orgSn": "999",
+      "parentCode": "431123210000",
+      "parentId": "s7baBWLQQz6Wm3Mh7VSE3g",
+      "parentName": "双牌县打鼓坪乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431123210207",
+      "benji": "0",
+      "orgId": "iaSqfPLXKTKKunntdevW3FQ",
+      "orgLevel": "5",
+      "orgName": "双牌县打鼓坪乡河源村",
+      "orgShowName": "河源村",
+      "orgSn": "999",
+      "parentCode": "431123210000",
+      "parentId": "s7baBWLQQz6Wm3Mh7VSE3g",
+      "parentName": "双牌县打鼓坪乡",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

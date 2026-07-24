@@ -1,0 +1,305 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1765866516000,
+        "fjId": "FSdU0SrLSLe_Qzkn9hnMhw",
+        "fjbm": "100001",
+        "fjdx": 0.217,
+        "fjlj": "orchestrate/2025-12-16/1765866516396$$流程图.png",
+        "fjlx": ".png",
+        "fjmc": "流程图.png",
+        "s3tmc": "zwfw202512",
+        "sfyx": "Y",
+        "ywdxId": "DFD9DB3037FE4650A8B8083FC05BC9C0"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "祁阳市政务服务中心",
+        "blsj": "上午9:00-12:00，下午13:30-17：00",
+        "cjsj": 1765935134450,
+        "gxsj": 1765935150000,
+        "infoAddr": "祁阳市政务服务中心二楼D区",
+        "pointName": "祁阳市政务服务中心",
+        "processingTime": "上午9:00-12:00，下午13:30-17：00",
+        "pxh": 1,
+        "xxdz": "祁阳市政务服务中心二楼D区",
+        "yjsBldId": "A1C57FAE71294563963D648FDA4E6C08",
+        "ywzjId": "614F563CDDA94BD1935FC7CE2390993B",
+        "zt": "0"
+      }
+    ],
+    "materialList": [
+      {
+        "attachList": [
+          {
+            "cjsj": 1759050796000
+          }
+        ],
+        "bzclId": "M43PCP00150002",
+        "cjsj": 1759050796000,
+        "clbyx": "2",
+        "clbz": "企业（单位）吸纳就业情形才需要提交《劳动合同》。",
+        "cljm": "0",
+        "cllx": "3",
+        "cllyqd": "10",
+        "cllyqdsm": "申请人自备",
+        "clmc": "劳动合同",
+        "clxs": "3",
+        "clxz": "9",
+        "gxsj": 1778815857000,
+        "mtjfs": "4",
+        "pxh": 2.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "保证材料的真实，有效，完整",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "199A90FB98DF488A96FB419A3C424A9E",
+        "yjsSsqdId": "3DC61EB342BD4523A97B88639DB69666",
+        "yqtgyj": "关于印发《湖南省就业失业求职登记实施细则》的通知（湘人社发〔2019〕35号）",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1759050731000
+          }
+        ],
+        "bzclId": "M43PCP00150001",
+        "cjsj": 1759050731000,
+        "clbyx": "1",
+        "clbz": "社区公共就业服务平台应在5个工作日内完成受理申请、调查、核实工作，符合条件的在系统进行就业登记，不符合条件的反馈服务对象。",
+        "cljm": "0",
+        "cllx": "3",
+        "cllyqd": "20",
+        "cllyqdsm": "政府部门核发",
+        "clmc": "中华人民共和国居民身份证",
+        "clxs": "3",
+        "clxz": "2",
+        "gxsj": 1778815857000,
+        "materialCode": "L2000016",
+        "materialTitle": "中华人民共和国居民身份证",
+        "mtjfs": "2",
+        "mtjfssm": "通过绑定的电子证照材料，提供证照材料自动关联实现免提交",
+        "pxh": 1.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "保证材料的真实，有效，完整",
+        "tgfs": "2",
+        "type": "1",
+        "yjsMlSsqdClId": "E55B89F996504DC3B5EB9E57AF1AED1F",
+        "yjsSsqdId": "3DC61EB342BD4523A97B88639DB69666",
+        "yqtgyj": "关于印发《湖南省就业失业求职登记实施细则》的通知（湘人社发〔2019〕35号）",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      }
+    ],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "系统对申请人是否符合申请条件进行前置校验，前置校验通过后本人在线上一次性提交有关申请材料，联办系统按事项办理的逻辑顺序将材料分别推送到各部门相关业务平台。",
+      "blxs": "1",
+      "bszt": "1",
+      "cjrId": "7Op7IPYYQLeUibsPAXxO72Q",
+      "cjsj": 1759046045000,
+      "cnbjsx": "10",
+      "dbsxccs": "0",
+      "dbsxcyyhhj": "支持线下办理，线上办理无需跑动",
+      "dndtzdz": "https://zwfw-new.hunan.gov.cn/hnywtb/onething/html/userNeedKnow.html?onethingCode=43PCP0015",
+      "gqbjlx": 2.0,
+      "gqblsx": 20.0,
+      "gqpdcs": 8.0,
+      "gqsbcl": 4.0,
+      "gxrId": "7Op7IPYYQLeUibsPAXxO72Q",
+      "gxsj": 1759050811000,
+      "hjsgq": 24.0,
+      "hjsxz": 3.0,
+      "jdtsdh": "0731-84900135",
+      "jdtsdz": "省市县区政务大厅",
+      "jgsdsm": "无",
+      "jsms": "1",
+      "lbjgId": "14",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "1",
+      "xsblqd": "1,2",
+      "xxbldsm": "省市县区政务大厅",
+      "xxcktzdz": "https://zwfw-new.hunan.gov.cn/hnywtb/onething/html/userNeedKnow.html?onethingCode=43PCP0015",
+      "xzbjlx": 2.0,
+      "xzblsx": 10.0,
+      "xzpdcs": 0.0,
+      "xzsbcl": 2.0,
+      "yddtzdz": "https://zwfw-new.hunan.gov.cn/hnywtb/onething/html/userNeedKnow.html?onethingCode=43PCP0015",
+      "yjsMlBzhId": "167079A416F54ACBBB2C38C9F844640E",
+      "yjsbsznId": "DFD9DB3037FE4650A8B8083FC05BC9C0",
+      "ywzjfw": "0",
+      "zcblqd": "1,2,4,3",
+      "zcblqdWbdz": "https://zwfw-new.hunan.gov.cn/hnywtb/onething/html/userNeedKnow.html?onethingCode=43PCP0015",
+      "zxdh": "0731-84900135",
+      "zxdz": "省市县区政务大厅",
+      "zzzdtzdz": "https://zwfw-new.hunan.gov.cn/hnywtb/onething/html/userNeedKnow.html?onethingCode=43PCP0015"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "失业登记",
+        "resultSampleName": "无",
+        "tyywblxName": "失业登记"
+      },
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "失业保险待遇申请和受理",
+        "resultSampleName": "无",
+        "tyywblxName": "失业保险金申领"
+      },
+      {
+        "cnsxsx": 15.0,
+        "lbsxfwmc": "就业服务",
+        "resultSampleName": "",
+        "tyywblxName": "就业服务"
+      },
+      {
+        "cnsxsx": 15.0,
+        "lbsxfwmc": "就业创业扶持政策申请和受理",
+        "resultSampleName": "",
+        "tyywblxName": "就业创业扶持政策申请和受理"
+      },
+      {
+        "cnsxsx": 15.0,
+        "lbsxfwmc": "技能培训意愿登记和培训信息推送",
+        "resultSampleName": "",
+        "tyywblxName": "技能培训意愿登记和培训信息推送"
+      },
+      {
+        "cnsxsx": 15.0,
+        "lbsxfwmc": "就业援助",
+        "resultSampleName": "",
+        "tyywblxName": "就业援助"
+      },
+      {
+        "cnsxsx": 15.0,
+        "lbsxfwmc": "失业登记注销",
+        "resultSampleName": "",
+        "tyywblxName": "失业登记注销"
+      },
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "就业登记",
+        "resultSampleName": "无",
+        "tyywblxName": "就业登记"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "失业登记办理条件",
+        "cjsj": 1759049207000,
+        "processingConditions": "失业登记办理条件",
+        "pxh": 1.0,
+        "smmc": "符合下列条件之一的可办理：（一）年满16周岁，从各类学校毕业、肄业的；（二）从企业、机关、事业单位等各类用人单位失业的；（三）个体工商户业主或私营企业业主停业、破产停止经营的；（四）承包土地被征用，符合当地规定条件的；（五）军人退出现役且未纳入国家统一安置的；（六）刑满释放、假释、监外执行的；（七）其他符合失业登记条件的人员。",
+        "yjsBsznbltjId": "DF7AE42EA9D949E9928A04BEA0440DE7",
+        "yjsbsznId": "DFD9DB3037FE4650A8B8083FC05BC9C0",
+        "zt": "0"
+      },
+      {
+        "bltj": "失业保险待遇申请和受理办理条件",
+        "cjsj": 1761879637000,
+        "processingConditions": "失业保险待遇申请和受理办理条件",
+        "pxh": 2.0,
+        "smmc": "申请人需同时符合下列条件：（一）失业前用人单位和本人已经缴纳失业保险费满一年的；（二）非因本人意愿中断就业的；（三）已经进行失业登记，并有求职要求的。",
+        "yjsBsznbltjId": "FBD1193C978046219AD243497103CF2E",
+        "yjsbsznId": "DFD9DB3037FE4650A8B8083FC05BC9C0",
+        "zt": "0"
+      },
+      {
+        "bltj": "失业登记注销办理条件",
+        "cjsj": 1761879650000,
+        "processingConditions": "失业登记注销办理条件",
+        "pxh": 3.0,
+        "smmc": "符合下列条件之一的可办理：（一）被用人单位录用的；（二）从事个体经营或创办企业，并领取工商营业执照的；（三）已从事有稳定收入的劳动，并且月收入不低于当地最低工资标准的；（四）已达到法定退休年龄或享受基本养老保险待遇的；（五）完全丧失劳动能力的；（六）入学、服兵役、移居境外的；（七）被判刑收监执行的；（八）终止就业意愿或拒绝接受公共就业服务的；（九）连续6个月未与公共就业服务机构联系的；（十）已进行就业登记的其他人员或各地规定的其他情形。",
+        "yjsBsznbltjId": "5CC9C823CAA34204A756193AC25AEFA9",
+        "yjsbsznId": "DFD9DB3037FE4650A8B8083FC05BC9C0",
+        "zt": "0"
+      },
+      {
+        "bltj": "就业登记办理条件",
+        "cjsj": 1761879664000,
+        "processingConditions": "就业登记办理条件",
+        "pxh": 4.0,
+        "smmc": "符合下列条件之一的可办理：（一）单位就业人员；（二）灵活就业人员；（三）自主创业人员。",
+        "yjsBsznbltjId": "F3D65F1032274C7E89A3FA92E1991BC0",
+        "yjsbsznId": "DFD9DB3037FE4650A8B8083FC05BC9C0",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [
+      {
+        "answer": "申请人需同时符合下列条件：（一）失业前用人单位和本人已经缴纳失业保险费满一年的；（二）非因本人意愿中断就业的；（三）已经进行失业登记，并有求职要求的。",
+        "da": "申请人需同时符合下列条件：（一）失业前用人单位和本人已经缴纳失业保险费满一年的；（二）非因本人意愿中断就业的；（三）已经进行失业登记，并有求职要求的。",
+        "problem": "怎样才能办理失业保险待遇申请？",
+        "pxh": 0.0,
+        "wt": "怎样才能办理失业保险待遇申请？",
+        "yjsMlSsqdQuestionId": "7BE3190D14754CA48E8AD6E02E6FF6F9",
+        "yjsSsqdId": "3DC61EB342BD4523A97B88639DB69666"
+      },
+      {
+        "answer": "符合下列条件之一的可办理：（一）年满16周岁，从各类学校毕业、肄业的；（二）从企业、机关、事业单位等各类用人单位失业的；（三）个体工商户业主或私营企业业主停业、破产停止经营的；（四）承包土地被征用，符合当地规定条件的；（五）军人退出现役且未纳入国家统一安置的；（六）刑满释放、假释、监外执行的；（七）其他符合失业登记条件的人员。",
+        "da": "符合下列条件之一的可办理：（一）年满16周岁，从各类学校毕业、肄业的；（二）从企业、机关、事业单位等各类用人单位失业的；（三）个体工商户业主或私营企业业主停业、破产停止经营的；（四）承包土地被征用，符合当地规定条件的；（五）军人退出现役且未纳入国家统一安置的；（六）刑满释放、假释、监外执行的；（七）其他符合失业登记条件的人员。",
+        "problem": "办理失业登记需要什么条件？",
+        "pxh": 1.0,
+        "wt": "办理失业登记需要什么条件？",
+        "yjsMlSsqdQuestionId": "6691B3578B3B4863A21121C7B8FDE46C",
+        "yjsSsqdId": "3DC61EB342BD4523A97B88639DB69666"
+      },
+      {
+        "answer": "符合下列条件之一的可办理：（一）被用人单位录用的；（二）从事个体经营或创办企业，并领取工商营业执照的；（三）已从事有稳定收入的劳动，并且月收入不低于当地最低工资标准的；（四）已达到法定退休年龄或享受基本养老保险待遇的；（五）完全丧失劳动能力的；（六）入学、服兵役、移居境外的；（七）被判刑收监执行的；（八）终止就业意愿或拒绝接受公共就业服务的；（九）连续6个月未与公共就业服务机构联系的；（十）已进行就业登记的其他人员或各地规定的其他情形。",
+        "da": "符合下列条件之一的可办理：（一）被用人单位录用的；（二）从事个体经营或创办企业，并领取工商营业执照的；（三）已从事有稳定收入的劳动，并且月收入不低于当地最低工资标准的；（四）已达到法定退休年龄或享受基本养老保险待遇的；（五）完全丧失劳动能力的；（六）入学、服兵役、移居境外的；（七）被判刑收监执行的；（八）终止就业意愿或拒绝接受公共就业服务的；（九）连续6个月未与公共就业服务机构联系的；（十）已进行就业登记的其他人员或各地规定的其他情形。",
+        "problem": "办理失业登记注销需要什么条件？",
+        "pxh": 2.0,
+        "wt": "办理失业登记注销需要什么条件？",
+        "yjsMlSsqdQuestionId": "D195432970BC417CA3B3BFEF242DD3EF",
+        "yjsSsqdId": "3DC61EB342BD4523A97B88639DB69666"
+      },
+      {
+        "answer": "符合下列条件之一的可办理：（一）单位就业人员；（二）灵活就业人员；（三）自主创业人员。",
+        "da": "符合下列条件之一的可办理：（一）单位就业人员；（二）灵活就业人员；（三）自主创业人员。",
+        "problem": "办理就业登记的条件是什么？",
+        "pxh": 3.0,
+        "wt": "办理就业登记的条件是什么？",
+        "yjsMlSsqdQuestionId": "6CC47385CC344097B096DD21564DE8AF",
+        "yjsSsqdId": "3DC61EB342BD4523A97B88639DB69666"
+      }
+    ],
+    "sxmc": "登记失业人员就业帮扶“一件事”",
+    "yjsSsqdbm": "43PCP0015125J1181",
+    "basicInfo": {
+      "aheadFrequency": "0",
+      "areaName": "祁阳市",
+      "completedLimit": "10",
+      "cooperateName": "人社部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0746-3222683",
+      "lbjgId": "14",
+      "qtbmId": "3400456b607041feb4c3b712e28b0127",
+      "qtbmmc": "祁阳市人力资源和社会保障局",
+      "reasonLink": "支持线下办理，线上办理无需跑动",
+      "yjsssqdbsznid": "614F563CDDA94BD1935FC7CE2390993B",
+      "zxdh": "0746-3218613"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

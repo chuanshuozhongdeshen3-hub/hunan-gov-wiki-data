@@ -1,0 +1,863 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1732265959000,
+        "fjId": "kv88frQNRD6rqgTJRZHuDQ",
+        "fjbm": "100001",
+        "fjdx": 0.069,
+        "fjlj": "orchestrate/2024-11-22/1732265959420$$迁移登记“一件事”业务办理流程图.jpg",
+        "fjlx": ".jpg",
+        "fjmc": "迁移登记“一件事”业务办理流程图.jpg",
+        "s3tmc": "zwfw202411",
+        "sfyx": "Y",
+        "ywdxId": "C208BF2F61BC4A4693FF6929BC96A8AE"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "衡阳市政务服务中心",
+        "blsj": "法定工作日,上午9:00-12:00,下午,13:30-17:00",
+        "cjsj": 1733725472019,
+        "gxsj": 1733725472000,
+        "infoAddr": "湖南省衡阳市高新区西二环路政务服务中心D区二楼市场监督管理局窗口",
+        "pointName": "衡阳市政务服务中心",
+        "processingTime": "法定工作日,上午9:00-12:00,下午,13:30-17:00",
+        "pxh": 1,
+        "xxdz": "湖南省衡阳市高新区西二环路政务服务中心D区二楼市场监督管理局窗口",
+        "yjsBldId": "F62993AECA984C0286B9DD208A561CEE",
+        "ywzjId": "963870F44108447AB33D7E34C52440F2",
+        "zt": "0"
+      }
+    ],
+    "materialList": [
+      {
+        "attachList": [
+          {
+            "cjsj": 1732268072000,
+            "fjId": "RBsohJgtTtO9HEpHr2GaGQ",
+            "fjbm": "100002",
+            "fjdx": 0.403,
+            "fjlj": "orchestrate/2024-11-22/1732268055206$$湖南省企业迁移登记（一件事）申请书.docx",
+            "fjlx": ".docx",
+            "fjmc": "湖南省企业迁移登记（一件事）申请书.docx",
+            "s3tmc": "zwfw202411",
+            "sfyx": "Y",
+            "ywdxId": "C0195CB4ACDC4B9A86F464869194BE65"
+          },
+          {
+            "cjsj": 1732268072000,
+            "fjId": "YDDigkGGRjmoH3SBQCGvoQ",
+            "fjbm": "100003",
+            "fjdx": 0.403,
+            "fjlj": "orchestrate/2024-11-22/1732268064627$$湖南省企业迁移登记（一件事）申请书.docx",
+            "fjlx": ".docx",
+            "fjmc": "湖南省企业迁移登记（一件事）申请书.docx",
+            "s3tmc": "zwfw202411",
+            "sfyx": "Y",
+            "ywdxId": "C0195CB4ACDC4B9A86F464869194BE65"
+          }
+        ],
+        "bzclId": "M43TCP00060001",
+        "cjsj": 1732268072000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "企业迁移登记（一件事）申请书",
+        "clxs": "3",
+        "clxz": "1",
+        "gxsj": 1783627234000,
+        "mtjfs": "4",
+        "pxh": 1.0,
+        "sfxtmb": "1",
+        "sfykb": "1",
+        "sfyslb": "1",
+        "tbxz": "内容真实，符合企业变更相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "80B2FBA3A6C64AE993619A21A1C7541E",
+        "yjsSsqdId": "1BD96FC96F244F73A2435CD251A028F8",
+        "yqtgyj": "企业迁移相关规定",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1732268072000
+          }
+        ],
+        "bzclId": "M43TCP00060019",
+        "cjsj": 1732268072000,
+        "clbyx": "2",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "20",
+        "clmc": "营业执照正、副本",
+        "clxs": "1",
+        "clxz": "3",
+        "gxsj": 1783627234000,
+        "mtjfs": "4",
+        "pxh": 19.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "已领取纸质营业执照的提供",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "D53AC041F9F7400894A48EA82A4F9A95",
+        "yjsSsqdId": "1BD96FC96F244F73A2435CD251A028F8",
+        "yqtgyj": "企业迁移相关规定",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1732268072000
+          }
+        ],
+        "bzclId": "M43TCP00060009",
+        "cjsj": 1732268072000,
+        "clbyx": "2",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "20",
+        "clmc": "公安部门出具的自然人更改姓名证明",
+        "clxs": "1",
+        "clxz": "3",
+        "gxsj": 1783627234000,
+        "mtjfs": "4",
+        "pxh": 9.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "法定代表人更改姓名的，其身份证号码与更改姓名前不一致时提供",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "D648146FF43C4C60BD0979F83A55CE5F",
+        "yjsSsqdId": "1BD96FC96F244F73A2435CD251A028F8",
+        "yqtgyj": "企业迁移相关规定",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1732268072000
+          }
+        ],
+        "bzclId": "M43TCP00060002",
+        "cjsj": 1732268072000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "修改企业章程的决议、决定（全体合伙人签署的变更决定书）",
+        "clxs": "3",
+        "clxz": "3",
+        "gxsj": 1783627234000,
+        "mtjfs": "4",
+        "pxh": 2.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合企业变更相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "44163F3763D64D5580947379C2836AF2",
+        "yjsSsqdId": "1BD96FC96F244F73A2435CD251A028F8",
+        "yqtgyj": "企业迁移相关规定",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1732268072000
+          }
+        ],
+        "bzclId": "M43TCP00060004",
+        "cjsj": 1732268072000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "迁出地住房公积金个人账户封存补充信息",
+        "clxs": "3",
+        "clxz": "9",
+        "gxsj": 1783627234000,
+        "mtjfs": "4",
+        "pxh": 4.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合企业变更相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "7347573A561B43978CAD8727BF286A4A",
+        "yjsSsqdId": "1BD96FC96F244F73A2435CD251A028F8",
+        "yqtgyj": "企业迁移相关规定",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1732268072000
+          }
+        ],
+        "bzclId": "M43TCP00060015",
+        "cjsj": 1732268072000,
+        "clbyx": "2",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "2",
+        "cllyqd": "20",
+        "clmc": "出资人（主管部门）名称变更证明及更名后新的主体资格文件",
+        "clxs": "1",
+        "clxz": "3",
+        "gxsj": 1783627234000,
+        "mtjfs": "4",
+        "pxh": 15.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "非公司企业法人出资人（主管部门）名称变时提交",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "411EE9BB278B401EAC19F518BB9DA9E9",
+        "yjsSsqdId": "1BD96FC96F244F73A2435CD251A028F8",
+        "yqtgyj": "企业迁移相关规定",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1732268072000
+          }
+        ],
+        "bzclId": "M43TCP00060016",
+        "cjsj": 1732268072000,
+        "clbyx": "2",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "2",
+        "cllyqd": "20",
+        "clmc": "执行事务合伙人主体资格证明",
+        "clxs": "1",
+        "clxz": "3",
+        "gxsj": 1783627234000,
+        "mtjfs": "4",
+        "pxh": 16.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "合伙企业变更执行事务合伙人时提交",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "A062CB98CE74415C80E6A46889BBFF06",
+        "yjsSsqdId": "1BD96FC96F244F73A2435CD251A028F8",
+        "yqtgyj": "企业迁移相关规定",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1732268072000
+          }
+        ],
+        "bzclId": "M43TCP00060005",
+        "cjsj": 1732268072000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "迁入地住房公积金单位登记开户补充信息",
+        "clxs": "3",
+        "clxz": "9",
+        "gxsj": 1783627234000,
+        "mtjfs": "4",
+        "pxh": 5.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合企业变更相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "33FAFB5BAE314AF6946B7C3E21F56495",
+        "yjsSsqdId": "1BD96FC96F244F73A2435CD251A028F8",
+        "yqtgyj": "企业迁移相关规定",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1732268072000
+          }
+        ],
+        "bzclId": "M43TCP00060014",
+        "cjsj": 1732268072000,
+        "clbyx": "2",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "3",
+        "cllyqd": "20",
+        "clmc": "变更出资人批准文件（转让协议）及变动后出资人主体资格证明",
+        "clxs": "1",
+        "clxz": "3",
+        "gxsj": 1783627234000,
+        "mtjfs": "4",
+        "pxh": 14.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "非公司企业法人变更出资人（主管部门）时提交",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "A9E0AF4A972542D5A3EB156684D547FE",
+        "yjsSsqdId": "1BD96FC96F244F73A2435CD251A028F8",
+        "yqtgyj": "企业迁移相关规定",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1732268072000
+          }
+        ],
+        "bzclId": "M43TCP00060013",
+        "cjsj": 1732268072000,
+        "clbyx": "2",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "2",
+        "cllyqd": "20",
+        "clmc": "主体资格证明文件",
+        "clxs": "3",
+        "clxz": "3",
+        "gxsj": 1783627234000,
+        "mtjfs": "4",
+        "pxh": 13.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "股东或发起人变更名称或姓名时提供",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "C81F5641D5B34E4BA0BC7E7D83E9B220",
+        "yjsSsqdId": "1BD96FC96F244F73A2435CD251A028F8",
+        "yqtgyj": "企业迁移相关规定",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1732268072000
+          }
+        ],
+        "bzclId": "M43TCP00060007",
+        "cjsj": 1732268072000,
+        "clbyx": "2",
+        "clbz": "内容真实，符合企业变更相关规定",
+        "cljm": "0",
+        "cllx": "3",
+        "cllyqd": "10",
+        "clmc": "住所（主要经营场所）使用证明文件",
+        "clxs": "3",
+        "clxz": "9",
+        "gxsj": 1783627234000,
+        "mtjfs": "4",
+        "pxh": 7.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合企业变更相关规定,变更住所（主要经营场所）时提供",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "4910E8BD044B434BAF0153E4584824B4",
+        "yjsSsqdId": "1BD96FC96F244F73A2435CD251A028F8",
+        "yqtgyj": "企业迁移相关规定",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1732268072000
+          }
+        ],
+        "bzclId": "M43TCP00060006",
+        "cjsj": 1732268072000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "迁入地企业社会保险登记补充信息",
+        "clxs": "3",
+        "clxz": "9",
+        "gxsj": 1783627234000,
+        "mtjfs": "4",
+        "pxh": 6.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合企业变更相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "03EE07D277534FADA7E64CE8FD2E8F45",
+        "yjsSsqdId": "1BD96FC96F244F73A2435CD251A028F8",
+        "yqtgyj": "企业迁移相关规定",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1732268072000
+          }
+        ],
+        "bzclId": "M43TCP00060008",
+        "cjsj": 1732268072000,
+        "clbyx": "2",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "法定代表人免职和新任法定代表人任职证明",
+        "clxs": "3",
+        "clxz": "9",
+        "gxsj": 1783627234000,
+        "mtjfs": "4",
+        "pxh": 8.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "变更法定代表人时提供",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "67209CF8B90B4DEDAD5CD7F76B67DEE3",
+        "yjsSsqdId": "1BD96FC96F244F73A2435CD251A028F8",
+        "yqtgyj": "企业迁移相关规定",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1732268072000
+          }
+        ],
+        "bzclId": "M43TCP00060018",
+        "cjsj": 1732268072000,
+        "clbyx": "2",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "2",
+        "cllyqd": "20",
+        "clmc": "有关批准文件或者许可证件",
+        "clxs": "1",
+        "clxz": "3",
+        "gxsj": 1783627234000,
+        "mtjfs": "4",
+        "pxh": 18.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "法律、行政法规和国务院决定规定公司变更事项必须报经批准的提供",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "F02F62D49973453B94AE2AA24D377C06",
+        "yjsSsqdId": "1BD96FC96F244F73A2435CD251A028F8",
+        "yqtgyj": "企业迁移相关规定",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1732268072000
+          }
+        ],
+        "bzclId": "M43TCP00060003",
+        "cjsj": 1732268072000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "修改后的企业章程或章程修正案、修改后或补充的合伙协议",
+        "clxs": "3",
+        "clxz": "3",
+        "gxsj": 1783627234000,
+        "mtjfs": "4",
+        "pxh": 3.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合企业变更相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "2B5EC8F150EB48D7AF47B4608A539764",
+        "yjsSsqdId": "1BD96FC96F244F73A2435CD251A028F8",
+        "yqtgyj": "企业迁移相关规定",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1732268072000
+          }
+        ],
+        "bzclId": "M43TCP00060011",
+        "cjsj": 1732268072000,
+        "clbyx": "2",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "2",
+        "cllyqd": "20",
+        "clmc": "前置许可经营项目批准文件或许可证",
+        "clxs": "1",
+        "clxz": "3",
+        "gxsj": 1783627234000,
+        "mtjfs": "4",
+        "pxh": 11.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "变更经营范围的，申请登记的经营范围中有法律、行政法规和国务院决定规定必须在登记前报经批准的项目",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "DB5B9413A0D74D02AAF2169592307226",
+        "yjsSsqdId": "1BD96FC96F244F73A2435CD251A028F8",
+        "yqtgyj": "企业迁移相关规定",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1732268072000
+          }
+        ],
+        "bzclId": "M43TCP00060010",
+        "cjsj": 1732268072000,
+        "clbyx": "2",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "99",
+        "cllyqdsm": "减少注册资本时仅通过报纸发布时提供",
+        "clmc": "减资公告（报纸样张）",
+        "clxs": "1",
+        "clxz": "3",
+        "gxsj": 1783627234000,
+        "mtjfs": "4",
+        "pxh": 10.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "减少注册资本时仅通过报纸发布时提供",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "C09A3E350F514B6AB26772334C1143F5",
+        "yjsSsqdId": "1BD96FC96F244F73A2435CD251A028F8",
+        "yqtgyj": "企业迁移相关规定",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1732268072000
+          }
+        ],
+        "bzclId": "M43TCP00060012",
+        "cjsj": 1732268072000,
+        "clbyx": "2",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "股权转让协议或股权交割证明",
+        "clxs": "3",
+        "clxz": "3",
+        "gxsj": 1783627234000,
+        "mtjfs": "4",
+        "pxh": 12.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "股东向其他股东或股东以外的人转让股权时提供",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "253EB7C4552D4723862F2D4C4FA89752",
+        "yjsSsqdId": "1BD96FC96F244F73A2435CD251A028F8",
+        "yqtgyj": "企业迁移相关规定",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1732268072000
+          }
+        ],
+        "bzclId": "M43TCP00060017",
+        "cjsj": 1732268072000,
+        "clbyx": "2",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "3",
+        "cllyqd": "10",
+        "clmc": "转让协议及变更后投资人身份证",
+        "clxs": "1",
+        "clxz": "3",
+        "gxsj": 1783627234000,
+        "mtjfs": "4",
+        "pxh": 17.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "个人独资企业变更出资人时提交",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "FD5979BC08D94B7AB522B87276126F11",
+        "yjsSsqdId": "1BD96FC96F244F73A2435CD251A028F8",
+        "yqtgyj": "企业迁移相关规定",
+        "zt": "0",
+        "zzclfs": 1.0
+      }
+    ],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "无",
+      "blxs": "3",
+      "bszt": "0",
+      "cjrId": "LxQia9cocRicia76WUqplFmQA",
+      "cjsj": 1728889747000,
+      "cnbjsx": "9",
+      "dbsxccs": "0",
+      "dbsxcyyhhj": "无",
+      "dndtzdz": "待定",
+      "gqbjlx": 2.0,
+      "gqblsx": 39.0,
+      "gqpdcs": 8.0,
+      "gqsbcl": 23.0,
+      "gxrId": "LxQia9cocRicia76WUqplFmQA",
+      "gxsj": 1728889745000,
+      "hjsgq": 8.0,
+      "hjsxz": 1.0,
+      "jgsdsm": "领取结果物",
+      "jsms": "2",
+      "lbjgId": "14,31,30,17",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "D",
+      "xsblqd": "1",
+      "xxbldsm": "对应层级市场监督部门",
+      "xxcktzdz": "对应实施层级的办理地址（由各地综窗填写）",
+      "xzbjlx": 2.0,
+      "xzblsx": 9.0,
+      "xzpdcs": 1.0,
+      "xzsbcl": 5.0,
+      "yjsMlBzhId": "E743E5C85DD2438D8AB8709475ED5634",
+      "yjsbsznId": "C208BF2F61BC4A4693FF6929BC96A8AE",
+      "ywzjfw": "0",
+      "zcblqd": "1,4",
+      "zcblqdWbdz": "政务服务网"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业迁入申请",
+        "resultSampleName": "",
+        "tyywblxName": "企业迁入申请"
+      },
+      {
+        "cnsxsx": 6.0,
+        "lbsxfwmc": "企业变更登记",
+        "resultSampleName": "",
+        "tyywblxName": "企业变更登记"
+      },
+      {
+        "cnsxsx": 6.0,
+        "lbsxfwmc": "迁出地住房公积金个人账户封存",
+        "resultSampleName": "",
+        "tyywblxName": "迁出地住房公积金个人账户封存"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业迁出调档",
+        "resultSampleName": "",
+        "tyywblxName": "企业迁出调档"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "企业税务迁出申请",
+        "resultSampleName": "",
+        "tyywblxName": "企业税务迁出申请"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "迁入地住房公积金单位登记开户",
+        "resultSampleName": "",
+        "tyywblxName": "迁入地住房公积金单位登记开户"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "迁入地企业社会保险登记",
+        "resultSampleName": "",
+        "tyywblxName": "迁入地企业社会保险登记"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "迁出地社会保险单位基本信息变更",
+        "resultSampleName": "",
+        "tyywblxName": "迁出地社会保险单位基本信息变更"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "企业迁入申请",
+        "cjsj": 1732266545000,
+        "processingConditions": "企业迁入申请",
+        "pxh": 1.0,
+        "smmc": "企业变更住所或者主要经营场所跨登记机关辖区的",
+        "yjsBsznbltjId": "98BE1BC57EC345E78A8119FB5A06365F",
+        "yjsbsznId": "C208BF2F61BC4A4693FF6929BC96A8AE",
+        "zt": "0"
+      },
+      {
+        "bltj": "企业迁出调档",
+        "cjsj": 1732266567000,
+        "processingConditions": "企业迁出调档",
+        "pxh": 2.0,
+        "smmc": "企业变更住所或者主要经营场所跨登记机关辖区的，迁出地登记机关将登记档案移交迁入地登记机关管理",
+        "yjsBsznbltjId": "1400CB624B3A40718B90304D1C12EDD4",
+        "yjsbsznId": "C208BF2F61BC4A4693FF6929BC96A8AE",
+        "zt": "0"
+      },
+      {
+        "bltj": "企业变更登记",
+        "cjsj": 1732266594000,
+        "processingConditions": "企业变更登记",
+        "pxh": 3.0,
+        "smmc": "企业变更住所或者主要经营场所跨登记机关辖区的",
+        "yjsBsznbltjId": "70F308D05A674F039F6B782ACF12DCAF",
+        "yjsbsznId": "C208BF2F61BC4A4693FF6929BC96A8AE",
+        "zt": "0"
+      },
+      {
+        "bltj": "企业税务迁出申请",
+        "cjsj": 1732266620000,
+        "processingConditions": "企业税务迁出申请",
+        "pxh": 4.0,
+        "smmc": "纳税人状态为正常，已在市监部门办理住所变更登记，未处于税务检查状态，已结清税（费）款、滞纳金及罚款，已缴销发票和税控设备，不存在其他未办结涉税事项",
+        "yjsBsznbltjId": "4DC6DD394B0940B2A3EB838C1805BAA5",
+        "yjsbsznId": "C208BF2F61BC4A4693FF6929BC96A8AE",
+        "zt": "0"
+      },
+      {
+        "bltj": "迁出地住房公积金个人账户封存",
+        "cjsj": 1732266640000,
+        "processingConditions": "迁出地住房公积金个人账户封存",
+        "pxh": 5.0,
+        "smmc": "已办理住房公积金缴存登记的企业，变更住所或者主要经营场所跨登记机关辖区，且缴至年月与迁出年月一致的。或职工已离职、退休等符合个人账户封存的其他条件的",
+        "yjsBsznbltjId": "B52A1179C8FB4B8F8B5DF2A34E3EBCF8",
+        "yjsbsznId": "C208BF2F61BC4A4693FF6929BC96A8AE",
+        "zt": "0"
+      },
+      {
+        "bltj": "迁入地住房公积金单位登记开户",
+        "cjsj": 1732266659000,
+        "processingConditions": "迁入地住房公积金单位登记开户",
+        "pxh": 6.0,
+        "smmc": "企业因变更住所或者主要经营场所跨登记机关辖区，在迁入地需要办理住房公积金缴存登记的",
+        "yjsBsznbltjId": "1CB16C5B40C749D282734914DA69A9C4",
+        "yjsbsznId": "C208BF2F61BC4A4693FF6929BC96A8AE",
+        "zt": "0"
+      },
+      {
+        "bltj": "迁出地社会保险单位基本信息变更",
+        "cjsj": 1732266679000,
+        "processingConditions": "迁出地社会保险单位基本信息变更",
+        "pxh": 7.0,
+        "smmc": "已参加企业职工基本养老保险、失业保险、工伤保险的企业，变更住所或者主要经营场所跨登记机关辖区的。无社会保险在途业务；原社会保险经办机构无预缴款；办理当月缴费到账。（已停保或退休人员无法转出）",
+        "yjsBsznbltjId": "AB6BE87ADFB74ECBADD8E24D606FB3BB",
+        "yjsbsznId": "C208BF2F61BC4A4693FF6929BC96A8AE",
+        "zt": "0"
+      },
+      {
+        "bltj": "迁入地企业社会保险登记",
+        "cjsj": 1732266701000,
+        "processingConditions": "迁入地企业社会保险登记",
+        "pxh": 8.0,
+        "smmc": "企业因变更住所或者主要经营场所跨登记机关辖区，且在迁出地不欠缴社会保险费，参保职工在迁出地社保经办机构已办理停保，在迁入地需要办理企业社会保险登记的",
+        "yjsBsznbltjId": "B33355BD42E448A2BCB9F0D915F6393E",
+        "yjsbsznId": "C208BF2F61BC4A4693FF6929BC96A8AE",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [
+      {
+        "answer": "企业迁入申请、企业迁出调档、企业变更登记、企业税务迁出申请、迁出地住房公积金个人账户封存、迁入地住房公积金单位登记开户、迁出地社会保险单位基本信息变更、迁入地企业社会保险登记",
+        "da": "企业迁入申请、企业迁出调档、企业变更登记、企业税务迁出申请、迁出地住房公积金个人账户封存、迁入地住房公积金单位登记开户、迁出地社会保险单位基本信息变更、迁入地企业社会保险登记",
+        "problem": "企业迁移一件事可联办哪些事项？",
+        "pxh": 0.0,
+        "wt": "企业迁移一件事可联办哪些事项？",
+        "yjsMlSsqdQuestionId": "8D9D3354B28540F8A359004DCE0D6615",
+        "yjsSsqdId": "1BD96FC96F244F73A2435CD251A028F8"
+      },
+      {
+        "answer": "仅需要通过企业迁移“一件事”发起一次申请，后台业务流转完成相关流程，不再需要申请人多头申请。",
+        "da": "仅需要通过企业迁移“一件事”发起一次申请，后台业务流转完成相关流程，不再需要申请人多头申请。",
+        "problem": "通过企业迁移“一件事”申请迁移的，是否还需要申请准迁、迁出等流程？",
+        "pxh": 1.0,
+        "wt": "通过企业迁移“一件事”申请迁移的，是否还需要申请准迁、迁出等流程？",
+        "yjsMlSsqdQuestionId": "2342492EDA45473C8F95040439C2100D",
+        "yjsSsqdId": "1BD96FC96F244F73A2435CD251A028F8"
+      }
+    ],
+    "sxmc": "企业迁移登记“一件事”",
+    "yjsSsqdbm": "43TCP0006D24J0400",
+    "basicInfo": {
+      "aheadFrequency": "0",
+      "areaName": "衡阳市",
+      "completedLimit": "9",
+      "cooperateName": "人社部门,住建部门,税务部门,市监部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0734-8813116",
+      "lbjgId": "14,31,30,17",
+      "qtbmId": "ibqibVJuGOTEeaWZ5WkTibcGg",
+      "qtbmmc": "衡阳市市场监督管理局",
+      "reasonLink": "无",
+      "yjsssqdbsznid": "963870F44108447AB33D7E34C52440F2",
+      "zxdh": "0734-8813115"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

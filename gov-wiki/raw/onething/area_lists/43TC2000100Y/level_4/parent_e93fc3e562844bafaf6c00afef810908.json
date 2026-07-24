@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430528209999",
+      "benji": "1",
+      "orgId": "e93fc3e562844bafaf6c00afef813045",
+      "orgLevel": "4",
+      "orgName": "新宁县靖位乡本级",
+      "orgShowName": "新宁县靖位乡本级",
+      "orgSn": "1",
+      "parentCode": "430528209000",
+      "parentId": "e93fc3e562844bafaf6c00afef810908",
+      "parentName": "新宁县靖位乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430528209201",
+      "benji": "0",
+      "orgId": "Gutj73hCQJeI3PMN89ITQw",
+      "orgLevel": "5",
+      "orgName": "新宁县靖位乡源水村委会",
+      "orgShowName": "源水村",
+      "orgSn": "999",
+      "parentCode": "430528209000",
+      "parentId": "e93fc3e562844bafaf6c00afef810908",
+      "parentName": "新宁县靖位乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430528209202",
+      "benji": "0",
+      "orgId": "6orOJbPBQ7OicSc189U1ybw",
+      "orgLevel": "5",
+      "orgName": "新宁县靖位乡笑岩村委会",
+      "orgShowName": "笑岩村",
+      "orgSn": "999",
+      "parentCode": "430528209000",
+      "parentId": "e93fc3e562844bafaf6c00afef810908",
+      "parentName": "新宁县靖位乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430528209204",
+      "benji": "0",
+      "orgId": "zVawu74ERiaWia4zV8uPV8Hw",
+      "orgLevel": "5",
+      "orgName": "新宁县靖位乡靖位村委会",
+      "orgShowName": "靖位村",
+      "orgSn": "999",
+      "parentCode": "430528209000",
+      "parentId": "e93fc3e562844bafaf6c00afef810908",
+      "parentName": "新宁县靖位乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430528209205",
+      "benji": "0",
+      "orgId": "QHrzNZ5LQ9iaFjhCU3YpE8A",
+      "orgLevel": "5",
+      "orgName": "新宁县靖位乡烟山村委会",
+      "orgShowName": "烟山村",
+      "orgSn": "999",
+      "parentCode": "430528209000",
+      "parentId": "e93fc3e562844bafaf6c00afef810908",
+      "parentName": "新宁县靖位乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430528209208",
+      "benji": "0",
+      "orgId": "SduogKvlTs2sS7yPu7WIzg",
+      "orgLevel": "5",
+      "orgName": "新宁县靖位乡湘榧村委会",
+      "orgShowName": "湘榧村",
+      "orgSn": "999",
+      "parentCode": "430528209000",
+      "parentId": "e93fc3e562844bafaf6c00afef810908",
+      "parentName": "新宁县靖位乡",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

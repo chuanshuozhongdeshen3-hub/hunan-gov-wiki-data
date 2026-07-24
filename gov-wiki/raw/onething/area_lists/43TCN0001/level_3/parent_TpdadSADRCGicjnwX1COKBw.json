@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430136999000",
+      "benji": "1",
+      "orgId": "RcFSRKh1RGibUO4MT5kIVBg",
+      "orgLevel": "3",
+      "orgName": "望城经开区区本级",
+      "orgShowName": "望城经开区区本级",
+      "orgSn": "1",
+      "parentCode": "430136000000",
+      "parentId": "TpdadSADRCGicjnwX1COKBw",
+      "parentName": "望城经开区",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

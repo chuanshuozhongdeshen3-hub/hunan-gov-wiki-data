@@ -1,0 +1,50 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430726503999",
+      "benji": "1",
+      "orgId": "OBcJXLVgRWGAxT6sP8VthQ",
+      "orgLevel": "4",
+      "orgName": "石门县大同山林场本级",
+      "orgShowName": "石门县大同山林场本级",
+      "orgSn": "1",
+      "parentCode": "430726503000",
+      "parentId": "eneNRx76SWibF090I4tLVRw",
+      "parentName": "石门县大同山林场",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430726503201",
+      "benji": "0",
+      "orgId": "U6btVPia0TWq2SCM49eouXA",
+      "orgLevel": "5",
+      "orgName": "石门县大同山林场胜利村",
+      "orgShowName": "胜利村",
+      "orgSn": "999",
+      "parentCode": "430726503000",
+      "parentId": "eneNRx76SWibF090I4tLVRw",
+      "parentName": "石门县大同山林场",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430726503202",
+      "benji": "0",
+      "orgId": "ZJOV9R0fRzOibnzOOQ6CXPw",
+      "orgLevel": "5",
+      "orgName": "石门县大同山林场安乐村",
+      "orgShowName": "安乐村",
+      "orgSn": "999",
+      "parentCode": "430726503000",
+      "parentId": "eneNRx76SWibF090I4tLVRw",
+      "parentName": "石门县大同山林场",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

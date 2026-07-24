@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430703502999",
+      "benji": "1",
+      "orgId": "Wxlta8pjRp2uS8306yDkwQ",
+      "orgLevel": "4",
+      "orgName": "鼎城区花岩溪国家森林公园管理处本级",
+      "orgShowName": "鼎城区花岩溪国家森林公园管理处本级",
+      "orgSn": "999",
+      "parentCode": "430703502000",
+      "parentId": "IMJ00fDOT2GCcDsctQF6Rg",
+      "parentName": "鼎城区花岩溪国家森林公园管理处",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430703502001",
+      "benji": "0",
+      "orgId": "dfgfAYNicSHmdpg0oue3wpw",
+      "orgLevel": "5",
+      "orgName": "鼎城区花岩溪国家森林公园林场社区居民委员会",
+      "orgShowName": "林场社区",
+      "orgSn": "999",
+      "parentCode": "430703502000",
+      "parentId": "IMJ00fDOT2GCcDsctQF6Rg",
+      "parentName": "鼎城区花岩溪国家森林公园管理处",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430703502201",
+      "benji": "0",
+      "orgId": "dZtMPFwoQg2sVWhaeY4ZyQ",
+      "orgLevel": "5",
+      "orgName": "鼎城区岩溪国家森林公园栖凤山村村民委员会",
+      "orgShowName": "栖凤山村",
+      "orgSn": "999",
+      "parentCode": "430703502000",
+      "parentId": "IMJ00fDOT2GCcDsctQF6Rg",
+      "parentName": "鼎城区花岩溪国家森林公园管理处",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430703502203",
+      "benji": "0",
+      "orgId": "UicicnzUUERuqAWelAm6Gjcg",
+      "orgLevel": "5",
+      "orgName": "鼎城区花岩溪国家森林公园花岩溪村村民委员会",
+      "orgShowName": "花岩溪村",
+      "orgSn": "999",
+      "parentCode": "430703502000",
+      "parentId": "IMJ00fDOT2GCcDsctQF6Rg",
+      "parentName": "鼎城区花岩溪国家森林公园管理处",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430703502205",
+      "benji": "0",
+      "orgId": "Sl572tTvQF2FyFHMcBM3rg",
+      "orgLevel": "5",
+      "orgName": "鼎城区花岩溪国家森林公园高峰村村民委员会",
+      "orgShowName": "高峰村村民委员会",
+      "orgSn": "999",
+      "parentCode": "430703502000",
+      "parentId": "IMJ00fDOT2GCcDsctQF6Rg",
+      "parentName": "鼎城区花岩溪国家森林公园管理处",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

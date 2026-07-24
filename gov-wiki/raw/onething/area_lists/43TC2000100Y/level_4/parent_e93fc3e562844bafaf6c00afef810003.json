@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430182218999",
+      "benji": "1",
+      "orgId": "e93fc3e562844bafaf6c00afef813056",
+      "orgLevel": "4",
+      "orgName": "沩山乡本级",
+      "orgShowName": "沩山乡本级",
+      "orgSn": "1",
+      "parentCode": "430182218000",
+      "parentId": "e93fc3e562844bafaf6c00afef810003",
+      "parentName": "沩山乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430182218001",
+      "benji": "0",
+      "orgId": "vYD7kgmlSoiapGSw8Uuzg3A",
+      "orgLevel": "5",
+      "orgName": "沩山社区",
+      "orgShowName": "沩山社区",
+      "orgSn": "0",
+      "parentCode": "430182218000",
+      "parentId": "e93fc3e562844bafaf6c00afef810003",
+      "parentName": "沩山乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430182218207",
+      "benji": "0",
+      "orgId": "B5Qt0oJmQymziaAhkCXV7kQ",
+      "orgLevel": "5",
+      "orgName": "同庆村",
+      "orgShowName": "同庆村",
+      "orgSn": "0",
+      "parentCode": "430182218000",
+      "parentId": "e93fc3e562844bafaf6c00afef810003",
+      "parentName": "沩山乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430182218208",
+      "benji": "0",
+      "orgId": "kO7otcgSST2nj2B0t4atSw",
+      "orgLevel": "5",
+      "orgName": "祖塔村",
+      "orgShowName": "祖塔村",
+      "orgSn": "0",
+      "parentCode": "430182218000",
+      "parentId": "e93fc3e562844bafaf6c00afef810003",
+      "parentName": "沩山乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430182218212",
+      "benji": "0",
+      "orgId": "24fH8DrqSqGTuXW9Zgcxibg",
+      "orgLevel": "5",
+      "orgName": "沩峰村",
+      "orgShowName": "沩峰村",
+      "orgSn": "0",
+      "parentCode": "430182218000",
+      "parentId": "e93fc3e562844bafaf6c00afef810003",
+      "parentName": "沩山乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430182218213",
+      "benji": "0",
+      "orgId": "X3qZLibfWQGiaaZEtyiatIyog",
+      "orgLevel": "5",
+      "orgName": "沩水源村",
+      "orgShowName": "沩水源村",
+      "orgSn": "0",
+      "parentCode": "430182218000",
+      "parentId": "e93fc3e562844bafaf6c00afef810003",
+      "parentName": "沩山乡",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

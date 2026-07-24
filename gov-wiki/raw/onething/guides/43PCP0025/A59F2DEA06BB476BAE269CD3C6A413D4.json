@@ -1,0 +1,218 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1780383494000,
+        "fjId": "1hdQF5nwSjGgv98zo2LB_A",
+        "fjbm": "100001",
+        "fjdx": 0.055,
+        "fjlj": "orchestrate/2026-06-02/1780383494010$$流程图.png",
+        "fjlx": ".png",
+        "fjmc": "流程图.png",
+        "s3tmc": "zwfw202606",
+        "sfyx": "Y",
+        "ywdxId": "8FE1606BAED749408BBA4EDDB1D29110"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "芷江县迎宾路市名之家二楼F03综合窗口",
+        "blsj": "全年法定工作日早上：9:00—下午17:00",
+        "cjsj": 1781664493107,
+        "gxsj": 1781664493000,
+        "infoAddr": "二楼F03综合窗口",
+        "pointName": "芷江县迎宾路市名之家二楼F03综合窗口",
+        "processingTime": "全年法定工作日早上：9:00—下午17:00",
+        "pxh": 1,
+        "xxdz": "二楼F03综合窗口",
+        "yjsBldId": "8722190720F84C7CA2D609DD270C462F",
+        "ywzjId": "72F1D5E738994737B6CEFB586960B765",
+        "zt": "0"
+      }
+    ],
+    "materialList": [],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "期房、现房办理方式",
+      "blxs": "1",
+      "bszt": "1",
+      "cjsj": 1780383041000,
+      "cnbjsx": "7",
+      "dbsxccs": "0",
+      "dbsxcyyhhj": "无",
+      "dndtzdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "gqbjlx": 2.0,
+      "gqblsx": 15.0,
+      "gqpdcs": 3.0,
+      "gqsbcl": 5.0,
+      "hjsgq": 5.0,
+      "hjsxz": 1.0,
+      "jdtsdh": "12345",
+      "jdtsdz": "各政务服务大厅“高效办成一件事”窗口",
+      "jgsdsm": "无",
+      "jsms": "4",
+      "lbjgId": "17,09",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "A",
+      "xsblqd": "1",
+      "xxbldsm": "各政务服务大厅“高效办成一件事”窗口",
+      "xzbjlx": 2.0,
+      "xzblsx": 7.0,
+      "xzpdcs": 0.0,
+      "xzsbcl": 0.0,
+      "yddtzdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "yjsMlBzhId": "2905F4485C8547AF825A1DDA583E3CBE",
+      "yjsbsznId": "8FE1606BAED749408BBA4EDDB1D29110",
+      "ywzjfw": "0",
+      "zcblqd": "1,2",
+      "zcblqdWbdz": "https://zwfw-new.hunan.gov.cn/onething/v3/efficientOneThing/efficientOneThing.html",
+      "zxdh": "12345",
+      "zxdz": "各政务服务大厅“高效办成一件事”窗口"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "房屋交易合同网签备案",
+        "resultSampleName": "暂无结果样本",
+        "tyywblxName": "新建商品房（现售）买卖合同网签备案（变更、注销）"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "房屋交易合同网签备案",
+        "resultSampleName": "暂无结果样本",
+        "tyywblxName": "新建商品房（预售）买卖合同网签备案（变更、注销）"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "实测绘成果审核",
+        "resultSampleName": "",
+        "tyywblxName": "实测绘成果审核"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "住宅专项维修资金缴纳",
+        "resultSampleName": "",
+        "tyywblxName": "住宅专项维修资金缴纳"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "个人身份信息核验",
+        "resultSampleName": "",
+        "tyywblxName": "个人身份信息核验"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "电表开户",
+        "resultSampleName": "",
+        "tyywblxName": "电表开户(现房)"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "水表开户",
+        "resultSampleName": "",
+        "tyywblxName": "水表开户"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "天然气表开户",
+        "resultSampleName": "",
+        "tyywblxName": "天然气表开户"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "供暖表开户(集中供暖地区)",
+        "resultSampleName": "",
+        "tyywblxName": "供暖表开户(集中供暖地区)"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "购房人持有合法有效身份证件",
+        "cjsj": 1780383451000,
+        "processingConditions": "购房人持有合法有效身份证件",
+        "pxh": 1.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "B8E28A89B2414EC583454F15C5CA1BF8",
+        "yjsbsznId": "8FE1606BAED749408BBA4EDDB1D29110",
+        "zt": "0"
+      },
+      {
+        "bltj": "拟签订购房合同并办理网签备案",
+        "cjsj": 1780383465000,
+        "processingConditions": "拟签订购房合同并办理网签备案",
+        "pxh": 2.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "76750142E88C42C2860030DEA8625882",
+        "yjsbsznId": "8FE1606BAED749408BBA4EDDB1D29110",
+        "zt": "0"
+      },
+      {
+        "bltj": "自愿通过系统完成个人身份信息核验，并授权相关部门使用相关电子证照",
+        "cjsj": 1780383477000,
+        "processingConditions": "自愿通过系统完成个人身份信息核验，并授权相关部门使用相关电子证照",
+        "pxh": 3.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "3F7140FF9B8843F4874DF272276D2181",
+        "yjsbsznId": "8FE1606BAED749408BBA4EDDB1D29110",
+        "zt": "0"
+      },
+      {
+        "bltj": "准备足额资金用于缴纳住宅专项维修资金",
+        "cjsj": 1780383489000,
+        "processingConditions": "准备足额资金用于缴纳住宅专项维修资金",
+        "pxh": 4.0,
+        "smmc": "/",
+        "yjsBsznbltjId": "7FDB62F3DDAD4CD88DA72E0342A7B80E",
+        "yjsbsznId": "8FE1606BAED749408BBA4EDDB1D29110",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [
+      {
+        "answer": "线上办理无需提交纸质材料，线下办理需填写《新房购置“一件事”申请表》",
+        "da": "线上办理无需提交纸质材料，线下办理需填写《新房购置“一件事”申请表》",
+        "problem": "是否需要线下提交材料？",
+        "pxh": 0.0,
+        "wt": "是否需要线下提交材料？",
+        "yjsMlSsqdQuestionId": "38B65DB173DA4E04B24E3CBE458020A5",
+        "yjsSsqdId": "A59F2DEA06BB476BAE269CD3C6A413D4"
+      },
+      {
+        "answer": "可根据实际需求选择办理事项，系统支持按需勾选。",
+        "da": "可根据实际需求选择办理事项，系统支持按需勾选。",
+        "problem": "是否所有事项必须同时办理？",
+        "pxh": 1.0,
+        "wt": "是否所有事项必须同时办理？",
+        "yjsMlSsqdQuestionId": "24FA4DE41DC44F3287EEF28E0210E1E6",
+        "yjsSsqdId": "A59F2DEA06BB476BAE269CD3C6A413D4"
+      }
+    ],
+    "sxmc": "新房购置“一件事”",
+    "yjsSsqdbm": "43PCP0025A26J1228",
+    "basicInfo": {
+      "aheadFrequency": "0",
+      "areaName": "芷江县",
+      "completedLimit": "7",
+      "cooperateName": "公安部门,住建部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0745-6822120",
+      "lbjgId": "17,09",
+      "qtbmId": "3bde19c435194feeb89766700a92b6af",
+      "qtbmmc": "芷江县住建局",
+      "reasonLink": "无",
+      "yjsssqdbsznid": "72F1D5E738994737B6CEFB586960B765",
+      "zxdh": "0745-13787585511"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

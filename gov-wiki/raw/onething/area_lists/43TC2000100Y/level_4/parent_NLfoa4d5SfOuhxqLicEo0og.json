@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "431124001999",
+      "benji": "1",
+      "orgId": "LTDmZ2iaZSGiaWvSL7My1c6A",
+      "orgLevel": "4",
+      "orgName": "道县濂溪街道本级",
+      "orgShowName": "道县濂溪街道本级",
+      "orgSn": "999",
+      "parentCode": "431124001000",
+      "parentId": "NLfoa4d5SfOuhxqLicEo0og",
+      "parentName": "道县濂溪街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431124001008",
+      "benji": "0",
+      "orgId": "icMFLAFFBSLmleEynDlpYLg",
+      "orgLevel": "5",
+      "orgName": "道县濂溪街道濂溪社区",
+      "orgShowName": "濂溪社区",
+      "orgSn": "999",
+      "parentCode": "431124001000",
+      "parentId": "NLfoa4d5SfOuhxqLicEo0og",
+      "parentName": "道县濂溪街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431124001011",
+      "benji": "0",
+      "orgId": "LZzwQjIGQicO39EoXydjHwA",
+      "orgLevel": "5",
+      "orgName": "道县濂溪街道寇公楼社区",
+      "orgShowName": "寇公楼社区",
+      "orgSn": "999",
+      "parentCode": "431124001000",
+      "parentId": "NLfoa4d5SfOuhxqLicEo0og",
+      "parentName": "道县濂溪街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431124001012",
+      "benji": "0",
+      "orgId": "7PmTV3ib7TjeavrSib0roMrQ",
+      "orgLevel": "5",
+      "orgName": "道县濂溪街道东阳社区",
+      "orgShowName": "东阳社区",
+      "orgSn": "999",
+      "parentCode": "431124001000",
+      "parentId": "NLfoa4d5SfOuhxqLicEo0og",
+      "parentName": "道县濂溪街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431124001013",
+      "benji": "0",
+      "orgId": "r3CRNbHLTISmmOV2ibZPZxw",
+      "orgLevel": "5",
+      "orgName": "道县濂溪街道良田社区",
+      "orgShowName": "良田社区",
+      "orgSn": "999",
+      "parentCode": "431124001000",
+      "parentId": "NLfoa4d5SfOuhxqLicEo0og",
+      "parentName": "道县濂溪街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431124001017",
+      "benji": "0",
+      "orgId": "kKz54l0aRTS219dVRqeuCQ",
+      "orgLevel": "5",
+      "orgName": "道县濂溪街道荷叶塘社区",
+      "orgShowName": "荷叶塘社区",
+      "orgSn": "999",
+      "parentCode": "431124001000",
+      "parentId": "NLfoa4d5SfOuhxqLicEo0og",
+      "parentName": "道县濂溪街道",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

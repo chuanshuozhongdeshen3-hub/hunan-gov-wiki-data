@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430198999000",
+      "benji": "1",
+      "orgId": "2d8MA4VYQ8m8ZoypicBuIWg",
+      "orgLevel": "3",
+      "orgName": "长沙经开区区本级",
+      "orgShowName": "长沙经开区区本级",
+      "orgSn": "999",
+      "parentCode": "430198000000",
+      "parentId": "zudiacDNCTJKoyV3ibSg2xwA",
+      "parentName": "长沙经开区",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

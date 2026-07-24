@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "0",
+      "areaCode": "430971999000",
+      "benji": "1",
+      "orgId": "d59700e9e28442049649b5c319233907",
+      "orgLevel": "3",
+      "orgName": "大通湖管理区区本级",
+      "orgShowName": "大通湖管理区区本级",
+      "orgSn": "1",
+      "parentCode": "430971000000",
+      "parentId": "8f4a18d4e0854253bff97b66f9271f27",
+      "parentName": "大通湖管理区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "1",
+      "areaCode": "430971121000",
+      "benji": "0",
+      "orgId": "lJGFibq2dRhia8euxNadng3g",
+      "orgLevel": "4",
+      "orgName": "大通湖管理区河坝镇",
+      "orgShowName": "河坝镇",
+      "orgSn": "999",
+      "parentCode": "430971000000",
+      "parentId": "8f4a18d4e0854253bff97b66f9271f27",
+      "parentName": "大通湖管理区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "1",
+      "areaCode": "430971123000",
+      "benji": "0",
+      "orgId": "eoBdYYUySPGum6xHcS8sRg",
+      "orgLevel": "4",
+      "orgName": "大通湖管理区金盆镇",
+      "orgShowName": "金盆镇",
+      "orgSn": "999",
+      "parentCode": "430971000000",
+      "parentId": "8f4a18d4e0854253bff97b66f9271f27",
+      "parentName": "大通湖管理区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "1",
+      "areaCode": "430971124000",
+      "benji": "0",
+      "orgId": "CHFWEYnVSvqs4HmkmibcFnw",
+      "orgLevel": "4",
+      "orgName": "大通湖管理区北洲子镇",
+      "orgShowName": "北洲子镇",
+      "orgSn": "999",
+      "parentCode": "430971000000",
+      "parentId": "8f4a18d4e0854253bff97b66f9271f27",
+      "parentName": "大通湖管理区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "1",
+      "areaCode": "430971130000",
+      "benji": "0",
+      "orgId": "GY400JAsTrCnfurfqM0MbA",
+      "orgLevel": "4",
+      "orgName": "大通湖管理区千山红镇",
+      "orgShowName": "千山红镇",
+      "orgSn": "999",
+      "parentCode": "430971000000",
+      "parentId": "8f4a18d4e0854253bff97b66f9271f27",
+      "parentName": "大通湖管理区",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

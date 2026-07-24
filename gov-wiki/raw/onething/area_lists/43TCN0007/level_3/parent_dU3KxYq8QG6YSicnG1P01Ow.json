@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430104023999",
+      "benji": "1",
+      "orgId": "bCnAaH8MRSyzmONHKdT6HQ",
+      "orgLevel": "3",
+      "orgName": "岳麓高新区区本级",
+      "orgShowName": "岳麓高新区区本级",
+      "orgSn": "1",
+      "parentCode": "430104023000",
+      "parentId": "dU3KxYq8QG6YSicnG1P01Ow",
+      "parentName": "岳麓高新区",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

@@ -10,3 +10,4 @@ secrets.json
 gov-wiki/rag/
 gov-wiki/wiki/_meta/*.cache.jsonl
 gov-wiki/wiki/_meta/*.report.json
+*.zip

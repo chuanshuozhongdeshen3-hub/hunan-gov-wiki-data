@@ -1,0 +1,50 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430671001999",
+      "benji": "1",
+      "orgId": "y3iayN7PQRdepxKp2ArShMQ",
+      "orgLevel": "4",
+      "orgName": "天问街道本级",
+      "orgShowName": "天问街道本级",
+      "orgSn": "1",
+      "parentCode": "430671001000",
+      "parentId": "NnXjHO01QZ2I2xeqU1LS9Q",
+      "parentName": "屈原管理区天问街道办事处",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430671001001",
+      "benji": "0",
+      "orgId": "VuCHvOLETt2tJoF2LHTbYw",
+      "orgLevel": "5",
+      "orgName": "天问街道凤凰社区",
+      "orgShowName": "凤凰社区",
+      "orgSn": "1",
+      "parentCode": "430671001000",
+      "parentId": "NnXjHO01QZ2I2xeqU1LS9Q",
+      "parentName": "屈原管理区天问街道办事处",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430671001002",
+      "benji": "0",
+      "orgId": "ZB1CtpYTQ56U681hFfPiaoA",
+      "orgLevel": "5",
+      "orgName": "天问街道桔园社区",
+      "orgShowName": "桔园社区",
+      "orgSn": "2",
+      "parentCode": "430671001000",
+      "parentId": "NnXjHO01QZ2I2xeqU1LS9Q",
+      "parentName": "屈原管理区天问街道办事处",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430671999000",
+      "benji": "1",
+      "orgId": "waaBjw1lS0y98moPLl1LmQ",
+      "orgLevel": "3",
+      "orgName": "屈原管理区区本级",
+      "orgShowName": "屈原管理区区本级",
+      "orgSn": "999",
+      "parentCode": "430671000000",
+      "parentId": "LDbR6v1cTKibxwp43MzNViaQ",
+      "parentName": "屈原管理区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430671102000",
+      "benji": "0",
+      "orgId": "e93fc3e562844bafaf6c00afef811076",
+      "orgLevel": "4",
+      "orgName": "屈原管理区河市镇",
+      "orgShowName": "河市镇",
+      "orgSn": "1",
+      "parentCode": "430671000000",
+      "parentId": "LDbR6v1cTKibxwp43MzNViaQ",
+      "parentName": "屈原管理区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430671203000",
+      "benji": "0",
+      "orgId": "e93fc3e562844bafaf6c00afef811092",
+      "orgLevel": "4",
+      "orgName": "屈原管理区凤凰乡",
+      "orgShowName": "凤凰乡",
+      "orgSn": "1",
+      "parentCode": "430671000000",
+      "parentId": "LDbR6v1cTKibxwp43MzNViaQ",
+      "parentName": "屈原管理区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430671101000",
+      "benji": "0",
+      "orgId": "Vm508BuqRH68BPvUdymzhg",
+      "orgLevel": "4",
+      "orgName": "屈原管理区营田镇",
+      "orgShowName": "营田镇",
+      "orgSn": "2",
+      "parentCode": "430671000000",
+      "parentId": "LDbR6v1cTKibxwp43MzNViaQ",
+      "parentName": "屈原管理区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430671001000",
+      "benji": "0",
+      "orgId": "NnXjHO01QZ2I2xeqU1LS9Q",
+      "orgLevel": "4",
+      "orgName": "屈原管理区天问街道办事处",
+      "orgShowName": "天问街道办事处",
+      "orgSn": "4",
+      "parentCode": "430671000000",
+      "parentId": "LDbR6v1cTKibxwp43MzNViaQ",
+      "parentName": "屈原管理区",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

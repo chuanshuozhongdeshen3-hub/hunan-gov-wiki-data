@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "431103006999",
+      "benji": "1",
+      "orgId": "e93fc3e562844bafaf6c00afef813814",
+      "orgLevel": "4",
+      "orgName": "冷水滩区凤凰街道本级",
+      "orgShowName": "冷水滩区凤凰街道本级",
+      "orgSn": "1",
+      "parentCode": "431103006000",
+      "parentId": "e93fc3e562844bafaf6c00afef812204",
+      "parentName": "冷水滩区凤凰街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431103006005",
+      "benji": "0",
+      "orgId": "lGp8JOPGTGOEnp2XQLWgmQ",
+      "orgLevel": "5",
+      "orgName": "冷水滩区凤凰街道湖塘社区居委会",
+      "orgShowName": "湖塘社区",
+      "orgSn": "999",
+      "parentCode": "431103006000",
+      "parentId": "e93fc3e562844bafaf6c00afef812204",
+      "parentName": "冷水滩区凤凰街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431103006006",
+      "benji": "0",
+      "orgId": "hAp6QaJ5SCq1vN3UMicpmSw",
+      "orgLevel": "5",
+      "orgName": "冷水滩区凤凰街道凤凰社区居委会",
+      "orgShowName": "凤凰社区",
+      "orgSn": "999",
+      "parentCode": "431103006000",
+      "parentId": "e93fc3e562844bafaf6c00afef812204",
+      "parentName": "冷水滩区凤凰街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431103006200",
+      "benji": "0",
+      "orgId": "UBRbHoSTRMymbVwYyKLSqg",
+      "orgLevel": "5",
+      "orgName": "冷水滩区凤凰街道四丘田村委会",
+      "orgShowName": "四丘田村",
+      "orgSn": "999",
+      "parentCode": "431103006000",
+      "parentId": "e93fc3e562844bafaf6c00afef812204",
+      "parentName": "冷水滩区凤凰街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431103006203",
+      "benji": "0",
+      "orgId": "eYEmfYhKTYKCmtmFJAVviaA",
+      "orgLevel": "5",
+      "orgName": "冷水滩区凤凰街道谷源村委会",
+      "orgShowName": "谷源村",
+      "orgSn": "999",
+      "parentCode": "431103006000",
+      "parentId": "e93fc3e562844bafaf6c00afef812204",
+      "parentName": "冷水滩区凤凰街道",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

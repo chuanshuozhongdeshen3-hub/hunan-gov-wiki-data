@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "431126203999",
+      "benji": "1",
+      "orgId": "e93fc3e562844bafaf6c00afef814215",
+      "orgLevel": "4",
+      "orgName": "宁远县棉花坪瑶族乡本级",
+      "orgShowName": "宁远县棉花坪瑶族乡本级",
+      "orgSn": "1",
+      "parentCode": "431126203000",
+      "parentId": "e93fc3e562844bafaf6c00afef811385",
+      "parentName": "宁远县棉花坪瑶族乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431126203201",
+      "benji": "0",
+      "orgId": "zZRCrSImQdWuiacFnLu1ZAQ",
+      "orgLevel": "5",
+      "orgName": "宁远县棉花坪瑶族乡沙子田村村委会",
+      "orgShowName": "沙子田村",
+      "orgSn": "999",
+      "parentCode": "431126203000",
+      "parentId": "e93fc3e562844bafaf6c00afef811385",
+      "parentName": "宁远县棉花坪瑶族乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431126203202",
+      "benji": "0",
+      "orgId": "8dIPicMZqTpWMibsBPCW5kTw",
+      "orgLevel": "5",
+      "orgName": "宁远县棉花坪瑶族乡棉花坪村村委会",
+      "orgShowName": "棉花坪村",
+      "orgSn": "999",
+      "parentCode": "431126203000",
+      "parentId": "e93fc3e562844bafaf6c00afef811385",
+      "parentName": "宁远县棉花坪瑶族乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431126203203",
+      "benji": "0",
+      "orgId": "gVwejmuJR2m5iar5akVVDTA",
+      "orgLevel": "5",
+      "orgName": "宁远县棉花坪瑶族乡排山坳村村委会",
+      "orgShowName": "排山坳村",
+      "orgSn": "999",
+      "parentCode": "431126203000",
+      "parentId": "e93fc3e562844bafaf6c00afef811385",
+      "parentName": "宁远县棉花坪瑶族乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431126203204",
+      "benji": "0",
+      "orgId": "UjfPb7GcSHWnBA312bw8pg",
+      "orgLevel": "5",
+      "orgName": "宁远县棉花坪瑶族乡柑子园村村委会",
+      "orgShowName": "柑子园村",
+      "orgSn": "999",
+      "parentCode": "431126203000",
+      "parentId": "e93fc3e562844bafaf6c00afef811385",
+      "parentName": "宁远县棉花坪瑶族乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431126203205",
+      "benji": "0",
+      "orgId": "m69kdgiafQ2Gn68xmMNfvQg",
+      "orgLevel": "5",
+      "orgName": "宁远县棉花坪瑶族乡关塘村村委会",
+      "orgShowName": "关塘村",
+      "orgSn": "999",
+      "parentCode": "431126203000",
+      "parentId": "e93fc3e562844bafaf6c00afef811385",
+      "parentName": "宁远县棉花坪瑶族乡",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

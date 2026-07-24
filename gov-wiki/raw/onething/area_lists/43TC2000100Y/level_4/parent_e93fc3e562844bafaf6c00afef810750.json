@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430511001999",
+      "benji": "1",
+      "orgId": "e93fc3e562844bafaf6c00afef812887",
+      "orgLevel": "4",
+      "orgName": "北塔区新滩镇街道本级",
+      "orgShowName": "北塔区新滩镇街道本级",
+      "orgSn": "1",
+      "parentCode": "430511001000",
+      "parentId": "e93fc3e562844bafaf6c00afef810750",
+      "parentName": "北塔区新滩镇街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430511001001",
+      "benji": "0",
+      "orgId": "6biaic1KGbTg6blNGVtGSvyQ",
+      "orgLevel": "5",
+      "orgName": "北塔区新滩镇街道新滩社区",
+      "orgShowName": "新滩社区",
+      "orgSn": "999",
+      "parentCode": "430511001000",
+      "parentId": "e93fc3e562844bafaf6c00afef810750",
+      "parentName": "北塔区新滩镇街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430511001002",
+      "benji": "0",
+      "orgId": "92fCaGB1RI6Fia0w4xnCgibw",
+      "orgLevel": "5",
+      "orgName": "北塔区新滩镇街道资新社区",
+      "orgShowName": "资新社区",
+      "orgSn": "999",
+      "parentCode": "430511001000",
+      "parentId": "e93fc3e562844bafaf6c00afef810750",
+      "parentName": "北塔区新滩镇街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430511001003",
+      "benji": "0",
+      "orgId": "NjUH65j4RdKS920rh7eAbA",
+      "orgLevel": "5",
+      "orgName": "北塔区新滩镇街道新渡社区",
+      "orgShowName": "新渡社区",
+      "orgSn": "999",
+      "parentCode": "430511001000",
+      "parentId": "e93fc3e562844bafaf6c00afef810750",
+      "parentName": "北塔区新滩镇街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430511001004",
+      "benji": "0",
+      "orgId": "4Uz9l6JsSc21Hc89kkPP0w",
+      "orgLevel": "5",
+      "orgName": "北塔区新滩镇街道江北社区",
+      "orgShowName": "江北社区",
+      "orgSn": "999",
+      "parentCode": "430511001000",
+      "parentId": "e93fc3e562844bafaf6c00afef810750",
+      "parentName": "北塔区新滩镇街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430511001005",
+      "benji": "0",
+      "orgId": "j1ib83CBMTqevdCYlqsibLlw",
+      "orgLevel": "5",
+      "orgName": "北塔区新滩镇街道磨石社区",
+      "orgShowName": "磨石社区",
+      "orgSn": "999",
+      "parentCode": "430511001000",
+      "parentId": "e93fc3e562844bafaf6c00afef810750",
+      "parentName": "北塔区新滩镇街道",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

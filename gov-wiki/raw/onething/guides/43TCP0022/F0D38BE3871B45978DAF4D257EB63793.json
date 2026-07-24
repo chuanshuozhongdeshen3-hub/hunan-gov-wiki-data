@@ -1,0 +1,679 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1779780102000,
+        "fjId": "Vn_LJc20SjGHBX_945Exuw",
+        "fjbm": "100001",
+        "fjdx": 0.142,
+        "fjlj": "orchestrate/2026-05-26/1779780102016$$流程图.png",
+        "fjlx": ".png",
+        "fjmc": "流程图.png",
+        "s3tmc": "zwfw202605",
+        "sfyx": "Y",
+        "ywdxId": "2EFFA70F25064E0D8BDC65207AB0BF48"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "湘潭市市民之家北栋三楼商事登记企业开办服务区",
+        "blsj": "法定工作日上午9:00-12:00 ，下午13:30-17:00",
+        "cjsj": 1781667663461,
+        "gxsj": 1781746443000,
+        "infoAddr": "湘潭市岳塘区湖湘南路1号市民之家北栋三楼商事登记企业开办服务区C301窗口",
+        "pointName": "湘潭市市民之家北栋三楼商事登记企业开办服务区",
+        "processingTime": "法定工作日上午9:00-12:00 ，下午13:30-17:00",
+        "pxh": 1,
+        "xxdz": "湘潭市岳塘区湖湘南路1号市民之家北栋三楼商事登记企业开办服务区C301窗口",
+        "yjsBldId": "61EFC201183F4BEF93C6D391902DCFF8",
+        "ywzjId": "EC522FF06D9C4C358CB7F86F8DB7ED54",
+        "zt": "0"
+      }
+    ],
+    "materialList": [
+      {
+        "attachList": [
+          {
+            "cjsj": 1779780707000,
+            "fjId": "wdneDAIzSECR2y6YDE97HQ",
+            "fjbm": "100002",
+            "fjdx": 0.267,
+            "fjlj": "orchestrate/2026-05-26/1779780696819$$湖南省知识产权保护申请表.docx",
+            "fjlx": ".docx",
+            "fjmc": "湖南省知识产权保护申请表.docx",
+            "s3tmc": "zwfw202605",
+            "sfyx": "Y",
+            "ywdxId": "D827AED3EDD542BA8A099FB00501ED3D"
+          },
+          {
+            "cjsj": 1779780707000,
+            "fjId": "XCH9j7nVSf-WkPYRWxZPPg",
+            "fjbm": "100003",
+            "fjdx": 0.267,
+            "fjlj": "orchestrate/2026-05-26/1779780705907$$湖南省知识产权保护申请表.docx",
+            "fjlx": ".docx",
+            "fjmc": "湖南省知识产权保护申请表.docx",
+            "s3tmc": "zwfw202605",
+            "sfyx": "Y",
+            "ywdxId": "D827AED3EDD542BA8A099FB00501ED3D"
+          }
+        ],
+        "bzclId": "M43TCP00220001",
+        "cjsj": 1779780707000,
+        "clbyx": "1",
+        "clbz": "知识产权保护“一件事”申请表",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "知识产权保护“一件事”申请表",
+        "clxs": "4",
+        "clxz": "1",
+        "gxsj": 1783928923000,
+        "mtjfs": "4",
+        "pxh": 1.0,
+        "sfxtmb": "0",
+        "sfykb": "1",
+        "sfyslb": "1",
+        "tbxz": "知识产权保护“一件事”申请表",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "B2985748449A4832AE3B595838F09187",
+        "yjsSsqdId": "F0D38BE3871B45978DAF4D257EB63793",
+        "yqtgyj": "知识产权保护“一件事”申请表",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1779780904000
+          }
+        ],
+        "bzclId": "M43TCP00220008",
+        "cjsj": 1779780904000,
+        "clbyx": "1",
+        "clbz": "仲裁协议",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "仲裁协议",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783928923000,
+        "mtjfs": "4",
+        "pxh": 8.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "仲裁协议",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "C21A829D528140B0B226D50202582B8B",
+        "yjsSsqdId": "F0D38BE3871B45978DAF4D257EB63793",
+        "yqtgyj": "仲裁协议",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1779780904000
+          }
+        ],
+        "bzclId": "M43TCP00220010",
+        "cjsj": 1779780904000,
+        "clbyx": "1",
+        "clbz": "送达地址确认书",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "送达地址确认书",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783928923000,
+        "mtjfs": "4",
+        "pxh": 10.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "送达地址确认书",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "2741D3DC3C384A00A0DF5C1D09D3FB8A",
+        "yjsSsqdId": "F0D38BE3871B45978DAF4D257EB63793",
+        "yqtgyj": "送达地址确认书",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1779780855000
+          }
+        ],
+        "bzclId": "M43TCP00220003",
+        "cjsj": 1779780855000,
+        "clbyx": "1",
+        "clbz": "生产资质证明",
+        "cllx": "4",
+        "cllyqd": "20",
+        "clmc": "生产资质证明（根据产品类型分别提供食品生产许可证、烟花爆竹安全生产许可证等）",
+        "clxs": "4",
+        "clxz": "2",
+        "gxsj": 1783928923000,
+        "mtjfs": "4",
+        "pxh": 3.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "生产资质证明",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "BC5A1F1FD2C9489D9679C09C652596C2",
+        "yjsSsqdId": "F0D38BE3871B45978DAF4D257EB63793",
+        "yqtgyj": "生产资质证明",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1779780904000
+          }
+        ],
+        "bzclId": "M43TCP00220004",
+        "cjsj": 1779780904000,
+        "clbyx": "1",
+        "clbz": "产地核验报告",
+        "cllx": "1",
+        "cllyqd": "20",
+        "clmc": "产地核验报告",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783928923000,
+        "mtjfs": "4",
+        "pxh": 4.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "产地核验报告",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "4EEE49F317C54002A7FAC89E1CF4A928",
+        "yjsSsqdId": "F0D38BE3871B45978DAF4D257EB63793",
+        "yqtgyj": "产地核验报告",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1779780904000
+          }
+        ],
+        "bzclId": "M43TCP00220006",
+        "cjsj": 1779780904000,
+        "clbyx": "1",
+        "clbz": "地理标志产品标准",
+        "cllx": "2",
+        "cllyqd": "10",
+        "clmc": "地理标志产品标准",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783928923000,
+        "mtjfs": "4",
+        "pxh": 6.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "地理标志产品标准",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "57935E9E32494DFBB8C0512AA2082B9D",
+        "yjsSsqdId": "F0D38BE3871B45978DAF4D257EB63793",
+        "yqtgyj": "地理标志产品标准",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1779780904000
+          }
+        ],
+        "bzclId": "M43TCP00220011",
+        "cjsj": 1779780904000,
+        "clbyx": "1",
+        "clbz": "申请人为个人的，需提供身份证复印件；申请人为企业的，需提供加盖公章的营业执照复印件、法定代表人身份证明及法定代表人身份证复印件",
+        "cllx": "2",
+        "cllyqd": "10",
+        "clmc": "申请人身份证明",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783928923000,
+        "mtjfs": "4",
+        "pxh": 11.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "申请人为个人的，需提供身份证复印件；申请人为企业的，需提供加盖公章的营业执照复印件、法定代表人身份证明及法定代表人身份证复印件",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "995852E37CDC44269A54B43EBF4D25A7",
+        "yjsSsqdId": "F0D38BE3871B45978DAF4D257EB63793",
+        "yqtgyj": "申请人为个人的，需提供身份证复印件；申请人为企业的，需提供加盖公章的营业执照复印件、法定代表人身份证明及法定代表人身份证复印件",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1779780904000
+          }
+        ],
+        "bzclId": "M43TCP00220015",
+        "cjsj": 1779780904000,
+        "clbyx": "2",
+        "clbz": "需加盖企业公章或者申请人签字",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "需加盖企业公章或者申请人签字",
+        "clmc": "风险告知书",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783928923000,
+        "mtjfs": "4",
+        "pxh": 15.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "需加盖企业公章或者申请人签字",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "692A1ACF69164B5980F5F4A6E1AA4118",
+        "yjsSsqdId": "F0D38BE3871B45978DAF4D257EB63793",
+        "yqtgyj": "需加盖企业公章或者申请人签字",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "需加盖企业公章或者申请人签字"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1779780904000
+          }
+        ],
+        "bzclId": "M43TCP00220013",
+        "cjsj": 1779780904000,
+        "clbyx": "2",
+        "clbz": "仲裁委员会官网下载模版",
+        "cllx": "2",
+        "cllyqd": "10",
+        "cllyqdsm": "仲裁委员会官网下载模版",
+        "clmc": "授权委托书及委托人、受托人身份信息",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783928923000,
+        "mtjfs": "4",
+        "pxh": 13.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "仲裁委员会官网下载模版",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "0D20ED3ECC0341749D146C5DCA9A0F48",
+        "yjsSsqdId": "F0D38BE3871B45978DAF4D257EB63793",
+        "yqtgyj": "仲裁委员会官网下载模版",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "仲裁委员会官网下载模版"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1779780904000
+          }
+        ],
+        "bzclId": "M43TCP00220016",
+        "cjsj": 1779780904000,
+        "clbyx": "1",
+        "clbz": "需加盖企业公章或者申请人签字",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "需加盖企业公章或者申请人签字",
+        "clmc": "诚信仲裁告知书",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783928923000,
+        "mtjfs": "4",
+        "pxh": 16.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "需加盖企业公章或者申请人签字",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "D38395241BC148AE930B3226D3841168",
+        "yjsSsqdId": "F0D38BE3871B45978DAF4D257EB63793",
+        "yqtgyj": "需加盖企业公章或者申请人签字",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "需加盖企业公章或者申请人签字"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1779780904000
+          }
+        ],
+        "bzclId": "M43TCP00220009",
+        "cjsj": 1779780904000,
+        "clbyx": "1",
+        "clbz": "仲裁申请书",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "仲裁申请书",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783928923000,
+        "mtjfs": "4",
+        "pxh": 9.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "仲裁申请书",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "75E1C93F2AE24AE4B4EE88F4E49B3C00",
+        "yjsSsqdId": "F0D38BE3871B45978DAF4D257EB63793",
+        "yqtgyj": "仲裁申请书",
+        "zt": "0",
+        "zzclfs": 3.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1779780904000
+          }
+        ],
+        "bzclId": "M43TCP00220012",
+        "cjsj": 1779780904000,
+        "clbyx": "1",
+        "clbz": "被申请人为个人的，需提供被申请人身份证复印件；被申请人为企业的，需提供国家企业信用信息公示系统中被申请人的企业信息",
+        "cllx": "2",
+        "cllyqd": "10",
+        "clmc": "被申请人身份证明",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783928923000,
+        "mtjfs": "4",
+        "pxh": 12.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "被申请人为个人的，需提供被申请人身份证复印件；被申请人为企业的，需提供国家企业信用信息公示系统中被申请人的企业信息",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "0201041544274A2E98D7F13C2DAE55EE",
+        "yjsSsqdId": "F0D38BE3871B45978DAF4D257EB63793",
+        "yqtgyj": "被申请人为个人的，需提供被申请人身份证复印件；被申请人为企业的，需提供国家企业信用信息公示系统中被申请人的企业信息",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1779780904000
+          }
+        ],
+        "bzclId": "M43TCP00220017",
+        "cjsj": 1779780904000,
+        "clbyx": "2",
+        "clbz": "需加盖企业公章或者申请人签字",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "情况说明",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783928923000,
+        "mtjfs": "4",
+        "pxh": 17.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "需加盖企业公章或者申请人签字",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "CBC509D9E32542CAB4152CBC67F2BF19",
+        "yjsSsqdId": "F0D38BE3871B45978DAF4D257EB63793",
+        "yqtgyj": "需加盖企业公章或者申请人签字",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1779780823000
+          }
+        ],
+        "bzclId": "M43TCP00220002",
+        "cjsj": 1779780823000,
+        "clbyx": "1",
+        "clbz": "营业执照",
+        "cllx": "2",
+        "cllyqd": "20",
+        "clmc": "营业执照",
+        "clxs": "4",
+        "clxz": "2",
+        "gxsj": 1783928923000,
+        "mtjfs": "4",
+        "pxh": 2.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "营业执照",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "879900F8FCB441E1BA3E3CB69FACF729",
+        "yjsSsqdId": "F0D38BE3871B45978DAF4D257EB63793",
+        "yqtgyj": "营业执照",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1779781546000
+          }
+        ],
+        "bzclId": "M43TCP00220005",
+        "cjsj": 1779781546000,
+        "clbyx": "1",
+        "clbz": "产品检验报告",
+        "cllx": "1",
+        "cllyqd": "10",
+        "clmc": "产品检验报告",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783928923000,
+        "mtjfs": "4",
+        "pxh": 5.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "产品检验报告",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "17DBB9A0994B4C1482AC5080391DBA48",
+        "yjsSsqdId": "F0D38BE3871B45978DAF4D257EB63793",
+        "yqtgyj": "产品检验报告",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1779780904000
+          }
+        ],
+        "bzclId": "M43TCP00220014",
+        "cjsj": 1779780904000,
+        "clbyx": "1",
+        "clbz": "证据目录请写好序号，注明页码；材料请在每页证据的右下角编写页码",
+        "cllx": "2",
+        "cllyqd": "10",
+        "cllyqdsm": "证据目录请写好序号，注明页码；材料请在每页证据的右下角编写页码",
+        "clmc": "证据材料",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1783928923000,
+        "mtjfs": "4",
+        "pxh": 14.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "证据目录请写好序号，注明页码；材料请在每页证据的右下角编写页码",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "29A7049403654344A7302EF775C7563D",
+        "yjsSsqdId": "F0D38BE3871B45978DAF4D257EB63793",
+        "yqtgyj": "证据目录请写好序号，注明页码；材料请在每页证据的右下角编写页码",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "证据目录请写好序号，注明页码；材料请在每页证据的右下角编写页码"
+      }
+    ],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "知识产权一件事流程图",
+      "blxs": "1",
+      "bszt": "2",
+      "cjrId": "A3cl2oibTSfia3PvzrpUU4Bg",
+      "cjsj": 1779779866000,
+      "cnbjsx": "90",
+      "dbsxccs": "1",
+      "dbsxcyyhhj": "暂无",
+      "dndtzdz": "政务服务网",
+      "gqbjlx": 2.0,
+      "gqblsx": 90.0,
+      "gqpdcs": 5.0,
+      "gqsbcl": 19.0,
+      "gxrId": "A3cl2oibTSfia3PvzrpUU4Bg",
+      "gxsj": 1779784786000,
+      "hjsgq": 4.0,
+      "hjsxz": 1.0,
+      "jgsdsm": "暂无",
+      "jsms": "1",
+      "lbjgId": "31,12",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "2",
+      "xsblqd": "1,2",
+      "xxbldsm": "各市州区县政务服务大厅",
+      "xxcktzdz": "政务服务网",
+      "xzbjlx": 2.0,
+      "xzblsx": 45.0,
+      "xzpdcs": 3.0,
+      "xzsbcl": 18.0,
+      "yddtzdz": "政务服务网",
+      "yjsMlBzhId": "1E344CCD34F84E4A8D16448A8DC340E6",
+      "yjsbsznId": "2EFFA70F25064E0D8BDC65207AB0BF48",
+      "ywzjfw": "0",
+      "zcblqd": "1,2,4",
+      "zcblqdWbdz": "政务服务网"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "知识产权维权援助",
+        "resultSampleName": "无",
+        "tyywblxName": "知识产权维权援助咨询"
+      },
+      {
+        "cnsxsx": 15.0,
+        "lbsxfwmc": "知识产权纠纷仲裁申请",
+        "resultSampleName": "",
+        "tyywblxName": "知识产权纠纷仲裁申请"
+      },
+      {
+        "cnsxsx": 15.0,
+        "lbsxfwmc": "地理标志专用标志使用申请",
+        "resultSampleName": "无",
+        "tyywblxName": "辖区内地理标志产品专用标志使用注册登记申请资料的初审及转报"
+      },
+      {
+        "cnsxsx": 45.0,
+        "lbsxfwmc": "知识产权支持资金申请",
+        "resultSampleName": "",
+        "tyywblxName": "知识产权支持资金申请"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "根据省级知识产权支持资金政策的文件要求，无其他禁止性受理条件。",
+        "cjsj": 1779780304000,
+        "processingConditions": "根据省级知识产权支持资金政策的文件要求，无其他禁止性受理条件。",
+        "pxh": 1.0,
+        "smmc": "知识产权支持资金申请",
+        "yjsBsznbltjId": "FDF595D278C849139DF306F49E75ED28",
+        "yjsbsznId": "2EFFA70F25064E0D8BDC65207AB0BF48",
+        "zt": "0"
+      },
+      {
+        "bltj": "（1）维权援助有明确的对象及具体的事实； （2）维权援助属于省内知识产权行政部门（包括专利管理部门、市场监督管理部门、版权管理部门、植物新品种管理部门、文化市场执法机构、城管执法机构、公安机关、海关）、知识产权公共服务机构（包括湖南省内知识产权保护中心、维权援助分支机构）的受案范围和管辖，对于涉及司法程序的案件，仅给予提供联系方式等一般性回复； （3）维权援助申请人应提供真实的申请材料；存在伪造申请材料、以不正当手段获得维权援助等情形的，维权援助服务将终止。",
+        "cjsj": 1779780320000,
+        "processingConditions": "（1）维权援助有明确的对象及具体的事实； （2）维权援助属于省内知识产权行政部门（包括专利管理部门、市场监督管理部门、版权管理部门、植物新品种管理部门、文化市场执法机构、城管执法机构、公安机关、海关）、知识产权公共服务机构（包括湖南省内知识产权保护中心、维权援助分支机构）的受案范围和管辖，对于涉及司法程序的案件，仅给予提供联系方式等一般性回复； （3）维权援助申请人应提供真实的申请材料；存在伪造申请材料、以不正当手段获得维权援助等情形的，维权援助服务将终止。",
+        "pxh": 2.0,
+        "smmc": "知识产权维权援助",
+        "yjsBsznbltjId": "61C03A16C0234229BE048A3ED5588CE2",
+        "yjsbsznId": "2EFFA70F25064E0D8BDC65207AB0BF48",
+        "zt": "0"
+      },
+      {
+        "bltj": "（1）申请人应是该地理标志产品产地范围内的生产者； （2）申请人的经营范围应包括种植、养殖、生产与该地理标志同类别的产品； （3）产品产自地理标志产品保护公告规定的特定地域范围； （4）产品符合地理标志产品保护公告规定的质量技术要求； （5）产品有已批准发布的国家标准、地方标准或团体标准。",
+        "cjsj": 1779780387000,
+        "processingConditions": "（1）申请人应是该地理标志产品产地范围内的生产者； （2）申请人的经营范围应包括种植、养殖、生产与该地理标志同类别的产品； （3）产品产自地理标志产品保护公告规定的特定地域范围； （4）产品符合地理标志产品保护公告规定的质量技术要求； （5）产品有已批准发布的国家标准、地方标准或团体标准。",
+        "pxh": 3.0,
+        "smmc": "地理标志专用标志使用申请",
+        "yjsBsznbltjId": "DD9543ABAC5D48E99E8E2815FE56B63E",
+        "yjsbsznId": "2EFFA70F25064E0D8BDC65207AB0BF48",
+        "zt": "0"
+      },
+      {
+        "bltj": "根据《中华人民共和国仲裁法》第三十二条　当事人申请仲裁应当符合下列条件： （1）有仲裁协议； （2）有具体的仲裁请求和事实、理由； （3）属于仲裁机构的受理范围。",
+        "cjsj": 1779780427000,
+        "processingConditions": "根据《中华人民共和国仲裁法》第三十二条　当事人申请仲裁应当符合下列条件： （1）有仲裁协议； （2）有具体的仲裁请求和事实、理由； （3）属于仲裁机构的受理范围。",
+        "pxh": 4.0,
+        "smmc": "知识产权纠纷仲裁申请",
+        "yjsBsznbltjId": "ACA483E730014384835F497A3E765EA2",
+        "yjsbsznId": "2EFFA70F25064E0D8BDC65207AB0BF48",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [],
+    "sxmc": "知识产权保护“一件事”",
+    "yjsSsqdbm": "43TCP0022226J0300",
+    "basicInfo": {
+      "aheadFrequency": "1",
+      "areaName": "湘潭市",
+      "completedLimit": "90",
+      "cooperateName": "司法部门,市监部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0731-52817047",
+      "lbjgId": "31,12",
+      "qtbmId": "cc20d69c465147c7a6be0cddb8f30a94",
+      "qtbmmc": "湘潭市市场监督管理局",
+      "reasonLink": "暂无",
+      "yjsssqdbsznid": "EC522FF06D9C4C358CB7F86F8DB7ED54",
+      "zxdh": "0731-52817048"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

@@ -1,0 +1,555 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [
+      {
+        "FEENAME": "临时号牌（纸质）",
+        "UNIFY_NAME": "申请特型车临时号牌",
+        "UNIFY_ID": "BNky_VsAQaSttWX6X0Fy4Q",
+        "FEESTAND": "5 元/证",
+        "CHARGE_BYLAW": "《关于发布湖南省公安系统行政事业性收费标准的通知》（湘发改价费规【2021】226号）",
+        "IS_MINUS": "否",
+        "CHARGE_ID": "7c5328006d424526b4722b414af8b549"
+      }
+    ],
+    "attachInfo": [
+      {
+        "cjsj": 1723629351000,
+        "fjId": "ITpWdWeGQc2aPX9N_aZDSA",
+        "fjbm": "100001",
+        "fjdx": 0.076,
+        "fjlj": "orchestrate/2024-08-14/1723629351254$$高效办成大件运输“一件事”审批流程图.png",
+        "fjlx": ".png",
+        "fjmc": "高效办成大件运输“一件事”审批流程图.png",
+        "s3tmc": "zwfw202408",
+        "sfyx": "Y",
+        "ywdxId": "97B7FB668B1B4AD5829798C89F80488C"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "资兴市政务服务中心",
+        "blsj": "法定工作日：夏季（5月1日—9月30日）：上午9:00—12:00,下午2:30—5:30；冬季（10月1日—4月30日）：上午9:00—12:00,下午2:00—5:00",
+        "cjsj": 1725439112023,
+        "gxsj": 1766980013000,
+        "infoAddr": "湖南省资兴市阳安路519号政务服务中心一楼A区8号窗口、二楼C83-86号\"高效办成一件事\"重点事项服务专区",
+        "pointName": "资兴市政务服务中心",
+        "processingTime": "法定工作日：夏季（5月1日—9月30日）：上午9:00—12:00,下午2:30—5:30；冬季（10月1日—4月30日）：上午9:00—12:00,下午2:00—5:00",
+        "pxh": 1,
+        "xxdz": "湖南省资兴市阳安路519号政务服务中心一楼A区8号窗口、二楼C83-86号\"高效办成一件事\"重点事项服务专区",
+        "yjsBldId": "F0B73EF2A483433189AFA21FD7C8293E",
+        "ywzjId": "1C560537D81C45D88846B035D2A71B4E",
+        "zt": "0"
+      }
+    ],
+    "materialList": [
+      {
+        "attachList": [
+          {
+            "cjsj": 1736250623000,
+            "fjId": "jynKHQQ7Qve7JVgiTmfHPQ",
+            "fjbm": "100002",
+            "fjdx": 0.017,
+            "fjlj": "orchestrate/2025-01-07/1736251289403$$大件运输授权委托书模板.docx",
+            "fjlx": ".docx",
+            "fjmc": "大件运输授权委托书模板.docx",
+            "s3tmc": "zwfw202501",
+            "sfyx": "Y",
+            "ywdxId": "C244F7C1BB984937B49BF6C9BE21D8CB"
+          },
+          {
+            "cjsj": 1736250623000,
+            "fjId": "acbniv2yRH-T-LkVlKF88A",
+            "fjbm": "100003",
+            "fjdx": 0.017,
+            "fjlj": "orchestrate/2025-01-07/1736251289741$$大件运输授权委托书模板.docx",
+            "fjlx": ".docx",
+            "fjmc": "大件运输授权委托书模板.docx",
+            "s3tmc": "zwfw202501",
+            "sfyx": "Y",
+            "ywdxId": "C244F7C1BB984937B49BF6C9BE21D8CB"
+          }
+        ],
+        "bzclId": "M43TC180010000020",
+        "cjsj": 1736250623000,
+        "clbyx": "1",
+        "clbz": "真实有效 盖公章",
+        "cljm": "0",
+        "cllx": "3",
+        "cllyqd": "10",
+        "cllyqdsm": "申请人自备",
+        "clmc": "授权委托书",
+        "clxs": "3",
+        "clxz": "3",
+        "gxsj": 1772136101000,
+        "mtjfs": "4",
+        "pxh": 5.0,
+        "sfxtmb": "0",
+        "sfykb": "1",
+        "sfyslb": "1",
+        "tbxz": "真实有效 盖公章",
+        "tgfs": "0",
+        "type": "1",
+        "yjsMlSsqdClId": "87E481BB8B69403FA64A6295D6D009BD",
+        "yjsSsqdId": "A01E381651A64C909230EDDF404AA2C9",
+        "yqtgyj": "《超限运输车辆行驶公路管理规定》",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1736250623000
+          }
+        ],
+        "bzclId": "M43TC180010000021",
+        "cjsj": 1736250623000,
+        "clbyx": "2",
+        "clbz": "材料齐全",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "20",
+        "cllyqdsm": "政府部门核发",
+        "clmc": "道路运输经营许可证",
+        "clxs": "3",
+        "clxz": "2",
+        "gxsj": 1772136101000,
+        "materialCode": "L1000004",
+        "materialTitle": "道路运输经营许可证",
+        "mtjfs": "2",
+        "mtjfssm": "通过绑定的电子证照材料，提供证照材料自动关联实现免提交",
+        "pxh": 6.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "按照法律法规规定应提交的材料",
+        "tgfs": "0",
+        "type": "1",
+        "yjsMlSsqdClId": "E5F1D4B4C75D486FA4109062B4D54D3D",
+        "yjsSsqdId": "A01E381651A64C909230EDDF404AA2C9",
+        "yqtgyj": "《超限运输车辆行驶公路管理规定》",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1736250623000
+          }
+        ],
+        "bzclId": "M43TC180010000022",
+        "cjsj": 1736250623000,
+        "clbyx": "2",
+        "clbz": "材料齐全，护送方案应当包含护送车辆配置方案、护送人员配备方案、护送路线情况说明、护送操作细则、异常情况处理等相关内容。",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "申请人自备",
+        "clmc": "护送委托书或护送方案",
+        "clxs": "3",
+        "clxz": "9",
+        "gxsj": 1772136101000,
+        "mtjfs": "4",
+        "pxh": 7.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "车货总高度从地面算起超过4、5米，或者总宽度超过3、75米，或者总长度超过28米，或者总质量超过100000千克，以及其他可能严重影响公路完好、安全、畅通情形时提供",
+        "tgfs": "0",
+        "type": "1",
+        "yjsMlSsqdClId": "BFA77DFFD7424895A27EE00A00BE2DF0",
+        "yjsSsqdId": "A01E381651A64C909230EDDF404AA2C9",
+        "yqtgyj": "《超限运输车辆行驶公路管理规定》",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1736250623000
+          }
+        ],
+        "bzclId": "M43TC180010000024",
+        "cjsj": 1736250623000,
+        "clbyx": "2",
+        "clbz": "真实有效",
+        "cljm": "0",
+        "cllx": "3",
+        "cllyqd": "10",
+        "cllyqdsm": "申请人自备",
+        "clmc": "其他申请材料",
+        "clxs": "3",
+        "clxz": "3",
+        "gxsj": 1772136101000,
+        "mtjfs": "4",
+        "pxh": 9.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "真实有效",
+        "tgfs": "0",
+        "type": "1",
+        "yjsMlSsqdClId": "ABF95CE275314060BF5AFBEDA8818D51",
+        "yjsSsqdId": "A01E381651A64C909230EDDF404AA2C9",
+        "yqtgyj": "《超限运输车辆行驶公路管理规定》",
+        "zt": "0",
+        "zzclfs": 1.0
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1736250623000
+          }
+        ],
+        "bzclId": "M43TC180010000016",
+        "cjsj": 1736250623000,
+        "clbyx": "2",
+        "clbz": "真实有效",
+        "cljm": "0",
+        "cllx": "3",
+        "cllyqd": "20",
+        "cllyqdsm": "政府部门核发",
+        "clmc": "经办人身份证（正反面）",
+        "clxs": "3",
+        "clxz": "2",
+        "gxsj": 1772136101000,
+        "materialCode": "L2000016",
+        "materialTitle": "中华人民共和国居民身份证",
+        "mtjfs": "2",
+        "mtjfssm": "通过绑定的电子证照材料，提供证照材料自动关联实现免提交",
+        "pxh": 1.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "真实有效",
+        "tgfs": "0",
+        "type": "1",
+        "yjsMlSsqdClId": "DC8E5D358C1C478899A91BCEE06F3940",
+        "yjsSsqdId": "A01E381651A64C909230EDDF404AA2C9",
+        "yqtgyj": "《超限运输车辆行驶公路管理规定》",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1736250623000
+          }
+        ],
+        "bzclId": "M43TC180010000023",
+        "cjsj": 1736250623000,
+        "clbyx": "2",
+        "clbz": "材料齐全",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "20",
+        "cllyqdsm": "政府部门核发",
+        "clmc": "法人身份证复印件",
+        "clxs": "3",
+        "clxz": "2",
+        "gxsj": 1772136101000,
+        "materialCode": "L2000016",
+        "materialTitle": "中华人民共和国居民身份证",
+        "mtjfs": "2",
+        "mtjfssm": "通过绑定的电子证照材料，提供证照材料自动关联实现免提交",
+        "pxh": 8.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "按照法律法规规定应提交的材料",
+        "tgfs": "0",
+        "type": "1",
+        "yjsMlSsqdClId": "5D013F96DA4640CEA40FDA05F3EEEDAE",
+        "yjsSsqdId": "A01E381651A64C909230EDDF404AA2C9",
+        "yqtgyj": "《超限运输车辆行驶公路管理规定》",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1736250623000
+          }
+        ],
+        "bzclId": "M43TC180010000018",
+        "cjsj": 1736250623000,
+        "clbyx": "2",
+        "clbz": "真实有效",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "20",
+        "cllyqdsm": "政府部门",
+        "clmc": "牵引车行驶证（主、附页）",
+        "clxs": "3",
+        "clxz": "2",
+        "gxsj": 1772136101000,
+        "materialCode": "L2000020",
+        "materialTitle": "中华人民共和国机动车行驶证",
+        "mtjfs": "2",
+        "mtjfssm": "通过绑定的电子证照材料，提供证照材料自动关联实现免提交",
+        "pxh": 3.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "真实有效",
+        "tgfs": "0",
+        "type": "1",
+        "yjsMlSsqdClId": "0FB28BED66B94E0F902447EE92494EC5",
+        "yjsSsqdId": "A01E381651A64C909230EDDF404AA2C9",
+        "yqtgyj": "《超限运输车辆行驶公路管理规定》",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1736250623000
+          }
+        ],
+        "bzclId": "M43TC180010000019",
+        "cjsj": 1736250623000,
+        "clbyx": "2",
+        "clbz": "真实有效",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "20",
+        "cllyqdsm": "政府部门",
+        "clmc": "挂车行驶证或临时行驶车号牌复印件（主、附页）",
+        "clxs": "3",
+        "clxz": "2",
+        "gxsj": 1772136101000,
+        "materialCode": "L2000020",
+        "materialTitle": "中华人民共和国机动车行驶证",
+        "mtjfs": "2",
+        "mtjfssm": "通过绑定的电子证照材料，提供证照材料自动关联实现免提交",
+        "pxh": 4.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "真实有效",
+        "tgfs": "0",
+        "type": "1",
+        "yjsMlSsqdClId": "402DAF511E98461D86761B4D7176038B",
+        "yjsSsqdId": "A01E381651A64C909230EDDF404AA2C9",
+        "yqtgyj": "《超限运输车辆行驶公路管理规定》",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1736250623000
+          }
+        ],
+        "bzclId": "M43TC180010000017",
+        "cjsj": 1736250623000,
+        "clbyx": "2",
+        "clbz": "材料齐全",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "自备",
+        "clmc": "记录载货时车货总体外廓尺寸信息的轮廓图",
+        "clxs": "3",
+        "clxz": "9",
+        "gxsj": 1772136101000,
+        "mtjfs": "4",
+        "pxh": 2.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "按照法律法规规定应提交的材料",
+        "tgfs": "0",
+        "type": "1",
+        "yjsMlSsqdClId": "B03CF1EF105F453DA187560DFFAEB011",
+        "yjsSsqdId": "A01E381651A64C909230EDDF404AA2C9",
+        "yqtgyj": "《超限运输车辆行驶公路管理规定》",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      }
+    ],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "大件运输一件事审批流程（省内跨市州、跨省件）",
+      "blxs": "1",
+      "bszt": "2",
+      "cjrId": "LxQia9cocRicia76WUqplFmQA",
+      "cjsj": 1721876535000,
+      "cnbjsx": "7",
+      "dbsxccs": "0",
+      "dbsxcyyhhj": "网上可办",
+      "dndtzdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_005_djys.jsp",
+      "gqbjlx": 2.0,
+      "gqblsx": 20.0,
+      "gqpdcs": 4.0,
+      "gqsbcl": 8.0,
+      "gxrId": "JxbFIYogQFGwUlHNQ1gDZA",
+      "gxsj": 1721876533000,
+      "hjsgq": 8.0,
+      "hjsxz": 5.0,
+      "jgsdsm": "可邮寄",
+      "jsms": "1",
+      "lbjgId": "18,09,17",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "2",
+      "xsblqd": "1,2",
+      "xxbldsm": "各级政务服务大厅窗口",
+      "xxcktzdz": "http://59.231.8.248/accept/#/",
+      "xzbjlx": 2.0,
+      "xzblsx": 7.0,
+      "xzpdcs": 0.0,
+      "xzsbcl": 5.0,
+      "yddtzdz": "https://mobile2.zwfw.hunan.gov.cn/lapp/onethingapp/#/topic/djysPage",
+      "yjsMlBzhId": "CBFA1F872E8347C6853089D3F29EF236",
+      "yjsbsznId": "97B7FB668B1B4AD5829798C89F80488C",
+      "ywzjfw": "0",
+      "zcblqd": "1,2,4",
+      "zcblqdWbdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_005_djys.jsp"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 7.0,
+        "lbsxfwmc": "超限运输车在省内高速公路、跨市州普通公路和城市道路上行驶审批",
+        "resultSampleName": "超限运输车辆行驶公路 通行证",
+        "tyywblxName": "超限运输车在省内高速公路、跨市州普通公路和城市道路上行驶审批"
+      },
+      {
+        "cnsxsx": 14.0,
+        "lbsxfwmc": "超限运输车在市州（县）内公路上行驶审批",
+        "resultSampleName": "超限运输车辆行驶公路 通行证",
+        "tyywblxName": "超限运输车在市州（县）内公路上行驶审批"
+      },
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "特殊车辆在城市道路上行驶（包括经过城市桥梁）审批",
+        "resultSampleName": "特殊车辆在城市道路上行驶（包括经过城市桥梁）审批意见书",
+        "tyywblxName": "特殊车辆在城市道路上行驶（包括经过城市桥梁）审批"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "特型机动车临时行驶证号牌核发",
+        "resultSampleName": "临时行驶车号牌",
+        "tyywblxName": "特型机动车临时行驶证号牌核发"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "《超限运输车辆行驶公路管理规定》（交通运输部令2016年第62号）第三条 本规定所称大件运输车辆是指在公路上行驶的、有右侧情形之一的运输车辆：",
+        "cjsj": 1723629431000,
+        "processingConditions": "《超限运输车辆行驶公路管理规定》（交通运输部令2016年第62号）第三条 本规定所称大件运输车辆是指在公路上行驶的、有右侧情形之一的运输车辆：",
+        "pxh": 1.0,
+        "smmc": "（一）车货总高度从地面算起超过4米； （二）车货总宽度超过2.55米； （三）车货总长度超过18.1米； （四）二轴货车，其车货总质量超过18000千克； （五）三轴货车，其车货总质量超过25000千克；三轴汽车列车，其车货总质量超过27000千克； （六）四轴货车，其车货总质量超过31000千克；四轴汽车列车，其车货总质量超过36000千克； （七）五轴汽车列车，其车货总质量超过43000千克； （八）六轴及六轴以上汽车列车，其车货总质量超过49000千克，其中牵引车驱动轴为单轴的，其车货总质量超过46000千克。",
+        "yjsBsznbltjId": "4143A06CEA2D4173A46343521512BD29",
+        "yjsbsznId": "97B7FB668B1B4AD5829798C89F80488C",
+        "zt": "0"
+      },
+      {
+        "bltj": "前款规定的限定标准的认定，还应当遵守的要求有：",
+        "cjsj": 1769585944000,
+        "processingConditions": "前款规定的限定标准的认定，还应当遵守的要求有：",
+        "pxh": 2.0,
+        "smmc": "（一）二轴组按照二个轴计算，三轴组按照三个轴计算；  （二）除驱动轴外，二轴组、三轴组以及半挂车和全挂车的车轴每侧轮胎按照双轮胎计算，若每轴每侧轮胎为单轮胎，限定标准减少3000千克，但安装符合国家有关标准的加宽轮胎的除外；  （三）车辆最大允许总质量不应超过各车轴最大允许轴荷之和；  （四）拖拉机、农用车、低速货车，以行驶证核定的总质量为限定标准；  （五）符合《汽车、挂车及汽车列车外廓尺寸、轴荷及质量限值》（GB1589）规定的冷藏车、汽车列车、安装空气悬架的车辆，以及专用作业车，不认定为超限运输车辆。",
+        "yjsBsznbltjId": "7FE732A438604ADA8EF9E68FEF07CA2B",
+        "yjsbsznId": "97B7FB668B1B4AD5829798C89F80488C",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [
+      {
+        "answer": "1.有与其经营业务相适应并经检测合格的车辆；\n2.有符合规定条件的驾驶人员； \n3.有健全的安全生产管理制度。",
+        "da": "1.有与其经营业务相适应并经检测合格的车辆；\n2.有符合规定条件的驾驶人员； \n3.有健全的安全生产管理制度。",
+        "problem": "申请从事道路货物运输经营许可的条件有什么？",
+        "pxh": 0.0,
+        "wt": "申请从事道路货物运输经营许可的条件有什么？",
+        "yjsMlSsqdQuestionId": "4CB5EBAC70404D7AB0524FA816730CD8",
+        "yjsSsqdId": "A01E381651A64C909230EDDF404AA2C9"
+      },
+      {
+        "answer": "1.车辆需登记在经营业户名下； \n2.车辆使用性质为货运；\n3.车辆检测合格，车辆技术等级应当达到二级以上； 4.车辆达标核查符合要求；\n5.总质量12吨及以上的普通货运车辆应安装动态监控定位 装置并接入监控平台；\n6.车型符合实际经营需要。",
+        "da": "1.车辆需登记在经营业户名下； \n2.车辆使用性质为货运；\n3.车辆检测合格，车辆技术等级应当达到二级以上； 4.车辆达标核查符合要求；\n5.总质量12吨及以上的普通货运车辆应安装动态监控定位 装置并接入监控平台；\n6.车型符合实际经营需要。",
+        "problem": "申请普通道路货物运输车辆《道路运输证》配发的条件有什么？",
+        "pxh": 1.0,
+        "wt": "申请普通道路货物运输车辆《道路运输证》配发的条件有什么？",
+        "yjsMlSsqdQuestionId": "6A576A88C7DE4CFEBEEAD0294F022CFA",
+        "yjsSsqdId": "A01E381651A64C909230EDDF404AA2C9"
+      },
+      {
+        "answer": "1.申请开办道路货运企业申请表; \n2.①法定代表人身份证 ②经办人身份证 ③授权委托书;\n3.①已购、拟购车辆信息表 ②机动车行驶证 ③机动车登记证书 ④机动车安全技术检验报告(含车辆技术等级) ⑤道路运输达标车辆核查记录表 ⑥车辆45°角照片 ⑦车辆实时位置点位(符合标准的卫星定位装置安装证明，总质量12吨及以上车辆提供);或拟投入运输车辆的承诺书；\n4.①聘用或者拟聘用驾驶员信息表;聘用或者拟聘用驾驶员的机动车驾驶证 ②驾驶员从业资格证；\n5.安全生产管理制度文本（个体工商户提交安全运营承诺书）。",
+        "da": "1.申请开办道路货运企业申请表; \n2.①法定代表人身份证 ②经办人身份证 ③授权委托书;\n3.①已购、拟购车辆信息表 ②机动车行驶证 ③机动车登记证书 ④机动车安全技术检验报告(含车辆技术等级) ⑤道路运输达标车辆核查记录表 ⑥车辆45°角照片 ⑦车辆实时位置点位(符合标准的卫星定位装置安装证明，总质量12吨及以上车辆提供);或拟投入运输车辆的承诺书；\n4.①聘用或者拟聘用驾驶员信息表;聘用或者拟聘用驾驶员的机动车驾驶证 ②驾驶员从业资格证；\n5.安全生产管理制度文本（个体工商户提交安全运营承诺书）。",
+        "problem": "申请从事道路货物运输经营许可的材料有什么？",
+        "pxh": 2.0,
+        "wt": "申请从事道路货物运输经营许可的材料有什么？",
+        "yjsMlSsqdQuestionId": "7F23011B9FE1410A8BFF3290074B238A",
+        "yjsSsqdId": "A01E381651A64C909230EDDF404AA2C9"
+      },
+      {
+        "answer": "1.机动车登记证书; \n2.机动车行驶证;\n3.检测站上传符合要求的检测数据;\n4.《道路运输证》配发表；\n5.车辆45°角照片;   \n6.车辆转籍、过户证明(转籍、过户车辆提供)。",
+        "da": "1.机动车登记证书; \n2.机动车行驶证;\n3.检测站上传符合要求的检测数据;\n4.《道路运输证》配发表；\n5.车辆45°角照片;   \n6.车辆转籍、过户证明(转籍、过户车辆提供)。",
+        "problem": "申请普通道路货物运输车辆《道路运输证》的材料有什么？",
+        "pxh": 3.0,
+        "wt": "申请普通道路货物运输车辆《道路运输证》的材料有什么？",
+        "yjsMlSsqdQuestionId": "C1A18B431074440A9DA9A60D21D36EAF",
+        "yjsSsqdId": "A01E381651A64C909230EDDF404AA2C9"
+      },
+      {
+        "answer": "使用总质量4.5吨及以下普通货运车辆从事普通货运经营的，无需申请取得道路运输经营许可。",
+        "da": "使用总质量4.5吨及以下普通货运车辆从事普通货运经营的，无需申请取得道路运输经营许可。",
+        "problem": "使用总质量4.5吨及以下普通货运车辆从事普通货运经营的，需申请办理货运经营许可吗？",
+        "pxh": 4.0,
+        "wt": "使用总质量4.5吨及以下普通货运车辆从事普通货运经营的，需申请办理货运经营许可吗？",
+        "yjsMlSsqdQuestionId": "52EC9CB3502C47AA84E3D3390988654F",
+        "yjsSsqdId": "A01E381651A64C909230EDDF404AA2C9"
+      },
+      {
+        "answer": "使用总质量4.5吨及以下普通货运车辆从事普通货物运输的，无需申请取得车辆道路运输证。",
+        "da": "使用总质量4.5吨及以下普通货运车辆从事普通货物运输的，无需申请取得车辆道路运输证。",
+        "problem": "使用总质量4.5吨及以下普通货运车辆从事普通货运的，需申请办理车辆道路运输证吗？",
+        "pxh": 5.0,
+        "wt": "使用总质量4.5吨及以下普通货运车辆从事普通货运的，需申请办理车辆道路运输证吗？",
+        "yjsMlSsqdQuestionId": "35082FF6F6B84F718B76C5DFBF59820E",
+        "yjsSsqdId": "A01E381651A64C909230EDDF404AA2C9"
+      },
+      {
+        "answer": "https://zwfw-new.hunan.gov.cn/hnzwfw/1/index.htm",
+        "da": "https://zwfw-new.hunan.gov.cn/hnzwfw/1/index.htm",
+        "problem": "省政务服务网网址",
+        "pxh": 6.0,
+        "wt": "省政务服务网网址",
+        "yjsMlSsqdQuestionId": "74CB98D839CF4838AABB9CD40D5B1382",
+        "yjsSsqdId": "A01E381651A64C909230EDDF404AA2C9"
+      }
+    ],
+    "sxmc": "大件运输一件事",
+    "yjsSsqdbm": "43TC18001000225J1081",
+    "basicInfo": {
+      "aheadFrequency": "0",
+      "areaName": "资兴市",
+      "completedLimit": "7",
+      "cooperateName": "公安部门,住建部门,交通部门",
+      "isCharge": "1",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0735-12345",
+      "lbjgId": "18,09,17",
+      "qtbmId": "1VjE6DcKSteflfee0PUneQ",
+      "qtbmmc": "资兴市交通运输局",
+      "reasonLink": "网上可办",
+      "yjsssqdbsznid": "1C560537D81C45D88846B035D2A71B4E",
+      "zxdh": "0735-3232580"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

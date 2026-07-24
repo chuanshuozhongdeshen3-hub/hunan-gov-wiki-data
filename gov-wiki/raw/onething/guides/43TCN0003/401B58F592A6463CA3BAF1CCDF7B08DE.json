@@ -1,0 +1,705 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1722216774000,
+        "fjId": "_yUrNCVKRyWzuWpzKX8NCg",
+        "fjbm": "100001",
+        "fjdx": 0.062,
+        "fjlj": "orchestrate/2024-07-29/1722216774111$$开餐饮店.png",
+        "fjlx": ".png",
+        "fjmc": "开餐饮店.png",
+        "s3tmc": "zwfw202407",
+        "sfyx": "Y",
+        "ywdxId": "C900CED952764B6B83666B59848E86CE"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "醴陵市来龙门市场监督管理所",
+        "blsj": "法定工作日 上午9：00-12：00        下午13：00-17：00",
+        "cjsj": 1724916368548,
+        "gxsj": 1724916391000,
+        "infoAddr": "醴陵市瓷城大道75号天玺大厦2楼办证大厅",
+        "pointName": "醴陵市来龙门市场监督管理所",
+        "processingTime": "法定工作日 上午9：00-12：00        下午13：00-17：00",
+        "pxh": 1,
+        "xxdz": "醴陵市瓷城大道75号天玺大厦2楼办证大厅",
+        "yjsBldId": "35131417FC574AA096C22B22F86B6FCB",
+        "ywzjId": "ED92B834BB5B409D97AE7665B686FC4E",
+        "zt": "0"
+      },
+      {
+        "bldmc": "醴陵市阳三石市场监督管理所",
+        "blsj": "法定工作日 上午9：00-12：00        下午13：00-17：00",
+        "cjsj": 1724916406803,
+        "gxsj": 1724916406000,
+        "infoAddr": "醴陵市阳三石街道办事处体育横路北街1号",
+        "pointName": "醴陵市阳三石市场监督管理所",
+        "processingTime": "法定工作日 上午9：00-12：00        下午13：00-17：00",
+        "pxh": 2,
+        "xxdz": "醴陵市阳三石街道办事处体育横路北街1号",
+        "yjsBldId": "8F26308E2E2C4E85A75E54352230CE8C",
+        "ywzjId": "ED92B834BB5B409D97AE7665B686FC4E",
+        "zt": "0"
+      },
+      {
+        "bldmc": "醴陵市国瓷市场监督管理所",
+        "blsj": "法定工作日 上午9：00-12：00        下午13：00-17：00",
+        "cjsj": 1724916529799,
+        "gxsj": 1724916529000,
+        "infoAddr": "醴陵市国瓷街道玉瓷路",
+        "pointName": "醴陵市国瓷市场监督管理所",
+        "processingTime": "法定工作日 上午9：00-12：00        下午13：00-17：00",
+        "pxh": 3,
+        "xxdz": "醴陵市国瓷街道玉瓷路",
+        "yjsBldId": "B9EE53064D7A420A815F1D2D431E39D9",
+        "ywzjId": "ED92B834BB5B409D97AE7665B686FC4E",
+        "zt": "0"
+      },
+      {
+        "bldmc": "醴陵市仙岳山市场监督管理所",
+        "blsj": "法定工作日 上午9：00-12：00        下午13：00-17：00",
+        "cjsj": 1724916550753,
+        "gxsj": 1724916550000,
+        "infoAddr": "醴陵市仙岳山街道左权路191号",
+        "pointName": "醴陵市仙岳山市场监督管理所",
+        "processingTime": "法定工作日 上午9：00-12：00        下午13：00-17：00",
+        "pxh": 4,
+        "xxdz": "醴陵市仙岳山街道左权路191号",
+        "yjsBldId": "B3B256685B574541811E52513A99C1DB",
+        "ywzjId": "ED92B834BB5B409D97AE7665B686FC4E",
+        "zt": "0"
+      },
+      {
+        "bldmc": "醴陵市泗汾市场监督管理所",
+        "blsj": "法定工作日 上午9：00-12：00        下午13：00-17：00",
+        "cjsj": 1724916562891,
+        "gxsj": 1724916562000,
+        "infoAddr": "醴陵市泗汾镇双塘社区G106国道旁",
+        "pointName": "醴陵市泗汾市场监督管理所",
+        "processingTime": "法定工作日 上午9：00-12：00        下午13：00-17：00",
+        "pxh": 5,
+        "xxdz": "醴陵市泗汾镇双塘社区G106国道旁",
+        "yjsBldId": "4FF128D7DF2740C3B2AD9EBA60E9C2C6",
+        "ywzjId": "ED92B834BB5B409D97AE7665B686FC4E",
+        "zt": "0"
+      },
+      {
+        "bldmc": "醴陵市明月市场监督管理所",
+        "blsj": "法定工作日 上午9：00-12：00        下午13：00-17：00",
+        "cjsj": 1724916583889,
+        "gxsj": 1724916583000,
+        "infoAddr": "醴陵市B28县道与B29县道交叉口北200米1楼办证大厅",
+        "pointName": "醴陵市明月市场监督管理所",
+        "processingTime": "法定工作日 上午9：00-12：00        下午13：00-17：00",
+        "pxh": 6,
+        "xxdz": "醴陵市B28县道与B29县道交叉口北200米1楼办证大厅",
+        "yjsBldId": "E126FDDB59E84913BBF863E067FA0BA3",
+        "ywzjId": "ED92B834BB5B409D97AE7665B686FC4E",
+        "zt": "0"
+      },
+      {
+        "bldmc": "醴陵市茶山市场监督管理所",
+        "blsj": "法定工作日 上午9：00-12：00        下午13：00-17：00",
+        "cjsj": 1724916597521,
+        "gxsj": 1724916597000,
+        "infoAddr": "醴陵市茶山镇长沙岭居委会台子组",
+        "pointName": "醴陵市茶山市场监督管理所",
+        "processingTime": "法定工作日 上午9：00-12：00        下午13：00-17：00",
+        "pxh": 7,
+        "xxdz": "醴陵市茶山镇长沙岭居委会台子组",
+        "yjsBldId": "285E650A6E284E4AB3A12E7CFF93737E",
+        "ywzjId": "ED92B834BB5B409D97AE7665B686FC4E",
+        "zt": "0"
+      },
+      {
+        "bldmc": "醴陵市均楚市场监督管理所",
+        "blsj": "法定工作日 上午9：00-12：00        下午13：00-17：00",
+        "cjsj": 1724916613499,
+        "gxsj": 1724916613000,
+        "infoAddr": "醴陵市均楚镇金山居委会新街组一楼 办证大厅",
+        "pointName": "醴陵市均楚市场监督管理所",
+        "processingTime": "法定工作日 上午9：00-12：00        下午13：00-17：00",
+        "pxh": 8,
+        "xxdz": "醴陵市均楚镇金山居委会新街组一楼 办证大厅",
+        "yjsBldId": "7F4C64256AF04761BCBC2F6362DC1756",
+        "ywzjId": "ED92B834BB5B409D97AE7665B686FC4E",
+        "zt": "0"
+      },
+      {
+        "bldmc": "醴陵市板杉市场监督管理所",
+        "blsj": "法定工作日 上午9：00-12：00        下午13：00-17：00",
+        "cjsj": 1724916626415,
+        "gxsj": 1724916626000,
+        "infoAddr": "醴陵市国瓷街道玉瓷路",
+        "pointName": "醴陵市板杉市场监督管理所",
+        "processingTime": "法定工作日 上午9：00-12：00        下午13：00-17：00",
+        "pxh": 9,
+        "xxdz": "醴陵市国瓷街道玉瓷路",
+        "yjsBldId": "B42946E9955F4488860FED52F6248190",
+        "ywzjId": "ED92B834BB5B409D97AE7665B686FC4E",
+        "zt": "0"
+      },
+      {
+        "bldmc": "醴陵市枫林市场监督管理所",
+        "blsj": "法定工作日 上午9：00-12：00        下午13：00-17：00",
+        "cjsj": 1724916638674,
+        "gxsj": 1724916638000,
+        "infoAddr": "醴陵市枫林镇黄獭嘴社区居委会刘家园组",
+        "pointName": "醴陵市枫林市场监督管理所",
+        "processingTime": "法定工作日 上午9：00-12：00        下午13：00-17：00",
+        "pxh": 10,
+        "xxdz": "醴陵市枫林镇黄獭嘴社区居委会刘家园组",
+        "yjsBldId": "D3F8EB10967948AA8B2994A4CE0E8097",
+        "ywzjId": "ED92B834BB5B409D97AE7665B686FC4E",
+        "zt": "0"
+      },
+      {
+        "bldmc": "醴陵市王仙市场监督管理所",
+        "blsj": "法定工作日 上午9：00-12：00        下午13：00-17：00",
+        "cjsj": 1724916652780,
+        "gxsj": 1724916652000,
+        "infoAddr": "醴陵市王仙镇王仙社区仙洞街",
+        "pointName": "醴陵市王仙市场监督管理所",
+        "processingTime": "法定工作日 上午9：00-12：00        下午13：00-17：00",
+        "pxh": 11,
+        "xxdz": "醴陵市王仙镇王仙社区仙洞街",
+        "yjsBldId": "1732542C36A6419684F2FBF46524EA0D",
+        "ywzjId": "ED92B834BB5B409D97AE7665B686FC4E",
+        "zt": "0"
+      },
+      {
+        "bldmc": "醴陵市白免潭市场监督管理所",
+        "blsj": "法定工作日 上午9：00-12：00        下午13：00-17：00",
+        "cjsj": 1724916667706,
+        "gxsj": 1724916667000,
+        "infoAddr": "醴陵市白兔潭镇金牛路",
+        "pointName": "醴陵市白免潭市场监督管理所",
+        "processingTime": "法定工作日 上午9：00-12：00        下午13：00-17：00",
+        "pxh": 12,
+        "xxdz": "醴陵市白兔潭镇金牛路",
+        "yjsBldId": "7D6D804A2D92428585599A78A68E3A58",
+        "ywzjId": "ED92B834BB5B409D97AE7665B686FC4E",
+        "zt": "0"
+      },
+      {
+        "bldmc": "G020号窗口",
+        "blsj": "法定工作日 上午9：00-12：00        下午13：00-17：00",
+        "cjsj": 1724917284439,
+        "gxsj": 1760944921000,
+        "infoAddr": "醴陵市市民中心二号楼二楼商事登记区开办餐饮一件事窗口",
+        "pointName": "G020号窗口",
+        "processingTime": "法定工作日 上午9：00-12：00        下午13：00-17：00",
+        "pxh": 13,
+        "xxdz": "醴陵市市民中心二号楼二楼商事登记区开办餐饮一件事窗口",
+        "yjsBldId": "A7FD6468CD214FD19FEAE3A5F4331722",
+        "ywzjId": "ED92B834BB5B409D97AE7665B686FC4E",
+        "zt": "0"
+      }
+    ],
+    "materialList": [
+      {
+        "attachList": [
+          {
+            "cjsj": 1724124700000
+          },
+          {
+            "cjsj": 1724124700000
+          }
+        ],
+        "bzclId": "M43TCN00030003",
+        "cjsj": 1724124700000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "与食品经营相适应的主要设各设施布局、操作流程等文件",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783713635000,
+        "mtjfs": "4",
+        "pxh": 3.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "A249CA68B0A64AB6A193A18D8F6A6AEE",
+        "yjsSsqdId": "401B58F592A6463CA3BAF1CCDF7B08DE",
+        "yqtgyj": "食品安全相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1724124677000
+          },
+          {
+            "cjsj": 1724124677000
+          }
+        ],
+        "bzclId": "M43TCN00030002",
+        "cjsj": 1724124677000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "2",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "开办餐饮店“一件事”承诺书",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783713635000,
+        "mtjfs": "4",
+        "pxh": 2.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "9661136733E742979FA7C9074715578A",
+        "yjsSsqdId": "401B58F592A6463CA3BAF1CCDF7B08DE",
+        "yqtgyj": "食品安全相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1724125248000
+          },
+          {
+            "cjsj": 1724125248000
+          }
+        ],
+        "bzclId": "M43TCN00030011",
+        "cjsj": 1724125248000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "2",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "场所合法使用证明",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783713635000,
+        "mtjfs": "4",
+        "pxh": 11.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "D49D674994224925A947804CB717E77E",
+        "yjsSsqdId": "401B58F592A6463CA3BAF1CCDF7B08DE",
+        "yqtgyj": "食品安全相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1724125173000
+          },
+          {
+            "cjsj": 1724125173000
+          }
+        ],
+        "bzclId": "M43TCN00030010",
+        "cjsj": 1724125173000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "3",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "消防安全制度（告知承诺制流程/一般流程）",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783713635000,
+        "mtjfs": "4",
+        "pxh": 10.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "948327E80B884D76BF1CD7B7FCAD7EA5",
+        "yjsSsqdId": "401B58F592A6463CA3BAF1CCDF7B08DE",
+        "yqtgyj": "食品安全相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1724125126000
+          },
+          {
+            "cjsj": 1724125126000
+          }
+        ],
+        "bzclId": "M43TCN00030009",
+        "cjsj": 1724125126000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "场所消防设施平面图（告知承诺制流程/一般流程）",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783713635000,
+        "mtjfs": "4",
+        "pxh": 9.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "6967F03868C641D298C0F19CBD22B1AF",
+        "yjsSsqdId": "401B58F592A6463CA3BAF1CCDF7B08DE",
+        "yqtgyj": "食品安全相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1724124889000
+          },
+          {
+            "cjsj": 1724124889000
+          }
+        ],
+        "bzclId": "M43TCN00030007",
+        "cjsj": 1724124889000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "灭火和应急疏散预案（告知承诺制流程/一般流程）",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783713635000,
+        "mtjfs": "4",
+        "pxh": 7.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "2D5533D45EAB4653860952EC4916FFA2",
+        "yjsSsqdId": "401B58F592A6463CA3BAF1CCDF7B08DE",
+        "yqtgyj": "食品安全相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1724124913000
+          },
+          {
+            "cjsj": 1724124913000
+          }
+        ],
+        "bzclId": "M43TCN00030008",
+        "cjsj": 1724124913000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "场所平面布置图（告知承诺制流程/一般流程）",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783713635000,
+        "mtjfs": "4",
+        "pxh": 8.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "036365D091C74B19B59C94C0E3C1ED2A",
+        "yjsSsqdId": "401B58F592A6463CA3BAF1CCDF7B08DE",
+        "yqtgyj": "食品安全相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1724124645000
+          },
+          {
+            "cjsj": 1724124645000
+          }
+        ],
+        "bzclId": "M43TCN00030001",
+        "cjsj": 1724124645000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "开办餐饮店“一件事”申请书",
+        "clxs": "2",
+        "clxz": "3",
+        "gxsj": 1783713635000,
+        "mtjfs": "4",
+        "pxh": 1.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "BED6D30DB2C142E5B1516CB8BA03A313",
+        "yjsSsqdId": "401B58F592A6463CA3BAF1CCDF7B08DE",
+        "yqtgyj": "食品安全相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1724124721000
+          },
+          {
+            "cjsj": 1724124721000
+          }
+        ],
+        "bzclId": "M43TCN00030004",
+        "cjsj": 1724124721000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "食品安全自查、从业人员健康管理、进货查验记录、食品安全事故处置等保证食品安全的规章制度目录清单",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783713635000,
+        "mtjfs": "4",
+        "pxh": 4.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "34E70B08E24C41F982E5D7E9C5B1B7D2",
+        "yjsSsqdId": "401B58F592A6463CA3BAF1CCDF7B08DE",
+        "yqtgyj": "食品安全相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1724124750000
+          },
+          {
+            "cjsj": 1724124750000
+          }
+        ],
+        "bzclId": "M43TCN00030005",
+        "cjsj": 1724124750000,
+        "clbyx": "2",
+        "clbz": "资料齐全符合法定形式",
+        "cljm": "0",
+        "cllx": "3",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "消防安全检查申报表 （一般流程）",
+        "clxs": "4",
+        "clxz": "3",
+        "gxsj": 1783713635000,
+        "mtjfs": "4",
+        "pxh": 5.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "211AE1BAA8F24557915881E1F7B09CB5",
+        "yjsSsqdId": "401B58F592A6463CA3BAF1CCDF7B08DE",
+        "yqtgyj": "食品安全相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      }
+    ],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "开办餐饮店一件事流程图",
+      "blxs": "1",
+      "bszt": "0",
+      "cjrId": "EzUt3u38Swa4yxTJsticp3Q",
+      "cjsj": 1722216335000,
+      "cnbjsx": "4",
+      "dbsxccs": "1",
+      "dbsxcyyhhj": "无",
+      "dndtzdz": "https://hnscjgj.amr.hunan.gov.cn:9080/qykb/",
+      "gqbjlx": 2.0,
+      "gqblsx": 37.0,
+      "gqpdcs": 5.0,
+      "gqsbcl": 32.0,
+      "gxrId": "EzUt3u38Swa4yxTJsticp3Q",
+      "gxsj": 1722216335000,
+      "hjsgq": 4.0,
+      "hjsxz": 1.0,
+      "jgsdsm": "结果物可采用邮寄或现场领取两种方式",
+      "jsms": "2",
+      "lbjgId": "31,17,25",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "2",
+      "xsblqd": "1",
+      "xxbldsm": "请到对应层级的市场监管部门办理",
+      "xxcktzdz": "https://hnscjgj.amr.hunan.gov.cn:9080/qykb/",
+      "xzbjlx": 2.0,
+      "xzblsx": 4.0,
+      "xzpdcs": 1.0,
+      "xzsbcl": 10.0,
+      "yjsMlBzhId": "E8A4ECEA4B1D44F18A9B95E3FEC5531C",
+      "yjsbsznId": "C900CED952764B6B83666B59848E86CE",
+      "ywzjfw": "0",
+      "zcblqd": "1,4",
+      "zcblqdWbdz": "https://zwfw-new.hunan.gov.cn/onething/v5plus/ztjd_24_006_kbcyd.jsp"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "企业营业执照信息核验",
+        "resultSampleName": "",
+        "tyywblxName": "企业营业执照信息核验"
+      },
+      {
+        "cnsxsx": 10.0,
+        "lbsxfwmc": "《食品小经营许可证》新办",
+        "resultSampleName": "食品小经营许可证",
+        "tyywblxName": "《食品小经营许可证》新办"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "公众聚集场所投入使用、营业前消防安全检查（告知承诺制流程）",
+        "resultSampleName": "公众聚集场所投入使用、营业前消防安检检查意见书/不同意投入使用、营业决定书",
+        "tyywblxName": "公众聚集场所投入使用、营业前消防安全检查（告知承诺制流程）"
+      },
+      {
+        "cnsxsx": 10.0,
+        "lbsxfwmc": "公众聚集场所投入使用、营业前消防安全检查（一般流程）",
+        "resultSampleName": "公众聚集场所投入使用、营业前消防安检检查意见书/不同意投入使用、营业决定书",
+        "tyywblxName": "公众聚集场所投入使用、营业前消防安全检查（一般流程）"
+      },
+      {
+        "cnsxsx": 10.0,
+        "lbsxfwmc": "《食品经营许可证》新办",
+        "resultSampleName": "食品经营许可证",
+        "tyywblxName": "《食品经营许可证》新办"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "户外招牌设施规范管理",
+        "resultSampleName": "",
+        "tyywblxName": "户外招牌设施规范管理"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "符合申请要求",
+        "cjsj": 1722217423000,
+        "processingConditions": "符合申请要求",
+        "pxh": 1.0,
+        "smmc": "符合申请要求",
+        "yjsBsznbltjId": "53340B617D1E4B62B3DE6247C39962A7",
+        "yjsbsznId": "C900CED952764B6B83666B59848E86CE",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [
+      {
+        "answer": "营业执照信息核验、食品经营许可证（小餐饮经营许可证）核发、户外招牌设施设置规范管理、公众聚集场所投入使用、营业前消防安全检查",
+        "da": "营业执照信息核验、食品经营许可证（小餐饮经营许可证）核发、户外招牌设施设置规范管理、公众聚集场所投入使用、营业前消防安全检查",
+        "problem": "开办餐饮店一件事可提供的联办事项",
+        "pxh": 0.0,
+        "wt": "开办餐饮店一件事可提供的联办事项",
+        "yjsMlSsqdQuestionId": "893AC4317551487C989427849F0B565E",
+        "yjsSsqdId": "401B58F592A6463CA3BAF1CCDF7B08DE"
+      },
+      {
+        "answer": "已取得本省内登记注册的经营主体，具有符合食品安全相关规定和消防安全相关规定的经营场所。",
+        "da": "已取得本省内登记注册的经营主体，具有符合食品安全相关规定和消防安全相关规定的经营场所。",
+        "problem": "开办餐饮店一件事办理的条件",
+        "pxh": 1.0,
+        "wt": "开办餐饮店一件事办理的条件",
+        "yjsMlSsqdQuestionId": "08EFAC73DACE424E96076DFF632CEC07",
+        "yjsSsqdId": "401B58F592A6463CA3BAF1CCDF7B08DE"
+      },
+      {
+        "answer": "根据实际情况，对符合条件的部分，可正常发放相应许可证书。不符合部分，完成整改后，再单独向相应部门申请再次核查。",
+        "da": "根据实际情况，对符合条件的部分，可正常发放相应许可证书。不符合部分，完成整改后，再单独向相应部门申请再次核查。",
+        "problem": "联合核查中，某一个部门检查不通过的，影响联办结果吗？",
+        "pxh": 2.0,
+        "wt": "联合核查中，某一个部门检查不通过的，影响联办结果吗？",
+        "yjsMlSsqdQuestionId": "45D6B5BE93284DA2881DE042D53C1B2B",
+        "yjsSsqdId": "401B58F592A6463CA3BAF1CCDF7B08DE"
+      }
+    ],
+    "sxmc": "开办餐饮店一件事",
+    "yjsSsqdbm": "43TCN0003225J0281",
+    "basicInfo": {
+      "aheadFrequency": "1",
+      "areaName": "醴陵市",
+      "completedLimit": "4",
+      "cooperateName": "住建部门,应急部门,市监部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0731-23233600",
+      "lbjgId": "31,17,25",
+      "qtbmId": "df6f2df94e8f47baa84e623bd9365fe0",
+      "qtbmmc": "醴陵市市场监督管理局",
+      "reasonLink": "无",
+      "yjsssqdbsznid": "ED92B834BB5B409D97AE7665B686FC4E",
+      "zxdh": "0731-23243511(企业登记)、0731-23236777(食品经营)"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "431322500999",
+      "benji": "1",
+      "orgId": "ia3jv7DLSSnWUb4zS1dFgRQ",
+      "orgLevel": "4",
+      "orgName": "新化县大熊山国有林场本级",
+      "orgShowName": "新化县大熊山国有林场本级",
+      "orgSn": "999",
+      "parentCode": "431322500000",
+      "parentId": "CR12qZDMTQKZRq4542Bu6w",
+      "parentName": "新化县大熊山国有林场",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431322500204",
+      "benji": "0",
+      "orgId": "iahmkmkYPSWmwibr6Fpu5XVA",
+      "orgLevel": "5",
+      "orgName": "新化县大熊山国有林场锡溪村委会",
+      "orgShowName": "锡溪村",
+      "orgSn": "999",
+      "parentCode": "431322500000",
+      "parentId": "CR12qZDMTQKZRq4542Bu6w",
+      "parentName": "新化县大熊山国有林场",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431322500209",
+      "benji": "0",
+      "orgId": "RyyOe5bwSda0ia4psNjcGYw",
+      "orgLevel": "5",
+      "orgName": "新化县大熊山国有林场金龙村委会",
+      "orgShowName": "金龙村",
+      "orgSn": "999",
+      "parentCode": "431322500000",
+      "parentId": "CR12qZDMTQKZRq4542Bu6w",
+      "parentName": "新化县大熊山国有林场",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431322500210",
+      "benji": "0",
+      "orgId": "mibft4xtXR2KtDFvdiamwbzQ",
+      "orgLevel": "5",
+      "orgName": "新化县大熊山国有林场大礼村委会",
+      "orgShowName": "大礼村",
+      "orgSn": "999",
+      "parentCode": "431322500000",
+      "parentId": "CR12qZDMTQKZRq4542Bu6w",
+      "parentName": "新化县大熊山国有林场",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431322500211",
+      "benji": "0",
+      "orgId": "iabqhuvibTSZyTTw7Y6RAaNQ",
+      "orgLevel": "5",
+      "orgName": "新化县大熊山国有林场高峰湖村委会",
+      "orgShowName": "高峰湖村",
+      "orgSn": "999",
+      "parentCode": "431322500000",
+      "parentId": "CR12qZDMTQKZRq4542Bu6w",
+      "parentName": "新化县大熊山国有林场",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431322500212",
+      "benji": "0",
+      "orgId": "tqHtwDVtQ3iaICvxF68vvQw",
+      "orgLevel": "5",
+      "orgName": "新化县大熊山国有林场蚩尤村委会",
+      "orgShowName": "蚩尤村",
+      "orgSn": "999",
+      "parentCode": "431322500000",
+      "parentId": "CR12qZDMTQKZRq4542Bu6w",
+      "parentName": "新化县大熊山国有林场",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

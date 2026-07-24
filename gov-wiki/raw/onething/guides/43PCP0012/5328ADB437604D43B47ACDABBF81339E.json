@@ -1,0 +1,176 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1753339800000,
+        "fjId": "QdyAZTAoQEqrgY4FpOURoA",
+        "fjbm": "100001",
+        "fjdx": 0.048,
+        "fjlj": "orchestrate/2025-07-24/1753339800487$$flow_car.png",
+        "fjlx": ".png",
+        "fjmc": "flow_car.png",
+        "s3tmc": "zwfw202507",
+        "sfyx": "Y",
+        "ywdxId": "268D391E684A42DDBECCE019F003F567"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "已报名参加以旧换新活动企业门店",
+        "blsj": "门店营业时间",
+        "cjsj": 1757985780018,
+        "gxsj": 1757985780000,
+        "infoAddr": "已报名参加以旧换新活动企业门店",
+        "pointName": "已报名参加以旧换新活动企业门店",
+        "processingTime": "门店营业时间",
+        "pxh": 1,
+        "xxdz": "已报名参加以旧换新活动企业门店",
+        "yjsBldId": "5FF238B144814EAD8844438105431528",
+        "ywzjId": "8553F1BAAB3B4AD4A50A71355A8F949B",
+        "zt": "0"
+      }
+    ],
+    "materialList": [],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "无",
+      "blxs": "3",
+      "bszt": "1",
+      "cjrId": "gQKeZick2THqv7CleIicB1pA",
+      "cjsj": 1743508779000,
+      "cnbjsx": "10",
+      "dbsxccs": "0",
+      "dbsxcyyhhj": "无",
+      "dndtzdz": "https://article.95516.com/eq/ls/xpWz7CHy.html?channel=3",
+      "gqbjlx": 2.0,
+      "gqblsx": 20.0,
+      "gqpdcs": 4.0,
+      "gqsbcl": 10.0,
+      "gxrId": "gQKeZick2THqv7CleIicB1pA",
+      "gxsj": 1743508779000,
+      "hjsgq": 4.0,
+      "hjsxz": 1.0,
+      "jgsdsm": "无",
+      "jsms": "2",
+      "lbjgId": "21,07,09",
+      "sfczlct": "0",
+      "sfjxtz": "1",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "2",
+      "xsblqd": "1,2",
+      "xxbldsm": "无",
+      "xzbjlx": 2.0,
+      "xzblsx": 2.0,
+      "xzpdcs": 0.0,
+      "xzsbcl": 2.0,
+      "yddtzdz": "https://article.95516.com/eq/ls/xpWz7CHy.html?channel=3",
+      "yjsMlBzhId": "CB34DC6181074F8785EE382186606C45",
+      "yjsbsznId": "268D391E684A42DDBECCE019F003F567",
+      "ywzjfw": "0",
+      "zcblqd": "1,2",
+      "zcblqdWbdz": "https://article.95516.com/eq/ls/xpWz7CHy.html?channel=3"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "机动车注销和注册登记信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "机动车注销和注册登记信息核查"
+      },
+      {
+        "cnsxsx": 10.0,
+        "lbsxfwmc": "新能源汽车车型信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "新能源汽车车型信息核查"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "汽车报废更新补贴申请",
+        "resultSampleName": "",
+        "tyywblxName": "汽车报废更新补贴申请"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "报废机动车回收证明信息核查",
+        "resultSampleName": "",
+        "tyywblxName": "报废机动车回收证明信息核查"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "补贴范围",
+        "cjsj": 1743509121000,
+        "processingConditions": "补贴范围",
+        "pxh": 1.0,
+        "smmc": "2025年，对个人消费者转让登记在本人名下符合条件的乘用车，并在湖南省内购买符合条件乘用车新车，给予一次性定额补贴，补贴以现金方式发放。 乘用车是指在公安交管部门注册登记的小型、微型载客汽车（九座以内，含皮卡）。新能源乘用车是指挂新能源汽车号牌的乘用车。 转让车辆是指个人消费者本人名下乘用车所有权发生转移(不含变更登记和注销登记)，在湖南省内取得《二手车销售统一发票》，并完成转让登记手续，转让后的《机动车登记证书》记载的获得方式须为“购买”。 新购车辆是指个人消费者在湖南省购买的新车，使用性质为非营运，取得湖南省《机动车销售统一发票》并在公安交管部门完成注册登记手续(不限湖南省内注册登记)，取得《机动车登记证书》和《机动车行驶证》。",
+        "yjsBsznbltjId": "F2AED34BD637409F8CB90209574AC07E",
+        "yjsbsznId": "268D391E684A42DDBECCE019F003F567",
+        "zt": "0"
+      },
+      {
+        "bltj": "相关要求和条件",
+        "cjsj": 1753770005000,
+        "processingConditions": "相关要求和条件",
+        "pxh": 2.0,
+        "smmc": "1.申请补贴的旧车所有人和新车所有人应为同一人，其所转出的旧车应当于2025年1月8日前登记在申请人名下，旧车登记信息以《机动车登记证书》上载明的车辆注册登记时间为准；旧车转让日期以《二手车销售统一发票》开具时间为准。 2.新车购买时间以《机动车销售统一发票》开具时间为准，在申请补贴期间个人消费者所购置的新车应登记在申请人名下。 3.如旧车发票转出金额低于2500元，需提供佐证材料，包括买卖双方身份证明、交易合同、付款凭证，买方为企业的，需提供买方营业执照。 4.活动期间，每辆旧车仅限转出并参与一次补贴申请，参与者不得通过虚假交易等任何方式规避限制。多人以同一台旧车申请汽车置换补贴的，以首次提交申请的为准，不以旧车登记时间先后顺序为准。2024年同一消费者以同一台旧车已经申领湖南省汽车置换更新补贴的，不能再以该旧车申领2025年湖南省汽车置换更新补贴。 5.每位个人消费者同一辆新车只能选择申请汽车报废更新补贴或者置换更新补贴，不得双边申请。 6.在一个自然年度内，每位个人消费者最多享受一次汽车置换更新补贴。 7.转让旧车和购买新车无先后顺序要求。",
+        "yjsBsznbltjId": "C5BB3D2F6C744FFC8CA46C2CB551E724",
+        "yjsbsznId": "268D391E684A42DDBECCE019F003F567",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [
+      {
+        "answer": "实施时间自2025年1月1日起。具体补贴申请要求以当地公布的政策为准。",
+        "da": "实施时间自2025年1月1日起。具体补贴申请要求以当地公布的政策为准。",
+        "problem": "2025年汽车置换更新的实施时间？",
+        "pxh": 0.0,
+        "wt": "2025年汽车置换更新的实施时间？",
+        "yjsMlSsqdQuestionId": "528A6CC14E054DA4AE547E539602ED8A",
+        "yjsSsqdId": "5328ADB437604D43B47ACDABBF81339E"
+      },
+      {
+        "answer": "完善2025年汽车置换更新补贴标准，个人消费者转让登记在本人名下的乘用车，并购买新能源乘用车的单台补贴最高不超过1.5万元，购买燃油乘用车的单台补贴最高不超过1.3万元。具体补贴标准由各地自主合理确定。",
+        "da": "完善2025年汽车置换更新补贴标准，个人消费者转让登记在本人名下的乘用车，并购买新能源乘用车的单台补贴最高不超过1.5万元，购买燃油乘用车的单台补贴最高不超过1.3万元。具体补贴标准由各地自主合理确定。",
+        "problem": "2025年汽车置换更新补贴标准有哪些变化？",
+        "pxh": 1.0,
+        "wt": "2025年汽车置换更新补贴标准有哪些变化？",
+        "yjsMlSsqdQuestionId": "A2080703CE12487296F7388E1B9A40EF",
+        "yjsSsqdId": "5328ADB437604D43B47ACDABBF81339E"
+      },
+      {
+        "answer": "个人消费者申请汽车置换更新补贴，其转让的既有乘用车登记在本人名下的时间最迟不得晚于2025年1月8日。各地可根据本地实际设定登记时间要求，具体既有乘用车登记时间以当地公布的政策为准。",
+        "da": "个人消费者申请汽车置换更新补贴，其转让的既有乘用车登记在本人名下的时间最迟不得晚于2025年1月8日。各地可根据本地实际设定登记时间要求，具体既有乘用车登记时间以当地公布的政策为准。",
+        "problem": "2025年汽车置换更新转让既有车辆条件有哪些变化？",
+        "pxh": 2.0,
+        "wt": "2025年汽车置换更新转让既有车辆条件有哪些变化？",
+        "yjsMlSsqdQuestionId": "4D881C3645EE4FA58D7FC33299D33E3E",
+        "yjsSsqdId": "5328ADB437604D43B47ACDABBF81339E"
+      }
+    ],
+    "sxmc": "汽车以旧换新补贴申请(2025年度)",
+    "yjsSsqdbm": "43PCP0012225J0103",
+    "basicInfo": {
+      "aheadFrequency": "0",
+      "areaName": "天心区",
+      "completedLimit": "10",
+      "cooperateName": "工信部门,公安部门,商务部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0731-12345",
+      "lbjgId": "21,07,09",
+      "qtbmId": "288936126fbd490db95d3110bba2520d",
+      "qtbmmc": "长沙市天心区商务局",
+      "reasonLink": "无",
+      "yjsssqdbsznid": "8553F1BAAB3B4AD4A50A71355A8F949B",
+      "zxdh": "0731-85899324"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

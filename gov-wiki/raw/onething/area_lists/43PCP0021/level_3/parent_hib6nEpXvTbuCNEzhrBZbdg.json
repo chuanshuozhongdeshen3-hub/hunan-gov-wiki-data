@@ -1,0 +1,36 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "431173999000",
+      "benji": "1",
+      "orgId": "XFgg43wqSvibMfiaVjslgbyg",
+      "orgLevel": "3",
+      "orgName": "回龙圩管理区本级",
+      "orgShowName": "区本级",
+      "orgSn": "1",
+      "parentCode": "431173000000",
+      "parentId": "hib6nEpXvTbuCNEzhrBZbdg",
+      "parentName": "回龙圩管理区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431173100000",
+      "benji": "0",
+      "orgId": "9O11PlPvThiax4aSkWA3B1Q",
+      "orgLevel": "4",
+      "orgName": "永州市回龙圩管理区回龙圩镇",
+      "orgShowName": "回龙圩镇",
+      "orgSn": "2",
+      "parentCode": "431173000000",
+      "parentId": "hib6nEpXvTbuCNEzhrBZbdg",
+      "parentName": "回龙圩管理区",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

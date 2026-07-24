@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430781005999",
+      "benji": "1",
+      "orgId": "s6Q7YELARFysyjtEibsjg7Q",
+      "orgLevel": "4",
+      "orgName": "津市市嘉山街道本级",
+      "orgShowName": "津市市嘉山街道本级",
+      "orgSn": "999",
+      "parentCode": "430781005000",
+      "parentId": "vRUXPyJvQaqSOdkloq31TA",
+      "parentName": "津市市嘉山街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430781005001",
+      "benji": "0",
+      "orgId": "LIGxxI57Sgu1wLJvez4KCQ",
+      "orgLevel": "5",
+      "orgName": "津市市嘉山街道明道社区",
+      "orgShowName": "明道社区",
+      "orgSn": "999",
+      "parentCode": "430781005000",
+      "parentId": "vRUXPyJvQaqSOdkloq31TA",
+      "parentName": "津市市嘉山街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430781005002",
+      "benji": "0",
+      "orgId": "RhaPK6A9TEuicfT8wViawhAA",
+      "orgLevel": "5",
+      "orgName": "津市市嘉山街道团湖社区",
+      "orgShowName": "团湖社区",
+      "orgSn": "999",
+      "parentCode": "430781005000",
+      "parentId": "vRUXPyJvQaqSOdkloq31TA",
+      "parentName": "津市市嘉山街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430781005201",
+      "benji": "0",
+      "orgId": "AfELgGysQga2IashEq1tNQ",
+      "orgLevel": "5",
+      "orgName": "津市市嘉山街道杉堰村",
+      "orgShowName": "杉堰村",
+      "orgSn": "999",
+      "parentCode": "430781005000",
+      "parentId": "vRUXPyJvQaqSOdkloq31TA",
+      "parentName": "津市市嘉山街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430781005202",
+      "benji": "0",
+      "orgId": "0xv2mrpPRNibjBwWEQasavw",
+      "orgLevel": "5",
+      "orgName": "津市市嘉山街道戚关村",
+      "orgShowName": "戚关村",
+      "orgSn": "999",
+      "parentCode": "430781005000",
+      "parentId": "vRUXPyJvQaqSOdkloq31TA",
+      "parentName": "津市市嘉山街道",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

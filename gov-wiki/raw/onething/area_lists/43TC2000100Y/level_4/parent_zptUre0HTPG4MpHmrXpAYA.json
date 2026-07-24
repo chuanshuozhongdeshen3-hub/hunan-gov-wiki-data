@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430302007999",
+      "benji": "1",
+      "orgId": "aj6icSq1yQce17StYDQrX7w",
+      "orgLevel": "4",
+      "orgName": "雨湖区万楼街道本级",
+      "orgShowName": "万楼街道本级",
+      "orgSn": "999",
+      "parentCode": "430302007000",
+      "parentId": "zptUre0HTPG4MpHmrXpAYA",
+      "parentName": "雨湖区万楼街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430302007001",
+      "benji": "0",
+      "orgId": "XfquRDZYTRyiciciaavAicciamA",
+      "orgLevel": "5",
+      "orgName": "雨湖区万楼街道桃源路社区",
+      "orgShowName": "桃源路社区",
+      "orgSn": "999",
+      "parentCode": "430302007000",
+      "parentId": "zptUre0HTPG4MpHmrXpAYA",
+      "parentName": "雨湖区万楼街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430302007002",
+      "benji": "0",
+      "orgId": "IWqG2jjIRxWNzvLoa8iagGA",
+      "orgLevel": "5",
+      "orgName": "雨湖区万楼街道护潭社区",
+      "orgShowName": "护潭社区",
+      "orgSn": "999",
+      "parentCode": "430302007000",
+      "parentId": "zptUre0HTPG4MpHmrXpAYA",
+      "parentName": "雨湖区万楼街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430302007003",
+      "benji": "0",
+      "orgId": "xZHbGIiaATkCEbQ4ARIL8Tw",
+      "orgLevel": "5",
+      "orgName": "雨湖区万楼街道万楼社区",
+      "orgShowName": "万楼社区",
+      "orgSn": "999",
+      "parentCode": "430302007000",
+      "parentId": "zptUre0HTPG4MpHmrXpAYA",
+      "parentName": "雨湖区万楼街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430302007009",
+      "benji": "0",
+      "orgId": "6IkOuEw5RTykicrKUpicS5jQ",
+      "orgLevel": "5",
+      "orgName": "雨湖区万楼街道富强社区",
+      "orgShowName": "富强社区",
+      "orgSn": "999",
+      "parentCode": "430302007000",
+      "parentId": "zptUre0HTPG4MpHmrXpAYA",
+      "parentName": "雨湖区万楼街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430302007202",
+      "benji": "0",
+      "orgId": "sCDbQHq0Q4CVq0ibHw2ntDw",
+      "orgLevel": "5",
+      "orgName": "雨湖区万楼街道红星村",
+      "orgShowName": "红星村",
+      "orgSn": "999",
+      "parentCode": "430302007000",
+      "parentId": "zptUre0HTPG4MpHmrXpAYA",
+      "parentName": "雨湖区万楼街道",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

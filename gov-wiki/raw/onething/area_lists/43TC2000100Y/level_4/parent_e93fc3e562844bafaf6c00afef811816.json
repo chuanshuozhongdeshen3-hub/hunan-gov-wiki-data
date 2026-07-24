@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "431229203999",
+      "benji": "1",
+      "orgId": "e93fc3e562844bafaf6c00afef814646",
+      "orgLevel": "4",
+      "orgName": "靖州县寨牙乡乡本级",
+      "orgShowName": "靖州县寨牙乡乡本级",
+      "orgSn": "1",
+      "parentCode": "431229203000",
+      "parentId": "e93fc3e562844bafaf6c00afef811816",
+      "parentName": "靖州县寨牙乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431229203200",
+      "benji": "0",
+      "orgId": "vcPY728ITxiaDvfwmeRF7ibw",
+      "orgLevel": "5",
+      "orgName": "靖州县寨牙乡寨牙村",
+      "orgShowName": "寨牙村",
+      "orgSn": "999",
+      "parentCode": "431229203000",
+      "parentId": "e93fc3e562844bafaf6c00afef811816",
+      "parentName": "靖州县寨牙乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431229203202",
+      "benji": "0",
+      "orgId": "SBhZmwVpQCyTFV9fwrkEzg",
+      "orgLevel": "5",
+      "orgName": "靖州县寨牙乡岩脚村",
+      "orgShowName": "岩脚村",
+      "orgSn": "999",
+      "parentCode": "431229203000",
+      "parentId": "e93fc3e562844bafaf6c00afef811816",
+      "parentName": "靖州县寨牙乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431229203204",
+      "benji": "0",
+      "orgId": "7noDmunuQNOPQbfAmMKE6g",
+      "orgLevel": "5",
+      "orgName": "靖州县寨牙乡汕头村",
+      "orgShowName": "汕头村",
+      "orgSn": "999",
+      "parentCode": "431229203000",
+      "parentId": "e93fc3e562844bafaf6c00afef811816",
+      "parentName": "靖州县寨牙乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431229203206",
+      "benji": "0",
+      "orgId": "YJicE2bWyS7yjQFicV9AbT0A",
+      "orgLevel": "5",
+      "orgName": "靖州县寨牙乡大林村",
+      "orgShowName": "大林村",
+      "orgSn": "999",
+      "parentCode": "431229203000",
+      "parentId": "e93fc3e562844bafaf6c00afef811816",
+      "parentName": "靖州县寨牙乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431229203207",
+      "benji": "0",
+      "orgId": "0TfTiceDUQU64MpFwzsGggA",
+      "orgLevel": "5",
+      "orgName": "靖州县寨牙乡地卢村",
+      "orgShowName": "地卢村",
+      "orgSn": "999",
+      "parentCode": "431229203000",
+      "parentId": "e93fc3e562844bafaf6c00afef811816",
+      "parentName": "靖州县寨牙乡",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

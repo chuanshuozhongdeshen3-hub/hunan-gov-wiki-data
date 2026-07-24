@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430781004999",
+      "benji": "1",
+      "orgId": "e93fc3e562844bafaf6c00afef813309",
+      "orgLevel": "4",
+      "orgName": "津市市金鱼岭街道本级",
+      "orgShowName": "津市市金鱼岭街道本级",
+      "orgSn": "1",
+      "parentCode": "430781004000",
+      "parentId": "e93fc3e562844bafaf6c00afef810256",
+      "parentName": "津市市金鱼岭街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430781004001",
+      "benji": "0",
+      "orgId": "ZW0s7p35Qjyu5GqaMJn5Rg",
+      "orgLevel": "5",
+      "orgName": "津市市金鱼岭街道丝绸社区",
+      "orgShowName": "丝绸社区",
+      "orgSn": "999",
+      "parentCode": "430781004000",
+      "parentId": "e93fc3e562844bafaf6c00afef810256",
+      "parentName": "津市市金鱼岭街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430781004002",
+      "benji": "0",
+      "orgId": "nke755keQBGngicrEkxtP2Q",
+      "orgLevel": "5",
+      "orgName": "津市市金鱼岭街道湖桥社区",
+      "orgShowName": "湖桥社区",
+      "orgSn": "999",
+      "parentCode": "430781004000",
+      "parentId": "e93fc3e562844bafaf6c00afef810256",
+      "parentName": "津市市金鱼岭街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430781004004",
+      "benji": "0",
+      "orgId": "YDuj1j7USQC8adHw589Rqw",
+      "orgLevel": "5",
+      "orgName": "津市市金鱼岭街道文家湾社区",
+      "orgShowName": "文家湾社区",
+      "orgSn": "999",
+      "parentCode": "430781004000",
+      "parentId": "e93fc3e562844bafaf6c00afef810256",
+      "parentName": "津市市金鱼岭街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430781004012",
+      "benji": "0",
+      "orgId": "qNjI0aoNR9ia9iaXvnbqXp1Q",
+      "orgLevel": "5",
+      "orgName": "津市市金鱼岭街道燕子窝社区",
+      "orgShowName": "燕子窝社区",
+      "orgSn": "999",
+      "parentCode": "430781004000",
+      "parentId": "e93fc3e562844bafaf6c00afef810256",
+      "parentName": "津市市金鱼岭街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430781004204",
+      "benji": "0",
+      "orgId": "1oCWcXyMRtChM5KmurhmAg",
+      "orgLevel": "5",
+      "orgName": "津市市金鱼岭街道大关山村",
+      "orgShowName": "大关山村",
+      "orgSn": "999",
+      "parentCode": "430781004000",
+      "parentId": "e93fc3e562844bafaf6c00afef810256",
+      "parentName": "津市市金鱼岭街道",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

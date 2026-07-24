@@ -1,0 +1,744 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1776653129000,
+        "fjId": "fXzcaWGqQ2q8Uiq1Ol05zA",
+        "fjbm": "100001",
+        "fjdx": 0.152,
+        "fjlj": "orchestrate/2026-04-20/1776653126427$$流程图2.png",
+        "fjlx": ".png",
+        "fjmc": "流程图2.png",
+        "s3tmc": "zwfw202604",
+        "sfyx": "Y",
+        "ywdxId": "0965B73496D24F509B59D885C12A117E"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "政务中心二楼市监局2号窗口",
+        "blsj": "法定工作日：上午 09:00~12:00,下午 13:30~17:00",
+        "cjsj": 1781601007183,
+        "gxsj": 1781601007000,
+        "infoAddr": "湖南省永州市江华县沱江镇瑶都大道道政务中心二楼市监局2号窗口",
+        "pointName": "政务中心二楼市监局2号窗口",
+        "processingTime": "法定工作日：上午 09:00~12:00,下午 13:30~17:00",
+        "pxh": 1,
+        "xxdz": "湖南省永州市江华县沱江镇瑶都大道道政务中心二楼市监局2号窗口",
+        "yjsBldId": "9BA9D95A65934FEBAD9E3A65C88B34A9",
+        "ywzjId": "2F85DD1024CF416A847FD8E9A96472E1",
+        "zt": "0"
+      }
+    ],
+    "materialList": [
+      {
+        "attachList": [
+          {
+            "cjsj": 1776654177000,
+            "fjId": "wwJm_CTwSSC0qqPTOOvwWw",
+            "fjbm": "100003",
+            "fjdx": 0.044,
+            "fjlj": "orchestrate/2026-04-20/1776654176044$$开办超市、便利店（食品经营）“一件事”申请书.docx",
+            "fjlx": ".docx",
+            "fjmc": "开办超市、便利店（食品经营）“一件事”申请书.docx",
+            "s3tmc": "zwfw202604",
+            "sfyx": "Y",
+            "ywdxId": "35F163E06AA2464F8B5DD8CF47B62CFD"
+          },
+          {
+            "cjsj": 1776654177000,
+            "fjId": "guH0veOzQbid0aWGcNjD0A",
+            "fjbm": "100003",
+            "fjdx": 0.031,
+            "fjlj": "orchestrate/2026-04-20/1776654176158$$开办超市、便利店（小食品店）（个体）“一件事”申请书.docx",
+            "fjlx": ".docx",
+            "fjmc": "开办超市、便利店（小食品店）（个体）“一件事”申请书.docx",
+            "s3tmc": "zwfw202604",
+            "sfyx": "Y",
+            "ywdxId": "35F163E06AA2464F8B5DD8CF47B62CFD"
+          },
+          {
+            "cjsj": 1776654177000,
+            "fjId": "AsASX75vShyEEJ4mJ2xztQ",
+            "fjbm": "100002",
+            "fjdx": 0.044,
+            "fjlj": "orchestrate/2026-04-20/1776654155293$$开办超市、便利店（食品经营）“一件事”申请书.docx",
+            "fjlx": ".docx",
+            "fjmc": "开办超市、便利店（食品经营）“一件事”申请书.docx",
+            "s3tmc": "zwfw202604",
+            "sfyx": "Y",
+            "ywdxId": "35F163E06AA2464F8B5DD8CF47B62CFD"
+          },
+          {
+            "cjsj": 1776654177000,
+            "fjId": "2Y6FuZz3TyuLsIveOnvfeA",
+            "fjbm": "100002",
+            "fjdx": 0.031,
+            "fjlj": "orchestrate/2026-04-20/1776654161696$$开办超市、便利店（小食品店）（个体）“一件事”申请书.docx",
+            "fjlx": ".docx",
+            "fjmc": "开办超市、便利店（小食品店）（个体）“一件事”申请书.docx",
+            "s3tmc": "zwfw202604",
+            "sfyx": "Y",
+            "ywdxId": "35F163E06AA2464F8B5DD8CF47B62CFD"
+          }
+        ],
+        "bzclId": "M43TCP00180001",
+        "cjsj": 1776654177000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "开办超市、便利店“一件事”申 请表",
+        "clxs": "4",
+        "clxz": "1",
+        "gxsj": 1781640011000,
+        "mtjfs": "4",
+        "pxh": 1.0,
+        "sfxtmb": "0",
+        "sfykb": "1",
+        "sfyslb": "1",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "44B07ECC5D5F472FB947CDDB540EB2EB",
+        "yjsSsqdId": "E33A69265E6B4EA2B74A413FAF2BB8A2",
+        "yqtgyj": "《中华人民共和国公司法》《中华人民共和国经营主体登记管理条例》《中华人民共和国经营主体登记管理条例实施细则》《中华人民共和国食品安全法》《中华人民共和国消防法》《食品经营许可和备案管理办法》《食品经营许可审查通则》《城市市容和环境卫生管理条例》《湖南省食品生产加工小作坊小餐饮和食品摊贩管理条例》《公共场所卫生管理条例》《公共场所卫生管理条例实施细则》《湖南省小餐饮小食品店许可和备案管理办法》",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1776654594000,
+            "fjId": "sxbMNKyQQ6qnfzGWBPssdA",
+            "fjbm": "100002",
+            "fjdx": 0.019,
+            "fjlj": "orchestrate/2026-04-20/1776654950085$$申请开办超市、便利店“一件事”承诺书.docx",
+            "fjlx": ".docx",
+            "fjmc": "申请开办超市、便利店“一件事”承诺书.docx",
+            "s3tmc": "zwfw202604",
+            "sfyx": "Y",
+            "ywdxId": "6001C705DFC54AFCACEF241C9F554222"
+          },
+          {
+            "cjsj": 1776654594000,
+            "fjId": "QYXEkeFpTl-zn_wcCdDUwg",
+            "fjbm": "100002",
+            "fjdx": 0.019,
+            "fjlj": "orchestrate/2026-04-20/1776654949593$$申请开办超市、便利店（小食品店）“一件事”承诺书.docx",
+            "fjlx": ".docx",
+            "fjmc": "申请开办超市、便利店（小食品店）“一件事”承诺书.docx",
+            "s3tmc": "zwfw202604",
+            "sfyx": "Y",
+            "ywdxId": "6001C705DFC54AFCACEF241C9F554222"
+          }
+        ],
+        "bzclId": "M43TCP00180002",
+        "cjsj": 1776654594000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "申请人自备",
+        "clmc": "开办超市、便利店“一件事”承 诺书",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1781640011000,
+        "mtjfs": "4",
+        "pxh": 2.0,
+        "sfxtmb": "0",
+        "sfykb": "1",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "145CD219773D4A37B2E2F10D1DB59946",
+        "yjsSsqdId": "E33A69265E6B4EA2B74A413FAF2BB8A2",
+        "yqtgyj": "开办超市、餐饮店一件事相关依据",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1776654594000
+          }
+        ],
+        "bzclId": "M43TCP00180005",
+        "cjsj": 1776654594000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cllx": "3",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "住所（经营场所）使用相关文件",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1781640011000,
+        "mtjfs": "4",
+        "pxh": 5.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "8F99FF9CCD704297B689244989EAB714",
+        "yjsSsqdId": "E33A69265E6B4EA2B74A413FAF2BB8A2",
+        "yqtgyj": "《湖南省放宽经营主体住所（经营场所）登记条件的规定》（湘市监发（2022）1 号）执行",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1776654594000
+          },
+          {
+            "cjsj": 1776654594000
+          }
+        ],
+        "bzclId": "M43TCP00180006",
+        "cjsj": 1776654594000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cllx": "3",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "《委托代理人证明》及委托代理人身份证",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1781640011000,
+        "mtjfs": "4",
+        "pxh": 6.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "94E19FC83B964589B4CCF3264AE39A9E",
+        "yjsSsqdId": "E33A69265E6B4EA2B74A413FAF2BB8A2",
+        "yqtgyj": "开办超市、便利店一件事相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1776654594000
+          },
+          {
+            "cjsj": 1776654594000
+          }
+        ],
+        "bzclId": "M43TCP00180006",
+        "cjsj": 1776654594000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cllx": "3",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "申请设置的城市户外招牌设施具 体设置位置示意图（设置前）、 效果图样（设置后）",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1781640011000,
+        "mtjfs": "4",
+        "pxh": 6.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "FFBBB5B00E1B462DA5BB805591975773",
+        "yjsSsqdId": "E33A69265E6B4EA2B74A413FAF2BB8A2",
+        "yqtgyj": "开办超市、便利店一件事相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1776654177000
+          }
+        ],
+        "bzclId": "M43TCP00180016",
+        "cjsj": 1776654177000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "申请人自备",
+        "clmc": "小食品店经营场所设备布局",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1781640011000,
+        "mtjfs": "4",
+        "pxh": 14.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "13718CE2AAF14C54971F27C4AF38EF60",
+        "yjsSsqdId": "E33A69265E6B4EA2B74A413FAF2BB8A2",
+        "yqtgyj": "《中华人民共和国公司法》《中华人民共和国经营主体登记管理条例》《中华人民共和国经营主体登记管理条例实施细则》《中华人民共和国食品安全法》《中华人民共和国消防法》《食品经营许可和备案管理办法》《食品经营许可审查通则》《城市市容和环境卫生管理条例》《湖南省食品生产加工小作坊小餐饮和食品摊贩管理条例》《公共场所卫生管理条例》《公共场所卫生管理条例实施细则》《湖南省小餐饮小食品店许可和备案管理办法》",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1776654594000
+          }
+        ],
+        "bzclId": "M43TCP00180008",
+        "cjsj": 1776654594000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "食品安全自查、从业人员健康管理、进货查验记录、食品安全事 故处置等保证食品安全的规章制 度目录清单",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1781640011000,
+        "mtjfs": "4",
+        "pxh": 8.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "B1D5DA3BE84142E19E8B7AEBAC944F51",
+        "yjsSsqdId": "E33A69265E6B4EA2B74A413FAF2BB8A2",
+        "yqtgyj": "开办超市、便利店一件事相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1776654594000
+          }
+        ],
+        "bzclId": "M43TCP00180011",
+        "cjsj": 1776654594000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "设置城市户外招牌设施材料说 明：数量、地段位置、形式、规 格、材质、设置离地高度等说明材料",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1781640011000,
+        "mtjfs": "4",
+        "pxh": 10.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "C70A1B00E6EB45D1ACD448C33D158C86",
+        "yjsSsqdId": "E33A69265E6B4EA2B74A413FAF2BB8A2",
+        "yqtgyj": "开办超市、便利店一件事相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1776654594000
+          },
+          {
+            "cjsj": 1776654594000
+          }
+        ],
+        "bzclId": "M43TCP00180009",
+        "cjsj": 1776654594000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cllx": "3",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "城市户外招牌设施设置位置使用权的证明",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1781640011000,
+        "mtjfs": "4",
+        "pxh": 9.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "B350E1264AA2421685A915ECEA354752",
+        "yjsSsqdId": "E33A69265E6B4EA2B74A413FAF2BB8A2",
+        "yqtgyj": "开办超市、便利店一件事相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1776654594000
+          },
+          {
+            "cjsj": 1776654594000
+          }
+        ],
+        "bzclId": "M43TCP00180009",
+        "cjsj": 1776654594000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "场所平面布置图（告知承诺制流 程/一般流程）",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1781640011000,
+        "mtjfs": "4",
+        "pxh": 9.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "BCEE436E1B8A49E3AAF23BB06F8BF110",
+        "yjsSsqdId": "E33A69265E6B4EA2B74A413FAF2BB8A2",
+        "yqtgyj": "开办超市、便利店一件事相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1776654594000
+          }
+        ],
+        "bzclId": "M43TCP00180015",
+        "cjsj": 1776654594000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "消防安全制度（告知承诺制流程/ 一般流程）",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1781640011000,
+        "mtjfs": "4",
+        "pxh": 13.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "BE1E507F7D6A41BF9515FE0C98A5CE00",
+        "yjsSsqdId": "E33A69265E6B4EA2B74A413FAF2BB8A2",
+        "yqtgyj": "开办超市、便利店一件事相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1776654594000
+          }
+        ],
+        "bzclId": "M43TCP00180014",
+        "cjsj": 1776654594000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "场所消防设施平面图（告知承诺 制流程/一般流程）",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1781640011000,
+        "mtjfs": "4",
+        "pxh": 12.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "06D8968CE4984946AA960A6717E1A7A2",
+        "yjsSsqdId": "E33A69265E6B4EA2B74A413FAF2BB8A2",
+        "yqtgyj": "开办超市、便利店一件事相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1776654594000
+          }
+        ],
+        "bzclId": "M43TCP00180004",
+        "cjsj": 1776654594000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cllx": "2",
+        "cllyqd": "20",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "营业执照",
+        "clxs": "4",
+        "clxz": "2",
+        "gxsj": 1781640011000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 4.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "839E9520BFC04C9A9F61A334A239A391",
+        "yjsSsqdId": "E33A69265E6B4EA2B74A413FAF2BB8A2",
+        "yqtgyj": "开办超市、便利店一件事相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1776654594000
+          }
+        ],
+        "bzclId": "M43TCP00180003",
+        "cjsj": 1776654594000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cllx": "2",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "法定代表人（负责人）、经营者身份证明",
+        "clxs": "4",
+        "clxz": "2",
+        "gxsj": 1781640011000,
+        "mtjfs": "3",
+        "mtjfssm": "通过在受理表单中设置证照核验信息项及核验接口实现证照材料免提交",
+        "pxh": 3.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "61310886033C4680BC04A895560471D4",
+        "yjsSsqdId": "E33A69265E6B4EA2B74A413FAF2BB8A2",
+        "yqtgyj": "开办超市、便利店一件事相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1776654594000
+          }
+        ],
+        "bzclId": "M43TCP00180007",
+        "cjsj": 1776654594000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "与食品经营相适应的主要设备设 施布局、操作流程等文件",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1781640011000,
+        "mtjfs": "4",
+        "pxh": 7.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "FBD9FC8C68BE42408F37D4EB49D5EDAD",
+        "yjsSsqdId": "E33A69265E6B4EA2B74A413FAF2BB8A2",
+        "yqtgyj": "开办超市、便利店一件事相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1776654594000
+          }
+        ],
+        "bzclId": "M43TCP00180012",
+        "cjsj": 1776654594000,
+        "clbyx": "1",
+        "clbz": "资料齐全符合法定形式",
+        "cllx": "1",
+        "cllyqd": "10",
+        "cllyqdsm": "申请者按标准提交材料",
+        "clmc": "灭火和应急疏散预案（告知承诺 制流程/一般流程）",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1781640011000,
+        "mtjfs": "4",
+        "pxh": 11.0,
+        "sfxtmb": "0",
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "内容真实，符合食品安全相关规定",
+        "tgfs": "2",
+        "type": "0",
+        "yjsMlSsqdClId": "B92013AD17744989BAEB446E0965CC90",
+        "yjsSsqdId": "E33A69265E6B4EA2B74A413FAF2BB8A2",
+        "yqtgyj": "开办超市、便利店一件事相关规定",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "A4"
+      }
+    ],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "开办超市、便利店“一件事”业务办理流程图",
+      "blxs": "1",
+      "bszt": "0",
+      "cjrId": "A3cl2oibTSfia3PvzrpUU4Bg",
+      "cjsj": 1776652554000,
+      "cnbjsx": "13",
+      "dbsxccs": "0",
+      "dbsxcyyhhj": "暂无",
+      "dndtzdz": "/",
+      "gqbjlx": 2.0,
+      "gqblsx": 30.0,
+      "gqpdcs": 4.0,
+      "gqsbcl": 32.0,
+      "gxrId": "A3cl2oibTSfia3PvzrpUU4Bg",
+      "gxsj": 1776656059000,
+      "hjsgq": 4.0,
+      "hjsxz": 1.0,
+      "jgsdsm": "结果物可采用邮寄或现场领取两种方式",
+      "jsms": "2",
+      "lbjgId": "31,17,23,99",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "1",
+      "sfzdysl": "1",
+      "sfztxsbl": "0",
+      "sxlx": "2",
+      "xsblqd": "1",
+      "xxbldsm": "请到对应层级的市场监管部门办理",
+      "xxcktzdz": "/",
+      "xzbjlx": 2.0,
+      "xzblsx": 13.0,
+      "xzpdcs": 0.0,
+      "xzsbcl": 15.0,
+      "yddtzdz": "/",
+      "yjsMlBzhId": "DFD0EC404BFA4583818537638B18F1DF",
+      "yjsbsznId": "0965B73496D24F509B59D885C12A117E",
+      "ywzjfw": "0",
+      "zcblqd": "1,2,4",
+      "zcblqdWbdz": "/"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 10.0,
+        "lbsxfwmc": "食品经营许可",
+        "resultSampleName": "食品经营许可证",
+        "tyywblxName": "《食品经营许可证》新办"
+      },
+      {
+        "cnsxsx": 7.0,
+        "lbsxfwmc": "公共场所卫生许可",
+        "resultSampleName": "卫生许可证",
+        "tyywblxName": "公共场所卫生许可（新发）"
+      },
+      {
+        "cnsxsx": 10.0,
+        "lbsxfwmc": "食品小经营许可",
+        "resultSampleName": "食品小经营许可证",
+        "tyywblxName": "《食品小经营许可证》新办"
+      },
+      {
+        "cnsxsx": 10.0,
+        "lbsxfwmc": "公众聚集场所投入使用、营业前消防安全检查",
+        "resultSampleName": "公众聚集场所投入使用、营业前消防安检检查意见书/不同意投入使用、营业决定书",
+        "tyywblxName": "公众聚集场所投入使用、营业前消防安全检查（一般流程）"
+      },
+      {
+        "cnsxsx": 2.0,
+        "lbsxfwmc": "企业营业执照信息核验",
+        "resultSampleName": "",
+        "tyywblxName": "企业营业执照信息核验"
+      },
+      {
+        "cnsxsx": 1.0,
+        "lbsxfwmc": "公众聚集场所投入使用、营业前消防安全检查",
+        "resultSampleName": "公众聚集场所投入使用、营业前消防安检检查意见书/不同意投入使用、营业决定书",
+        "tyywblxName": "公众聚集场所投入使用、营业前消防安全检查（告知承诺制流程）"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "符合申请要求",
+        "cjsj": 1776653345000,
+        "processingConditions": "符合申请要求",
+        "pxh": 1.0,
+        "smmc": "符合申请要求",
+        "yjsBsznbltjId": "09BE11D706C742B28C457594AA789809",
+        "yjsbsznId": "0965B73496D24F509B59D885C12A117E",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [],
+    "sxmc": "开办超市、便利店“一件事”",
+    "yjsSsqdbm": "43TCP0018226J1129",
+    "basicInfo": {
+      "aheadFrequency": "0",
+      "areaName": "江华县",
+      "completedLimit": "13",
+      "cooperateName": "住建部门,卫健部门,市监部门,其他部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "0746-2332961",
+      "lbjgId": "31,17,23,99",
+      "qtbmId": "d6c8480b620a449cab9493c4f118a637",
+      "qtbmmc": "江华瑶族自治县市场监督管理局",
+      "reasonLink": "暂无",
+      "yjsssqdbsznid": "2F85DD1024CF416A847FD8E9A96472E1",
+      "zxdh": "0746-2332970"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

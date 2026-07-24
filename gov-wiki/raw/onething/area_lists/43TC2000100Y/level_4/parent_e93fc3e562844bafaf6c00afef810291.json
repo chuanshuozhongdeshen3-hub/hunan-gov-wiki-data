@@ -1,0 +1,64 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430811001999",
+      "benji": "1",
+      "orgId": "e93fc3e562844bafaf6c00afef812428",
+      "orgLevel": "4",
+      "orgName": "武陵源区军地坪街道街道本级",
+      "orgShowName": "武陵源区军地坪街道街道本级",
+      "orgSn": "1",
+      "parentCode": "430811001000",
+      "parentId": "e93fc3e562844bafaf6c00afef810291",
+      "parentName": "武陵源区军地坪街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430811001001",
+      "benji": "0",
+      "orgId": "4Iyvic2gMSKqVlEm0EibrCiaA",
+      "orgLevel": "5",
+      "orgName": "武陵源区军地坪街道吴家峪居委会",
+      "orgShowName": "吴家峪居委会",
+      "orgSn": "999",
+      "parentCode": "430811001000",
+      "parentId": "e93fc3e562844bafaf6c00afef810291",
+      "parentName": "武陵源区军地坪街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430811001002",
+      "benji": "0",
+      "orgId": "9JVN0YbkTpia8I5jIJz3hsg",
+      "orgLevel": "5",
+      "orgName": "武陵源区军地坪街道宝峰路居委会",
+      "orgShowName": "宝峰路居委会",
+      "orgSn": "999",
+      "parentCode": "430811001000",
+      "parentId": "e93fc3e562844bafaf6c00afef810291",
+      "parentName": "武陵源区军地坪街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430811001003",
+      "benji": "0",
+      "orgId": "Hy518eSAQ1CF92D6Trpa3w",
+      "orgLevel": "5",
+      "orgName": "武陵源区军地坪街道画卷路居委会",
+      "orgShowName": "画卷路居委会",
+      "orgSn": "999",
+      "parentCode": "430811001000",
+      "parentId": "e93fc3e562844bafaf6c00afef810291",
+      "parentName": "武陵源区军地坪街道",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430424204999",
+      "benji": "1",
+      "orgId": "e93fc3e562844bafaf6c00afef812776",
+      "orgLevel": "4",
+      "orgName": "衡东县南湾乡乡本级",
+      "orgShowName": "衡东县南湾乡乡本级",
+      "orgSn": "1",
+      "parentCode": "430424204000",
+      "parentId": "e93fc3e562844bafaf6c00afef810639",
+      "parentName": "衡东县南湾乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430424204200",
+      "benji": "0",
+      "orgId": "4MbHVX7nTTCQJm9icQtBR1A",
+      "orgLevel": "5",
+      "orgName": "衡东县南湾乡新南村",
+      "orgShowName": "新南村",
+      "orgSn": "999",
+      "parentCode": "430424204000",
+      "parentId": "e93fc3e562844bafaf6c00afef810639",
+      "parentName": "衡东县南湾乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430424204201",
+      "benji": "0",
+      "orgId": "Zwo4jsrkT4Wy1zzDLLFphQ",
+      "orgLevel": "5",
+      "orgName": "衡东县南湾乡合江村",
+      "orgShowName": "合江村",
+      "orgSn": "999",
+      "parentCode": "430424204000",
+      "parentId": "e93fc3e562844bafaf6c00afef810639",
+      "parentName": "衡东县南湾乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430424204202",
+      "benji": "0",
+      "orgId": "DwicW12HISiaaLDp8ItMFE6w",
+      "orgLevel": "5",
+      "orgName": "衡东县南湾乡松源村",
+      "orgShowName": "松源村",
+      "orgSn": "999",
+      "parentCode": "430424204000",
+      "parentId": "e93fc3e562844bafaf6c00afef810639",
+      "parentName": "衡东县南湾乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430424204205",
+      "benji": "0",
+      "orgId": "12ia6yI0PQmGvO9viaNVeIsA",
+      "orgLevel": "5",
+      "orgName": "衡东县南湾乡桃源村",
+      "orgShowName": "桃源村",
+      "orgSn": "999",
+      "parentCode": "430424204000",
+      "parentId": "e93fc3e562844bafaf6c00afef810639",
+      "parentName": "衡东县南湾乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430424204206",
+      "benji": "0",
+      "orgId": "hkmG8WibdSKScP93o19Xb0w",
+      "orgLevel": "5",
+      "orgName": "衡东县南湾乡江东村",
+      "orgShowName": "江东村",
+      "orgSn": "999",
+      "parentCode": "430424204000",
+      "parentId": "e93fc3e562844bafaf6c00afef810639",
+      "parentName": "衡东县南湾乡",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

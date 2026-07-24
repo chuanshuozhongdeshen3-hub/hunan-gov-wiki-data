@@ -1,0 +1,64 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430523209999",
+      "benji": "1",
+      "orgId": "e93fc3e562844bafaf6c00afef812954",
+      "orgLevel": "4",
+      "orgName": "邵阳县金江乡本级",
+      "orgShowName": "邵阳县金江乡本级",
+      "orgSn": "1",
+      "parentCode": "430523209000",
+      "parentId": "e93fc3e562844bafaf6c00afef810817",
+      "parentName": "邵阳县金江乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430523209201",
+      "benji": "0",
+      "orgId": "JMdFoeHgSuCNSY06puHQ2Q",
+      "orgLevel": "5",
+      "orgName": "邵阳县金江乡金江村",
+      "orgShowName": "金江村",
+      "orgSn": "999",
+      "parentCode": "430523209000",
+      "parentId": "e93fc3e562844bafaf6c00afef810817",
+      "parentName": "邵阳县金江乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430523209202",
+      "benji": "0",
+      "orgId": "U9icfZrbgRSudKwDWelJhJw",
+      "orgLevel": "5",
+      "orgName": "邵阳县金江乡新建村",
+      "orgShowName": "新建村",
+      "orgSn": "999",
+      "parentCode": "430523209000",
+      "parentId": "e93fc3e562844bafaf6c00afef810817",
+      "parentName": "邵阳县金江乡",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430523209203",
+      "benji": "0",
+      "orgId": "PToNxYIDTXCzBZRh1DrV1g",
+      "orgLevel": "5",
+      "orgName": "邵阳县金江乡枇杷村",
+      "orgShowName": "枇杷村",
+      "orgSn": "999",
+      "parentCode": "430523209000",
+      "parentId": "e93fc3e562844bafaf6c00afef810817",
+      "parentName": "邵阳县金江乡",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430144999000",
+      "benji": "1",
+      "orgId": "VfFjyIBPRDK7mdWbHrWoWQ",
+      "orgLevel": "3",
+      "orgName": "隆平产业开发区本级",
+      "orgShowName": "隆平产业开发区本级",
+      "orgSn": "1",
+      "parentCode": "430144000000",
+      "parentId": "MD6aKm87SsGGVtfGOQkrLw",
+      "parentName": "长沙隆平产业开发区管理委员会",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

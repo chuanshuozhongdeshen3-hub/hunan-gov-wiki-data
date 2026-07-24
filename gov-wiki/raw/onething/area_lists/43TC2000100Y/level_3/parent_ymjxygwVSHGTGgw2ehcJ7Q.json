@@ -1,0 +1,64 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430792999000",
+      "benji": "1",
+      "orgId": "8X3UynricS4CXicntnw55iagw",
+      "orgLevel": "3",
+      "orgName": "柳叶湖旅游度假区本级",
+      "orgShowName": "柳叶湖旅游度假区本级",
+      "orgSn": "1",
+      "parentCode": "430792000000",
+      "parentId": "ymjxygwVSHGTGgw2ehcJ7Q",
+      "parentName": "柳叶湖旅游度假区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "2",
+      "areaCode": "430792013000",
+      "benji": "0",
+      "orgId": "c178b2795043483fbdc4cbcf622fd0dd",
+      "orgLevel": "4",
+      "orgName": "柳叶湖旅游度假区柳叶湖街道",
+      "orgShowName": "柳叶湖街道",
+      "orgSn": "11",
+      "parentCode": "430792000000",
+      "parentId": "ymjxygwVSHGTGgw2ehcJ7Q",
+      "parentName": "柳叶湖旅游度假区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "1",
+      "areaCode": "430792003000",
+      "benji": "0",
+      "orgId": "Pia2L3ookQViaS1Kiar777F7g",
+      "orgLevel": "4",
+      "orgName": "柳叶湖旅游度假区白鹤镇",
+      "orgShowName": "白鹤镇",
+      "orgSn": "999",
+      "parentCode": "430792000000",
+      "parentId": "ymjxygwVSHGTGgw2ehcJ7Q",
+      "parentName": "柳叶湖旅游度假区",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "430792014000",
+      "benji": "0",
+      "orgId": "zI3WLdn3S9uoVfmjf8mCCQ",
+      "orgLevel": "4",
+      "orgName": "柳叶湖旅游度假区七里桥街道",
+      "orgShowName": "七里桥街道",
+      "orgSn": "999",
+      "parentCode": "430792000000",
+      "parentId": "ymjxygwVSHGTGgw2ehcJ7Q",
+      "parentName": "柳叶湖旅游度假区",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

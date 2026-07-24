@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "431003005999",
+      "benji": "1",
+      "orgId": "rBogqTT5TwOug7C8CSAOfQ",
+      "orgLevel": "4",
+      "orgName": "苏仙区卜里坪街道本级",
+      "orgShowName": "苏仙区卜里坪街道本级",
+      "orgSn": "999",
+      "parentCode": "431003005000",
+      "parentId": "824b6f464cd44ba2aaf8795d1512367c",
+      "parentName": "苏仙区卜里坪街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431003005002",
+      "benji": "0",
+      "orgId": "yYvwr9S3RwGqf7R9jWuakQ",
+      "orgLevel": "5",
+      "orgName": "苏仙区卜里坪街道环城桥社区居民委员会",
+      "orgShowName": "环城桥社区",
+      "orgSn": "999",
+      "parentCode": "431003005000",
+      "parentId": "824b6f464cd44ba2aaf8795d1512367c",
+      "parentName": "苏仙区卜里坪街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431003005003",
+      "benji": "0",
+      "orgId": "BSbxcxib8RZ6tQa7jJic3n4w",
+      "orgLevel": "5",
+      "orgName": "苏仙区卜里坪街道梁家湾社区居民委员会",
+      "orgShowName": "梁家湾社区",
+      "orgSn": "999",
+      "parentCode": "431003005000",
+      "parentId": "824b6f464cd44ba2aaf8795d1512367c",
+      "parentName": "苏仙区卜里坪街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431003005004",
+      "benji": "0",
+      "orgId": "KkqhkfIET2Kor0K92KibkFg",
+      "orgLevel": "5",
+      "orgName": "苏仙区卜里坪街道卜里坪社区居民委员会",
+      "orgShowName": "卜里坪社区",
+      "orgSn": "999",
+      "parentCode": "431003005000",
+      "parentId": "824b6f464cd44ba2aaf8795d1512367c",
+      "parentName": "苏仙区卜里坪街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431003005005",
+      "benji": "0",
+      "orgId": "1ca6se5eTkCcDHMkrBKOyg",
+      "orgLevel": "5",
+      "orgName": "苏仙区卜里坪街道官庄坪社区居民委员会",
+      "orgShowName": "官庄坪社区",
+      "orgSn": "999",
+      "parentCode": "431003005000",
+      "parentId": "824b6f464cd44ba2aaf8795d1512367c",
+      "parentName": "苏仙区卜里坪街道",
+      "subIndex": 0
+    },
+    {
+      "approveId": "0",
+      "areaCode": "431003005202",
+      "benji": "0",
+      "orgId": "ZvBna6euQU6lozib64CgkIg",
+      "orgLevel": "5",
+      "orgName": "苏仙区卜里坪街道长冲铺村民委员会",
+      "orgShowName": "长冲铺村",
+      "orgSn": "999",
+      "parentCode": "431003005000",
+      "parentId": "824b6f464cd44ba2aaf8795d1512367c",
+      "parentName": "苏仙区卜里坪街道",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}

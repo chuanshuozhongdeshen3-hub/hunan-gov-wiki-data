@@ -1,0 +1,327 @@
+{
+  "code": 0,
+  "data": {
+    "chargelist": [],
+    "attachInfo": [
+      {
+        "cjsj": 1726730121000,
+        "fjId": "Bm-7NxMVSpmz7ikWbpzIvA",
+        "fjbm": "100001",
+        "fjdx": 0.04,
+        "fjlj": "orchestrate/2024-09-19/1726730121905$$图片1.png",
+        "fjlx": ".png",
+        "fjmc": "图片1.png",
+        "s3tmc": "zwfw202409",
+        "sfyx": "Y",
+        "ywdxId": "CA7B7D66C0D441C1B8011A8E1837C988"
+      }
+    ],
+    "intermediarylist": "",
+    "guidePoint": [
+      {
+        "bldmc": "新晃县梅林路行政中心四号楼B区一楼C01“高效办成一件事”重点服务事项专区",
+        "blsj": "法定工作日，夏季（7月1日—9月30日）：上午8:30—12:00，下午14:00—17:00；冬季（10月1日—次年6月30日）：上午8:30—12:00，下午14:00—17:00",
+        "cjsj": 1728548513306,
+        "gxsj": 1784529165000,
+        "infoAddr": "新晃县梅林路行政中心四号楼B区一楼C01“高效办成一件事”重点服务事项专区",
+        "pointName": "新晃县梅林路行政中心四号楼B区一楼C01“高效办成一件事”重点服务事项专区",
+        "processingTime": "法定工作日，夏季（7月1日—9月30日）：上午8:30—12:00，下午14:00—17:00；冬季（10月1日—次年6月30日）：上午8:30—12:00，下午14:00—17:00",
+        "pxh": 1,
+        "xxdz": "新晃县梅林路行政中心四号楼B区一楼C01“高效办成一件事”重点服务事项专区",
+        "yjsBldId": "8C424CADCB8F444C866AC93C91D75665",
+        "ywzjId": "63168CA453154FAF80DFF5D3070ECE2D",
+        "zt": "0"
+      }
+    ],
+    "materialList": [
+      {
+        "attachList": [
+          {
+            "cjsj": 1724828337000
+          }
+        ],
+        "bzclId": "M43PCN00100002",
+        "cjsj": 1724828337000,
+        "clbyx": "2",
+        "clbz": "适龄儿童少年本人和父母或其他法定监护人名下市城区范围内的不动产权证",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "20",
+        "cllyqdsm": "自然资源部门核发",
+        "clmc": "不动产权证",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1784529190000,
+        "mtjfs": "4",
+        "pxh": 2.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "无",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "7DFE0795D5704F0490F096CFA25791E9",
+        "yjsSsqdId": "BF440A750882480B97D776B2FCB9CCBD",
+        "yqtgyj": "《教育法》《义务教育法》",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "无"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1724828337000
+          }
+        ],
+        "bzclId": "M43PCN00100001",
+        "cjsj": 1724828337000,
+        "clbyx": "1",
+        "clbz": "适龄儿童少年本人和父母或其他法定监护人的户口簿。",
+        "cljm": "0",
+        "cllx": "3",
+        "cllyqd": "20",
+        "cllyqdsm": "公安部门核发",
+        "clmc": "户口簿",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1784529190000,
+        "mtjfs": "4",
+        "pxh": 1.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "无",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "B0B6A251465F4A3781747FE5C837726D",
+        "yjsSsqdId": "BF440A750882480B97D776B2FCB9CCBD",
+        "yqtgyj": "《教育法》《义务教育法》",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "无"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1724828576000
+          }
+        ],
+        "bzclId": "M43PCN00100003",
+        "cjsj": 1724828576000,
+        "clbyx": "2",
+        "clbz": "适龄儿童少年本人和父母或其他法定监护人名下市城区范围内的房屋买卖合同网签备案证明",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "20",
+        "cllyqdsm": "住建部门核发",
+        "clmc": "房屋买卖合同网签备案证明",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1784529190000,
+        "mtjfs": "4",
+        "pxh": 3.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "无",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "0C5D4BFE54B1461EBB1F0CFF8E51A5C2",
+        "yjsSsqdId": "BF440A750882480B97D776B2FCB9CCBD",
+        "yqtgyj": "《教育法》《义务教育法》",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "无"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1724828337000
+          }
+        ],
+        "bzclId": "M43PCN00100005",
+        "cjsj": 1724828337000,
+        "clbyx": "2",
+        "clbz": "父母或其他法定监护人社会保险参保缴费记录",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "20",
+        "cllyqdsm": "人社部门出具",
+        "clmc": "社会保险参保缴费记录",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1784529190000,
+        "mtjfs": "4",
+        "pxh": 5.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "无",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "6CC558B645B84E6D835E89A467D7BE20",
+        "yjsSsqdId": "BF440A750882480B97D776B2FCB9CCBD",
+        "yqtgyj": "《教育法》《义务教育法》",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "无"
+      },
+      {
+        "attachList": [
+          {
+            "cjsj": 1724828648000
+          }
+        ],
+        "bzclId": "M43PCN00100004",
+        "cjsj": 1724828648000,
+        "clbyx": "2",
+        "clbz": "父母或其他法定监护人居住证",
+        "cljm": "0",
+        "cllx": "4",
+        "cllyqd": "20",
+        "cllyqdsm": "公安部门核发",
+        "clmc": "居住证",
+        "clxs": "4",
+        "clxz": "9",
+        "gxsj": 1784529190000,
+        "mtjfs": "4",
+        "pxh": 4.0,
+        "sfykb": "0",
+        "sfyslb": "0",
+        "tbxz": "无",
+        "tgfs": "2",
+        "yjsMlSsqdClId": "B09170620BFB454EA714E6B230095B01",
+        "yjsSsqdId": "BF440A750882480B97D776B2FCB9CCBD",
+        "yqtgyj": "《教育法》《义务教育法》",
+        "zt": "0",
+        "zzclfs": 1.0,
+        "zzclgg": "无"
+      }
+    ],
+    "onethingCatalogStandServiceGuide": {
+      "bllctsm": "线上通过湖南政务服务网或湘易办app提交申请，线下直接到当地教育行政部门办理",
+      "blxs": "3",
+      "bszt": "1",
+      "cjrId": "fBt5Zv6icQicSpjOzKrdManw",
+      "cjsj": 1722223870000,
+      "cnbjsx": "30",
+      "dbsxccs": "0",
+      "dbsxcyyhhj": "无",
+      "dndtzdz": "https://zwfw-new.hunan.gov.cn/hnzwfw/43821/index.htm",
+      "gqbjlx": 2.0,
+      "gqblsx": 150.0,
+      "gqpdcs": 4.0,
+      "gqsbcl": 10.0,
+      "gxrId": "7Op7IPYYQLeUibsPAXxO72Q",
+      "gxsj": 1722223867000,
+      "hjsgq": 5.0,
+      "hjsxz": 1.0,
+      "jgsdsm": "线上查收结果",
+      "jsms": "2",
+      "lbjgId": "05,09,14,15",
+      "sfczlct": "0",
+      "sfjxtz": "0",
+      "sfzdtybj": "0",
+      "sfzdysl": "0",
+      "sfztxsbl": "0",
+      "sxlx": "2",
+      "xsblqd": "1,2",
+      "xxbldsm": "可在当地教育行政部门提交入学申请",
+      "xzbjlx": 2.0,
+      "xzblsx": 30.0,
+      "xzpdcs": 0.0,
+      "xzsbcl": 2.0,
+      "yddtzdz": "https://zwfw-new.hunan.gov.cn/hnzwfw/43821/index.htm",
+      "yjsMlBzhId": "DC8311837B444EE5801E844C132A4F77",
+      "yjsbsznId": "CA7B7D66C0D441C1B8011A8E1837C988",
+      "zcblqd": "1,2",
+      "zcblqdWbdz": "https://zwfw-new.hunan.gov.cn/hnzwfw/43821/index.htm"
+    },
+    "approveList": [
+      {
+        "cnsxsx": 15.0,
+        "lbsxfwmc": "居住证",
+        "resultSampleName": "",
+        "tyywblxName": "居住证"
+      },
+      {
+        "cnsxsx": 15.0,
+        "lbsxfwmc": "新生入学信息采集",
+        "resultSampleName": "",
+        "tyywblxName": "新生入学信息采集"
+      },
+      {
+        "cnsxsx": 15.0,
+        "lbsxfwmc": "不动产权证书",
+        "resultSampleName": "",
+        "tyywblxName": "不动产权证书"
+      },
+      {
+        "cnsxsx": 15.0,
+        "lbsxfwmc": "户籍类证明",
+        "resultSampleName": "",
+        "tyywblxName": "户籍类证明"
+      },
+      {
+        "cnsxsx": 5.0,
+        "lbsxfwmc": "社会保险参保缴费记录核查",
+        "resultSampleName": "",
+        "tyywblxName": "社会保险参保缴费记录核查"
+      }
+    ],
+    "guideCondition": [
+      {
+        "bltj": "符合《教育法》《义务教育法》等法律、法规规定的接受义务教育的城区适龄儿童少年",
+        "cjsj": 1724827389000,
+        "processingConditions": "符合《教育法》《义务教育法》等法律、法规规定的接受义务教育的城区适龄儿童少年",
+        "pxh": 1.0,
+        "smmc": "符合《教育法》《义务教育法》等法律、法规规定的接受义务教育的城区适龄儿童少年",
+        "yjsBsznbltjId": "EBD33A1CDD194B6E8B29FB100A42F65D",
+        "yjsbsznId": "CA7B7D66C0D441C1B8011A8E1837C988",
+        "zt": "0"
+      }
+    ],
+    "questionInfo": [
+      {
+        "answer": "目前幼升小、小升初可通过线上或线下现场报名，线上报名更加方便快捷。家长根据可根据自身情况自行选择报名方式。",
+        "da": "目前幼升小、小升初可通过线上或线下现场报名，线上报名更加方便快捷。家长根据可根据自身情况自行选择报名方式。",
+        "problem": "是否只能通过线上入学报名？",
+        "pxh": 0.0,
+        "wt": "是否只能通过线上入学报名？",
+        "yjsMlSsqdQuestionId": "B491A96192AD42A7A553C7942D155B43",
+        "yjsSsqdId": "BF440A750882480B97D776B2FCB9CCBD"
+      },
+      {
+        "answer": "根据招生入学政策，房户关系中，“户”是指小孩本人的户籍，“房”是指小孩本人或法定监护人（父母）的房产。",
+        "da": "根据招生入学政策，房户关系中，“户”是指小孩本人的户籍，“房”是指小孩本人或法定监护人（父母）的房产。",
+        "problem": "有户是看孩子的户口，还是看父母的呢？",
+        "pxh": 1.0,
+        "wt": "有户是看孩子的户口，还是看父母的呢？",
+        "yjsMlSsqdQuestionId": "5188886533794D55ABDC8637026EDDAA",
+        "yjsSsqdId": "BF440A750882480B97D776B2FCB9CCBD"
+      },
+      {
+        "answer": "登录“湖南政务服务网”，找到高效办成一件事专区，点击“入学”，按提示流程如实填报相关信息进行网络报名。",
+        "da": "登录“湖南政务服务网”，找到高效办成一件事专区，点击“入学”，按提示流程如实填报相关信息进行网络报名。",
+        "problem": "城区义务教育学校招生在哪里报名？",
+        "pxh": 2.0,
+        "wt": "城区义务教育学校招生在哪里报名？",
+        "yjsMlSsqdQuestionId": "4CA312EBD15C418DB99987D5D466BB97",
+        "yjsSsqdId": "BF440A750882480B97D776B2FCB9CCBD"
+      }
+    ],
+    "sxmc": "教育入学一件事",
+    "yjsSsqdbm": "43PCN0010225J1227",
+    "basicInfo": {
+      "aheadFrequency": "0",
+      "areaName": "新晃县",
+      "completedLimit": "30",
+      "cooperateName": "教育部门,公安部门,人社部门,自规部门",
+      "isCharge": "0",
+      "isIntermediary": "0",
+      "isLogistics": "0",
+      "jdtsdh": "07456222231",
+      "lbjgId": "05,09,14,15",
+      "qtbmId": "81c176accc244f7f9f42d0d3f9e5355f",
+      "qtbmmc": "新晃县教育局",
+      "reasonLink": "无",
+      "yjsssqdbsznid": "63168CA453154FAF80DFF5D3070ECE2D",
+      "zxdh": "07456222231"
+    }
+  },
+  "error": false,
+  "msg": "查询办事指南信息成功",
+  "success": true
+}

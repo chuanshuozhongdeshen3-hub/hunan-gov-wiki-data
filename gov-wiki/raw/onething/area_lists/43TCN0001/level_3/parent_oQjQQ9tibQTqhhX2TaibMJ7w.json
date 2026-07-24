@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "approveId": "1",
+      "areaCode": "430472999000",
+      "benji": "1",
+      "orgId": "gfUE3ZWIRrOca31xYCVpzQ",
+      "orgLevel": "3",
+      "orgName": "衡阳高新技术产业开发区本级",
+      "orgShowName": "衡阳市高新技术产业园区本级",
+      "orgSn": "999",
+      "parentCode": "430472000000",
+      "parentId": "oQjQQ9tibQTqhhX2TaibMJ7w",
+      "parentName": "衡阳高新技术产业开发区",
+      "subIndex": 0
+    }
+  ],
+  "error": false,
+  "msg": "查询结果成功",
+  "success": true
+}
